@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\about",
     "\\assets",
     "\\assets\\css",
     "\\attend",
     "\\attend\\code-of-conduct",
+    "\\attend\\why-attend",
     "\\committees",
     "\\committees\\conference-committee",
     "\\past-conferences",
     "\\_layouts"
   ],
-  "SelectedNode": "\\committees\\conference-committee\\index.md",
+  "SelectedNode": "\\attend\\why-attend\\index.md",
   "PreviewInSolutionExplorer": false
 }
