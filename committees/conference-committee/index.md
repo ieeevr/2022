@@ -11,7 +11,7 @@ title: "Conference Committee"
 
     <h2> Journal Paper Chairs </h2>
     <ul>
-        <!--<li> Anthony Steed &#x2012; <i> University College London, United Kingdom </i>--></li>
+        <!--<li> Anthony Steed &#x2012; <i> University College London, United Kingdom </i></li>-->
         <li style="list-style: none"> journalpapers2022 [at] ieeevr.org </li>
     </ul>
 

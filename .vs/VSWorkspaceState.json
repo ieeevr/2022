@@ -6,9 +6,11 @@
     "\\assets\\css",
     "\\attend",
     "\\attend\\code-of-conduct",
+    "\\committees",
+    "\\committees\\conference-committee",
     "\\past-conferences",
     "\\_layouts"
   ],
-  "SelectedNode": "\\_layouts\\ieeevr-default.html",
+  "SelectedNode": "\\committees\\conference-committee\\index.md",
   "PreviewInSolutionExplorer": false
 }
