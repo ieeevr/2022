@@ -6,7 +6,7 @@ title: "About"
 
 <div>
     <h1> About the IEEE VR Conference </h1>
-    <p>
+    <p><align="justify">
         The IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR) is the premier international event for the presentation of research results in the broad areas of virtual, 
         augmented, and mixed reality (VR/AR/XR). Since 1993, IEEE VR has presented groundbreaking research and accomplishments by virtual reality pioneers: scientists, engineers, designers, 
         and artists, paving the way for the future. Soon, IEEE VR expanded its scope to also include augmented, mixed, and other forms of mediated reality. Similarly, the IEEE Symposium
