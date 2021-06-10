@@ -10,6 +10,16 @@ title: "Past Conferences"
 
 <div>
     <p>
+        <strong style="color:black">IEEE Virtual Reality 2021 <i>(Lisbon, Portugal)</i></strong>
+        <br>
+        <a href="https://ieeevr.org/2021" class="btn btn--secundary">Website</a>
+        &nbsp;
+        <a href="https://ieeexplore.ieee.org/xpl/conhome/9417603/proceeding" class="btn btn--secundary">Proceedings</a>
+    </p>
+</div>
+<hr>
+<div>
+    <p>
         <strong style="color:black">IEEE Virtual Reality 2020 <i>(Atlanta, GA, USA)</i></strong>
         <br>
         <a href="https://ieeevr.org/2020" class="btn btn--secundary">Website</a>
