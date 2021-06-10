@@ -6,7 +6,7 @@ title: "About"
 
 <div>
     <h1> About the IEEE VR Conference </h1>
-    <p><align="justify">
+    <p align="justify">
         The IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR) is the premier international event for the presentation of research results in the broad areas of virtual, 
         augmented, and mixed reality (VR/AR/XR). Since 1993, IEEE VR has presented groundbreaking research and accomplishments by virtual reality pioneers: scientists, engineers, designers, 
         and artists, paving the way for the future. Soon, IEEE VR expanded its scope to also include augmented, mixed, and other forms of mediated reality. Similarly, the IEEE Symposium
@@ -17,7 +17,7 @@ title: "About"
     <br/>
     <center>
         <p style="font-size: 20px;">
-            <a href="/2021/attend/code-of-conduct/" class="btn btn--primary" style="">IEEE VR 2021 Code of Conduct</a>
+            <a href="/ieeevrtemp/attend/code-of-conduct/" class="btn btn--primary" style="background-color: #fec10d">IEEE VR 2022 Code of Conduct</a>
         </p>
     </center>
 </div>

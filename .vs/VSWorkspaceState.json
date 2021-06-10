@@ -2,9 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\about",
-    "\\assets\\images",
-    "\\committees",
-    "\\committees\\conference-committee",
+    "\\assets",
+    "\\assets\\css",
+    "\\attend",
+    "\\attend\\code-of-conduct",
+    "\\past-conferences",
     "\\_layouts"
   ],
   "SelectedNode": "\\about\\index.md",

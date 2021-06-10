@@ -8,6 +8,11 @@
 //dark blue:  #00204b
 //warning red: #841525
 
+// The colours in the 2022 color scheme
+$theme-yellow: #fec10d
+$theme-teal: #009cb4
+$theme-navy: #103b62
+
 $link-color: #00aeef !default;
 $primary-color: #00aeef !default;
 $warning-color: #841525 !default;
@@ -25,7 +30,7 @@ $warning-color: #841525 !default;
   font-size: 18px;
   border: none;
   outline: none;
-  background-color: #00aeef;
+  background-color: $theme-yellow;
   color: white;
   cursor: pointer;
   padding: 15px;
@@ -35,12 +40,12 @@ $warning-color: #841525 !default;
 
 @media(hover: hover) and (pointer: fine){
     #myBtnTop:hover {
-    background-color: #00204b;
+    background-color: $theme-navy;
     }
 }
 
 b, strong {
-    color: #00aeef;
+    color: $theme-yellow;
 }
 
 
@@ -52,12 +57,12 @@ b, strong {
 
 ::-moz-selection { /* Code for Firefox */
   color: white;
-  background: #00aeef;
+  background: $theme-yellow;
 }
 
 ::selection {
   color: white;
-  background: #00aeef;
+  background: $theme-yellow;
 }
 
 
