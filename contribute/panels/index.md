@@ -1,6 +1,8 @@
 ---
 layout: ieeevr-default
 title: "Panels"
+subtitle: "IEEE VR 2022"
+title_separator: "|"
 ---
 
 <div>

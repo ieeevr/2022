@@ -1,6 +1,8 @@
 ---
 layout: ieeevr-default
 title: "Program Committee"
+subtitle: "IEEE VR 2022"
+title_separator: "|"
 ---
 
 <div>

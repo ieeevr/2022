@@ -1,6 +1,8 @@
 ---
 layout: ieeevr-default
 title: "Past Conferences"
+subtitle: "IEEE VR 2022"
+title_separator: "|"
 ---
 
 <div>

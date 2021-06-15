@@ -1,6 +1,8 @@
 ---
 layout: ieeevr-default
 title: "Video Guidelines"
+subtitle: "IEEE VR 2022"
+title_separator: "|"
 ---
 
 <div>

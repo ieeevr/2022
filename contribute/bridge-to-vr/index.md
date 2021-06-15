@@ -1,6 +1,8 @@
 ---
 layout: ieeevr-default
 title: "Bridge to VR CFP"
+subtitle: "IEEE VR 2022"
+title_separator: "|"
 ---
 
 <div>

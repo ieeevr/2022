@@ -1,6 +1,8 @@
 ---
 layout: ieeevr-default
 title: "Presentation Guidelines"
+subtitle: "IEEE VR 2022"
+title_separator: "|"
 ---
 
 <div>

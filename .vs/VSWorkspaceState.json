@@ -2,14 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\css",
+    "\\assets\\images",
     "\\attend",
+    "\\attend\\accessibility-faq",
     "\\attend\\code-of-conduct",
+    "\\attend\\registration",
     "\\attend\\why-attend",
-    "\\committees",
-    "\\committees\\conference-committee",
-    "\\past-conferences"
+    "\\contribute",
+    "\\_layouts"
   ],
-  "SelectedNode": "\\committees\\conference-committee\\index.md",
   "PreviewInSolutionExplorer": false
 }

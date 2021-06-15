@@ -1,6 +1,8 @@
 ---
 layout: ieeevr-default
 title: "Call for Exhibitors and Sponsors"
+subtitle: "IEEE VR 2022"
+title_separator: "|"
 ---
 
 <style>

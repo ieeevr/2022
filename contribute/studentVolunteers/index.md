@@ -1,6 +1,8 @@
 ---
 layout: ieeevr-default
 title: "Student Volunteers"
+subtitle: "IEEE VR 2022"
+title_separator: "|"
 ---
 
 <div>

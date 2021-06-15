@@ -1,6 +1,8 @@
 ---
 layout: ieeevr-default
 title: "Research Demos"
+subtitle: "IEEE VR 2022"
+title_separator: "|"
 ---
 
 <div>
