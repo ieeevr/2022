@@ -2,15 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\about",
-    "\\attend\\accessibility-faq",
-    "\\attend\\code-of-conduct",
-    "\\attend\\registration",
-    "\\attend\\why-attend",
     "\\committees",
     "\\committees\\conference-committee",
     "\\contribute",
-    "\\docs"
+    "\\docs",
+    "\\_layouts"
   ],
-  "SelectedNode": "\\contribute\\index.md",
+  "SelectedNode": "\\_layouts\\ieeevr-default.html",
   "PreviewInSolutionExplorer": false
 }
