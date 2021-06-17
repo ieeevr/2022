@@ -122,6 +122,7 @@ title: "Conference Committee"
 		<ul>							
 			<li>	Mauricio	Sousa	&#x2012; <i>	University of Toronto	</i></li>	
 			<li>	Jacob	Young	&#x2012; <i>	Victoria University of Wellington, New Zealand	</i></li>	
+			<li>	Nadia	Pantidi	&#x2012; <i>	Victoria University of Wellington, New Zealand	</i></li>	
 			<li style="list-style: none">	web2022	[at] ieeevr.org			</li>	
 		</ul>							
 									
