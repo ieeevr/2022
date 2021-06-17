@@ -1,15 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
-    "\\assets\\images",
-    "\\attend",
+    "\\about",
     "\\attend\\accessibility-faq",
     "\\attend\\code-of-conduct",
     "\\attend\\registration",
     "\\attend\\why-attend",
-    "\\contribute"
+    "\\committees",
+    "\\committees\\conference-committee",
+    "\\contribute",
+    "\\docs"
   ],
-  "SelectedNode": "\\assets\\images\\IEEE VR Logo Favicon.ico",
+  "SelectedNode": "\\contribute\\index.md",
   "PreviewInSolutionExplorer": false
 }
