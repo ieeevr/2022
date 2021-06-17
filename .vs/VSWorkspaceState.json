@@ -2,12 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\about",
+    "\\attend",
+    "\\attend\\code-of-conduct",
+    "\\attend\\why-attend",
     "\\committees",
     "\\committees\\conference-committee",
     "\\contribute",
-    "\\docs",
-    "\\_layouts"
+    "\\docs"
   ],
-  "SelectedNode": "\\_layouts\\ieeevr-default.html",
+  "SelectedNode": "\\attend\\code-of-conduct\\index.md",
   "PreviewInSolutionExplorer": false
 }
