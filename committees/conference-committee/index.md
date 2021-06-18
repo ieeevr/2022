@@ -16,7 +16,7 @@ title: "Conference Committee"
 		<ul>							
 			<li>	Luciana	Nedel	&#x2012; <i>	Federal University of Rio Grande do Sul - UFRGS, Brazil	</i></li>	
 			<li>	Ferran	Argelaguet	&#x2012; <i>	Inria Rennes, France	</i></li>	
-			<li>	Lily	Wang	&#x2012; <i>	Beihang University, China	</i></li>	
+			<li>	Lili	Wang	&#x2012; <i>	Beihang University, China	</i></li>	
 			<li>	Jeanine	Stefannuci	&#x2012; <i>	University of Utah, USA	</i></li>	
 			<li>	Daisuke	Iwai	&#x2012; <i>	Osaka University, Japan	</i></li>	
 			<li style="list-style: none">	journalpapers2022	[at] ieeevr.org			</li>	
@@ -31,7 +31,7 @@ title: "Conference Committee"
 			<li>	Martin	Hachet	&#x2012; <i>	Inria Bordeaux, France	</i></li>	
 			<li>	Amela	Sadagic	&#x2012; <i>	Naval Postgraduate School, USA	</i></li>	
 			<li>	Rick	Skarbez	&#x2012; <i>	La Trobe University, Australia	</i></li>	
-			<li>	Maki	Sugimoto	&#x2012; <i>		</i></li>	
+			<li>	Maki	Sugimoto	&#x2012; <i>	Keio University, Japan	</i></li>	
 			<li>	Benni	Weyers	&#x2012; <i>	University of Trier, Germany	</i></li>	
 			<li style="list-style: none">	conferencepapers2022	[at] ieeevr.org			</li>	
 		</ul>							
@@ -44,15 +44,15 @@ title: "Conference Committee"
 	<h2>	3DUI Contest Chairs	</h2>						
 		<ul>							
 			<li>	Thammathip	Piumsomboon	&#x2012; <i>	University of Canterbury, New Zealand	</i></li>	
-			<li>	Daniel	Roth	&#x2012; <i>		</i></li>	
-			<li>	Luciano P	Soares	&#x2012; <i>	Insper, Brazil	</i></li>	
+			<li>	Daniel	Roth	&#x2012; <i>	Friedrich-Alexander University Erlangen-Nürnberg, Germany	</i></li>	
+			<li>	Luciano	Soares	&#x2012; <i>	Insper, Brazil	</i></li>	
 			<li style="list-style: none">	contest2022	[at] ieeevr.org			</li>	
 		</ul>							
 									
 	<h2>	Doctoral Consortium Chairs	</h2>						
 		<ul>							
 			<li>	Jens	Grubert	&#x2012; <i>	Coburg University of Applied Sciences and Arts, Germany	</i></li>	
-			<li>	Aleshia	Hayes	&#x2012; <i>		</i></li>	
+			<li>	Aleshia	Hayes	&#x2012; <i>	University of North Texas, USA	</i></li>	
 			<li>	Rajiv	Khadka	&#x2012; <i>	Idaho National Laboratory, USA	</i></li>	
 			<li>	Jonathan	Ventura	&#x2012; <i>	California Polytechnic State University, USA	</i></li>	
 			<li style="list-style: none">	doctoralconsortium2022	[at] ieeevr.org			</li>	
@@ -60,7 +60,7 @@ title: "Conference Committee"
 									
 	<h2>	Exhibits and Sponsors Chairs	</h2>						
 		<ul>							
-			<li>	Mark	Billinghurst	&#x2012; <i>		</i></li>	
+			<li>	Mark	Billinghurst	&#x2012; <i>	University of South Australia, Australia	</i></li>	
 			<li>	Stefanie	Zollmann	&#x2012; <i>	University of Otago, New Zealand	</i></li>	
 			<li style="list-style: none">	sponsorship2022	[at] ieeevr.org			</li>	
 		</ul>							
@@ -128,8 +128,8 @@ title: "Conference Committee"
 									
 	<h2>	Workshops Chairs	</h2>						
 		<ul>							
-			<li>	Mashhudda	Glencross	&#x2012; <i>		</i></li>	
-			<li>	Craig	Yu	&#x2012; <i>		</i></li>	
+			<li>	Mashhudda	Glencross	&#x2012; <i>	University of Queensland, Australia	</i></li>	
+			<li>	Lap-Fai (Craig)	Yu	&#x2012; <i>	George Mason University, USA	</i></li>	
 			<li style="list-style: none">	workshops2022	[at] ieeevr.org			</li>	
 		</ul>							
 									
@@ -141,7 +141,7 @@ title: "Conference Committee"
 	<h2>	Diversity, Accessibility, and Inclusion Chairs	</h2>						
 		<ul>							
 			<li>	Stephanie	Carnell	&#x2012; <i>	University of Central Florida, USA	</i></li>	
-			<li>	Tonja	Machulla	&#x2012; <i>		</i></li>	
+			<li>	Tonja	Machulla	&#x2012; <i>	LMU München, Germany	</i></li>	
 			<li>	Catarina	Moreira	&#x2012; <i>	Queensland University of Technology, Austria	</i></li>	
 			<li style="list-style: none">	diversity2022	[at] ieeevr.org			</li>	
 		</ul>							

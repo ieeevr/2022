@@ -51,9 +51,9 @@ title: "Call for Journal Papers"
 </p>
 
 <p>
-    Each paper should include an evaluation of its contributions, such as user studies, benchmarking and/or comparison with existing systems/techniques/methods. We appreciate that due to the COVID-19 situation, 
+    Each paper should include an evaluation of its contributions such as user studies, benchmarking, and/or comparisons with existing systems/techniques/methods. We appreciate that due to the COVID-19 situation, 
     in-person user studies may not be possible to perform in the necessary timescale for submission. We encourage authors to think about other ways to validate their contribution, such as qualitative studies 
-    with fewer users, expert review, online studies, etc. We encourage potential authors to engage the ongoing community discussions around these topics as they are common to many of us.
+    with fewer users, expert reviews, online studies, etc. We encourage potential authors to engage the ongoing community discussions around these topics as they are common to many of us.
 </p>
 <p>
     <b>Further Details Regarding Submissions.</b> We welcome paper submissions not exceeding 9 pages, excluding references. References may not exceed two additional pages. Continuing our 
@@ -72,8 +72,8 @@ title: "Call for Journal Papers"
     and authors are required to secure and report their approval by the relevant ethics committee. An approval by any ethical review board, if required by your affiliation, needs to be indicated via the submission system. 
 </p>
 <p>
-    <b>Conference Presentation.</b> All accepted papers must be orally presented at the conference. We are actively monitoring the COVID-19 situation to determine if the in-person IEEE VR experiences will be safe 
-    as well as feasible due to international travel rules. We expect that travel restrictions willwould enable all authors to join us at the conference. In case that the sanitary situation does not allow it, we 
+    <b>Conference Presentation.</b> All accepted papers must be orally presented at the conference. We are actively monitoring the COVID-19 situation to determine if the in-person IEEE VR experience will be safe 
+    as well as feasible due to international travel rules. We expect that travel restrictions will enable all authors to join us at the conference. In the case that the sanitary situation does not allow it, we 
     will support authors to present their work remotely. There is also the possibility for authors of relevant previously published TVCG papers (accepted within the last year) to present their work at IEEE VR 
     2022. Interested authors should contact the program chairs for more details.
 </p>
@@ -151,7 +151,7 @@ IEEE VR 2022 seeks contributions in VR/AR/MR and 3DUI including, but not limited
     <b>IEEE VR uses a DOUBLE-BLIND review process.</b> This means that both the authors and the reviewers must remain anonymous to each other. 
     Submissions (<b>including citations and optional videos</b>) must not contain information that identifies the authors, their institutions, funding 
     sources, or their places of work. Relevant previous work by the authors must be cited in the third person to preserve anonymity. Authors 
-    should work diligently to ensure that their submissions do not expose their identities either through carelessness or intentionally.
+    should work diligently to ensure that their submissions do not expose their identities either intentionally or through carelessness.
     Authors that have questions/issues around the double-blind submission policy should contact the program chairs.
 </p>
 <p>
@@ -211,7 +211,7 @@ IEEE VR 2022 seeks contributions in VR/AR/MR and 3DUI including, but not limited
         <li>Jeanine Stefanucci (TVCG liason), University of Utah, USA</li>
         <li>Ferran Argelaguet, Inria Rennes, France</li>
         <li>Daisuke Iwai, Osaka University, Japan</li>
-        <li>Lily Wang, Beihang University, China</li>
+        <li>Lili Wang, Beihang University, China</li>
     </ul>
     journalpapers2022 [at] ieeevr.org
 </p>
