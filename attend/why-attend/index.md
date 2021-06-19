@@ -440,28 +440,36 @@ title_separator: "|"
 
     <div class="gallery">
 		<article class="from-left">
-			<a href="images/fulls/01.jpg" class="image fit"><img src="images/thumbs/01.jpg" title="Tunnel beach at the outskirts of Dunedin, Otago" alt="" /></a>
+			<a href="assets/images/fulls/01.jpg" class="image fit"><img src="images/thumbs/01.jpg" title="Tunnel beach at the outskirts of Dunedin, Otago" 
+			alt="Tunnel beach at the outskirts of Dunedin, Otago" /></a>
 		</article>
 		<article class="from-right">
-			<a href="images/fulls/02.jpg" class="image fit"><img src="images/thumbs/02.jpg" title="Human-Computer Interaction Group at the University of Otago, Dunedin" alt="" /></a>
+			<a href="assets/images/fulls/02.jpg" class="image fit"><img src="images/thumbs/02.jpg" title="Human-Computer Interaction Group at the University of Otago, Dunedin" 
+			alt="Human-Computer Interaction Group at the University of Otago, Dunedin. A woman is repairing a car in virtual reality." /></a>
 		</article>
 		<article class="from-left">
-			<a href="images/fulls/03.jpg" class="image fit"><img src="images/thumbs/03.jpg" title="The southern alps in Canterbury" alt="" /></a>
+			<a href="assets/images/fulls/03.jpg" class="image fit"><img src="images/thumbs/03.jpg" title="The southern alps in Canterbury" 
+			alt="The southern alps in Canterbury. A road is surrounded by fields and mountains." /></a>
 		</article>
 		<article class="from-right">
-			<a href="images/fulls/04.jpg" class="image fit"><img src="images/thumbs/04.jpg" title="The HITLabNZ at the University of Canterbury, Christchurch" alt="" /></a>
+			<a href="assets/images/fulls/04.jpg" class="image fit"><img src="images/thumbs/04.jpg" title="The HITLabNZ at the University of Canterbury, Christchurch" 
+			alt="The HITLabNZ at the University of Canterbury, Christchurch. Two people are operating a virtual flight simulator." /></a>
 		</article>
 		<article class="from-left">
-			<a href="images/fulls/05.jpg" class="image fit"><img src="images/thumbs/05.jpg" title="Sunset over Wellington" alt="" /></a>
+			<a href="assets/images/fulls/05.jpg" class="image fit"><img src="images/thumbs/05.jpg" title="Sunset over Wellington" 
+			alt="Sunset over Wellington. A wide view over the harbour and city centre." /></a>
 		</article>
 		<article class="from-right">
-			<a href="images/fulls/06.jpg" class="image fit"><img src="images/thumbs/06.jpg" title="The Computational Media Innovation Centre (CMIC) at Victoria University of Wellington" alt="" /></a>
+			<a href="assets/images/fulls/06.jpg" class="image fit"><img src="images/thumbs/06.jpg" title="The Computational Media Innovation Centre (CMIC) at Victoria University of Wellington" 
+			alt="The Computational Media Innovation Centre in Wellington. A woman is using virtual reality in front of a large screen displaying virtual fish." /></a>
 		</article>
 		<article class="from-left">
-			<a href="images/fulls/07.jpg" class="image fit"><img src="images/thumbs/07.jpg" title="The skyline of Auckland CBD" alt="" /></a>
+			<a href="assets/images/fulls/07.jpg" class="image fit"><img src="images/thumbs/07.jpg" title="The skyline of Auckland's CBD" 
+			alt="The skyline of Auckland's CBD." /></a>
 		</article>
 		<article class="from-right">
-			<a href="images/fulls/08.jpg" class="image fit"><img src="images/thumbs/08.jpg" title="The Empathic Computing laboratory at the University of Auckland" alt="" /></a>
+			<a href="assets/images/fulls/08.jpg" class="image fit"><img src="images/thumbs/08.jpg" title="The Empathic Computing laboratory at the University of Auckland"
+			alt="The Empathic Computing laboratory at the University of Auckland. Two people wearing augmented reality headsets are manipulating virtual characters on a tabletop." /></a>
 		</article>
 	</div>
 </div>
