@@ -5,7 +5,7 @@ subtitle: "IEEE VR 2022"
 title_separator: "|"
 ---
 
-<style>
+<!--<style>
 .gallery {
 		display: -moz-flex;
 		display: -webkit-flex;
@@ -411,7 +411,7 @@ title_separator: "|"
 			}
 
 	}
-</style>
+</style>-->
 
 <div>
     <h1>Why attend IEEE VR 2022?</h1>
@@ -434,11 +434,11 @@ title_separator: "|"
     <p>
         To make the most of attending IEEE VR 2022 in New Zealand, we have also created a series of pre- and post-conference events. 
         These will give attendees the chance to see some of New Zealand's well-known research laboratories working on VR/AR/MR 
-        while also experiencing the main attractions New Zealand has to offer. We will release more information at a later point, 
-        but for now these photos will speak for themselves.
+        while also experiencing the main attractions New Zealand has to offer. We will release more information at a later date.<!--, 
+        but for now these photos will speak for themselves.-->
     </p>
 
-    <div class="gallery">
+    <!--<div class="gallery">
 		<article class="from-left">
 			<a href="assets/images/fulls/01.jpg" class="image fit"><img src="images/thumbs/01.jpg" title="Tunnel beach at the outskirts of Dunedin, Otago" 
 			alt="Tunnel beach at the outskirts of Dunedin, Otago" /></a>
@@ -471,5 +471,5 @@ title_separator: "|"
 			<a href="assets/images/fulls/08.jpg" class="image fit"><img src="images/thumbs/08.jpg" title="The Empathic Computing laboratory at the University of Auckland"
 			alt="The Empathic Computing laboratory at the University of Auckland. Two people wearing augmented reality headsets are manipulating virtual characters on a tabletop." /></a>
 		</article>
-	</div>
+	</div>-->
 </div>

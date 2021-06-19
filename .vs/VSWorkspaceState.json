@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\about",
     "\\assets",
     "\\assets\\images",
+    "\\attend",
     "\\attend\\code-of-conduct",
     "\\attend\\why-attend",
     "\\committees",
@@ -11,6 +11,6 @@
     "\\contribute",
     "\\docs"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\attend\\why-attend\\index.md",
   "PreviewInSolutionExplorer": false
 }
