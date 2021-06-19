@@ -22,4 +22,11 @@ title_separator: "|"
             <a href="/ieeevrtemp/attend/code-of-conduct/" class="btn btn--primary" style="background-color: #fec10d">IEEE VR 2022 Code of Conduct</a>
         </p>
     </center>
+
+    <h1> About Christchurch, New Zealand </h1>
+    <p>
+        Christchurch is the city of exploration, a refreshing urban centre full of new secrets to discover. The city has been through 
+        some massive changes in the past few years, and the time has come to explore it all. Christchurch has a vibrant art and 
+        technology scene while also serving as a gateway to New Zealand's South Island with all its natural wonders and attractions.
+    </p>
 </div>
