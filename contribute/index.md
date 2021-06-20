@@ -31,7 +31,7 @@ title: "Call for Journal Papers"
 </p>
 
 <h2 id="submission-guidelines">Submission Guidelines</h2>
-<p>
+<p align="left">
     Paper abstracts and complete papers must be submitted electronically through PCS: <a href="https://new.precisionconference.com/~vr">https://new.precisionconference.com/~vr</a>
 </p>
 <p>
