@@ -6,6 +6,10 @@ title_separator: "|"
 ---
 
 <div>
+    <p>
+        More information coming soon, please watch this space.
+    </p>
+    <!--
     <h1 id="cfp-3dui-contest"> IEEE Virtual Reality 2021 3DUI Contest <br /> Call for Participation </h1>
 
     <p>
@@ -126,7 +130,7 @@ Call updates will be posted on the contest page of <a href="http://ieeevr.org/20
         <li>Luciano Soares, Insper, Brazil</li>
     </ul>
 </p>
-
+-->
 
 
 </div>

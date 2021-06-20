@@ -1,0 +1,279 @@
+I"�/<style>
+    .styled-table {
+        border-collapse: collapse;
+        margin: 25px 0;
+        font-size: 0.8em;
+        font-family: sans-serif;
+        /*min-width: 400px;*/
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+        display: table;
+    }
+
+    .styled-table thead tr {
+        background-color: #00aeef;
+        color: #ffffff;
+        text-align: left;
+    }
+
+    .styled-table th,
+    .styled-table td {
+        padding: 12px 15px;
+        font-size: 0.9em;
+    }
+
+    .styled-table tbody tr {
+        border-bottom: 1px solid #dddddd;
+    }
+
+    .styled-table tbody tr:nth-of-type(even) {
+        background-color: #f3f3f3;
+    }
+
+    .styled-table tbody tr:last-of-type {
+        border-bottom: 2px solid #00aeef;
+    }
+
+    .styled-table tbody tr.active-row {
+        font-weight: bold;
+        color: #00aeef;
+    }
+
+</style>
+
+<h1>Doctoral Consortium</h1>
+<div>
+    <p>
+        Here is the proposed schedule with mentor assignments. All of this time is Lisbon time (GMT+0). All presenters and mentors are encouraged to attend as much of the doctoral consortium as possible, however we understand that our different time zones may make attendance difficult at particular times. All talks will be recorded and available for later viewing. If a student and/or mentor are not available to meet during the scheduled mentoring sessions, they should set up a time to meet later that is convenient for them both.
+    </p>
+    <p>
+        Mentors listed first next to a student will meet during the Mentor Group 1 Breakout session, and mentors listed second will meet with that student during the Mentor Group 2 Breakout session.
+    </p>
+</div>
+
+<div>
+
+<div>
+    <table class="styled-table" style="font-size: 0.8em; ">
+        <tr>
+            <th>Schedule</th>
+            <th></th>
+        </tr>
+        <tr>
+            <td><span style="color: #00aeef;">10:00 - 10:15 am</span></td>
+            <td>
+                Welcome + Ice Breaker
+            </td>
+        </tr>
+        <tr>
+            <td><span style="color: #00aeef;">10:15 - 11:45 am</span></td>
+            <td>
+                <strong>Presentations 1 - 6 (8 min talk + 4 min questions)</strong><br />
+                Daniel Eckhoff - Dr. Gruchalla &amp; Dr. Billinghurst<br />
+                Nermin Shaltout - Dr. Billinghurst and Dr. Quarles<br />
+                Shimmila Bhowmick - Dr. Froehlich and Dr. Correia<br />
+                Zhiming Hu - Dr. Robb and Dr. Potter<br />
+                Hannah Greber - Dr. Skarbez and Dr. Khadka<br />
+                Dilshani Kumarapeli - Dr. Stevenson Won and Dr. Skarbez<br />
+            </td>
+        </tr>
+        <tr>
+            <td><span style="color: #00aeef;">11:45 - 12:00 pm</span></td>
+            <td>
+                Break
+            </td>
+        </tr>
+        <tr>
+            <td><span style="color: #00aeef;">12:00 - 1:30 pm</span></td>
+            <td>
+                <strong>Presentations 7 - 12 (8 min talk + 4 min questions)</strong><br />
+                Julia Belger - Dr. Stevenson Won and Dr. Suma Rosenberg<br />
+                Niklas Stein - Dr. Johnsen and Dr. Steed<br />
+                Alina Nikolaou - Dr. Potter and Dr. Johnsen<br />
+                Florian Mathis - Dr. Holz and Dr. Santos<br />
+                Eugene Kukshinov - Dr. Cutchin and Dr. Holz<br />
+                Nuno Cid Martins - Dr. Feiner and Dr. Khadka*
+            </td>
+        </tr>
+        <tr>
+            <td><span style="color: #00aeef;">1:30 - 2:15 pm</span></td>
+            <td>
+                Break
+            </td>
+        </tr>
+        <tr>
+            <td><span style="color: #00aeef;">2:15 - 4:15 pm</span></td>
+            <td>
+                <strong>Presentations 13 - 20 (8 min talk + 4 min questions)</strong><br />
+                Iris Willaert - Dr. Quarles and Dr. Gruchalla<br />
+                Valentin Vallageas - Dr. Suma Rosenberg and Dr. Peck<br />
+                Mohammed Safayet Arefin - Dr. Santos and Dr. Inami<br />
+                Feiyu Lu - Dr. Steed and Dr. Feiner<br />
+                Moloud Nasiri - Dr. Correia and Dr. Peck<br />
+                Amanda Zilla - Dr. Bowman and Dr. Cutchin<br />
+                Isayas Adhanom - Dr. Khadka and Dr. Bowman<br />
+                PS Berge - Dr. Inami and Dr. Robb
+            </td>
+        </tr>
+        <tr>
+            <td><span style="color: #00aeef;">4:15 - 5:00 pm</span></td>
+            <td>
+                Mentoring Group 1 Breakout (45 min)
+            </td>
+        </tr>
+        <tr>
+            <td><span style="color: #00aeef;">5:00 - 5:15 pm</span></td>
+            <td>
+                Break
+            </td>
+        </tr>
+        <tr>
+            <td><span style="color: #00aeef;">5:15 - 6:00 pm</span></td>
+            <td>
+                Mentoring Group 2 Breakout (45 min)
+            </td>
+        </tr>
+        <tr>
+            <td><span style="color: #00aeef;">6:00 - 6:05 pm</span></td>
+            <td>
+                Closing
+            </td>
+        </tr>
+    </table>
+</div>
+    
+    
+</div>
+
+<h2>Accepted Students</h2>
+
+<div>
+    <table class="styled-table" style="font-size: 0.8em; ">
+        <tr>
+            <th>Student</th>
+            <th>Title</th>
+            <th>Affiliation</th>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.8em;"><span style="color: #00aeef;">Florian Mathis</span></td>
+            <td>VirSec: Virtual Reality as Cost-Effective Test Bed for Usability and Security Evaluations</td>
+            <td>University of Glasgow, UK and University of Edinburgh, UK</td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.8em;"><span style="color: #00aeef;">Iris Willaert</span></td>
+            <td>The Effect of Modulating The Step Length of an Embodied Self-Avatars on Gait Symmetry During Treadmill Walking</td>
+            <td>Laboratoire de recherche en imagerie et orthopédie , Ecole de technologie superieure, Montreal, Quebec, Canada</td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.8em;"><span style="color: #00aeef;">Niklas Stein</span></td>
+            <td>Analyzing Visual Perception and Predicting Locomotion using Virtual Reality and Eye Tracking</td>
+            <td>Institute of Psychology, University of Muenster, Münster, Germany Otto Creutzfeldt Center for Cognitive and Behavioral Neuroscience, Münster, NRW, Germany</td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.8em;"><span style="color: #00aeef;">Valentin Vallageas</span></td>
+            <td>Embodying an avatar with an asymmetrical lower body to modulate the dynamic characteristics of gait initiation</td>
+            <td>École de technologie supérieure, Imaging and orthopaedics laboratory, CHUM research center, Montréal, Quebec, Canada</td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.8em;"><span style="color: #00aeef;">Amanda Zilla</span></td>
+            <td>The Adaptation of Caribbean Literary Texts into VR</td>
+            <td>Department of Literary, Cultural and Communication Studies, The University of the West Indies, St. Augustine, Trinidad and Tobago</td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.8em;"><span style="color: #00aeef;">Daniel Eckhoff</span></td>
+            <td>Psychophysical Effects of Augmented Reality Experiences</td>
+            <td>School of Creative Media, City University of Hong Kong, Kowloon Tong, Hong Kong</td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.8em;"><span style="color: #00aeef;">P.S. Berge</span></td>
+            <td>“SHOW YOUR DEDICATION:” VR Games and Outmersion</td>
+            <td>Dept. of Texts &amp; Technology, University of Central Florida, Orlando, Florida, United States</td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.8em;"><span style="color: #00aeef;">Feiyu Lu</span></td>
+            <td>Glanceable AR: Towards an Always-on Augmented Reality Future</td>
+            <td>Center for Human-Computer Interaction, Virginia Tech, Blacksburg, Virginia, United States</td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.8em;"><span style="color: #00aeef;">Shimmila Bhowmick</span></td>
+            <td>Exploring Body Gestures for Small Object Selection in Dense Environment in HMD VR for Data Visualization Applications</td>
+            <td>Department of Design, Indian Institute of Technology Guwahati, Guwahati, Assam, India</td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.8em;"><span style="color: #00aeef;">Dilshani Kumarapeli</span></td>
+            <td>Privacy in VR: Empowering Users with Emotional Privacy from Verbal and Non-verbal Behavior of their Avatars.</td>
+            <td>HIT Lab NZ, University of Canterbury, Christchurch, New Zealand</td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.8em;"><span style="color: #00aeef;">Nuno Martins</span></td>
+            <td>Situated augmented reality: beyond the egocentric viewpoint</td>
+            <td>IETA, University of Aveiro, Aveiro, Portugal ISEC, Polytechnic Institute of Coimbra, Coimbra, Portugal</td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.8em;"><span style="color: #00aeef;">Eugene Kukshinov</span></td>
+            <td>Presence in VR: Developing measure and stimulus</td>
+            <td>Media and Communication, Temple University, Philadelphia, Pennsylvania, United States</td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.8em;"><span style="color: #00aeef;">Zhiming Hu</span></td>
+            <td>Eye Fixation Forecasting in Task-Oriented Virtual Reality</td>
+            <td>Peking University, Beijing, China</td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.8em;"><span style="color: #00aeef;">Moloud Nasiri</span></td>
+            <td>Gait Differences in the Real World and Virtual Reality: The Effect of Prior Virtual Reality Experience</td>
+            <td>Clemson University, Clemson, South Carolina, United States</td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.8em;"><span style="color: #00aeef;">Hannah Greber</span></td>
+            <td>Immersive Journalism - The Future of the News?</td>
+            <td>Department of Communication Science, University of Vienna, Vienna, Austria</td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.8em;"><span style="color: #00aeef;">Nermin Shaltout</span></td>
+            <td>Emotion regulation via Eyegaze</td>
+            <td>Information Science, Osaka University, Osaka, Japan</td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.8em;"><span style="color: #00aeef;">Isayas Adhanom</span></td>
+            <td>Towards Universal VR Sickness Mitigation Strategies</td>
+            <td>Computer Science and Engineering, University of Nevada, Reno, Nevada, United States</td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.8em;"><span style="color: #00aeef;">Mohammed Safayet Arefin</span></td>
+            <td>SharpView AR: Enhanced Visual Acuity for Out-of-Focus Virtual Content</td>
+            <td>Computer Science and Engineering, Mississippi State University, Mississippi State, Mississippi, United States</td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.8em;"><span style="color: #00aeef;">Julia Belger</span></td>
+            <td>Clinical Application of Immersive VR in Spatial Cognition: The Assessment of Spatial Memory and Unilateral Spatial Neglect in Neurological Patients</td>
+            <td>Department of Neurology, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany Clinic for Cognitive Neurology, Leipzig, Germany</td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.8em;"><span style="color: #00aeef;">Alina Nikolaou</span></td>
+            <td>Attitude Change in Immersive Virtual Environments</td>
+            <td>Computational Communication Science Lab, University of Vienna, Vienna, Austria</td>
+        </tr>
+        
+    </table>
+</div>
+:ET

@@ -46,6 +46,10 @@ title_separator: "|"
 </style>
 
 <div>
+    <p>
+        More information coming soon, please watch this space.
+    </p>
+    <!--
     <h1 id="call-for-workshop-papers"> Workshops </h1>
     <p>
         The following 14 workshops will be held at IEEE Virtual Reality 2021. The workshops will be held on March 27-28 and April 2-3, 2021
@@ -664,5 +668,5 @@ title_separator: "|"
     <p>
         <strong style="color:black;">Principal Organizer:</strong> Thomas Moser
     </p>
-
+    -->
 </div>

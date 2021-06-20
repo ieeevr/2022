@@ -6,6 +6,10 @@ title_separator: "|"
 ---
 
 <div>
+    <p>
+        More information coming soon, please watch this space.
+    </p>
+    <!--
     <h1 id="cfp-panels"> Call for Panels </h1>
     
     <p>
@@ -60,7 +64,7 @@ title_separator: "|"
         <li>Dinesh Manocha ‒ University of Maryland, USA</li>
         <li>Mark Billinghurst ‒ University of Adelaide, Australia</li>
         <li>Dirk Reiners ‒ University of Central Florida, USA</li>
-    </ul>
+    </ul>-->
 
 
 

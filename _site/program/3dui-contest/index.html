@@ -1,0 +1,1172 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.19.2 by Michael Rose
+  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+
+
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>3DUI Contest |</title>
+<meta name="description" content=" ">
+
+
+  <meta name="author" content="IEEE VR">
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="">
+<meta property="og:title" content="3DUI Contest">
+<meta property="og:url" content="http://localhost:4000/program/3dui-contest/">
+
+
+  <meta property="og:description" content=" ">
+
+
+
+
+
+  <meta name="twitter:site" content="@ieeevr">
+  <meta name="twitter:title" content="3DUI Contest">
+  <meta name="twitter:description" content=" ">
+  <meta name="twitter:url" content="http://localhost:4000/program/3dui-contest/">
+
+  
+    <meta name="twitter:card" content="summary">
+    
+  
+
+  
+
+
+
+
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="http://localhost:4000/program/3dui-contest/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "IEEE VR 2022",
+      "url": "http://localhost:4000/"
+    
+  }
+</script>
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title=" Feed">
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+
+<!--[if IE]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
+
+
+      <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+      
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+      
+    <!--<script src="jquery.js"></script>-->
+    
+      
+      <!--<link rel="stylesheet" href="styles.css">-->
+      <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+      <!--<script src="script.js"></script>-->
+      
+  </head>
+    
+    
+
+  <body class="layout--ieeevr-default">
+    <nav class="skip-links">
+  <h2 class="screen-reader-text">Skip links</h2>
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    <!-- 
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/assets/images/IEEE%20VR%20Logo%20Favicon.ico" alt=""></a>
+        
+        <a class="site-title" href="/">
+          
+          <span class="site-subtitle">IEEE VR 2022</span>
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/about/">About</a>
+            </li><li class="masthead__menu-item">
+              <a href="/contribute/">Contribute</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+-->
+      
+
+      
+      
+    <div class="initial-content">
+      <style>
+
+    p {
+        text-align: justify;
+        text-justify: auto;
+    }
+
+    .topnav {
+        #position: fixed;
+        #top: 0px;
+        #width: 100%;
+        overflow: hidden;
+        background-color: white;
+        #border-bottom: 1px solid #00aeef;
+    }
+
+    .topnav a {
+        float: left;
+        display: block;
+        color: black;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+    }
+
+    .active {
+        background-color: white;
+        color: black;
+    }
+
+    .topnav .icon {
+        display: none;
+    }
+
+    .dropdown {
+        float: left;
+        overflow: hidden;
+    }
+
+    .dropdown .dropbtn {
+        font-size: 17px;
+        border: none;
+        outline: none;
+        color: black;
+        padding: 16px 16px;
+        background-color: inherit;
+        font-family: inherit;
+        margin: 0;
+    }
+
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #fffbed;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+        z-index: 1;
+    }
+
+    .dropdown-content a {
+        float: none;
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        text-align: left;
+    }
+
+    .topnav a:hover,
+    .dropdown:hover .dropbtn {
+        background-color: #fec10d;
+        color: #103b62;
+    }
+
+    .dropdown:hover .dropdown-content {
+        display: block;
+    }
+
+    .dropdown:checked .dropdown-content {
+        display: block;
+    }
+
+    @media screen and (max-width: 600px) {
+
+        .topnav a:not(:first-child),
+        .dropdown .dropbtn {
+            display: none;
+        }
+
+        .topnav a.icon {
+            float: right;
+            display: block;
+        }
+    }
+
+    @media screen and (max-width: 600px) {
+        .topnav.responsive {
+            position: relative;
+        }
+
+        .topnav.responsive .icon {
+            position: absolute;
+            right: 0;
+            top: 0;
+            height: inherit;
+        }
+
+        .topnav.responsive a {
+            float: none;
+            display: block;
+            text-align: left;
+        }
+
+        .topnav.responsive .dropdown {
+            float: none;
+        }
+
+        .topnav.responsive .dropdown-content {
+            position: relative;
+        }
+
+        .topnav.responsive .dropdown .dropbtn {
+            display: block;
+            width: 100%;
+            text-align: left;
+        }
+    }
+
+    .ieeevrbanner {
+        padding: 0px;
+        border-radius: 7px;
+    }
+
+    .column {
+        float: left;
+        padding: 10px;
+    }
+
+    .left {
+        width: 75%;
+    }
+
+    .center {
+        width: 2%;
+    }
+
+    .right {
+        width: 22%;
+    }
+
+    .row:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+
+    .sponsorsend {
+        display: block;
+    }
+
+    .ieeevrfooter {
+        position: static;
+        padding-top: 10px;
+        bottom: 0;
+        width: 100%;
+        color: black;
+        text-align: center;
+        font-size: 16px;
+    }
+
+    .social-icons {
+        text-align: center;
+    }
+
+    .social-icons li {
+        display: inline-block;
+        list-style-type: none;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+    }
+
+    .social-icons li a {
+        border-bottom: none;
+    }
+
+    .social-icons li img {
+        width: 50px;
+        height: 50px;
+        margin-right: 30px;
+    }
+
+
+
+
+    @media screen and (max-width: 900px) {
+        .left {
+            width: 100%;
+        }
+
+        .center {
+            display: none;
+        }
+
+        .right {
+            width: 100%;
+        }
+
+        .sidebar-header-icon {
+            display: none;
+            padding: 0px 0px;
+        }
+
+        .confsponsors {
+            #display: none;
+        }
+
+        .conf-icon {
+            width: 200px;
+        }
+    }
+
+</style>
+
+
+
+<button onclick="topFunction()" id="myBtnTop" title="Go to top">Top</button>
+
+<script>
+    var mybutton = document.getElementById("myBtnTop");
+
+    window.onscroll = function() {
+        scrollFunction()
+    };
+
+    function scrollFunction() {
+        if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+            mybutton.style.display = "block";
+        } else {
+            mybutton.style.display = "none";
+        }
+    }
+
+    function topFunction() {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+    }
+
+
+    function myFunction() {
+        var x = document.getElementById("myTopnav");
+        if (x.className === "topnav") {
+            x.className += " responsive";
+        } else {
+            x.className = "topnav";
+        }
+    }
+
+</script>
+
+
+
+<div id="main" role="main">
+    <article class="splash" style="margins:0px;" itemscope itemtype="https://schema.org/CreativeWork">
+
+
+
+        <!-- navbar -->
+        <div class="topnav" id="myTopnav">
+            <a href="/ieeevrtemp/" class="active">IEEE VR</a>
+            <a href="/ieeevrtemp/about">About</a>
+            <!-- <a href="#">Online</a>  -->
+
+            <div class="dropdown">
+                <button class="dropbtn">Attend &#9662;</button>
+                <div class="dropdown-content">
+                    <a href="/ieeevrtemp/attend/code-of-conduct/">Code of Conduct</a>
+                    <a href="/ieeevrtemp/attend/why-attend/">Why Attend</a>
+                    <!--<a href="/ieeevrtemp/attend/registration/">Registration</a>
+                    <a href="/ieeevrtemp/attend/diversity-and-inclusion-scholarship/">Diversity and Inclusion Scholarship</a>
+                    <a href="/ieeevrtemp/attend/accessibility-faq/">Accessibility FAQ</a>
+                    <a href="/ieeevrtemp/attend/mentorship-program/">Mentorship Program</a>
+                    <a href="/ieeevrtemp/attend/virbela-instructions/">Virbela Instructions</a>
+                    <a href="http://www.lindeman.com/vr2021/live.shtml" target="_blank">Ready Player 21</a>-->
+                </div>
+            </div>
+            
+            <!--
+            <div class="dropdown">
+                <button class="dropbtn">Program &#9662;</button>
+                <div class="dropdown-content">
+                    <a href="/ieeevrtemp/program/overview/">Overview</a>
+                    <a href="/ieeevrtemp/program/exhibitors/">Exhibitors and Sponsors</a>
+                    <a href="/ieeevrtemp/program/plenary-sessions/">Plenary Sessions</a>
+                    <a href="/ieeevrtemp/program/keynote-speakers/">Keynote Speakers</a>
+                    <a href="/ieeevrtemp/program/papers/">Papers</a>
+                    <a href="/ieeevrtemp/contribute/workshoppapers/">Workshops</a>
+                    <a href="/ieeevrtemp/program/panels/">Panels</a>
+                    <a href="/ieeevrtemp/program/tutorials/">Tutorials</a>
+                    <a href="/ieeevrtemp/program/posters/">Posters</a>
+                    <a href="/ieeevrtemp/program/3dui-contest/">3DUI Contest Entries</a>
+                    <a href="/ieeevrtemp/program/doctoral-consortium/">Doctoral Consortium</a>
+                    <a href="/ieeevrtemp/program/demos/">Demos</a>
+                    <a href="/ieeevrtemp/program/videos/">Videos</a>
+                    <a href="/ieeevrtemp/program/bofs/">Birds of a Feather</a>
+
+                </div>
+            </div>
+            -->
+            
+            <div class="dropdown">
+                <button class="dropbtn">Contribute &#9662;</button>
+                <div class="dropdown-content">
+                    <a href="/ieeevrtemp/contribute/exhibitors">Call for Exhibitors and Sponsors</a>
+                    <a href="/ieeevrtemp/contribute/">Call for Journal Papers</a>
+                    <a href="/ieeevrtemp/contribute/conference-papers/">Call for Conference Papers</a>
+                    <a href="/ieeevrtemp/contribute/demos/">Call for Research Demos</a>
+                    <a href="/ieeevrtemp/contribute/workshoppapers/">Call for Workshop Papers</a>
+                    <a href="/ieeevrtemp/contribute/panels/">Call for Panels</a>
+                    <a href="/ieeevrtemp/contribute/3dui-contest/">Call for 3DUI Contest Entries</a>
+                    <a href="/ieeevrtemp/contribute/doctoral-consortium/">Call for Doctoral Consortium</a>
+                    <a href="/ieeevrtemp/contribute/posters/">Call for Posters</a
+                    <a href="/ieeevrtemp/contribute/workshops/">Call for Workshops</a>
+                    <a href="/ieeevrtemp/contribute/tutorials/">Call for Tutorials</a>
+                    <a href="/ieeevrtemp/contribute/videos/">Call for Videos</a>
+                    <a href="/ieeevrtemp/contribute/studentVolunteers/">Call for Student Volunteers</a>
+            <!--        <a href="/ieeevrtemp/contribute/bridge-to-vr/">Bridge to VR CFP</a>                      -->
+            <!--        <a href="/ieeevrtemp/contribute/presenterInfo">Presenter Guidelines</a>                  -->
+            <!--        <a href="/ieeevrtemp/contribute/videoInstructions/">Video Guidelines</a>                 -->
+
+                </div>
+            </div>
+            
+            <!--
+            <div class="dropdown">
+                <button class="dropbtn">Awards &#9662;</button>
+                <div class="dropdown-content">
+                    <a href="/ieeevrtemp/awards/vgtc">VGTC Awards</a>
+                    <a href="/ieeevrtemp/awards/vgtc-award-winners/">2022 Awards Winners</a>
+                    <a href="/ieeevrtemp/awards/conference-awards/">Conference Awards</a>
+                </div>
+            </div>
+
+            -->
+
+            <div class="dropdown">
+                <button class="dropbtn">Committees &#9662;</button>
+                <div class="dropdown-content">
+                    <a href="/ieeevrtemp/committees/conference-committee/">Conference Committee</a>
+                    <!-- <a href="/ieeevrtemp/committees/steering-committee/">Steering Committee</a> -->
+                    <!-- <a href="/ieeevrtemp/committees/program-committee/">Program Committee</a> -->
+                </div>
+            </div>
+            <a href="/ieeevrtemp/past-conferences/">Past Conferences</a>
+            <a href="javascript:void(0);" style="font-size:16px;" class="icon" onclick="myFunction()">&#9776;</a>
+        </div>
+
+
+        <!-- banner -->
+        <img class="ieeevrbanner" src="../assets/images/IEEE VR 2020 Logo BANNER.jpg" alt="The logo for the IEEE Conference on Virtual Reality + User Interfaces overlaid on an image of Mount Cook and a braided river. The logo contains a kiwi wearing a virtual reality display.">
+
+        <!-- content -->
+        <section class="page__content" itemprop="text">
+            <div class="row">
+
+
+
+                <!-- left sidebar -->
+                <div class="column left" style="">
+
+
+                    <style>
+    .styled-table {
+        border-collapse: collapse;
+        margin: 25px 0;
+        font-size: 0.8em;
+        font-family: sans-serif;
+        /*min-width: 400px;*/
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+        display: table;
+    }
+
+    .styled-table thead tr {
+        background-color: #00aeef;
+        color: #ffffff;
+        text-align: left;
+    }
+
+    .styled-table th,
+    .styled-table td {
+        padding: 12px 15px;
+    }
+
+    .styled-table tbody tr {
+        border-bottom: 1px solid #dddddd;
+    }
+
+    .styled-table tbody tr:nth-of-type(even) {
+        background-color: #f3f3f3;
+    }
+
+    .styled-table tbody tr:last-of-type {
+        border-bottom: 2px solid #00aeef;
+    }
+
+    .styled-table tbody tr.active-row {
+        font-weight: bold;
+        color: #00aeef;
+    }
+
+    input[type='checkbox'] {
+        display: none;
+    }
+
+    .wrap-collabsible {
+        margin: 1rem 0;
+    }
+
+    .lbl-toggle {
+        display: block;
+        font-weight: bold;
+        /* font-family: monospace; */
+        font-size: 1rem;
+        text-align: left;
+        padding: 0.1rem;
+        color: #00aeef;
+        background: #ffffff;
+        cursor: pointer;
+        border-radius: 7px;
+        transition: all 0.25s ease-out;
+    }
+
+    .lbl-toggle:hover {
+        /*color: #FFF;*/
+    }
+
+    .lbl-toggle::before {
+        content: ' ';
+        display: inline-block;
+        border-top: 5px solid transparent;
+        border-bottom: 5px solid transparent;
+        border-left: 5px solid currentColor;
+        vertical-align: middle;
+        margin-right: .7rem;
+        transform: translateY(-2px);
+        transition: transform .2s ease-out;
+    }
+
+    .toggle:checked+.lbl-toggle::before {
+        transform: rotate(90deg) translateX(-3px);
+    }
+
+    .collapsible-content {
+        max-height: 0px;
+        overflow: hidden;
+        transition: max-height .25s ease-in-out;
+    }
+
+    .toggle:checked+.lbl-toggle+.collapsible-content {
+        max-height: 1500px;
+    }
+
+    .toggle:checked+.lbl-toggle {
+        border-bottom-right-radius: 0;
+        border-bottom-left-radius: 0;
+    }
+
+    .collapsible-content .content-inner {
+        background: white;
+        /* rgba(0, 105, 255, .2);*/
+        border-bottom: 1px solid white;
+        border-bottom-left-radius: 7px;
+        border-bottom-right-radius: 7px;
+        padding: .5rem 1rem;
+    }
+
+    .collapsible-content p {
+        margin-bottom: 0;
+    }
+    
+    
+      /* video container */
+    .video-container {
+        overflow: hidden;
+        position: relative;
+        width: 100%;
+    }
+
+    .video-container::after {
+        padding-top: 56.25%;
+        /* 75% if 4:3*/
+        display: block;
+        content: '';
+    }
+
+    .video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+
+    /* Thumbnails box */
+    .box {
+        border-radius: 5px;
+        padding: 20px;
+    }
+
+    .box:nth-child(even) {
+        color: red;
+    }
+
+    .wrapper {
+        display: grid;
+        /* border: 1px solid #000; */
+        grid-gap: 10px;
+        grid-template-columns: repeat(auto-fill, 150px 30%);
+    }
+
+</style>
+
+<h1>3DUI Contest</h1>
+
+<div>
+    <h2>Fast Forward</h2>
+    
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/5BB05YIG7uY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+</div>
+
+<div>
+    <table class="styled-table">
+
+        <tr>
+            <th>3DUI Contest Entries</th>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1008">Dr.SupER</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1009">Rebirth-20 – relive after the COVID-19 and keep preventing against it</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1010">The Pickrick Protests: An Interactive Geo AR Experience</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1013">Enhanced Low-cost Web-based Virtual Tour Experience for Prospective Students</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1014">Homemade XR: Enriching conversations and shortening social distancing</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1016">Virtual Demonstrator for Spatial Presentations</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1017">Remote adversarial VR serious game simulating COVID-19 infection spread and protection protocols</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1018">Supporting Physical and Mental Health Rehabilitation at Home with Virtual Reality Headsets and Force Feedback Gloves</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1019">Corona Beat - Kicking The Sedentary Habit Induced By Prolonged Social Distancing</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1022">Virtual Reality System for Invasive Therapy</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1023">A Multi-Peer, Low Cost Immersive Communication System for Pandemic Times</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1024">Real-time Mixed Reality Teleconsultation for Intensive Care Units in Pandemic Situations</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1026">Fantastic Voyage 2021: Using Interactive VR Storytelling to Explain Targeted COVID-19 Vaccine Delivery to Antigen-presenting Cells</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1027">COVID-Vision: A Virtual Reality Experience to Encourage Mindfulness of Social Distancing in Public Spaces</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1028">VR training for critical tasks - assembling the INSPIRE emergency pulmonary ventilator for COVID-19 treatment</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1030">Augmented Reality Guidance for Configuring an Anesthesia Machine to Serve as a Ventilator for COVID-19 Patients</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1032">COVIZ: Visualization of Effects of COVID-19 on New York City Through Socially Impactful Virtual Reality</a></td>
+        </tr>
+        
+    </table>
+</div>
+
+<div>
+<!-- TAKE ME TO THE EVENT START -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="notice--info">
+        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
+        <p>
+            <strong style="color: black;">Virbela Location:</strong> Expo Hall A (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
+
+            
+            
+            <br />
+            <strong style="color: black;">Discord Channel:</strong> <a href="https://discord.com/channels/785628120471699507/823244428104958033" target="_blank">Open in Browser</a>, <a href="discord://discord.com/channels/785628120471699507/823244428104958033">Open in App</a> (Participants only)
+            
+    
+        </p>
+    </div>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <!-- TAKE ME TO THE EVENT END-->
+</div>
+
+<div class="notice--info">
+    <strong>Best of IEEE VR 2021</strong>
+    <p>
+        Please use this form to vote for the best poster, best demo, and best 3DUI contest submission.
+    </p>
+    <center>
+        <p style="font-size: 20px;">
+            <a href="https://cutt.ly/Mx0n5Zu" class="btn btn--primary" style="color: white;" target="_blank">Vote!</a>
+        </p>
+    </center>
+</div>
+
+<div>
+    
+    <h3 id="PO1008">Dr.SupER</h3>
+    <p><small><strong> Booth C41 - Expo Hall A   </strong></small></p>
+    <p><i>Aspasia Triantafyllou: University of Patras; George Michalakis: University of Patras; Maria Kounalaki: University of Patras; Nikolaos Kotsarinis: University of Patras ; Panagiotis Sakellaropoulos: University of Patras; Konstatninos Moustakas: University of Patras</i></p>
+    <hr />
+    
+    <h3 id="PO1009">Rebirth-20 – relive after the COVID-19 and keep preventing against it</h3>
+    <p><small><strong> Booth C38 - Expo Hall A   </strong></small></p>
+    <p><i>Eloise Minder: Arts et métiers Institute of Technology; Maël Sombret: Ensam; Jean-Rémy Chardonnet: Arts et Métiers, Institut Image; Frederic Merienne: Arts et Metiers</i></p>
+    <hr />
+    
+    <h3 id="PO1010">The Pickrick Protests: An Interactive Geo AR Experience</h3>
+    <p><small><strong> Booth C42 - Expo Hall A   </strong></small></p>
+    <p><i>Yuchen Zhao: Georgia Tech; Daniel Patrick Trad Keehn: Georgia Tech; Amanda Wang: Georgia Tech; Jason Jiang: Georgia Tech; Janet Murray: Georgia Institute of Technology</i></p>
+    <hr />
+    
+    <h3 id="PO1013">Enhanced Low-cost Web-based Virtual Tour Experience for Prospective Students</h3>
+    <p><small><strong> Booth C37 - Expo Hall A   </strong></small></p>
+    <p><i>Maria Insa-Iglesias: Glasgow Caledonian University; Mark David Jenkins: Glasgow Caledonian University; Gordon Morison: Glasgow Caledonian University</i></p>
+    <hr />
+    
+    <h3 id="PO1014">Homemade XR: Enriching conversations and shortening social distancing</h3>
+    <p><small><strong> Booth C43 - Expo Hall A   </strong></small></p>
+    <p><i>Holman Cabezas: Militar Nueva Granada University; Nicolas Casanova: Universidad Militar Nueva Granada; Laura Cortes-Rico: Universidad Militar Nueva Granada; Wilson J. Sarmiento: Universidad Militar Nueva Granada</i></p>
+    <hr />
+    
+    <h3 id="PO1016">Virtual Demonstrator for Spatial Presentations</h3>
+    <p><small><strong> Booth C36 - Expo Hall A   </strong></small></p>
+    <p><i>Maxwell Omdal: University of Minnesota; David A Kinney: University of Minnesota; Kiet Tran: University of Minnesota; Evan Suma Rosenberg: University of Minnesota</i></p>
+    <hr />
+    
+    <h3 id="PO1017">Remote adversarial VR serious game simulating COVID-19 infection spread and protection protocols</h3>
+    <p><small><strong> Booth C44 - Expo Hall A   </strong></small></p>
+    <p><i>Michail Pavlou: University of Patras; Konstantinos Kalatzis: University of Patras; Agapi Chrysanthakopoulou: University of Patras; Dimitrios Laskos: University of Patras; Sotiris Georgakopoulos: University of Patras; Dimitris Voultsidis: University of Patras; Kostantinos Moustakas: University of Patras</i></p>
+    <hr />
+    
+    <h3 id="PO1018">Supporting Physical and Mental Health Rehabilitation at Home with Virtual Reality Headsets and Force Feedback Gloves</h3>
+    <p><small><strong> Booth C35 - Expo Hall A   </strong></small></p>
+    <p><i>Qisong Wang: University of Cambridge; Bo Kang: University of Cambridge; Per Ola Kristensson: University of Cambridge</i></p>
+    <hr />
+    
+    <h3 id="PO1019">Corona Beat - Kicking The Sedentary Habit Induced By Prolonged Social Distancing</h3>
+    <p><small><strong> Booth D41 - Expo Hall A   </strong></small></p>
+    <p><i>Jenny Gabel: University of Hamburg; Sukran Karaosmanoglu: Universität Hamburg; Celeste Mason: University of Hamburg; Sebastian Rings: Universität Hamburg; Frank Steinicke: Universität Hamburg</i></p>
+    <hr />
+    
+    <h3 id="PO1022">Virtual Reality System for Invasive Therapy</h3>
+    <p><small><strong> Booth D38 - Expo Hall A   </strong></small></p>
+    <p><i>Ruoyan Kong: University of Minnesota; Ruobing Wang: University of Minnesota; Zitao Shen: University of Minnesota</i></p>
+    <hr />
+    
+    <h3 id="PO1023">A Multi-Peer, Low Cost Immersive Communication System for Pandemic Times</h3>
+    <p><small><strong> Booth D42 - Expo Hall A   </strong></small></p>
+    <p><i>Redouane Kachach: Bell Labs; Diego González Morín: Nokia; Francisco Pereira: Bell Labs; Pablo Perez: Bell Labs; Ignacio Benito Frontelo: Bell Labs; Jaime Ruiz: Bell Labs; Ester Gonzalez-Sosa: Bell Labs; Alvaro Villegas: Bell Labs</i></p>
+    <hr />
+    
+    <h3 id="PO1024">Real-time Mixed Reality Teleconsultation for Intensive Care Units in Pandemic Situations</h3>
+    <p><small><strong> Booth D37 - Expo Hall A   </strong></small></p>
+    <p><i>Daniel Roth: Computer Aided Medical Procedures and Augmented Reality; Kevin Yu: Technical University of Munich; Frieder Pankratz: LMU; Gleb Gorbachev: Technische Universität München; Andreas Keller: Technische Universitaet Muenchen; Marc Lazarovici: Institut für Notfallmedizin; Prof. Dirk Wilhelm: Research Group MITI; Simon Weidert: LMU Munich ; Nassir Navab: Technische Universität München; Ulrich Eck: Technische Universitaet Muenchen</i></p>
+    <hr />
+    
+    <h3 id="PO1026">Fantastic Voyage 2021: Using Interactive VR Storytelling to Explain Targeted COVID-19 Vaccine Delivery to Antigen-presenting Cells</h3>
+    <p><small><strong> Booth D43 - Expo Hall A   </strong></small></p>
+    <p><i>Lei Zhang: Virginia Tech; Feiyu Lu: Virginia Tech; Ibrahim Asadullah Tahmid: Virginia Tech; Lee Lisle: Virginia Tech; Shakiba Davari: Virginia Tech; Nicolas Gutkowski: Virginia Tech; Luke Schlueter: Virginia Tech; Doug Bowman: Virginia Tech</i></p>
+    <hr />
+    
+    <h3 id="PO1027">COVID-Vision: A Virtual Reality Experience to Encourage Mindfulness of Social Distancing in Public Spaces</h3>
+    <p><small><strong> Booth D36 - Expo Hall A   </strong></small></p>
+    <p><i>Danhua Zhang: University of Minnesota; Malik Khadar: University of Minnesota; Brett W Schumacher: University of Minnesota; Madhava Raveendra: University of Minnesota; Sam Adeniyi: University of Minnesota; Fei Wu: University of Minnesota; Sahar Aseeri: University of Minnesota; Evan Suma Rosenberg: University of Minnesota</i></p>
+    <hr />
+    
+    <h3 id="PO1028">VR training for critical tasks - assembling the INSPIRE emergency pulmonary ventilator for COVID-19 treatment</h3>
+    <p><small><strong> Booth D44 - Expo Hall A   </strong></small></p>
+    <p><i>Andre Montes Rodrigues: USP; Allan Amaral Tori: University of Sao Paulo; Raissa Ré Guimarães Marques: University of Sao Paulo; Roseli de Deus Lopes Lopes: Escola Politécnica da USP; Marcelo Knorich Zuffo: Universidade de São Paulo</i></p>
+    <hr />
+    
+    <h3 id="PO1030">Augmented Reality Guidance for Configuring an Anesthesia Machine to Serve as a Ventilator for COVID-19 Patients</h3>
+    <p><small><strong> Booth D35 - Expo Hall A   </strong></small></p>
+    <p><i>Fangpu He: Columbia University; Mengyi Li: Columbia University; Robert Maniker: Columbia University Irving Medical Center; David Kessler: Columbia University Irving Medical Center; Steven Feiner: Columbia University</i></p>
+    <hr />
+    
+    <h3 id="PO1032">COVIZ: Visualization of Effects of COVID-19 on New York City Through Socially Impactful Virtual Reality</h3>
+    <p><small><strong> Booth E41 - Expo Hall A   </strong></small></p>
+    <p><i>Eric Goetschel: Columbia University; janane sekaran: Columbia University; Weihang Ren: Columbia University; Mingyi He: Columbia School of Social Work; Nnenne U. Ogbonnaya: Columbia University; Kudzaiishe Irene Mapfunde: Harvard University; COURTNEY D COGBURN: Columbia School of Social Work; Steven Feiner: Columbia University</i></p>
+    <hr />
+    
+</div>
+
+
+
+                </div>
+                <div class="column center" style=""></div>
+
+                <!-- Main Content -->
+                <div class="column right" style="text-align: center">
+
+                    <!-- <img class="sidebar-header-icon" src="/assets/images/ieeevr-logo.jpg">-->
+                    <!-- <a class="twitter-timeline" data-height="450" href="https://twitter.com/IEEEVR?ref_src=twsrc%5Etfw">Tweets by IEEEVR</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+                    <div>
+                        <ul class="social-icons">
+                            <li><a href="https://facebook.com/ieeevr"><img src='/ieeevrtemp/assets/images/social/circle-color/Facebook.png' alt="Facebook" /></a></li>
+                            <li><a href="http://www.twitter.com/ieeevr"><img src='/ieeevrtemp/assets/images/social/circle-color/Twitter.png' alt='Twitter' /></a></li>
+                        </ul>
+                    </div>
+
+                    <div class="confsponsors" id="sponsors">
+                        <h4 style="border-bottom: 1px solid black;padding-bottom: 5px;">Conference Sponsors</h4>
+
+                        <div style="background-color: #fec10d; border-radius: 7px;">
+                            <b style="color: #103b62;">Diamond</b>
+                        </div>
+                        <br>
+                            <!--<a href="https://www.virbela.com/" target="_blank">
+                                <img class="conf-icon" style="width: 90%;" src="/ieeevrtemp/assets/images/sponsors/Virbela-logo.png" alt="Virbela Logo">
+                            </a>
+                            <br>-->
+                        <br>
+                        <div style="background-color: #fec10d; border-radius: 7px;">
+                            <b style="color: #103b62;">Gold</b>
+                        </div>
+                        <br>
+                        
+                         <br>
+                        <div style="background-color: #fec10d; border-radius: 7px;">
+                            <b style="color: #103b62;">Silver</b>
+                        </div>
+                        <br>
+                            
+                        <br>
+                        <div style="background-color: #fec10d; border-radius: 7px;">
+                            <b style="color: #103b62;">Bronze</b>
+                        </div>
+                        <br>
+                        
+                        <br>
+
+                        <h4 style="border-bottom: 1px solid black;padding-bottom: 5px;">Supporter</h4>
+                        <!--<a href="https://gpcg.pt/website/en/" target="_blank">
+                            <img class="conf-icon" style="width: 95%;padding-top: 5px;" src="/ieeevrtemp/assets/images/sponsors/CGILogo.png" alt="GPCG Logo">
+                        </a>
+                        <br>-->
+
+                        <h4 style="border-bottom: 1px solid black;padding-bottom: 5px;">Doctoral Consortium Sponsors</h4>
+                        <!--<a href="https://www.nsf.gov" target="_blank">
+                            <img class="conf-icon" style="width: 65%;" src="/ieeevrtemp/assets/images/sponsors/nsf.jpg" alt="NSF Logo">
+                        </a>
+                        <br>-->
+
+                        <h4 style="border-bottom: 1px solid black;padding-bottom: 5px;">Conference Partner</h4>
+                        <!--<a href="https://www.cioapplicationseurope.com" target="_blank">
+                            <img class="conf-icon" style="width: 90%;" src="/ieeevrtemp/assets/images/sponsors/cio-applications-europe.png" alt="CIO Applications Europe Website">
+                        </a>
+                        <br>
+                        <br>-->
+                    </div>
+
+
+
+                </div>
+            </div>
+
+            <!--  footer -->
+            <div class="ieeevrfooter">
+                <hr>
+                <small><a href="/ieeevrtemp/attend/code-of-conduct/">Code of Conduct</a></small><br/>
+                <p>© IEEEVR Conference</p>
+            </div>
+        </section>
+
+    </article>
+</div>
+
+    </div>
+
+      
+      
+
+    
+
+    
+
+  </body>
+</html>

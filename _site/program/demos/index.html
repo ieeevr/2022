@@ -1,0 +1,1286 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.19.2 by Michael Rose
+  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+
+
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Research Demos |</title>
+<meta name="description" content=" ">
+
+
+  <meta name="author" content="IEEE VR">
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="">
+<meta property="og:title" content="Research Demos">
+<meta property="og:url" content="http://localhost:4000/program/demos/">
+
+
+  <meta property="og:description" content=" ">
+
+
+
+
+
+  <meta name="twitter:site" content="@ieeevr">
+  <meta name="twitter:title" content="Research Demos">
+  <meta name="twitter:description" content=" ">
+  <meta name="twitter:url" content="http://localhost:4000/program/demos/">
+
+  
+    <meta name="twitter:card" content="summary">
+    
+  
+
+  
+
+
+
+
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="http://localhost:4000/program/demos/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "IEEE VR 2022",
+      "url": "http://localhost:4000/"
+    
+  }
+</script>
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title=" Feed">
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+
+<!--[if IE]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
+
+
+      <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+      
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+      
+    <!--<script src="jquery.js"></script>-->
+    
+      
+      <!--<link rel="stylesheet" href="styles.css">-->
+      <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+      <!--<script src="script.js"></script>-->
+      
+  </head>
+    
+    
+
+  <body class="layout--ieeevr-default">
+    <nav class="skip-links">
+  <h2 class="screen-reader-text">Skip links</h2>
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    <!-- 
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/assets/images/IEEE%20VR%20Logo%20Favicon.ico" alt=""></a>
+        
+        <a class="site-title" href="/">
+          
+          <span class="site-subtitle">IEEE VR 2022</span>
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/about/">About</a>
+            </li><li class="masthead__menu-item">
+              <a href="/contribute/">Contribute</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+-->
+      
+
+      
+      
+    <div class="initial-content">
+      <style>
+
+    p {
+        text-align: justify;
+        text-justify: auto;
+    }
+
+    .topnav {
+        #position: fixed;
+        #top: 0px;
+        #width: 100%;
+        overflow: hidden;
+        background-color: white;
+        #border-bottom: 1px solid #00aeef;
+    }
+
+    .topnav a {
+        float: left;
+        display: block;
+        color: black;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+    }
+
+    .active {
+        background-color: white;
+        color: black;
+    }
+
+    .topnav .icon {
+        display: none;
+    }
+
+    .dropdown {
+        float: left;
+        overflow: hidden;
+    }
+
+    .dropdown .dropbtn {
+        font-size: 17px;
+        border: none;
+        outline: none;
+        color: black;
+        padding: 16px 16px;
+        background-color: inherit;
+        font-family: inherit;
+        margin: 0;
+    }
+
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #fffbed;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+        z-index: 1;
+    }
+
+    .dropdown-content a {
+        float: none;
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        text-align: left;
+    }
+
+    .topnav a:hover,
+    .dropdown:hover .dropbtn {
+        background-color: #fec10d;
+        color: #103b62;
+    }
+
+    .dropdown:hover .dropdown-content {
+        display: block;
+    }
+
+    .dropdown:checked .dropdown-content {
+        display: block;
+    }
+
+    @media screen and (max-width: 600px) {
+
+        .topnav a:not(:first-child),
+        .dropdown .dropbtn {
+            display: none;
+        }
+
+        .topnav a.icon {
+            float: right;
+            display: block;
+        }
+    }
+
+    @media screen and (max-width: 600px) {
+        .topnav.responsive {
+            position: relative;
+        }
+
+        .topnav.responsive .icon {
+            position: absolute;
+            right: 0;
+            top: 0;
+            height: inherit;
+        }
+
+        .topnav.responsive a {
+            float: none;
+            display: block;
+            text-align: left;
+        }
+
+        .topnav.responsive .dropdown {
+            float: none;
+        }
+
+        .topnav.responsive .dropdown-content {
+            position: relative;
+        }
+
+        .topnav.responsive .dropdown .dropbtn {
+            display: block;
+            width: 100%;
+            text-align: left;
+        }
+    }
+
+    .ieeevrbanner {
+        padding: 0px;
+        border-radius: 7px;
+    }
+
+    .column {
+        float: left;
+        padding: 10px;
+    }
+
+    .left {
+        width: 75%;
+    }
+
+    .center {
+        width: 2%;
+    }
+
+    .right {
+        width: 22%;
+    }
+
+    .row:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+
+    .sponsorsend {
+        display: block;
+    }
+
+    .ieeevrfooter {
+        position: static;
+        padding-top: 10px;
+        bottom: 0;
+        width: 100%;
+        color: black;
+        text-align: center;
+        font-size: 16px;
+    }
+
+    .social-icons {
+        text-align: center;
+    }
+
+    .social-icons li {
+        display: inline-block;
+        list-style-type: none;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+    }
+
+    .social-icons li a {
+        border-bottom: none;
+    }
+
+    .social-icons li img {
+        width: 50px;
+        height: 50px;
+        margin-right: 30px;
+    }
+
+
+
+
+    @media screen and (max-width: 900px) {
+        .left {
+            width: 100%;
+        }
+
+        .center {
+            display: none;
+        }
+
+        .right {
+            width: 100%;
+        }
+
+        .sidebar-header-icon {
+            display: none;
+            padding: 0px 0px;
+        }
+
+        .confsponsors {
+            #display: none;
+        }
+
+        .conf-icon {
+            width: 200px;
+        }
+    }
+
+</style>
+
+
+
+<button onclick="topFunction()" id="myBtnTop" title="Go to top">Top</button>
+
+<script>
+    var mybutton = document.getElementById("myBtnTop");
+
+    window.onscroll = function() {
+        scrollFunction()
+    };
+
+    function scrollFunction() {
+        if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+            mybutton.style.display = "block";
+        } else {
+            mybutton.style.display = "none";
+        }
+    }
+
+    function topFunction() {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+    }
+
+
+    function myFunction() {
+        var x = document.getElementById("myTopnav");
+        if (x.className === "topnav") {
+            x.className += " responsive";
+        } else {
+            x.className = "topnav";
+        }
+    }
+
+</script>
+
+
+
+<div id="main" role="main">
+    <article class="splash" style="margins:0px;" itemscope itemtype="https://schema.org/CreativeWork">
+
+
+
+        <!-- navbar -->
+        <div class="topnav" id="myTopnav">
+            <a href="/ieeevrtemp/" class="active">IEEE VR</a>
+            <a href="/ieeevrtemp/about">About</a>
+            <!-- <a href="#">Online</a>  -->
+
+            <div class="dropdown">
+                <button class="dropbtn">Attend &#9662;</button>
+                <div class="dropdown-content">
+                    <a href="/ieeevrtemp/attend/code-of-conduct/">Code of Conduct</a>
+                    <a href="/ieeevrtemp/attend/why-attend/">Why Attend</a>
+                    <!--<a href="/ieeevrtemp/attend/registration/">Registration</a>
+                    <a href="/ieeevrtemp/attend/diversity-and-inclusion-scholarship/">Diversity and Inclusion Scholarship</a>
+                    <a href="/ieeevrtemp/attend/accessibility-faq/">Accessibility FAQ</a>
+                    <a href="/ieeevrtemp/attend/mentorship-program/">Mentorship Program</a>
+                    <a href="/ieeevrtemp/attend/virbela-instructions/">Virbela Instructions</a>
+                    <a href="http://www.lindeman.com/vr2021/live.shtml" target="_blank">Ready Player 21</a>-->
+                </div>
+            </div>
+            
+            <!--
+            <div class="dropdown">
+                <button class="dropbtn">Program &#9662;</button>
+                <div class="dropdown-content">
+                    <a href="/ieeevrtemp/program/overview/">Overview</a>
+                    <a href="/ieeevrtemp/program/exhibitors/">Exhibitors and Sponsors</a>
+                    <a href="/ieeevrtemp/program/plenary-sessions/">Plenary Sessions</a>
+                    <a href="/ieeevrtemp/program/keynote-speakers/">Keynote Speakers</a>
+                    <a href="/ieeevrtemp/program/papers/">Papers</a>
+                    <a href="/ieeevrtemp/contribute/workshoppapers/">Workshops</a>
+                    <a href="/ieeevrtemp/program/panels/">Panels</a>
+                    <a href="/ieeevrtemp/program/tutorials/">Tutorials</a>
+                    <a href="/ieeevrtemp/program/posters/">Posters</a>
+                    <a href="/ieeevrtemp/program/3dui-contest/">3DUI Contest Entries</a>
+                    <a href="/ieeevrtemp/program/doctoral-consortium/">Doctoral Consortium</a>
+                    <a href="/ieeevrtemp/program/demos/">Demos</a>
+                    <a href="/ieeevrtemp/program/videos/">Videos</a>
+                    <a href="/ieeevrtemp/program/bofs/">Birds of a Feather</a>
+
+                </div>
+            </div>
+            -->
+            
+            <div class="dropdown">
+                <button class="dropbtn">Contribute &#9662;</button>
+                <div class="dropdown-content">
+                    <a href="/ieeevrtemp/contribute/exhibitors">Call for Exhibitors and Sponsors</a>
+                    <a href="/ieeevrtemp/contribute/">Call for Journal Papers</a>
+                    <a href="/ieeevrtemp/contribute/conference-papers/">Call for Conference Papers</a>
+                    <a href="/ieeevrtemp/contribute/demos/">Call for Research Demos</a>
+                    <a href="/ieeevrtemp/contribute/workshoppapers/">Call for Workshop Papers</a>
+                    <a href="/ieeevrtemp/contribute/panels/">Call for Panels</a>
+                    <a href="/ieeevrtemp/contribute/3dui-contest/">Call for 3DUI Contest Entries</a>
+                    <a href="/ieeevrtemp/contribute/doctoral-consortium/">Call for Doctoral Consortium</a>
+                    <a href="/ieeevrtemp/contribute/posters/">Call for Posters</a
+                    <a href="/ieeevrtemp/contribute/workshops/">Call for Workshops</a>
+                    <a href="/ieeevrtemp/contribute/tutorials/">Call for Tutorials</a>
+                    <a href="/ieeevrtemp/contribute/videos/">Call for Videos</a>
+                    <a href="/ieeevrtemp/contribute/studentVolunteers/">Call for Student Volunteers</a>
+            <!--        <a href="/ieeevrtemp/contribute/bridge-to-vr/">Bridge to VR CFP</a>                      -->
+            <!--        <a href="/ieeevrtemp/contribute/presenterInfo">Presenter Guidelines</a>                  -->
+            <!--        <a href="/ieeevrtemp/contribute/videoInstructions/">Video Guidelines</a>                 -->
+
+                </div>
+            </div>
+            
+            <!--
+            <div class="dropdown">
+                <button class="dropbtn">Awards &#9662;</button>
+                <div class="dropdown-content">
+                    <a href="/ieeevrtemp/awards/vgtc">VGTC Awards</a>
+                    <a href="/ieeevrtemp/awards/vgtc-award-winners/">2022 Awards Winners</a>
+                    <a href="/ieeevrtemp/awards/conference-awards/">Conference Awards</a>
+                </div>
+            </div>
+
+            -->
+
+            <div class="dropdown">
+                <button class="dropbtn">Committees &#9662;</button>
+                <div class="dropdown-content">
+                    <a href="/ieeevrtemp/committees/conference-committee/">Conference Committee</a>
+                    <!-- <a href="/ieeevrtemp/committees/steering-committee/">Steering Committee</a> -->
+                    <!-- <a href="/ieeevrtemp/committees/program-committee/">Program Committee</a> -->
+                </div>
+            </div>
+            <a href="/ieeevrtemp/past-conferences/">Past Conferences</a>
+            <a href="javascript:void(0);" style="font-size:16px;" class="icon" onclick="myFunction()">&#9776;</a>
+        </div>
+
+
+        <!-- banner -->
+        <img class="ieeevrbanner" src="../assets/images/IEEE VR 2020 Logo BANNER.jpg" alt="The logo for the IEEE Conference on Virtual Reality + User Interfaces overlaid on an image of Mount Cook and a braided river. The logo contains a kiwi wearing a virtual reality display.">
+
+        <!-- content -->
+        <section class="page__content" itemprop="text">
+            <div class="row">
+
+
+
+                <!-- left sidebar -->
+                <div class="column left" style="">
+
+
+                    <style>
+    .styled-table {
+        border-collapse: collapse;
+        margin: 25px 0;
+        font-size: 0.8em;
+        font-family: sans-serif;
+        /*min-width: 400px;*/
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+        display: table;
+    }
+
+    .styled-table thead tr {
+        background-color: #00aeef;
+        color: #ffffff;
+        text-align: left;
+    }
+
+    .styled-table th,
+    .styled-table td {
+        padding: 12px 15px;
+    }
+
+    .styled-table tbody tr {
+        border-bottom: 1px solid #dddddd;
+    }
+
+    .styled-table tbody tr:nth-of-type(even) {
+        background-color: #f3f3f3;
+    }
+
+    .styled-table tbody tr:last-of-type {
+        border-bottom: 2px solid #00aeef;
+    }
+
+    .styled-table tbody tr.active-row {
+        font-weight: bold;
+        color: #00aeef;
+    }
+
+    input[type='checkbox'] {
+        display: none;
+    }
+
+    .wrap-collabsible {
+        margin: 1rem 0;
+    }
+
+    .lbl-toggle {
+        display: block;
+        font-weight: bold;
+        /* font-family: monospace; */
+        font-size: 1rem;
+        text-align: left;
+        padding: 0.1rem;
+        color: #00aeef;
+        background: #ffffff;
+        cursor: pointer;
+        border-radius: 7px;
+        transition: all 0.25s ease-out;
+    }
+
+    .lbl-toggle:hover {
+        /*color: #FFF;*/
+    }
+
+    .lbl-toggle::before {
+        content: ' ';
+        display: inline-block;
+        border-top: 5px solid transparent;
+        border-bottom: 5px solid transparent;
+        border-left: 5px solid currentColor;
+        vertical-align: middle;
+        margin-right: .7rem;
+        transform: translateY(-2px);
+        transition: transform .2s ease-out;
+    }
+
+    .toggle:checked+.lbl-toggle::before {
+        transform: rotate(90deg) translateX(-3px);
+    }
+
+    .collapsible-content {
+        max-height: 0px;
+        overflow: hidden;
+        transition: max-height .25s ease-in-out;
+    }
+
+    .toggle:checked+.lbl-toggle+.collapsible-content {
+        max-height: 1500px;
+    }
+
+    .toggle:checked+.lbl-toggle {
+        border-bottom-right-radius: 0;
+        border-bottom-left-radius: 0;
+    }
+
+    .collapsible-content .content-inner {
+        background: white;
+        /* rgba(0, 105, 255, .2);*/
+        border-bottom: 1px solid white;
+        border-bottom-left-radius: 7px;
+        border-bottom-right-radius: 7px;
+        padding: .5rem 1rem;
+    }
+
+    .collapsible-content p {
+        margin-bottom: 0;
+    }
+    
+</style>
+
+<div>
+    <table class="styled-table">
+
+        <tr>
+            <th>Research Demos</th>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1016">Boarding Sensation Presentation of the Biped Walking Robot with a Low-cost Two-axis Motion Platform</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1017">Virtual Equipment System: Face Mask and Voodoo Doll for User Privacy and Self-Expression Options in Virtual Reality</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1019">Demonstrating High-Precision and High-Fidelity Digital Inking for Virtual Reality</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1020">Virtual Reality for Remote Controlled Robotics in Engineering Education</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1021">Development of a Virtual Reality Assessment of Visuospatial Function and Oculomotor Control</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1022">A Real-time approach to improve drilling decision-making process using virtual reality visualizations</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1024">Shared Augmented Reality Experience Between a Microsoft Flight  Simulator User and a User in the Real World</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1024b">Real-time Mixed Reality Teleconsultation for Intensive Care Units in Pandemic Situations</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1025">Turning a Messy Room into a Fully Immersive VR Playground</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1026">Demonstrating Rapid Touch Interaction in Virtual Reality through Wearable Touch Sensing</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1027">Virtual Control Interface: Discover and Control IoT devicesintuitively through AR glasses with Multi-model Interactions</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO2029">Revealable Volume Displays: 3D Exploration of Mixed-Reality Public Exhibitions</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO2278">Magnoramas</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO2308">Visualizing Planetary Spectroscopy through Immersive On-site Rendering</a></td>
+        </tr>
+        
+    </table>
+</div>
+
+<div>
+<!-- TAKE ME TO THE EVENT START -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="notice--info">
+        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
+        <p>
+            <strong style="color: black;">Virbela Location:</strong> Hall A and Hall B (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
+
+            
+            
+            <br />
+            <strong style="color: black;">Discord Channel:</strong> <a href="https://discord.com/channels/785628120471699507/823244312762515486" target="_blank">Open in Browser</a>, <a href="discord://discord.com/channels/785628120471699507/823244312762515486">Open in App</a> (Participants only)
+            
+            
+        </p>
+    </div> 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <!-- TAKE ME TO THE EVENT END-->
+</div>
+
+<div class="notice--info">
+    <strong>Best of IEEE VR 2021</strong>
+    <p>
+        Please use this form to vote for the best poster, best demo, and best 3DUI contest submission.
+    </p>
+    <center>
+        <p style="font-size: 20px;">
+            <a href="https://cutt.ly/Mx0n5Zu" class="btn btn--primary" style="color: white;" target="_blank">Vote!</a>
+        </p>
+    </center>
+</div>
+
+<div>
+    
+    
+    <h3 id="PO1016">Boarding Sensation Presentation of the Biped Walking Robot with a Low-cost Two-axis Motion Platform</h3>
+    <p><i>Kyosuke Mori: Hiroshima City University; Wataru Wakita: Hiroshima City University</i></p>
+    
+<p> <small><strong style="color: black;"> Booth: C23 - Expo Hall B </strong></small> <br /> </p>    
+    
+    
+        <p>Teaser Video: <a href="https://youtu.be/oQlC2pOd7SM" target="_blank">Watch Now</a></p>
+    
+    
+    <div id="PO1016" class="wrap-collabsible"> <input id="collapsiblePO1016" class="toggle" type="checkbox" /> <label for="collapsiblePO1016" class="lbl-toggle">Abstract</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <p>We render a boarding sensation of a biped robot at low cost and high immersive by approximate the 6-DOF motion such as the impact, vibration, and steep slope experienced on boarding a biped robot to a 2-DOF rolling motion at max ± 25 degrees in both at pitch and roll directions with our low-cost two-axis motion platform.</p>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+    <h3 id="PO1017">Virtual Equipment System: Face Mask and Voodoo Doll for User Privacy and Self-Expression Options in Virtual Reality</h3>
+    <p><i>Powen Yao: University of Southern California; Vangelis Lympouridis: USC; Michael Zyda: USC</i></p>
+    
+<p> <small><strong style="color: black;"> Booth: C26 - Expo Hall A </strong></small> <br /> </p>    
+    
+    
+        <p>Teaser Video: <a href="https://www.youtube.com/watch?v=RazSyF9W1nU&amp;t=3s" target="_blank">Watch Now</a></p>
+    
+    
+    <div id="PO1017" class="wrap-collabsible"> <input id="collapsiblePO1017" class="toggle" type="checkbox" /> <label for="collapsiblePO1017" class="lbl-toggle">Abstract</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <p>Current trends in immersive technologies suggest an increase in capturing user’s data to drive interactions and avatar representations. With growing numbers of data types being collected, users need an easy way to view and control their privacy settings. In this demo, we present a method for users to adjust options related to privacy settings, user data collection, and self-expression through the use of 3D user interface metaphors such as a mask and a voodoo doll.</p>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+    <h3 id="PO1019">Demonstrating High-Precision and High-Fidelity Digital Inking for Virtual Reality</h3>
+    <p><i>Hugo Romat: ETH Zurich; Andreas Rene Fender: ETH; Manuel Meier: ETH Zürich; Christian Holz: ETH Zürich</i></p>
+    
+<p> <small><strong style="color: black;"> Booth: C28 - Expo Hall B </strong></small> <br /> </p>    
+    
+    
+    
+    <div id="PO1019" class="wrap-collabsible"> <input id="collapsiblePO1019" class="toggle" type="checkbox" /> <label for="collapsiblePO1019" class="lbl-toggle">Abstract</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <p>Digital pen interaction has become a first-class input modality for precision tasks such as writing, annotating, and drawing. In Virtual Reality, however, input is largely detected using cameras which does not nearly reach the fidelity we achieve with analog handwriting. In this paper, we present Flashpen, a digital pen for VR whose sensing principle affords accurately digitizing hand-writing.</p>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+    <h3 id="PO1020">Virtual Reality for Remote Controlled Robotics in Engineering Education</h3>
+    <p><i>Andrew Rukangu: University of Georgia; Alexander James Tuttle: University of Georgia; Kyle Johnsen: University of Georgia</i></p>
+    
+<p> <small><strong style="color: black;"> Booth: C23 - Expo Hall A </strong></small> <br /> </p>    
+    
+    
+    
+    <div id="PO1020" class="wrap-collabsible"> <input id="collapsiblePO1020" class="toggle" type="checkbox" /> <label for="collapsiblePO1020" class="lbl-toggle">Abstract</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <p>There is a high demand for high-end lab equipment in engineering education, especially for courses that require practical hands-on lab exercises. However, this equipment is quite expensive which forces some institutions to seek other alternatives or forego them altogether. In this work, use virtual and augmented reality to build and test a remote UR-10 based robotics lab that allows students to work together on a hands-on robotics-based lab.</p>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+    <h3 id="PO1021">Development of a Virtual Reality Assessment of Visuospatial Function and Oculomotor Control</h3>
+    <p><i>Garima Adlakha: University of Southern California; Sanya Singh: University of Southern California; Kranthi Nuthalapati: University of Southern California; Apoorva Aravind Patil: University of Southern California; Prajakta Khandve: University of Southern California; Pushpak Bhattacharyya: University of Southern California; Saravanan Manoharan: University of Southern California; Sanjay Mallasamudram Santhanam: University of Southern California; Isaiah J Lachica: University of Southern California; James M. Finley: University of Southern California; Vangelis Lympouridis: USC</i></p>
+    
+<p> <small><strong style="color: black;"> Booth: C22 - Expo Hall A </strong></small> <br /> </p>    
+    
+    
+        <p>Teaser Video: <a href="https://www.youtube.com/watch?v=i_oVs7FsGFg" target="_blank">Watch Now</a></p>
+    
+    
+    <div id="PO1021" class="wrap-collabsible"> <input id="collapsiblePO1021" class="toggle" type="checkbox" /> <label for="collapsiblePO1021" class="lbl-toggle">Abstract</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <p>This demo uses Virtual Reality (VR) to assess cognitive function in people with Parkinson's disease. We developed a VR-based assessment that combines simple game mechanics with components of the Trail Making Test. We collect performance metrics and gaze analytics during gameplay using the HTC Vive Pro Eye system. Ultimately, this data will allow clinicians and researchers to characterize cognitive and visuomotor deficits in people with neurological impairments such as Parkinson's disease.</p>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+    <h3 id="PO1022">A Real-time approach to improve drilling decision-making process using virtual reality visualizations</h3>
+    <p><i>Thiago Malheiros Porcino: SENAI ISI SVP - Firjan; Márcia M. Dórea: SENAI ISI SVP - Firjan; Diego Barboza: SENAI ISI SVP - Firjan; Wesley Oliveira: SENAI ISI SVP - Firjan; Eric Romani: SENAI ISI SVP - Firjan; Fernando Perin Munerato: Repsol Sinopec Brazil; João H. Batista: Repsol Sinopec Brazil</i></p>
+    
+<p> <small><strong style="color: black;"> Booth: C27 - Expo Hall A </strong></small> <br /> </p>    
+    
+    
+        <p>Teaser Video: <a href="https://www.youtube.com/watch?v=emN2dskuOLg" target="_blank">Watch Now</a></p>
+    
+    
+    <div id="PO1022" class="wrap-collabsible"> <input id="collapsiblePO1022" class="toggle" type="checkbox" /> <label for="collapsiblePO1022" class="lbl-toggle">Abstract</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <p>Virtual reality (VR) is one of the key Industry 4.0 trends and is being largely used for training and simulations. A VR environment can reduce training and drilling analysis costs, and help operators and coordinators to monitor the trajectory and other operational variables during the drilling process. This paper presents Divisor, a virtual reality tool for monitoring variables and analyzing historical and real-time data while drilling a new oil well.</p>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+    <h3 id="PO1024">Shared Augmented Reality Experience Between a Microsoft Flight  Simulator User and a User in the Real World</h3>
+    <p><i>Christoph Leuze: Nakamir Inc; Matthias Leuze: Alpinschule Innsbruck</i></p>
+    
+<p> <small><strong style="color: black;"> Booth: C21 - Expo Hall A </strong></small> <br /> </p>    
+    
+    
+        <p>Teaser Video: <a href="https://youtu.be/ngPJNtdsviU" target="_blank">Watch Now</a></p>
+    
+    
+    <div id="PO1024" class="wrap-collabsible"> <input id="collapsiblePO1024" class="toggle" type="checkbox" /> <label for="collapsiblePO1024" class="lbl-toggle">Abstract</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <p>Our demo consists of an application that allows a user with an AR display (smartphone or Hololens 2) to watch another user, flying an airplane in the Microsoft Flight Simulator 2020 (MSFS), at their respective location in the real world. To do that, we take the location of a plane in MSFS, and stream it via a server to a mobile AR device. The mobile device user can then see the same 3D plane model move at exactly that real world location, that corresponds to the plane’s virtual MSFS location.</p>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+    <h3 id="PO1024b">Real-time Mixed Reality Teleconsultation for Intensive Care Units in Pandemic Situations</h3>
+    <p><i>Daniel Roth (Computer Aided Medical Procedures and Augmented Reality); Kevin Yu (Research Group MITI); Frieder Pankratz (LMU); Gleb Gorbachev (Computer Aided Medical Procedures and Augmented Reality); Andreas Keller (Computer Aided Medical Procedures and Augmented Reality); Marc Lazarovici (Institut für Notfallmedizin); Dirk Wilhelm (Research Group MITI); Simon Weidert (Orthopedic Trauma Surgery, Ludwig-Maximillian University); Nassir Nawab (Computer Aided Medical Procedures and Augmented Reality); Ulrich Eck: Computer Aided Medical Procedures and Augmented Reality</i></p>
+    
+<p> <small><strong style="color: black;"> Booth: C27 - Expo Hall B </strong></small> <br /> </p>    
+    
+    
+    
+    <div id="PO1024b" class="wrap-collabsible"> <input id="collapsiblePO1024b" class="toggle" type="checkbox" /> <label for="collapsiblePO1024b" class="lbl-toggle">Abstract</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <p>This demo depicts a COVID-19 ICU station patient visit. Through our system, remote experts can join a COVID -19 ICU patient visit without physically moving in the hospital, which avoids gatherings and personnel traffic and optimizes resources.</p>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+    <h3 id="PO1025">Turning a Messy Room into a Fully Immersive VR Playground</h3>
+    <p><i>Naoki Matsuo: Kwansei Gakuin University; Masataka Imura: Kwansei Gakuin University</i></p>
+    
+<p> <small><strong style="color: black;"> Booth: C22 - Expo Hall B </strong></small> <br /> </p>    
+    
+    
+        <p>Teaser Video: <a href="https://www.youtube.com/watch?v=JQmwr8seeIM&amp;t=9s" target="_blank">Watch Now</a></p>
+    
+    
+    <div id="PO1025" class="wrap-collabsible"> <input id="collapsiblePO1025" class="toggle" type="checkbox" /> <label for="collapsiblePO1025" class="lbl-toggle">Abstract</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <p>In this study, to enable a VR experience with an HMD even in a space with obstacles, we constructed a reality-based VR space in real time that does not impair the worldview even in a space with obstacles. In addition, we aim to construct a VR space that is easier to recognize by classifying ``objects that are boundaries of space'' and ``ordinary obstacles'' using a deep learning network and superimposing virtual objects corresponding to each type of real object.</p>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+    <h3 id="PO1026">Demonstrating Rapid Touch Interaction in Virtual Reality through Wearable Touch Sensing</h3>
+    <p><i>Manuel Meier: ETH Zürich; Paul Streli: ETH Zürich; Andreas Rene Fender: ETH Zürich; Christian Holz: ETH Zürich</i></p>
+    
+<p> <small><strong style="color: black;"> Booth: C26 - Expo Hall B </strong></small> <br /> </p>    
+    
+    
+        <p>Teaser Video: <a href="https://www.youtube.com/watch?v=cZl_Sn2dhZY" target="_blank">Watch Now</a></p>
+    
+    
+    <div id="PO1026" class="wrap-collabsible"> <input id="collapsiblePO1026" class="toggle" type="checkbox" /> <label for="collapsiblePO1026" class="lbl-toggle">Abstract</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <p>We bring quick touch interaction to Virtual Reality, illustrating the beneficial use of rapid tapping, typing, and surface gestures for Virtual Reality. The productivity scenarios that become possible are reminiscent of apps that exist on today's tablets. We use a wrist-worn prototype to complement the optical hand tracking from VR headsets with inertial sensing to detect touch events on surfaces. Our demonstration comprises UI control in word processors, web browsers, and document editors.</p>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+    <h3 id="PO1027">Virtual Control Interface: Discover and Control IoT devicesintuitively through AR glasses with Multi-model Interactions</h3>
+    <p><i>Zezhen Xu: University of Southern California; Vangelis Lympouridis: USC</i></p>
+    
+<p> <small><strong style="color: black;"> Booth: C25 - Expo Hall A </strong></small> <br /> </p>    
+    
+    
+        <p>Teaser Video: <a href="https://youtu.be/K3CGRsZ1sqc" target="_blank">Watch Now</a></p>
+    
+    
+    <div id="PO1027" class="wrap-collabsible"> <input id="collapsiblePO1027" class="toggle" type="checkbox" /> <label for="collapsiblePO1027" class="lbl-toggle">Abstract</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <p>The number of smart home devices will increase exponentially. The current Internet of Things (IoT) control interfaces on smartphones are spatially separated from the devices they operate, making them less intuitive and progressively more complicated. We developed VCI, a Virtual Reality (VR) simulation for HCI researchers to explore multimodal interactions with IoT in a future smart home setting using virtual control interfaces projected on emulated AR glasses.</p>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+    <h3 id="PO2029">Revealable Volume Displays: 3D Exploration of Mixed-Reality Public Exhibitions</h3>
+    <p><i>Fatma Ben Guefrech: Université de Lille; Florent Berthaut: Université de Lille; Patricia Plénacoste: Université de Lille; Yvan Peter: Université Lille 1; Laurent Grisoni: University of Lille</i></p>
+    
+<p> <small><strong style="color: black;"> Booth: C24 - Expo Hall B </strong></small> <br /> </p>    
+    
+    
+        <p>Teaser Video: <a href="https://www.youtube.com/watch?v=waN7LQpy8bM" target="_blank">Watch Now</a></p>
+    
+    
+    <div id="PO2029" class="wrap-collabsible"> <input id="collapsiblePO2029" class="toggle" type="checkbox" /> <label for="collapsiblePO2029" class="lbl-toggle">Abstract</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <p>We present a class of mixed-reality displays which allow for the 3D exploration of content in public exhibitions, that we call Revealable Volume Displays (RVD). They allow visitors to reveal information placed freely inside or around protected artefacts, visible by all, using their reflection in the panel. We first discuss the implementation of RVDs, providing both projector-based and mobile versions. We then present a design space that describes the interaction possibilities that they offer. Drawing on insights from a field study during a first exhibition, we finally propose and evaluate techniques for facilitating 3D exploration with RVDs.</p>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+    <h3 id="PO2278">Magnoramas</h3>
+    <p><i>Kevin Yu: Research Group MITI; Alexander Winkler: Technical University of Munich; Frieder Pankratz: LMU; Marc Lazarovici: Institut für Notfallmedizin; Prof. Dirk Wilhelm: Research Group MITI; Ulrich Eck: Computer Aided; Medical Procedures and Augmented Reality; Daniel Roth: Computer Aided Medical Procedures and Augmented Reality; Nassir Navab: Technische Universität München</i></p>
+    
+<p> <small><strong style="color: black;"> Booth: C21 - Expo Hall B </strong></small> <br /> </p>    
+    
+    
+        <p>Teaser Video: <a href="https://youtu.be/3g9MDfUugjg" target="_blank">Watch Now</a></p>
+    
+    
+    <div id="PO2278" class="wrap-collabsible"> <input id="collapsiblePO2278" class="toggle" type="checkbox" /> <label for="collapsiblePO2278" class="lbl-toggle">Abstract</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <p>We introduce Magnoramas, an interaction method for creating supernaturally precise annotations on virtual objects. We evaluated Magnoramas in a collaborative context in a simplified clinical scenario. Teleconsultation was performed between a remote expert inside a 3D reconstruction and embodied by an avatar in Virtual Reality that collaborated with a local user through Augmented Reality. The results show that Magnoramas significantly improve the precision of annotations while preserving usability and perceived presence measures compared to the baseline method. By additionally hiding the physical world while keeping the Magnorama, users can intentionally lower their perceived social presence and focus on their tasks.</p>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+    <h3 id="PO2308">Visualizing Planetary Spectroscopy through Immersive On-site Rendering</h3>
+    <p><i>Lauren Gold: Arizona State University; Alireza Bahremand: Arizona State University; Connor Richards: Arizona State University; Justin Hertzberg: Arizona State University; Kyle Sese: Arizona State University; Alexander A Gonzalez: Hamilton High School; Zoe Purcell: Arizona State University; Kathryn E Powell: Northern Arizona University; Robert LiKamWa: Arizona State University</i></p>
+    
+<p> <small><strong style="color: black;"> Booth: C24 - Expo Hall A </strong></small> <br /> </p>    
+    
+    
+        <p>Teaser Video: <a href="https://youtu.be/Wz3Nzo09qko" target="_blank">Watch Now</a></p>
+    
+    
+    <div id="PO2308" class="wrap-collabsible"> <input id="collapsiblePO2308" class="toggle" type="checkbox" /> <label for="collapsiblePO2308" class="lbl-toggle">Abstract</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <p>Planetary Visor is our virtual reality tool to visualize orbital and rover-based datasets from the ongoing traverse of the NASA Curiosity rover in Gale Crater. Data from orbital spectrometers provide insight about the composition of planetary terrains. Meanwhile, Curiosity rover data provide fine-scaled localized information about Martian geology. By visualizing the intersection of the orbiting instrument's field of view with the rover-scale topography, and providing interactive navigation controls, Visor constitutes a platform for users to intuitively understand the scale and context of the Martian geologic data under scientific investigation.</p>
+            </div>
+        </div>
+    </div>
+    
+    
+</div>
+
+
+
+
+                </div>
+                <div class="column center" style=""></div>
+
+                <!-- Main Content -->
+                <div class="column right" style="text-align: center">
+
+                    <!-- <img class="sidebar-header-icon" src="/assets/images/ieeevr-logo.jpg">-->
+                    <!-- <a class="twitter-timeline" data-height="450" href="https://twitter.com/IEEEVR?ref_src=twsrc%5Etfw">Tweets by IEEEVR</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+                    <div>
+                        <ul class="social-icons">
+                            <li><a href="https://facebook.com/ieeevr"><img src='/ieeevrtemp/assets/images/social/circle-color/Facebook.png' alt="Facebook" /></a></li>
+                            <li><a href="http://www.twitter.com/ieeevr"><img src='/ieeevrtemp/assets/images/social/circle-color/Twitter.png' alt='Twitter' /></a></li>
+                        </ul>
+                    </div>
+
+                    <div class="confsponsors" id="sponsors">
+                        <h4 style="border-bottom: 1px solid black;padding-bottom: 5px;">Conference Sponsors</h4>
+
+                        <div style="background-color: #fec10d; border-radius: 7px;">
+                            <b style="color: #103b62;">Diamond</b>
+                        </div>
+                        <br>
+                            <!--<a href="https://www.virbela.com/" target="_blank">
+                                <img class="conf-icon" style="width: 90%;" src="/ieeevrtemp/assets/images/sponsors/Virbela-logo.png" alt="Virbela Logo">
+                            </a>
+                            <br>-->
+                        <br>
+                        <div style="background-color: #fec10d; border-radius: 7px;">
+                            <b style="color: #103b62;">Gold</b>
+                        </div>
+                        <br>
+                        
+                         <br>
+                        <div style="background-color: #fec10d; border-radius: 7px;">
+                            <b style="color: #103b62;">Silver</b>
+                        </div>
+                        <br>
+                            
+                        <br>
+                        <div style="background-color: #fec10d; border-radius: 7px;">
+                            <b style="color: #103b62;">Bronze</b>
+                        </div>
+                        <br>
+                        
+                        <br>
+
+                        <h4 style="border-bottom: 1px solid black;padding-bottom: 5px;">Supporter</h4>
+                        <!--<a href="https://gpcg.pt/website/en/" target="_blank">
+                            <img class="conf-icon" style="width: 95%;padding-top: 5px;" src="/ieeevrtemp/assets/images/sponsors/CGILogo.png" alt="GPCG Logo">
+                        </a>
+                        <br>-->
+
+                        <h4 style="border-bottom: 1px solid black;padding-bottom: 5px;">Doctoral Consortium Sponsors</h4>
+                        <!--<a href="https://www.nsf.gov" target="_blank">
+                            <img class="conf-icon" style="width: 65%;" src="/ieeevrtemp/assets/images/sponsors/nsf.jpg" alt="NSF Logo">
+                        </a>
+                        <br>-->
+
+                        <h4 style="border-bottom: 1px solid black;padding-bottom: 5px;">Conference Partner</h4>
+                        <!--<a href="https://www.cioapplicationseurope.com" target="_blank">
+                            <img class="conf-icon" style="width: 90%;" src="/ieeevrtemp/assets/images/sponsors/cio-applications-europe.png" alt="CIO Applications Europe Website">
+                        </a>
+                        <br>
+                        <br>-->
+                    </div>
+
+
+
+                </div>
+            </div>
+
+            <!--  footer -->
+            <div class="ieeevrfooter">
+                <hr>
+                <small><a href="/ieeevrtemp/attend/code-of-conduct/">Code of Conduct</a></small><br/>
+                <p>© IEEEVR Conference</p>
+            </div>
+        </section>
+
+    </article>
+</div>
+
+    </div>
+
+      
+      
+
+    
+
+    
+
+  </body>
+</html>

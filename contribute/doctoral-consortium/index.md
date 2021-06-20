@@ -6,6 +6,10 @@ title_separator: "|"
 ---
 
 <div>
+    <p>
+        More information coming soon, please watch this space.
+    </p>
+    <!--
     <h1 id="cfp-doctoral-cosortium"> Call for Doctoral Consortium</h1>
 
     <p>
@@ -80,7 +84,7 @@ title_separator: "|"
         </ul>
         doctoralconsortium2021 [at] ieeevr.org
     </p>
-
+    -->
 
 
 </div>

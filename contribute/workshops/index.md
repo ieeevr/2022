@@ -6,6 +6,10 @@ title_separator: "|"
 ---
 
 <div>
+    <p>
+        More information coming soon, please watch this space.
+    </p>
+    <!--
     <h1 id="cfp-workshops"> Call for Workshops</h1>
     <p>
         <strong style="color: black">IEEE VR 2021: the 28th IEEE Conference on Virtual Reality and 3D User Interfaces March 27-April 3, 2021, Virtual</strong>
@@ -131,6 +135,6 @@ title_separator: "|"
         </ul>
         tutorials2021 [at] ieeevr.org
 
-
+    -->
 
 </div>

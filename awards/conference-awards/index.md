@@ -2,7 +2,7 @@
 layout: ieeevr-default
 title: "Conference Award Winners"
 ---
-
+<!-- Commented out because of compiler errors
 <style>
     <style>* {
         box-sizing: border-box;
@@ -660,7 +660,7 @@ follow.
             {% for j in site.data.3duicontest %}
                 {% if j.id == item.id %}
                 <h4 id="{{ j.id }}">{{ j.title }}</h4>
-                <p><i>{{ j.authors }}</i></p>
+                <p><i>{{ j.authors }}</i></p>-->
                 <!--
                 <div id="{{ j.id }}" class="wrap-collabsible"> <input id="collapsible3dui{{ j.id }}" class="toggle" type="checkbox"> <label for="collapsible3dui{{ j.id }}" class="lbl-toggle">Abstract</label>
                     <div class="collapsible-content">
@@ -669,7 +669,7 @@ follow.
                         </div>
                     </div>
                 </div>
-                -->
+                --><!--
                 {% endif %}
             {% endfor %}
     
@@ -717,3 +717,4 @@ follow.
 
 
 
+-->

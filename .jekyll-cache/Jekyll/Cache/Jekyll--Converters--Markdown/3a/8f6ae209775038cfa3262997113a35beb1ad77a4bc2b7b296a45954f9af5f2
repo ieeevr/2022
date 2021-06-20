@@ -1,0 +1,28 @@
+I"[<div>
+    
+    <div>
+        <h1>Session A</h1>
+        <div id="session_A"></div> 
+        <h2>Details</h2>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec venenatis diam eu ultrices accumsan. Suspendisse fermentum urna ac pulvinar lobortis. Duis finibus tellus id placerat consectetur. Donec at efficitur arcu.
+        </p>
+    </div>
+    <div>
+        <h1>Session B</h1>
+        <div id="session_B"></div> 
+        <h2>Details</h2>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec venenatis diam eu ultrices accumsan. Suspendisse fermentum urna ac pulvinar lobortis. Duis finibus tellus id placerat consectetur. Donec at efficitur arcu.
+        </p>
+    </div>
+    <div>
+        <h1>Session C</h1>
+        <div id="session_C"></div>   
+        <h2>Details</h2>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec venenatis diam eu ultrices accumsan. Suspendisse fermentum urna ac pulvinar lobortis. Duis finibus tellus id placerat consectetur. Donec at efficitur arcu.
+        </p>
+    </div>
+</div>
+:ET

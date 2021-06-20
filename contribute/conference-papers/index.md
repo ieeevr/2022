@@ -6,6 +6,10 @@ title_separator: "|"
 ---
 
 <div>
+    <p>
+        More information coming soon, please watch this space.
+    </p>
+    <!--
 <h1 id="cfp-journal"> Call for Conference Papers </h1>
 <p>
         <strong style="color: black">IEEE VR 2021: the 28th IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 27-April 3, 2021, Virtual
@@ -206,7 +210,7 @@ title_separator: "|"
         <li>Pablo Figueroa, Universidad de los Andes, Colombia</li>
     </ul>
     conferencepapers2021 [at] ieeevr.org
-</p>
+</p>-->
 
 
     

@@ -1,0 +1,529 @@
+I"�?<style>
+    .styled-table {
+        border-collapse: collapse;
+        margin: 25px 0;
+        font-size: 0.8em;
+        font-family: sans-serif;
+        /*min-width: 400px;*/
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+        display: table;
+    }
+
+    .styled-table thead tr {
+        background-color: #00aeef;
+        color: #ffffff;
+        text-align: left;
+    }
+
+    .styled-table th,
+    .styled-table td {
+        padding: 12px 15px;
+    }
+
+    .styled-table tbody tr {
+        border-bottom: 1px solid #dddddd;
+    }
+
+    .styled-table tbody tr:nth-of-type(even) {
+        background-color: #f3f3f3;
+    }
+
+    .styled-table tbody tr:last-of-type {
+        border-bottom: 2px solid #00aeef;
+    }
+
+    .styled-table tbody tr.active-row {
+        font-weight: bold;
+        color: #00aeef;
+    }
+
+    input[type='checkbox'] {
+        display: none;
+    }
+
+    .wrap-collabsible {
+        margin: 1rem 0;
+    }
+
+    .lbl-toggle {
+        display: block;
+        font-weight: bold;
+        /* font-family: monospace; */
+        font-size: 1rem;
+        text-align: left;
+        padding: 0.1rem;
+        color: #00aeef;
+        background: #ffffff;
+        cursor: pointer;
+        border-radius: 7px;
+        transition: all 0.25s ease-out;
+    }
+
+    .lbl-toggle:hover {
+        /*color: #FFF;*/
+    }
+
+    .lbl-toggle::before {
+        content: ' ';
+        display: inline-block;
+        border-top: 5px solid transparent;
+        border-bottom: 5px solid transparent;
+        border-left: 5px solid currentColor;
+        vertical-align: middle;
+        margin-right: .7rem;
+        transform: translateY(-2px);
+        transition: transform .2s ease-out;
+    }
+
+    .toggle:checked+.lbl-toggle::before {
+        transform: rotate(90deg) translateX(-3px);
+    }
+
+    .collapsible-content {
+        max-height: 0px;
+        overflow: hidden;
+        transition: max-height .25s ease-in-out;
+    }
+
+    .toggle:checked+.lbl-toggle+.collapsible-content {
+        max-height: 1500px;
+    }
+
+    .toggle:checked+.lbl-toggle {
+        border-bottom-right-radius: 0;
+        border-bottom-left-radius: 0;
+    }
+
+    .collapsible-content .content-inner {
+        background: white;
+        /* rgba(0, 105, 255, .2);*/
+        border-bottom: 1px solid white;
+        border-bottom-left-radius: 7px;
+        border-bottom-right-radius: 7px;
+        padding: .5rem 1rem;
+    }
+
+    .collapsible-content p {
+        margin-bottom: 0;
+    }
+    
+    
+      /* video container */
+    .video-container {
+        overflow: hidden;
+        position: relative;
+        width: 100%;
+    }
+
+    .video-container::after {
+        padding-top: 56.25%;
+        /* 75% if 4:3*/
+        display: block;
+        content: '';
+    }
+
+    .video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+
+    /* Thumbnails box */
+    .box {
+        border-radius: 5px;
+        padding: 20px;
+    }
+
+    .box:nth-child(even) {
+        color: red;
+    }
+
+    .wrapper {
+        display: grid;
+        /* border: 1px solid #000; */
+        grid-gap: 10px;
+        grid-template-columns: repeat(auto-fill, 150px 30%);
+    }
+
+</style>
+
+<h1>3DUI Contest</h1>
+
+<div>
+    <h2>Fast Forward</h2>
+    
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/5BB05YIG7uY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+</div>
+
+<div>
+    <table class="styled-table">
+
+        <tr>
+            <th>3DUI Contest Entries</th>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1008">Dr.SupER</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1009">Rebirth-20 – relive after the COVID-19 and keep preventing against it</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1010">The Pickrick Protests: An Interactive Geo AR Experience</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1013">Enhanced Low-cost Web-based Virtual Tour Experience for Prospective Students</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1014">Homemade XR: Enriching conversations and shortening social distancing</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1016">Virtual Demonstrator for Spatial Presentations</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1017">Remote adversarial VR serious game simulating COVID-19 infection spread and protection protocols</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1018">Supporting Physical and Mental Health Rehabilitation at Home with Virtual Reality Headsets and Force Feedback Gloves</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1019">Corona Beat - Kicking The Sedentary Habit Induced By Prolonged Social Distancing</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1022">Virtual Reality System for Invasive Therapy</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1023">A Multi-Peer, Low Cost Immersive Communication System for Pandemic Times</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1024">Real-time Mixed Reality Teleconsultation for Intensive Care Units in Pandemic Situations</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1026">Fantastic Voyage 2021: Using Interactive VR Storytelling to Explain Targeted COVID-19 Vaccine Delivery to Antigen-presenting Cells</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1027">COVID-Vision: A Virtual Reality Experience to Encourage Mindfulness of Social Distancing in Public Spaces</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1028">VR training for critical tasks - assembling the INSPIRE emergency pulmonary ventilator for COVID-19 treatment</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1030">Augmented Reality Guidance for Configuring an Anesthesia Machine to Serve as a Ventilator for COVID-19 Patients</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#PO1032">COVIZ: Visualization of Effects of COVID-19 on New York City Through Socially Impactful Virtual Reality</a></td>
+        </tr>
+        
+    </table>
+</div>
+
+<div>
+<!-- TAKE ME TO THE EVENT START -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="notice--info">
+        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
+        <p>
+            <strong style="color: black;">Virbela Location:</strong> Expo Hall A (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
+
+            
+            
+            <br />
+            <strong style="color: black;">Discord Channel:</strong> <a href="https://discord.com/channels/785628120471699507/823244428104958033" target="_blank">Open in Browser</a>, <a href="discord://discord.com/channels/785628120471699507/823244428104958033">Open in App</a> (Participants only)
+            
+    
+        </p>
+    </div>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <!-- TAKE ME TO THE EVENT END-->
+</div>
+
+<div class="notice--info">
+    <strong>Best of IEEE VR 2021</strong>
+    <p>
+        Please use this form to vote for the best poster, best demo, and best 3DUI contest submission.
+    </p>
+    <center>
+        <p style="font-size: 20px;">
+            <a href="https://cutt.ly/Mx0n5Zu" class="btn btn--primary" style="color: white;" target="_blank">Vote!</a>
+        </p>
+    </center>
+</div>
+
+<div>
+    
+    <h3 id="PO1008">Dr.SupER</h3>
+    <p><small><strong> Booth C41 - Expo Hall A   </strong></small></p>
+    <p><i>Aspasia Triantafyllou: University of Patras; George Michalakis: University of Patras; Maria Kounalaki: University of Patras; Nikolaos Kotsarinis: University of Patras ; Panagiotis Sakellaropoulos: University of Patras; Konstatninos Moustakas: University of Patras</i></p>
+    <hr />
+    
+    <h3 id="PO1009">Rebirth-20 – relive after the COVID-19 and keep preventing against it</h3>
+    <p><small><strong> Booth C38 - Expo Hall A   </strong></small></p>
+    <p><i>Eloise Minder: Arts et métiers Institute of Technology; Maël Sombret: Ensam; Jean-Rémy Chardonnet: Arts et Métiers, Institut Image; Frederic Merienne: Arts et Metiers</i></p>
+    <hr />
+    
+    <h3 id="PO1010">The Pickrick Protests: An Interactive Geo AR Experience</h3>
+    <p><small><strong> Booth C42 - Expo Hall A   </strong></small></p>
+    <p><i>Yuchen Zhao: Georgia Tech; Daniel Patrick Trad Keehn: Georgia Tech; Amanda Wang: Georgia Tech; Jason Jiang: Georgia Tech; Janet Murray: Georgia Institute of Technology</i></p>
+    <hr />
+    
+    <h3 id="PO1013">Enhanced Low-cost Web-based Virtual Tour Experience for Prospective Students</h3>
+    <p><small><strong> Booth C37 - Expo Hall A   </strong></small></p>
+    <p><i>Maria Insa-Iglesias: Glasgow Caledonian University; Mark David Jenkins: Glasgow Caledonian University; Gordon Morison: Glasgow Caledonian University</i></p>
+    <hr />
+    
+    <h3 id="PO1014">Homemade XR: Enriching conversations and shortening social distancing</h3>
+    <p><small><strong> Booth C43 - Expo Hall A   </strong></small></p>
+    <p><i>Holman Cabezas: Militar Nueva Granada University; Nicolas Casanova: Universidad Militar Nueva Granada; Laura Cortes-Rico: Universidad Militar Nueva Granada; Wilson J. Sarmiento: Universidad Militar Nueva Granada</i></p>
+    <hr />
+    
+    <h3 id="PO1016">Virtual Demonstrator for Spatial Presentations</h3>
+    <p><small><strong> Booth C36 - Expo Hall A   </strong></small></p>
+    <p><i>Maxwell Omdal: University of Minnesota; David A Kinney: University of Minnesota; Kiet Tran: University of Minnesota; Evan Suma Rosenberg: University of Minnesota</i></p>
+    <hr />
+    
+    <h3 id="PO1017">Remote adversarial VR serious game simulating COVID-19 infection spread and protection protocols</h3>
+    <p><small><strong> Booth C44 - Expo Hall A   </strong></small></p>
+    <p><i>Michail Pavlou: University of Patras; Konstantinos Kalatzis: University of Patras; Agapi Chrysanthakopoulou: University of Patras; Dimitrios Laskos: University of Patras; Sotiris Georgakopoulos: University of Patras; Dimitris Voultsidis: University of Patras; Kostantinos Moustakas: University of Patras</i></p>
+    <hr />
+    
+    <h3 id="PO1018">Supporting Physical and Mental Health Rehabilitation at Home with Virtual Reality Headsets and Force Feedback Gloves</h3>
+    <p><small><strong> Booth C35 - Expo Hall A   </strong></small></p>
+    <p><i>Qisong Wang: University of Cambridge; Bo Kang: University of Cambridge; Per Ola Kristensson: University of Cambridge</i></p>
+    <hr />
+    
+    <h3 id="PO1019">Corona Beat - Kicking The Sedentary Habit Induced By Prolonged Social Distancing</h3>
+    <p><small><strong> Booth D41 - Expo Hall A   </strong></small></p>
+    <p><i>Jenny Gabel: University of Hamburg; Sukran Karaosmanoglu: Universität Hamburg; Celeste Mason: University of Hamburg; Sebastian Rings: Universität Hamburg; Frank Steinicke: Universität Hamburg</i></p>
+    <hr />
+    
+    <h3 id="PO1022">Virtual Reality System for Invasive Therapy</h3>
+    <p><small><strong> Booth D38 - Expo Hall A   </strong></small></p>
+    <p><i>Ruoyan Kong: University of Minnesota; Ruobing Wang: University of Minnesota; Zitao Shen: University of Minnesota</i></p>
+    <hr />
+    
+    <h3 id="PO1023">A Multi-Peer, Low Cost Immersive Communication System for Pandemic Times</h3>
+    <p><small><strong> Booth D42 - Expo Hall A   </strong></small></p>
+    <p><i>Redouane Kachach: Bell Labs; Diego González Morín: Nokia; Francisco Pereira: Bell Labs; Pablo Perez: Bell Labs; Ignacio Benito Frontelo: Bell Labs; Jaime Ruiz: Bell Labs; Ester Gonzalez-Sosa: Bell Labs; Alvaro Villegas: Bell Labs</i></p>
+    <hr />
+    
+    <h3 id="PO1024">Real-time Mixed Reality Teleconsultation for Intensive Care Units in Pandemic Situations</h3>
+    <p><small><strong> Booth D37 - Expo Hall A   </strong></small></p>
+    <p><i>Daniel Roth: Computer Aided Medical Procedures and Augmented Reality; Kevin Yu: Technical University of Munich; Frieder Pankratz: LMU; Gleb Gorbachev: Technische Universität München; Andreas Keller: Technische Universitaet Muenchen; Marc Lazarovici: Institut für Notfallmedizin; Prof. Dirk Wilhelm: Research Group MITI; Simon Weidert: LMU Munich ; Nassir Navab: Technische Universität München; Ulrich Eck: Technische Universitaet Muenchen</i></p>
+    <hr />
+    
+    <h3 id="PO1026">Fantastic Voyage 2021: Using Interactive VR Storytelling to Explain Targeted COVID-19 Vaccine Delivery to Antigen-presenting Cells</h3>
+    <p><small><strong> Booth D43 - Expo Hall A   </strong></small></p>
+    <p><i>Lei Zhang: Virginia Tech; Feiyu Lu: Virginia Tech; Ibrahim Asadullah Tahmid: Virginia Tech; Lee Lisle: Virginia Tech; Shakiba Davari: Virginia Tech; Nicolas Gutkowski: Virginia Tech; Luke Schlueter: Virginia Tech; Doug Bowman: Virginia Tech</i></p>
+    <hr />
+    
+    <h3 id="PO1027">COVID-Vision: A Virtual Reality Experience to Encourage Mindfulness of Social Distancing in Public Spaces</h3>
+    <p><small><strong> Booth D36 - Expo Hall A   </strong></small></p>
+    <p><i>Danhua Zhang: University of Minnesota; Malik Khadar: University of Minnesota; Brett W Schumacher: University of Minnesota; Madhava Raveendra: University of Minnesota; Sam Adeniyi: University of Minnesota; Fei Wu: University of Minnesota; Sahar Aseeri: University of Minnesota; Evan Suma Rosenberg: University of Minnesota</i></p>
+    <hr />
+    
+    <h3 id="PO1028">VR training for critical tasks - assembling the INSPIRE emergency pulmonary ventilator for COVID-19 treatment</h3>
+    <p><small><strong> Booth D44 - Expo Hall A   </strong></small></p>
+    <p><i>Andre Montes Rodrigues: USP; Allan Amaral Tori: University of Sao Paulo; Raissa Ré Guimarães Marques: University of Sao Paulo; Roseli de Deus Lopes Lopes: Escola Politécnica da USP; Marcelo Knorich Zuffo: Universidade de São Paulo</i></p>
+    <hr />
+    
+    <h3 id="PO1030">Augmented Reality Guidance for Configuring an Anesthesia Machine to Serve as a Ventilator for COVID-19 Patients</h3>
+    <p><small><strong> Booth D35 - Expo Hall A   </strong></small></p>
+    <p><i>Fangpu He: Columbia University; Mengyi Li: Columbia University; Robert Maniker: Columbia University Irving Medical Center; David Kessler: Columbia University Irving Medical Center; Steven Feiner: Columbia University</i></p>
+    <hr />
+    
+    <h3 id="PO1032">COVIZ: Visualization of Effects of COVID-19 on New York City Through Socially Impactful Virtual Reality</h3>
+    <p><small><strong> Booth E41 - Expo Hall A   </strong></small></p>
+    <p><i>Eric Goetschel: Columbia University; janane sekaran: Columbia University; Weihang Ren: Columbia University; Mingyi He: Columbia School of Social Work; Nnenne U. Ogbonnaya: Columbia University; Kudzaiishe Irene Mapfunde: Harvard University; COURTNEY D COGBURN: Columbia School of Social Work; Steven Feiner: Columbia University</i></p>
+    <hr />
+    
+</div>
+:ET

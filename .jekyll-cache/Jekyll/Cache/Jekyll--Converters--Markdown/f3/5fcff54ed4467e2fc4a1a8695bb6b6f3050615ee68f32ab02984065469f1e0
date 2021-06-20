@@ -1,0 +1,892 @@
+I"�,<style>
+    .styled-table {
+        border-collapse: collapse;
+        margin: 25px 0;
+        font-size: 0.8em;
+        font-family: sans-serif;
+        /*min-width: 400px;*/
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+        display: table;
+        
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .styled-table thead tr {
+        background-color: #00aeef;
+        color: #ffffff;
+        text-align: left;
+    }
+
+    .styled-table th,
+    .styled-table td {
+        padding: 12px 15px;
+        width: 25%;
+    }
+
+    .styled-table tbody tr {
+        border-bottom: 1px solid #dddddd;
+    }
+
+    .styled-table tbody tr:nth-of-type(even) {
+        background-color: #f3f3f3;
+    }
+
+    .styled-table tbody tr:last-of-type {
+        border-bottom: 2px solid #00aeef;
+    }
+
+    .styled-table tbody tr.active-row {
+        font-weight: bold;
+        color: #00aeef;
+    }
+    
+  /*div {
+        text-align: justify;
+        text-justify: inter-word;
+        }*/
+        
+    
+</style>
+
+<div>
+    
+<h1>IEEE VR 2021 Birds of a Feather</h1>
+
+<p> Shared interests bring VR 2021 attendees together! Registered attendees are invited to create their own social sessions using IEEE VR 2021 Virbela, Discord. 
+    These are attendee-organized explorations or collaborations on topics impacting the field.
+    We encourage attendees to consider any topic or idea, including purely social gatherings aimed at hanging out and chatting with other attendees. <br /> </p> 
+    <p> <strong>How?</strong> Register a BoF session using the google form on VR’s Discord (<b style="color: black">#bof</b>)! <br /></p> 
+    <p>We will collect them until Monday afternoon and create separate Discord channels for each. These will be published on Monday, also on the website, and in Virbela. Each organizer can use a Virbela room, the Discord channel, and will need to provide a zoom link for the video. As the organizer, you are responsible for ensuring a safe environment that follows the conference Code of Conduct. Please feel free to reach out to anyone on the conference committee if you need assistance, and please report any problematic behavior.</p>
+
+</div>
+
+<div>
+    <table class="styled-table">
+
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#BOFSocialX1">Accessible XR</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#BOFSocialX2">UNC Celebration</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#BOFSocialX3">IEEE AIVR 2021 get-together</a></td>
+        </tr>
+        
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#BOFSocialX4">Towards real-time evaluation of cyber-sickness in VR</a></td>
+        </tr>
+        
+    </table>
+</div>
+
+<div>
+    
+    
+    <h2 id="BOFSocialX1">BoF: Accessible XR</h2>
+    
+    <!-- TAKE ME TO THE EVENT START -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="notice--info">
+        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
+        <p>
+            
+            <strong style="color: black;">Virbela Location:</strong> VR Workshop Square -  Aveiro (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)                     
+            
+
+            
+            
+            <br />
+            <strong style="color: black;">Discord Channel:</strong> <a href="https://discord.com/channels/785628120471699507/825801842079826031" target="_blank">Open in Browser</a>, <a href="discord://discord.com/channels/785628120471699507/825801842079826031">Open in App</a> (Participants only)
+            
+            
+        </p>
+    </div>
+
+    
+    
+    
+    
+    
+    
+    
+    
+    <!-- TAKE ME TO THE EVENT END-->
+    
+    <p style="font-size: 0.8em;">Tuesday, March 30th, 16:00-17:00 UTC+1</p>
+    
+    <p> <strong> John Quarles </strong> <br /> </p>
+    <p> <strong style="color: black;"> Description: </strong> Let's make XR more accessible and inclusive for everyone.</p>
+    
+    
+    
+    
+    <h2 id="BOFSocialX2">BoF: UNC Celebration</h2>
+    
+    <!-- TAKE ME TO THE EVENT START -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="notice--info">
+        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
+        <p>
+            
+            <strong style="color: black;">Virbela Location:</strong> Virbela (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
+            
+
+            
+            
+            <br />
+            <strong style="color: black;">Discord Channel:</strong> <a href="https://discord.com/channels/785628120471699507/825801912858181692" target="_blank">Open in Browser</a>, <a href="discord://discord.com/channels/785628120471699507/825801912858181692">Open in App</a> (Participants only)
+            
+            
+        </p>
+    </div>
+
+    
+    
+    
+    
+    
+    
+    <!-- TAKE ME TO THE EVENT END-->
+    
+    <p style="font-size: 0.8em;">Tuesday, March 30th, 16:00-17:00 UTC+1</p>
+    
+    <p> <strong> Tabitha Peck </strong> <br /> </p>
+    <p> <strong style="color: black;"> Description: </strong> For UNC affiliates and friends to celebrate and honor Mary Whitton and David Luebke.</p>
+    
+    
+    
+    
+    <h2 id="BOFSocialX3">BoF: IEEE AIVR 2021 get-together</h2>
+    
+    <!-- TAKE ME TO THE EVENT START -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="notice--info">
+        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
+        <p>
+            
+            <strong style="color: black;">Virbela Location:</strong> Virbela (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
+            
+
+            
+            
+            <br />
+            <strong style="color: black;">Discord Channel:</strong> <a href="https://discord.com/channels/785628120471699507/826012268092719114" target="_blank">Open in Browser</a>, <a href="discord://discord.com/channels/785628120471699507/826012268092719114">Open in App</a> (Participants only)
+            
+            
+        </p>
+    </div>
+
+    
+    
+    
+    
+    <!-- TAKE ME TO THE EVENT END-->
+    
+    <p style="font-size: 0.8em;">Wednesday, March 31st, 9:30-10:30 UTC+1</p>
+    
+    <p> <strong> Wolfgang Hürst </strong> <br /> </p>
+    <p> <strong style="color: black;"> Description: </strong> Interested in IEEE AIVR 2021? Drop by for more infos, to get involved or just chat with some of the organisers.</p>
+    
+    
+    
+    
+    <h2 id="BOFSocialX4">BoF: Towards real-time evaluation of cyber-sickness in VR</h2>
+    
+    <!-- TAKE ME TO THE EVENT START -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="notice--info">
+        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
+        <p>
+            
+            <strong style="color: black;">Virbela Location:</strong> Virbela (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
+            
+
+            
+            
+            <br />
+            <strong style="color: black;">Discord Channel:</strong> <a href="https://discord.com/channels/785628120471699507/826029055706529803" target="_blank">Open in Browser</a>, <a href="discord://discord.com/channels/785628120471699507/826029055706529803">Open in App</a> (Participants only)
+            
+            
+        </p>
+    </div>
+
+    
+    
+    <!-- TAKE ME TO THE EVENT END-->
+    
+    <p style="font-size: 0.8em;">Tuesday, March 30th, 16:00-17:00 UTC+1</p>
+    
+    <p> <strong> Yuyang Wang </strong> <br /> </p>
+    <p> <strong style="color: black;"> Description: </strong> Cybersickness is an annoying issue in locomotion-dominated VR applications, while the online evaluation of cybersickness during the use of VR will benefit many developers and researchers. Currently, an approach to evaluating cybersickness is using subjective questionnaires (e.g., SSQ), but the questionnaire-based evaluation will interrupt the experiment and introduce huge individual variances. Can we develop some tools to report cybersickness in real-time according to physiological signals such as EDA, Heart rate, EEG, Posture sway, etc.?  Which feature can be extracted as the best online cybersickness indicator? Can artificial intelligence algorithms work? How can we validate its performance? If you have any ideas or are interested in this topic, come to join us! </p>
+    
+    
+    
+</div>
+
+:ET
