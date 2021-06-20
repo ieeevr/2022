@@ -148,7 +148,7 @@ title: "Conference Committee"
 									
 	<h2>	VR in VR Chairs / Streaming	</h2>						
 		<ul>							
-			<li>	Rob	Lindemann	&#x2012; <i>	HIT Lab NZ, University of Canterbury, New Zealand	</i></li>	
+			<li>	Rob	Lindeman	&#x2012; <i>	HIT Lab NZ, University of Canterbury, New Zealand	</i></li>	
 			<li>	Jason	Orlosky	&#x2012; <i>	Augusta University, USA	</i></li>	
 		</ul>							
 									
