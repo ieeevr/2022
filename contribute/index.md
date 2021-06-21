@@ -8,12 +8,12 @@ title: "Call for Journal Papers"
     
 <h2 id="important-dates"> Important Dates </h2>
 <ul>
-    <li><b>September 1, 2021</b>: Abstracts due <b>(REQUIRED)</b></li>
-    <li><b>September 6, 2021</b>: Submissions due</li>
-    <li><b>October 29, 2021</b>: Notification of first review cycle results</li>
-    <li><b>December 3, 2021</b>: Revised paper submissions due to second review cycle</li>
-    <li><b>January 7, 2022</b>: Final notifications</li>
-    <li><b>January 22, 2022</b>: Camera-ready material due from authors of accepted papers</li>
+    <li><b>September 1, 2021</b>:   Abstracts due <b>(REQUIRED)</b></li>
+    <li><b>September 6, 2021</b>:   Submissions due</li>
+    <li><b>October 29, 2021</b>:    Notification of first review cycle results</li>
+    <li><b>December 3, 2021</b>:    Revised paper submissions due to second review cycle</li>
+    <li><b>January 7, 2022</b>:     Final notifications</li>
+    <li><b>January 22, 2022</b>:    Camera-ready material due from authors of accepted papers</li>
 </ul>
 
 <h2 id="links"> Links </h2>
@@ -31,7 +31,7 @@ title: "Call for Journal Papers"
 </p>
 
 <h2 id="submission-guidelines">Submission Guidelines</h2>
-<p align="left">
+<p style="align:left ! important;">
     Paper abstracts and complete papers must be submitted electronically through PCS: <a href="https://new.precisionconference.com/~vr">https://new.precisionconference.com/~vr</a>
 </p>
 <p>
@@ -156,7 +156,7 @@ IEEE VR 2022 seeks contributions in VR/AR/MR and 3DUI including, but not limited
 </p>
 <p>
     <div class="notice--info">
-        <b>Failure to make reasonable attempts to adhere to the double-blind policy will result in desk rejection.</b>
+        <b class="notice--text">Failure to make reasonable attempts to adhere to the double-blind policy will result in desk rejection.</b>
     </div>
 </p>
 <p>
@@ -174,7 +174,7 @@ IEEE VR 2022 seeks contributions in VR/AR/MR and 3DUI including, but not limited
 </p>
 <p> 
     <div class="notice--info">
-        <b>The submission deadlines will be strictly enforced. Requests for extensions will not be honored.</b>
+        <b style="background-color: $theme-yellow ! important;">The submission deadlines will be strictly enforced. Requests for extensions will not be honored.</b>
     </div>
 </p>
     <ul>
@@ -186,7 +186,7 @@ IEEE VR 2022 seeks contributions in VR/AR/MR and 3DUI including, but not limited
     <li><b>January 22, 2022</b>: Camera-ready material due from authors of accepted papers</li>
 </ul>
 
-<p>
+<p style="align:left ! important;">
     Paper abstracts and complete papers must be submitted electronically through PCS: 
     <a href="https://new.precisionconference.com/~vr">https://new.precisionconference.com/~vr</a>
 </p>

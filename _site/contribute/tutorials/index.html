@@ -110,7 +110,7 @@
       <!-- start custom head snippets -->
 
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
-<link rel="shortcut icon" type="image/png" href="https://www.ieeevr.org/ieeevrtemp/favicon.png"/> 
+<link rel="shortcut icon" type="image/png" href="https://www.ieeevr.org/2022/favicon.png"/> 
 
 <!-- end custom head snippets -->
 
@@ -149,7 +149,7 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         
-          <a class="site-logo" href="/"><img src="/ieeevrtemp/favicon.png" alt=""></a>
+          <a class="site-logo" href="/"><img src="/2022/favicon.png" alt=""></a>
         
         <a class="site-title" href="/">
           IEEE VR 2022
@@ -377,6 +377,15 @@
         color: $theme-text;
     }
 
+    .notice--info * {
+        background-color: $theme-yellow ! important;
+        color: $theme-text ! important;
+    }
+
+    .notice--text {
+        background-color: $theme-yellow ! important;
+        color: $theme-text ! important;
+    }
 
     @media screen and (max-width: 900px) {
         .left {
@@ -718,7 +727,7 @@
             <div class="ieeevrfooter">
                 <hr>
                 <small><a href=/attend/code-of-conduct/>Code of Conduct</a></small><br/>
-                <p>© IEEEVR Conference</p>
+                <p style="align:center ! important">© IEEEVR Conference</p>
             </div>
         </section>
 
