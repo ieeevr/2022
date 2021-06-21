@@ -36,7 +36,7 @@ title: "Conference Committee"
 			<li style="list-style: none">	conferencepapers2022	[at] ieeevr.org			</li>	
 		</ul>							
 									
-	<h2>	Finance Chair	</h2>						
+	<h2>	Finance Chairs	</h2>						
 		<ul>							
 			<li>	Chris	Buyarski	&#x2012; <i>	HIT Lab NZ, University of Canterbury, New Zealand	</i></li>	
 			<li style="list-style: none">	finance2022	[at] ieeevr.org			</li>	
