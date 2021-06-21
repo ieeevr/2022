@@ -39,7 +39,7 @@ title: "Conference Committee"
 	<h2>	Finance Chair	</h2>						
 		<ul>							
 			<li>	Chris	Buyarski	&#x2012; <i>	HIT Lab NZ, University of Canterbury, New Zealand	</i></li>	
-			<li style="list-style: none">	finance2022	[at] ieeevr.org			</li>
+			<li style="list-style: none">	finance2022	[at] ieeevr.org				
 		</ul>							
 									
 	<h2>	3DUI Contest Chairs	</h2>						
@@ -69,8 +69,8 @@ title: "Conference Committee"
 	<h2>	Local Arrangements Chairs	</h2>						
 		<ul>							
 			<li>	Tracey	Thomas	&#x2012; <i>	Conference Innovators, New Zealand	</i></li>	
-			<li>	Charlotte	Emery	&#x2012; <i>	Conference Innovators, New Zealand	</i></li>
-			<li style="list-style: none">	localarrangements2022	[at] ieeevr.org			</li>
+			<li>	Charlotte	Emery	&#x2012; <i>	Conference Innovators, New Zealand	</i></li>	
+			<li style="list-style: none">	localarrangements2022	[at] ieeevr.org				
 		</ul>							
 									
 <!--	<h2>	Panel and (Keynote) Chairs	</h2>						
@@ -83,6 +83,7 @@ title: "Conference Committee"
 			<li>	Simon	Hoermann	&#x2012; <i>	University of Canterbury, New Zealand	</i></li>	
 			<li>	Katharina	Krösl	&#x2012; <i>	VRVis Zentrum für Virtual Reality und Visualisierung, Austria	</i></li>	
 			<li>	Daniel	Zielasko	&#x2012; <i>	University of Trier, Germany	</i></li>	
+			<li>	Marina	Cidota	&#x2012; <i>	University of Bucharest, Romania	</i></li>	
 			<li style="list-style: none">	posters2022	[at] ieeevr.org			</li>	
 		</ul>							
 									
@@ -96,12 +97,14 @@ title: "Conference Committee"
 	<h2>	Publicity Chair	</h2>						
 		<ul>							
 			<li>	Barret	Ens	&#x2012; <i>	Monash University, Australia	</i></li>	
+			<li>	Takefumi	Hiraki	&#x2012; <i>	University of Tsukuba, Japan	</i></li>	
 			<li style="list-style: none">	publicity2022	[at] ieeevr.org			</li>	
 		</ul>							
 									
 	<h2>	Research Demonstrations Chairs	</h2>						
 		<ul>							
 			<li>	Alexandre	Gomes de Siqueira	&#x2012; <i>	University of Florida, USA	</i></li>	
+			<li>	Arindem	Dey	&#x2012; <i>	University of Queensland, Australia	</i></li>	
 			<li style="list-style: none">	researchdemonstrations2022	[at] ieeevr.org			</li>	
 		</ul>							
 									
@@ -157,4 +160,4 @@ title: "Conference Committee"
 <!--	<h2>	Streaming Chairs	</h2>						
 		<ul>							
 		</ul>							-->
-</div>									
+---									
