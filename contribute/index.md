@@ -31,7 +31,7 @@ title: "Call for Journal Papers"
 </p>
 
 <h2 id="submission-guidelines">Submission Guidelines</h2>
-<p style="align:left ! important;">
+<p style="text-align: left ! important;">
     Paper abstracts and complete papers must be submitted electronically through PCS: <a href="https://new.precisionconference.com/~vr">https://new.precisionconference.com/~vr</a>
 </p>
 <p>
@@ -186,7 +186,7 @@ IEEE VR 2022 seeks contributions in VR/AR/MR and 3DUI including, but not limited
     <li><b>January 22, 2022</b>: Camera-ready material due from authors of accepted papers</li>
 </ul>
 
-<p style="align:left ! important;">
+<p style="text-align:left ! important;">
     Paper abstracts and complete papers must be submitted electronically through PCS: 
     <a href="https://new.precisionconference.com/~vr">https://new.precisionconference.com/~vr</a>
 </p>

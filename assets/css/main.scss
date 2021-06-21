@@ -43,6 +43,7 @@ $warning-color: #841525 !default;
 @media(hover: hover) and (pointer: fine){
     #myBtnTop:hover {
     background-color: $theme-navy;
+    color: $theme-yellow;
     }
 }
 
