@@ -107,7 +107,7 @@ const struct message requests[] =
 #define FIREFOX_GET 1
 , {.name= "firefox get"
   ,.type= HTTP_REQUEST
-  ,.raw= "GET /favicon.ico HTTP/1.1\r\n"
+  ,.raw= "GET /favicon.png HTTP/1.1\r\n"
          "Host: 0.0.0.0=5000\r\n"
          "User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9) Gecko/2008061015 Firefox/3.0\r\n"
          "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\n"
@@ -124,8 +124,8 @@ const struct message requests[] =
   ,.method= HTTP_GET
   ,.query_string= ""
   ,.fragment= ""
-  ,.request_path= "/favicon.ico"
-  ,.request_url= "/favicon.ico"
+  ,.request_path= "/favicon.png"
+  ,.request_url= "/favicon.png"
   ,.num_headers= 8
   ,.headers=
     { { "Host", "0.0.0.0=5000" }
