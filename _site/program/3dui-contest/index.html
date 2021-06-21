@@ -237,7 +237,7 @@
 
     .dropdown-content a {
         float: none;
-        color: #262626;
+        color: $theme-text;
         padding: 12px 16px;
         text-decoration: none;
         display: block;
@@ -367,7 +367,14 @@
         margin-right: 30px;
     }
 
+    .ieeevrmsgbox { // Any boxes with the theme-primary color as background
+      background-color: $theme-yellow;
+      border-radius: 7px;
+    }
 
+    .ieeevrmsgbox b {
+        color: $theme-text;
+    }
 
 
     @media screen and (max-width: 900px) {
@@ -1095,11 +1102,62 @@
                         <h4 style="border-bottom: 1px solid black;padding-bottom: 5px;">Conference Sponsors</h4>
 
                         <div style="background-color: #fec10d; border-radius: 7px;">
-                            <b style="color: #262626;">Diamond</b>
+                            <b style="color: #303030">Diamond</b>
                         </div>
                         <br>
                             <!--<a href="https://www.virbela.com/" target="_blank">
-                                <img class="conf-icon" style="width: 90%;" src=/assets/images/sponsors/Virbela-logo.png>Code of Conduct</a></small><br/>
+                                <img class="conf-icon" style="width: 90%;" src=/assets/images/sponsors/Virbela-logo.png alt="Virbela Logo">
+                            </a>
+                            <br>-->
+                        <br>
+                        <div style="background-color: #fec10d; border-radius: 7px;">
+                            <b style="color: #303030">Gold</b>
+                        </div>
+                        <br>
+                        
+                         <br>
+                        <div style="background-color: #fec10d; border-radius: 7px;">
+                            <b style="color: #303030">Silver</b>
+                        </div>
+                        <br>
+                            
+                        <br>
+                        <div style="background-color: #fec10d; border-radius: 7px;">
+                            <b style="color: #303030">Bronze</b>
+                        </div>
+                        <br>
+                        
+                        <br>
+
+                        <h4 style="border-bottom: 1px solid black;padding-bottom: 5px;">Supporter</h4>
+                        <!--<a href="https://gpcg.pt/website/en/" target="_blank">
+                            <img class="conf-icon" style="width: 95%;padding-top: 5px;" src=/assets/images/sponsors/CGILogo.pngalt="GPCG Logo">
+                        </a>
+                        <br>-->
+
+                        <h4 style="border-bottom: 1px solid black;padding-bottom: 5px;">Doctoral Consortium Sponsors</h4>
+                        <!--<a href="https://www.nsf.gov" target="_blank">
+                            <img class="conf-icon" style="width: 65%;" src=/assets/images/sponsors/nsf.jpg alt="NSF Logo">
+                        </a>
+                        <br>-->
+
+                        <h4 style="border-bottom: 1px solid black;padding-bottom: 5px;">Conference Partner</h4>
+                        <!--<a href="https://www.cioapplicationseurope.com" target="_blank">
+                            <img class="conf-icon" style="width: 90%;" src=/assets/images/sponsors/cio-applications-europe.png alt="CIO Applications Europe Website">
+                        </a>
+                        <br>
+                        <br>-->
+                    </div>
+
+
+
+                </div>
+            </div>
+
+            <!--  footer -->
+            <div class="ieeevrfooter">
+                <hr>
+                <small><a href=/attend/code-of-conduct/>Code of Conduct</a></small><br/>
                 <p>© IEEEVR Conference</p>
             </div>
         </section>

@@ -12,6 +12,7 @@
 $theme-yellow: #fec10d;
 $theme-teal: #009cb4;
 $theme-navy: #103b62;
+$theme-text: #363636;
 
 $link-color: $theme-teal !default;
 $primary-color: $theme-yellow !default;
@@ -35,11 +36,17 @@ $warning-color: #841525 !default;
   border: none;
   outline: none;
   background-color: $theme-yellow;
-  color: white;
+  color: $theme-text;
   cursor: pointer;
   padding: 15px;
   border-color: 1px solid white;
   border-radius: 4px;
+}
+
+#myMessageBox { // Any boxes with the theme-primary color as background
+  background-color: $theme-yellow;
+  color: $theme-text;
+  border-radius: 7px;
 }
 
 @media(hover: hover) and (pointer: fine){
