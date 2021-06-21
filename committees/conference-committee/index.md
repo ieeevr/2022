@@ -39,7 +39,7 @@ title: "Conference Committee"
 	<h2>	Finance Chair	</h2>						
 		<ul>							
 			<li>	Chris	Buyarski	&#x2012; <i>	HIT Lab NZ, University of Canterbury, New Zealand	</i></li>	
-			<li style="list-style: none">	finance2022	[at] ieeevr.org				
+			<li style="list-style: none">	finance2022	[at] ieeevr.org			</li>	
 		</ul>							
 									
 	<h2>	3DUI Contest Chairs	</h2>						
@@ -70,7 +70,7 @@ title: "Conference Committee"
 		<ul>							
 			<li>	Tracey	Thomas	&#x2012; <i>	Conference Innovators, New Zealand	</i></li>	
 			<li>	Charlotte	Emery	&#x2012; <i>	Conference Innovators, New Zealand	</i></li>	
-			<li style="list-style: none">	localarrangements2022	[at] ieeevr.org				
+			<li style="list-style: none">	localarrangements2022	[at] ieeevr.org			</li>	
 		</ul>							
 									
 <!--	<h2>	Panel and (Keynote) Chairs	</h2>						
@@ -160,4 +160,4 @@ title: "Conference Committee"
 <!--	<h2>	Streaming Chairs	</h2>						
 		<ul>							
 		</ul>							-->
----									
+</div>									
