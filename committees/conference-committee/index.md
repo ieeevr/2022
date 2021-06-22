@@ -36,7 +36,7 @@ title: "Conference Committee"
 			<li style="list-style: none">	conferencepapers2022	[at] ieeevr.org			</li>	
 		</ul>							
 									
-	<h2>	Finance Chairs	</h2>						
+	<h2>	Finance Chair	</h2>						
 		<ul>							
 			<li>	Chris	Buyarski	&#x2012; <i>	HIT Lab NZ, University of Canterbury, New Zealand	</i></li>	
 			<li style="list-style: none">	finance2022	[at] ieeevr.org			</li>	
@@ -94,7 +94,7 @@ title: "Conference Committee"
 			<li style="list-style: none">	publications2022	[at] ieeevr.org			</li>	
 		</ul>							
 									
-	<h2>	Publicity Chair	</h2>						
+	<h2>	Publicity Chairs	</h2>						
 		<ul>							
 			<li>	Barret	Ens	&#x2012; <i>	Monash University, Australia	</i></li>	
 			<li>	Takefumi	Hiraki	&#x2012; <i>	University of Tsukuba, Japan	</i></li>	
