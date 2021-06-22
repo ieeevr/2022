@@ -104,7 +104,7 @@ title: "Conference Committee"
 	<h2>	Research Demonstrations Chairs	</h2>						
 		<ul>							
 			<li>	Alexandre	Gomes de Siqueira	&#x2012; <i>	University of Florida, USA	</i></li>	
-			<li>	Arindem	Dey	&#x2012; <i>	University of Queensland, Australia	</i></li>	
+			<li>	Arindam	Dey	&#x2012; <i>	University of Queensland, Australia	</i></li>	
 			<li style="list-style: none">	researchdemonstrations2022	[at] ieeevr.org			</li>	
 		</ul>							
 									
