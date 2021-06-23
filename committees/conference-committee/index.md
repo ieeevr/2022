@@ -98,6 +98,7 @@ title: "Conference Committee"
 		<ul>							
 			<li>	Barret	Ens	&#x2012; <i>	Monash University, Australia	</i></li>	
 			<li>	Takefumi	Hiraki	&#x2012; <i>	University of Tsukuba, Japan	</i></li>	
+			<li>	John	Quarles	&#x2012; <i>	University of Texas at San Antonio, USA	</i></li>	
 			<li style="list-style: none">	publicity2022	[at] ieeevr.org			</li>	
 		</ul>							
 									
@@ -105,6 +106,7 @@ title: "Conference Committee"
 		<ul>							
 			<li>	Alexandre	Gomes de Siqueira	&#x2012; <i>	University of Florida, USA	</i></li>	
 			<li>	Arindam	Dey	&#x2012; <i>	University of Queensland, Australia	</i></li>	
+			<li>	Vinoba	Vinayagamoorthy	&#x2012; <i>	BBC Research & Development, London	</i></li>	
 			<li style="list-style: none">	researchdemonstrations2022	[at] ieeevr.org			</li>	
 		</ul>							
 									
@@ -131,10 +133,11 @@ title: "Conference Committee"
 			<li style="list-style: none">	web2022	[at] ieeevr.org			</li>	
 		</ul>							
 									
-	<h2>	Workshops Chairs	</h2>						
+	<h2>	Workshop Chairs	</h2>						
 		<ul>							
 			<li>	Mashhudda	Glencross	&#x2012; <i>	University of Queensland, Australia	</i></li>	
 			<li>	Lap-Fai (Craig)	Yu	&#x2012; <i>	George Mason University, USA	</i></li>	
+			<li>	Bhuvaneswari	Sarupuri	&#x2012; <i>	INRIA, University of Rennes 2, France	</i></li>	
 			<li style="list-style: none">	workshops2022	[at] ieeevr.org			</li>	
 		</ul>							
 									
