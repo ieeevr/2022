@@ -19,7 +19,7 @@ title: "Call for Journal Papers"
 <h2 id="links"> Links </h2>
 <ul>
     <li>Both abstracts and complete papers must be submitted electronically through PCS: <a href="https://new.precisionconference.com/~vr">https://new.precisionconference.com/~vr</a></li>
-    <li>All VR Journal Papers submissions must be formatted using the IEEE Computer Society TVCG journal format described at <a href="http://junctionpublishing.org/vgtc/Tasks/camera_tvcg.html">http://junctionpublishing.org/vgtc/Tasks/camera_tvcg.html</a></li>
+    <li>All VR Journal Papers submissions must be formatted using the IEEE Computer Society TVCG journal format described at <a href="https://tc.computer.org/vgtc/publications/journal/">https://tc.computer.org/vgtc/publications/journal/</a></li>
 </ul>
 
 <h2 id="overview">Overview</h2>
@@ -192,7 +192,7 @@ IEEE VR 2022 seeks contributions in VR/AR/MR and 3DUI including, but not limited
 </p>
 <p>
     All VR Journal Papers submissions must be formatted using the IEEE Computer Society TVCG journal format described at
-    <a href="http://junctionpublishing.org/vgtc/Tasks/camera_tvcg.html">http://junctionpublishing.org/vgtc/Tasks/camera_tvcg.html</a>
+    <a href="https://tc.computer.org/vgtc/publications/journal/">https://tc.computer.org/vgtc/publications/journal/</a>
 </p>
 
 <!--
