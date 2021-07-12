@@ -151,6 +151,7 @@ title: "Conference Committee"
 			<li>	Stephanie	Carnell	&#x2012; <i>	University of Central Florida, USA	</i></li>	
 			<li>	Tonja	Machulla	&#x2012; <i>	LMU München, Germany	</i></li>	
 			<li>	Catarina	Moreira	&#x2012; <i>	Queensland University of Technology, Australia	</i></li>	
+			<li>	Rory 	Clifford	&#x2012; <i>	HIT Lab NZ, University of Canterbury, New Zealand	</i></li>	
 			<li style="list-style: none">	diversity2022	[at] ieeevr.org			</li>	
 		</ul>							
 									
