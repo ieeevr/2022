@@ -91,6 +91,7 @@ title: "Conference Committee"
 		<ul>							
 			<li>	Christos	Mousas	&#x2012; <i>	Purdue University, USA	</i></li>	
 			<li>	Mohammed Safayet	Arefin	&#x2012; <i>	Mississippi State University, USA	</i></li>	
+			<li>	Matias	Volonte	&#x2012; <i>	Northeastern University, USA	</i></li>	
 			<li style="list-style: none">	publications2022	[at] ieeevr.org			</li>	
 		</ul>							
 									
