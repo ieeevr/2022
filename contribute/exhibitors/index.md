@@ -70,27 +70,23 @@ title_separator: "|"
 
 
 <div>
-    <p>
-        More information coming soon, please watch this space.
-    </p>
-    <!--
     <h1>Exhibitors and Sponsors Call for Participation</h1>
     <p>
-        <strong style="color: black">IEEE VR 2021: the 28th IEEE Conference on Virtual Reality and 3D User Interfaces March 27-April 2, 2021, Virtual</strong>
+        <strong style="color: black">IEEE VR 2022: the 29th IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
         <br />
-        <a href="http://ieeevr.org/2021/">http://ieeevr.org/2021/</a>
+        <a href="http://ieeevr.org/2022/">http://ieeevr.org/2022/</a>
     </p>
 
 
-    <div class="notice--info">
+    <!--<div class="notice--info">
         <p><strong>
                 Please click <a href="/2021/program/exhibitors/">HERE</a> to see the conferences designated exhibit hours
             </strong>
         </p>
-    </div>
+    </div>-->
 
 
-    <div style="border: solid 1px #656565; border-radius: 7px;">
+    <!--<div style="border: solid 1px #656565; border-radius: 7px;">
         <div style="padding: 30px 30px 30px 30px;">
             <p>
                 To our Exhibitor and Sponsors,
@@ -115,17 +111,17 @@ title_separator: "|"
                 The IEEE VR 2021 Conference Committee
             </p>
         </div>
-    </div>
+    </div>-->
 
 
 
-    <h2>Important Dates</h2>
+    <!--<h2>Important Dates</h2>
 
     <ul>
         <li><strong>29 January, 2021:</strong> Deadline for application and full payment</li>
         <li><strong>5 February, 2021:</strong> No refunds for cancellations</li>
         <li><strong>19 February, 2021:</strong> Space assignment mailed to exhibitors</li>
-    </ul>
+    </ul>-->
 
 
     <h2>Overview</h2>
@@ -152,7 +148,7 @@ title_separator: "|"
             <div class="exhibitors-column" style="display: flex; flex: 30%; justify-content: center; align-items: center;">
                 <div style="">
                     <p style="font-size: 20px;">
-                        <a href="/2021/assets/contribute/exhibitors/VR-Prospectus-2021-rp-online012021.pdf" class="btn btn--primary" style="border: 2px solid white;">Go for it!</a>
+                        <a href="/2021/assets/contribute/exhibitors/IEEE_VR_Partnership_Prospectus_v2.pdf" class="btn btn--primary" style="border: 2px solid white;">Go for it!</a>
                     </p>
                 </div>
             </div>
@@ -161,7 +157,7 @@ title_separator: "|"
 
 
 
-    <h2 id="events-schedule-at-a-glance">Events Schedule At-a-Glance</h2>
+    <!--<h2 id="events-schedule-at-a-glance">Events Schedule At-a-Glance</h2>
 
     <ul>
         <li><strong>27-28 March, 2021:</strong> Workshops, tutorials, and Doctoral Colloquium</li>
@@ -169,12 +165,9 @@ title_separator: "|"
         <li><strong>29 March, 2021:</strong> Exhibitor Reception – Your first opportunity to meet and capture the attention of all the conference attendees.</li>
         <li><strong>29-01 April, 2021:</strong> VR Conference and Exhibion</li>
         <li><strong>31 March, 2021:</strong> Exhibits Tear down</li>
-    </ul>
+    </ul>-->
 
     <h2 id="contacts">Contacts</h2>
 
-    <p>For more information, please contact Regan Pickett at <a href="mailto:r.pickett@computer.org">r.pickett@computer.org</a> or +1 714-822-8022.</p>
-
-
-    -->
+    <p>For more information, please contact the Exhibits and Sponsors chairs at <a href="mailto:sponsorship2022@ieeevr.org">sponsorship2022 [at] ieeevr.org</a></p>
 </div>
