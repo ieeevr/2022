@@ -17,7 +17,7 @@ title_separator: "|"
 
     .exhibitors-row {
         display: flex;
-        background-color: #00aeef;
+        background-color: #fec10d;
         border-radius: 10px;
         padding: 10px;
     }
@@ -133,27 +133,27 @@ title_separator: "|"
     </p>
 
     <div class="exhibitors-center">
-        <div class="exhibitors-row">
-            <div class="exhibitors-column" style="flex: 70%;">
-                <strong style="color:white;font-size: 25px">Become a Sponsor or Exhibitor</strong>
+    <div class="exhibitors-row">
+        <div class="exhibitors-column" style="flex: 70%;">
+            <strong style="color:white;font-size: 25px">Become a Sponsor or Exhibitor</strong>
+            <br /><br />
+            <p style="color:white; font-size:12pt; line-height:20px;">
+                Connect with international experts and influencers who can evaluate your products and influence their adoption.
                 <br /><br />
-                <p style="color:white; font-size:12pt; line-height:20px;">
-                    Connect with international experts and influencers who can evaluate your products and influence their adoption.
-                    <br /><br />
-                    Position your company as a leader in the VR space by showcasing your innovations to over 500 attendees.
-                    <br /><br />
-                    Gain worldwide recognition and visibility for your brand with enhanced branding opportunities.
+                Position your company as a leader in the VR space by showcasing your innovations to over 500 attendees.
+                <br /><br />
+                Gain worldwide recognition and visibility for your brand with enhanced branding opportunities.
+            </p>
+        </div>
+        <div class="exhibitors-column" style="display: flex; flex: 30%; justify-content: center; align-items: center;">
+            <div style="">
+                <p style="font-size: 20px;">
+                    <a href="{{"/assets/contribute/exhibitors/IEEE_VR_Partnership_Prospectus_v2.pdf" | relative_url }}" class="btn btn--primary" style="border: 2px solid white;">Go for it!</a>
                 </p>
-            </div>
-            <div class="exhibitors-column" style="display: flex; flex: 30%; justify-content: center; align-items: center;">
-                <div style="">
-                    <p style="font-size: 20px;">
-                        <a href={{ "/assets/contribute/exhibitors/IEEE_VR_Partnership_Prospectus_v2.pdf" | relative_url }} class="btn btn--primary" style="border: 2px solid white;">Go for it!</a>
-                    </p>
-                </div>
             </div>
         </div>
     </div>
+</div>
 
 
 
