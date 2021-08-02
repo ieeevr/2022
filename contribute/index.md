@@ -139,7 +139,11 @@ IEEE VR 2022 seeks contributions in VR/AR/MR and 3DUI including, but not limited
 <p>
     In some situations, a submission may build upon prior work. In order to fully explain the relationship between the submitted paper and prior work, 
     authors may upload additional papers as well as a non-anonymous letter of explanation that highlights the significant changes or advances; 
-    these materials will only be seen by the primary reviewer.
+    these materials will only be seen by the primary reviewer. Specifically, this treatment is applied to the following cases:
+    <ul>
+        <li>non peer-reviewed works that are publicly available (on arXiv, as a technical report, etc.)</li>
+        <li>non-archival publications presented in past IEEE VR conferences (posters, demos, etc.)</li>
+    </ul>
 </p>
 <p>
     Submissions will be checked for plagiarism using IEEE Crosscheck. Detection of significant plagiarism will lead to rejection. 
@@ -150,7 +154,7 @@ IEEE VR 2022 seeks contributions in VR/AR/MR and 3DUI including, but not limited
 <p>
     <b>IEEE VR uses a DOUBLE-BLIND review process.</b> This means that both the authors and the reviewers must remain anonymous to each other. 
     Submissions (<b>including citations and optional videos</b>) must not contain information that identifies the authors, their institutions, funding 
-    sources, or their places of work. Relevant previous work by the authors must be cited in the third person to preserve anonymity. Authors 
+    sources, or their places of work. Relevant previous work by the authors must be cited in the third person to preserve anonymity (exceptions were described above). Authors 
     should work diligently to ensure that their submissions do not expose their identities either intentionally or through carelessness.
     Authors that have questions/issues around the double-blind submission policy should contact the program chairs.
 </p>
