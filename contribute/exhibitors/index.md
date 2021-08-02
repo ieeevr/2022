@@ -132,7 +132,7 @@ title_separator: "|"
         Look forward to meeting with VR professionals eager to see what your company has to offer. Refreshments and a special reception will take place in the exhibit areas, ensuring good foot traffic to your display.
     </p>
 
-    <style type="text/css">
+    <!--<style type="text/css">
         .tg  {border-collapse:collapse;border-spacing:0;}
         .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
           overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -231,7 +231,7 @@ title_separator: "|"
             <td class="tg-0pky"><span style="font-weight:bold">Logo</span></td>
           </tr>
         </tbody>
-    </table>
+    </table>-->
 
     <div class="exhibitors-center">
     <div class="exhibitors-row">
