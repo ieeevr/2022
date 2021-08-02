@@ -108,7 +108,8 @@ title: "Conference Committee"
 			<li>	Alexandre	Gomes de Siqueira	&#x2012; <i>	University of Florida, USA	</i></li>	
 			<li>	Arindam	Dey	&#x2012; <i>	University of Queensland, Australia	</i></li>	
 			<li>	Vinoba	Vinayagamoorthy	&#x2012; <i>	BBC Research & Development, London	</i></li>	
-			<li style="list-style: none">	researchdemonstrations2022	[at] ieeevr.org			</li>	
+			<li>	Ayush	Bhargava	&#x2012; <i>		</i></li>	
+			<li style="list-style: none">	researchdemos2022	[at] ieeevr.org			</li>	
 		</ul>							
 									
 <!--	<h2>	Student Volunteers Chairs	</h2>						
@@ -139,6 +140,7 @@ title: "Conference Committee"
 			<li>	Mashhudda	Glencross	&#x2012; <i>	University of Queensland, Australia	</i></li>	
 			<li>	Lap-Fai (Craig)	Yu	&#x2012; <i>	George Mason University, USA	</i></li>	
 			<li>	Bhuvaneswari	Sarupuri	&#x2012; <i>	INRIA, University of Rennes 2, France	</i></li>	
+			<li>	João	Pereira	&#x2012; <i>	INESC-ID/University of Lisbon, Portugal	</i></li>	
 			<li style="list-style: none">	workshops2022	[at] ieeevr.org			</li>	
 		</ul>							
 									
