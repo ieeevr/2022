@@ -132,6 +132,107 @@ title_separator: "|"
         Look forward to meeting with VR professionals eager to see what your company has to offer. Refreshments and a special reception will take place in the exhibit areas, ensuring good foot traffic to your display.
     </p>
 
+    <style type="text/css">
+        .tg  {border-collapse:collapse;border-spacing:0;}
+        .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+          overflow:hidden;padding:10px 5px;word-break:normal;}
+        .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+          font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+        .tg .tg-kgcv{background-color:#68cbd0;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+        .tg .tg-rleq{background-color:#68cbd0;border-color:inherit;text-align:left;vertical-align:top}
+        .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+        .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg" style="undefined;table-layout: fixed; width: 1321px">
+        <colgroup>
+            <col style="width: 174px">
+            <col style="width: 113px">
+            <col style="width: 101px">
+            <col style="width: 102px">
+            <col style="width: 262px">
+            <col style="width: 158px">
+            <col style="width: 109px">
+            <col style="width: 156px">
+            <col style="width: 146px">
+        </colgroup>
+        <thead>
+          <tr>
+            <th class="tg-rleq"> </th>
+            <th class="tg-kgcv"><span style="color:black">Cost</span>   (NZD <br>exclusive GST)</th>
+            <th class="tg-kgcv"> <span style="color:black">Full- Week Regs</span></th>
+            <th class="tg-kgcv">Presentation time</th>
+            <th class="tg-kgcv"> <span style="color:black">Signage</span></th>
+            <th class="tg-kgcv"> <span style="color:black">Event Support</span></th>
+            <th class="tg-kgcv">Slide at events</th>
+            <th class="tg-kgcv"><span style="color:black">Recognition in Proceedings</span></th>
+            <th class="tg-kgcv"><span style="color:black">Recognition in Final Program</span></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="tg-kgcv" rowspan="2"> <br><span style="color:black">Diamond (limited to two)</span></td>
+            <td class="tg-fymr" rowspan="2"> <br>$35,000</td>
+            <td class="tg-fymr" rowspan="2"> <br>5</td>
+            <td class="tg-0pky" rowspan="2">10 minutes</td>
+            <td class="tg-0pky" rowspan="2"><span style="font-weight:bold">Individual banner </span>displayed at the conference venue <br><br><span style="font-weight:bold">Organisation logo </span><span style="font-weight:300">and profile on the conference website, app and virtual platform, linking to your website</span><br></td>
+            <td class="tg-0pky" rowspan="2"><span style="font-weight:bold;font-style:normal;text-decoration:none">Keynote or Banquet </span><span style="font-weight:300">(Choose one)</span><br><span style="font-weight:300">and </span><span style="font-weight:bold;font-style:normal;text-decoration:none">Exhibition Stand or Demo </span>(Choose one)</td>
+            <td class="tg-0pky" rowspan="2"><span style="font-weight:bold">Full page slide</span><span style="font-weight:300"> included in the opening, banquet and closing multi media presentation</span></td>
+            <td class="tg-fymr" rowspan="2"> <br>Full Page</td>
+            <td class="tg-fymr" rowspan="2"> <br>Full Page</td>
+          </tr>
+          <tr>
+          </tr>
+          <tr>
+            <td class="tg-kgcv" rowspan="2"> <br> <br><span style="color:black">Gold </span><span style="font-weight:bold;font-style:normal;text-decoration:none">(limited to four)</span></td>
+            <td class="tg-fymr" rowspan="2"> <br> <br>$20,000</td>
+            <td class="tg-fymr" rowspan="2"> <br> <br>3</td>
+            <td class="tg-0pky" rowspan="2"></td>
+            <td class="tg-fymr" rowspan="2"> <br>Individual banner <span style="font-weight:normal">displayed at the conference venue</span><br><br><span style="font-weight:bold">Organisation logo </span><span style="font-weight:300">and profile on the conference website, app and virtual platform, linking to your website</span><br></td>
+            <td class="tg-0pky" rowspan="2"><span style="font-weight:bold">Exhibition Stand or Demo </span>(Choose one)<br></td>
+            <td class="tg-0pky" rowspan="2"><span style="font-weight:bold">Half page slide </span><span style="font-weight:300">included in the opening, banquet and closing multi media presentation</span></td>
+            <td class="tg-fymr" rowspan="2"> <br><span style="font-weight:bold">Logo recognition</span><span style="font-weight:300"> in proceedings</span></td>
+            <td class="tg-fymr" rowspan="2"> <br> <br>Half Page</td>
+          </tr>
+          <tr>
+          </tr>
+          <tr>
+            <td class="tg-kgcv" rowspan="2"> <br> <br><span style="color:black">Virtual Platform </span><span style="font-weight:bold;font-style:normal;text-decoration:none">(limited to one)</span></td>
+            <td class="tg-fymr" rowspan="2"> <br> <br>$20,000</td>
+            <td class="tg-fymr" rowspan="2">10 virtual registrations</td>
+            <td class="tg-0pky" rowspan="2"></td>
+            <td class="tg-fymr" rowspan="2"><span style="font-weight:bold">Organisation logo </span><span style="font-weight:300">included on the virtual platform landing page in the sponsorship</span><span style="font-weight:300"> banner for the entirety of all virtual sessions</span><br><br><span style="font-weight:bold">Organisation logo</span><span style="font-weight:300"> on the presentation screen for five minutes prior to each virtual keynote</span><br><br><span style="font-weight:bold">Organisation promotional</span> vide<span style="font-weight:bold">o</span><span style="font-weight:300"> to play just prior to the start of each virtual keynote </span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">Organisation logo and profile</span><span style="font-weight:300;font-style:normal;text-decoration:none"> on the conference website, app and virtual platform, linking to your website</span><br></td>
+            <td class="tg-0pky" rowspan="2"><span style="font-weight:bold">Complimentary virtual exhibition site</span><span style="font-weight:300"> with the ability for virtual attendees to meet with your team members and download organisation brochures and other material</span></td>
+            <td class="tg-0pky" rowspan="2"></td>
+            <td class="tg-fymr" rowspan="2"></td>
+            <td class="tg-fymr" rowspan="2"></td>
+          </tr>
+          <tr>
+          </tr>
+          <tr>
+            <td class="tg-kgcv"><span style="color:black">Silver (limited to six)</span></td>
+            <td class="tg-fymr">$14,000</td>
+            <td class="tg-0pky">2</td>
+            <td class="tg-0pky"></td>
+            <td class="tg-0pky"><span style="font-weight:bold">Individual banner</span><span style="font-weight:300"> displayed at the conference venue</span><br><br><span style="font-weight:bold">Organisation logo and profile</span><span style="font-weight:300"> on the conference website, app and virtual platform, linking to your website</span><br></td>
+            <td class="tg-fymr">Exhibition Stand</td>
+            <td class="tg-0pky"><span style="font-weight:bold">Quarter page </span><span style="font-weight:300">slide included in the opening, banquet and closing multi media presentation</span></td>
+            <td class="tg-0pky"><span style="font-weight:bold">Logo recognition</span> in proceedings</td>
+            <td class="tg-fymr">Quarter page</td>
+          </tr>
+          <tr>
+            <td class="tg-kgcv"><span style="color:black">Bronze (limited to twelve)</span></td>
+            <td class="tg-fymr">$7000</td>
+            <td class="tg-0pky">1</td>
+            <td class="tg-0pky"></td>
+            <td class="tg-0pky"><span style="font-weight:bold">Organisation logo and profile</span><span style="font-weight:300"> on the conference website, app and virtual platform, linking to your website</span></td>
+            <td class="tg-fymr">Exhibition Stand</td>
+            <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none">Quarter page</span><br><span style="font-weight:bold;font-style:normal;text-decoration:none"> </span><span style="font-weight:300;font-style:normal;text-decoration:none">slide included in the opening, banquet and closing multi media presentation</span></td>
+            <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none">Logo</span></td>
+            <td class="tg-0pky"><span style="font-weight:bold">Logo</span></td>
+          </tr>
+        </tbody>
+    </table>
+
     <div class="exhibitors-center">
     <div class="exhibitors-row">
         <div class="exhibitors-column" style="flex: 70%;">
@@ -148,7 +249,7 @@ title_separator: "|"
         <div class="exhibitors-column" style="display: flex; flex: 30%; justify-content: center; align-items: center;">
             <div style="">
                 <p style="font-size: 20px;">
-                    <a href="{{"/assets/contribute/exhibitors/IEEE_VR_Partnership_Prospectus_v2.pdf" | relative_url }}" class="btn btn--primary" style="border: 2px solid white;">Go for it!</a>
+                    <a href="{{"/assets/contribute/exhibitors/IEEE_VR_Sponsorship_Prospectus.pdf" | relative_url }}" class="btn btn--primary" style="border: 2px solid white;">Go for it!</a>
                 </p>
             </div>
         </div>
