@@ -51,31 +51,34 @@ title: "Call for Journal Papers"
 </p>
 
 <p>
-    Each paper should include an evaluation of its contributions such as user studies, benchmarking, and/or comparisons with existing systems/techniques/methods. We appreciate that due to the COVID-19 situation, 
-    in-person user studies may not be possible to perform in the necessary timescale for submission. We encourage authors to think about other ways to validate their contribution, such as qualitative studies 
-    with fewer users, expert reviews, online studies, etc. We encourage potential authors to engage the ongoing community discussions around these topics as they are common to many of us.
+    Each paper should include an evaluation of its contributions, such as user studies, benchmarking and/or comparison with existing systems/techniques/methods. We appreciate that due to the 
+    COVID-19 situation, in-person user studies may not be possible to perform in the necessary timescale for submission. We encourage authors to think about other ways to validate their 
+    contribution, such as qualitative studies with fewer users, expert reviews, online studies, etc. We encourage potential authors to engage the ongoing community discussions around these 
+    topics as they are common to many of us.
 </p>
 <p>
     <b>Further Details Regarding Submissions.</b> We welcome paper submissions not exceeding 9 pages, excluding references. References may not exceed two additional pages. Continuing our 
-    cooperation with the IEEE Transactions on Visualization and Computer Graphics (TVCG), all accepted paper submissions will automatically be published in a special issue of IEEE TVCG. 
-    To meet TVCG standards, papers recommended for inclusion to TVCG will undergo a two-stage review process (see SUBMISSION DEADLINES below). Authors of papers that are determined to be 
-    acceptable to the journal subject to minor revisions during the first review cycle will be invited to submit a revised version for a second review cycle. Only papers that are accepted 
-    in this second cycle will appear in the journal issue. Papers that fail to pass the second round of reviews may proceed through further revisions to appear in a future regular issue of TVCG.
+    cooperation with the IEEE Transactions on Visualization and Computer Graphics (TVCG), all accepted paper submissions will automatically be published in a special issue of IEEE TVCG. To 
+    meet TVCG standards, papers recommended for inclusion to TVCG will undergo a two-stage review process (see SUBMISSION DEADLINES below). Authors of papers that are determined to be acceptable 
+    to the journal subject to minor revisions during the first review cycle will be invited to submit a revised version for a second review cycle. Only papers that are accepted in this second 
+    cycle will appear in the journal issue. Papers that fail to pass the second round of reviews may proceed through further revisions to appear in a future regular issue of TVCG.
 </p>
 <p>
-    <b>Review Duties for Authors.</b> The increasing number of submissions for IEEE VR makes us all dependent on a large number of good reviewers who are willing to provide expert feedback and engage 
-    with authors on their work. To expand the reviewing pool and promote quality reviews, one author will be required to register to review up to three papers through PCS at the time of submission. 
-    Additionally, senior authors are encouraged to ask experienced junior authors to register in PCS to review papers, and then to mentor the junior author during the review process.  
+    <b>Review Duties for Authors.</b> The increasing number of submissions for IEEE VR makes us all dependent on a large number of good reviewers who are willing to provide expert feedback 
+    and engage with authors on their work. To expand the reviewing pool and promote quality reviews, one author will be required to register to review up to three papers through PCS at the 
+    time of submission. Additionally, senior authors are encouraged to ask experienced junior authors to register in PCS to review papers, and then to mentor the junior author during the 
+    review process.  
 </p>
 <p>
     <b>Ethics and Responsibility.</b> All submissions describing research experiments with human participants must follow the appropriate ethical guidelines required by your institution, 
-    and authors are required to secure and report their approval by the relevant ethics committee. An approval by any ethical review board, if required by your affiliation, needs to be indicated via the submission system. 
+    and authors are required to secure and report their approval by the relevant ethics committee. An approval by any ethical review board, if required by your affiliation, needs to be 
+    indicated via the submission system.  
 </p>
 <p>
-    <b>Conference Presentation.</b> All accepted papers must be orally presented at the conference. We are actively monitoring the COVID-19 situation to determine if the in-person IEEE VR experience will be safe 
-    as well as feasible due to international travel rules. We expect that travel restrictions will enable all authors to join us at the conference. In the case that the sanitary situation does not allow it, we 
-    will support authors to present their work remotely. There is also the possibility for authors of relevant previously published TVCG papers (accepted within the last year) to present their work at IEEE VR 
-    2022. Interested authors should contact the program chairs for more details.
+    <b>Conference Presentation.</b> All accepted papers must be orally presented at the conference. We are actively monitoring the COVID-19 situation to determine if the in-person IEEE VR 
+    experiences will be safe as well as feasible due to international travel rules. We expect that travel restrictions will enable all authors to join us at the conference. In the case that 
+    the sanitary situation does not allow it, we will support authors to present their work remotely. There is also the possibility for authors of relevant previously published TVCG papers 
+    (accepted within the last year) to present their work at IEEE VR 2022. Interested authors should contact the program chairs for more details.
 </p>
 <p>
     <b>Abstract Submission.</b> Note that a paper abstract must be uploaded a week prior to the actual paper submission deadline. This facilitates the process of assigning reviewers, as the review process operates on a very tight schedule.
