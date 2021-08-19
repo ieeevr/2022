@@ -81,7 +81,7 @@ title: "Call for Journal Papers"
     (accepted within the last year) to present their work at IEEE VR 2022. Interested authors should contact the program chairs for more details.
 </p>
 <p>
-    <b>Abstract Submission.</b> Note that a paper abstract must be uploaded a week prior to the actual paper submission deadline. This facilitates the process of assigning reviewers, as the review process operates on a very tight schedule.
+    <b>Abstract Submission.</b> Note that a paper abstract must be uploaded five days prior to the actual paper submission deadline. This facilitates the process of assigning reviewers, as the review process operates on a very tight schedule.
 </p>
 
 
