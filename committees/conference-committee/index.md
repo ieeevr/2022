@@ -117,10 +117,13 @@ title: "Conference Committee"
 			<li style="list-style: none">	studentvolunteers2022	[at] ieeevr.org			</li>	
 		</ul>							-->
 									
-<!--	<h2>	Tutorials Chairs	</h2>						
+	<h2>	Tutorials Chairs	</h2>						
 		<ul>							
+			<li>	Heide	Lukosch	&#x2012; <i>	HIT Lab NZ, University of Canterbury, New Zealand	</i></li>	
+			<li>	Beatriz	Santos	&#x2012; <i>	U Aveiro, Portugal	</i></li>	
+			<li>	Evan	Suma Rosenberg	&#x2012; <i>	University of Minnesota, USA	</i></li>	
 			<li style="list-style: none">	tutorials2022	[at] ieeevr.org			</li>	
-		</ul>							-->
+		</ul>							
 									
 <!--	<h2>	Videos Chairs	</h2>						
 		<ul>							
@@ -168,3 +171,4 @@ title: "Conference Committee"
 <!--	<h2>	Streaming Chairs	</h2>						
 		<ul>							
 		</ul>							-->
+</div>									
