@@ -7,6 +7,13 @@ title_separator: "|"
 
 <div>
 <h1 id="cfp-workshops"> Call for Workshops</h1>
+<p>
+    <strong style="color: black">IEEE VR 2022: the 29th IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
+    <br />
+    12-13 March, 2022, Christchurch, New Zealand
+    <br />
+    <a href="http://ieeevr.org/2022/">http://ieeevr.org/2022/</a>
+</p>
     
 <h2 id="important-dates"> Important Dates </h2>
 <ul>
@@ -141,15 +148,12 @@ title_separator: "|"
 
 <h2 id="contacts">Contacts</h2>
 <p>
-    For more information and inquiries, please contact the Workshop Chairs at workshops2022 [at] ieeevr.org.
-</p>
-<p>
-    The Workshop Chairs:
+    For more information and inquiries, please contact the Workshop Chairs:
     <ul>
-        <li>Mashhuda Glencross, The University of Queensland, Australia</li>
-        <li>Lap-Fai (Craig) Yu, George Mason University, USA</li>
-        <li>Bhuvaneswari Sarupuri, INRIA, University of Rennes 2, France</li>
-        <li>Jo&atilde;o Madeiras Pereira University of Lisboa IST/INESC-ID, Portugal</li>
+        <li>Mashhuda Glencross, <i>The University of Queensland, Australia</i></li>
+        <li>Lap-Fai (Craig) Yu, <i>George Mason University, USA</i></li>
+        <li>Bhuvaneswari Sarupuri, <i>INRIA, University of Rennes 2, France</i></li>
+        <li>Jo&atilde;o Madeiras Pereira, <i>University of Lisboa IST/INESC-ID, Portugal</i></li>
     </ul>
 </p>
 

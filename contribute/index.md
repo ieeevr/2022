@@ -5,6 +5,13 @@ title: "Call for Journal Papers"
 
 <div>
 <h1 id="cfp-journal"> Call for Journal Papers </h1>
+<p>
+    <strong style="color: black">IEEE VR 2022: the 29th IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
+    <br /> 
+    12-16 March, 2022, Christchurch, New Zealand
+    <br />
+    <a href="http://ieeevr.org/2022/">http://ieeevr.org/2022/</a>
+</p>
     
 <h2 id="important-dates"> Important Dates </h2>
 <ul>
@@ -214,19 +221,14 @@ IEEE VR 2022 seeks contributions in VR/AR/MR and 3DUI including, but not limited
 <p>
     Journal Papers Chairs:
     <ul>   
-        <li>Luciana Nedel (lead chair), Federal University of Rio Grande do Sul - UFRGS, Brazil</li>
-        <li>Jeanine Stefanucci (TVCG liason), University of Utah, USA</li>
-        <li>Ferran Argelaguet, Inria Rennes, France</li>
-        <li>Daisuke Iwai, Osaka University, Japan</li>
-        <li>Lili Wang, Beihang University, China</li>
+        <li>Luciana Nedel (lead chair), <i>Federal University of Rio Grande do Sul - UFRGS, Brazil</i></li>
+        <li>Jeanine Stefanucci (TVCG liason), <i>University of Utah, USA</i></li>
+        <li>Ferran Argelaguet, <i>Inria Rennes, France</i></li>
+        <li>Daisuke Iwai, <i>Osaka University, Japan</i></li>
+        <li>Lili Wang, <i>Beihang University, China</i></li>
     </ul>
     journalpapers2022 [at] ieeevr.org
 </p>
 
 
-
-
-
-
-    
 </div>
