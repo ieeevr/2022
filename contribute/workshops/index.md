@@ -17,7 +17,7 @@ title_separator: "|"
     
 <h2 id="important-dates"> Important Dates </h2>
 <ul>
-    <li><b>December 1, 2021</b>:    Abstracts due <b>(REQUIRED)</b></li>
+    <li><b>December 1, 2021</b>:    Proposals and CFPs due</li>
     <li><b>December 9, 2021</b>:    Notification of results</li>
     <li><b>January 20, 2022</b>:    Latest accepted workshop paper notification</li>
     <li><b>January 29, 2022</b>:    Camera-ready submission of workshop papers for inclusion in the IEEE Digital Library</li>
