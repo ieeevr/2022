@@ -8,7 +8,7 @@ title_separator: "|"
 <div>
     <h1 id="cfp-posters"> Call for Posters</h1>
     <p>
-        <strong style="color: black">IEEE VR 2022: the 29th IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> 12-16 March, 2022, Christchurch, New Zealand
+        <strong style="color: black">IEEE VR 2022: the 29<sup>th</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> 12-16 March, 2022, Christchurch, New Zealand
         <br />
         <a href="http://ieeevr.org/2022/">http://ieeevr.org/2022/</a>
     </p>
