@@ -165,7 +165,8 @@ title: "Conference Committee"
 		<ul>							
 			<li>	Rob	Lindeman	&#x2012; <i>	HIT Lab NZ, University of Canterbury, New Zealand	</i></li>	
 			<li>	Jason	Orlosky	&#x2012; <i>	Augusta University, USA	</i></li>	
-			<li>	Kyle	Johnsen	&#x2012; <i>	University of Georgia, USA	</i></li>	
+			<li>	Kyle	Johnsen	&#x2012; <i>	University of Georgia, USA	</i></li>
+			<li style="list-style: none">	vrinvr2022	[at] ieeevr.org			</li>	
 		</ul>							
 									
 <!--	<h2>	Streaming Chairs	</h2>						
