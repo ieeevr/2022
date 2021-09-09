@@ -123,7 +123,7 @@ Call updates will be posted on the contest page of <a href="https://ieeevr.org/2
 <h2 id="contact"> 3DUI Contest Chairs </h2>
 <p>
     <ul>   
-        <li>Thammathip Piumsomboon, University of Canterbury, New Zealand
+        <li>Thammathip Piumsomboon, University of Canterbury, New Zealand</li>
         <li>Luciano Soares, Insper, Brazil </li>
         <li>Elham Ebrahimi, University of North Carolina, Wilmington, USA</li>
         <li>Daniel Roth, Friedrich-Alexander University (FAU) Erlangen-Nürnberg, Germany</li>
