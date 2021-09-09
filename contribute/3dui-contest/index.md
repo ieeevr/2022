@@ -10,7 +10,9 @@ title_separator: "|"
     <h1 id="cfp-3dui-contest"> IEEE Virtual Reality 2022 3DUI Contest <br /> Call for Participation </h1>
 
     <p>
-        <strong style="color: black">IEEE VR 2022: the 29th IEEE Conference on Virtual Reality and 3D User Interfaces 12th-16th March, 2022, Christchurch, New Zealand</strong>
+        <strong style="color: black">IEEE VR 2022: the 29th IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
+        <br />
+        12th-16th March, 2022, Christchurch, New Zealand
         <br />
         <a href="https://ieeevr.org/2022/">https://ieeevr.org/2022/</a>
         <br />
@@ -18,12 +20,13 @@ title_separator: "|"
     </p>
 
     <h2 id="important-dates"> Important Dates - All deadlines are Anywhere on Earth (AoE)</h2>
+    Each deadline is 23:59:59 AoE (Anywhere on Earth) == GMT/UTC-12:00 on the stated day, no matter where the submitter is located. A convenient tool to see when 
+    AoE is for your local time is setting your location at 1 and Baker Island (which uses AoE) for: <a href="https://www.timeanddate.com/worldclock/meeting.html">https://www.timeanddate.com/worldclock/meeting.html</a>
     <ul>
-        <li> <strong>Contest registration</strong> (project title and team members) - December 18, 2021</li>
-        <li> <strong>Submission</strong> of two-page abstract and video - January 7, 2022</li>
-        <li> <strong>Notification</strong> of which entries are accepted -  January 18, 2022</li>
-        <li> <strong>Camera ready</strong> version - January 31, 2022 </li>
-        <li style="list-style: none"> </li>
+        <li><strong>December 18, 2021</strong>: Contest registration (project title and team members) </li>
+        <li><strong>January 7, 2022</strong>: Submission of two-page abstract and video</li>
+        <li><strong>January 18, 2022</strong>: Notification of which entries are accepted</li>
+        <li><strong>January 31, 2022</strong>: Camera ready version</li>
     </ul>
 
     <h2 id="Overview">Overview</h2>
@@ -118,16 +121,15 @@ Teams should submit their abstract paper and a high quality video through the on
 Feel free to contact us at contest2022@ieeevr.org if you have any further questions.
 Call updates will be posted on the contest page of <a href="https://ieeevr.org/2022/contribute/3dui-contest/">https://ieeevr.org/2022/contribute/3dui-contest/ </a>.
 </p>
-
-
-<h2 id="contact"> 3DUI Contest Chairs </h2>
 <p>
+    3DUI Contest Chairs:
     <ul>   
         <li>Thammathip Piumsomboon, University of Canterbury, New Zealand</li>
         <li>Luciano Soares, Insper, Brazil </li>
         <li>Elham Ebrahimi, University of North Carolina, Wilmington, USA</li>
         <li>Daniel Roth, Friedrich-Alexander University (FAU) Erlangen-Nürnberg, Germany</li>
     </ul>
+    contest2022 [at] ieevr.org
 </p>
 
 
