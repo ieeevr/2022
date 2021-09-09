@@ -100,12 +100,12 @@ If your submission is accepted, you will participate in an (online) demo session
 The final score will be the combination of the expert judges’ score plus the audience scores. The winning team with the highest score will be awarded.
 </p>
 
-<h3>Contest Registration - due December 18, 2021</h3>
+<h2>Contest Registration - due December 18, 2021</h2>
 <p>
 Teams should register their project title, a contact email, and the team members upfront via email to contest2022@ieeevr.org.
 </p>
     
-<h3>Abstract and Video Submission - due January 7, 2022</h3>
+<h2>Abstract and Video Submission - due January 7, 2022</h2>
 <p>
 Teams should submit their abstract paper and a high quality video through the online submission system: <a href="https://new.precisionconference.com/~vr">https://new.precisionconference.com/~vr</a>
 </p>
