@@ -63,7 +63,7 @@ title_separator: "|"
                     <li>Which covers the topics of <strong> “Arts, Science, Information, and Knowledge - Visualized and Interacted”,</strong> more features or unlisted features are encouraged. It will be considered in the evaluation phase. rm</li>
                     <li>Describe which of the 3DUI techniques has/have been extended. </li>
                     <li>Projects must be submitted with a video (between 3 and 5 minutes) and compiled version. </li>
-                    <li>Compatible with OpenXR standard (<a href="https://www.khronos.org/openxr/"<https://www.khronos.org/openxr/ </a>). </li>
+                    <li>Compatible with OpenXR standard (<a href="https://www.khronos.org/openxr/">https://www.khronos.org/openxr/ </a>). </li>
                 </ul>
             </li>
 
