@@ -12,8 +12,7 @@ title_separator: "|"
     <p>
         <strong style="color: black">IEEE VR 2022: the 29th IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
         <br />
-        12th-16th March, 2022, Christchurch, New Zealand
-        <br />
+        12th-16th March 2022, Christchurch, New Zealand 
         <a href="https://ieeevr.org/2022/">https://ieeevr.org/2022/</a>
         <br />
         Registrations can be made via email to <a href="mailto:contest2022@ieeevr.org">contest2022@ieeevr.org</a>, final submissions can be made through the Online System: <a href="https://new.precisionconference.com/~vr">https://new.precisionconference.com/~vr</a>.
@@ -39,7 +38,7 @@ title_separator: "|"
             <li>One or multiple potential users should be able to interact in the 3DUI environment</li>
             <li>Teams should provide a downloadable version for IEEE VR attendants</li>
             <li>The project should present novel 3DUI techniques and focus on a technical contribution</li>
-            <li>A classic 3DUI technique should be included and adapted for the specific use case (for examples, see: https://youtu.be/-xKwjYYlpCE) </li>
+            <li>A classic 3DUI technique should be included and adapted for the specific use case (for examples, see:<a href="https://youtu.be/-xKwjYYlpCE">https://youtu.be/-xKwjYYlpCE</a>) </li>
             <li>The simulation could be played standalone, or networked. A user should be able to experience the application for at least 7 minutes time</li>
             <li>Optionally, the project could include an evaluation or the reporting of performance metrics </li>
             <li>Optionally, the system could be collaborative</li>
@@ -64,7 +63,7 @@ title_separator: "|"
                     <li>Which covers the topics of <strong> “Arts, Science, Information, and Knowledge - Visualized and Interacted”,</strong> more features or unlisted features are encouraged. It will be considered in the evaluation phase. rm</li>
                     <li>Describe which of the 3DUI techniques has/have been extended. </li>
                     <li>Projects must be submitted with a video (between 3 and 5 minutes) and compiled version. </li>
-                    <li>Compatible with OpenXR standard (https://www.khronos.org/openxr/).</li>
+                    <li>Compatible with OpenXR standard (<a href="https://www.khronos.org/openxr/"<https://www.khronos.org/openxr/ </a>). </li>
                 </ul>
             </li>
 
