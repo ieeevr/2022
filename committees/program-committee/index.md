@@ -27,7 +27,7 @@ title_separator: "|"
         <li>	Simon	Hoermann	        &#x2012; <i>	University of Canterbury,	New Zealand	</i></li>
         <li>	Mark	Billinghurst	    &#x2012; <i>	University of South Australia,	Australia	</i></li>
         <li>	Wolfgang Stuerzlinger	    &#x2012; <i>	Simon Fraser University,	Canada	</i></li>
-        <li>	Jens	Grubert 	        &#x2012; <i>	Coburg University,	Germany	</i><br/>	Email:	<a href="mailto:jg@jensgrubert.de">	jg&#64;jensgrubert.de	</a></li>
+        <li>	Jens	Grubert 	        &#x2012; <i>	Coburg University,	Germany	</i></li>
         <li>	Ian	Williams	            &#x2012; <i>	Birmingham City University,	United Kingdom	</i></li>
         <li>	Yoshihiro	Watanabe	    &#x2012; <i>	Tokyo Institute of Technology,	Japan	</i></li>
         <li>	Patric	Ljung	            &#x2012; <i>	Link&ouml;ping University,	Sweden	</i></li>
