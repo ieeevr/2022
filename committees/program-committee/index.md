@@ -10,59 +10,59 @@ title_separator: "|"
 
     <h2> Journal Papers </h2>
     <ul>
-        <li>	Rodney	Berry	            &#x2012; <i>	Little Owl,	Australia	</i><br/>	Email:	<a href="mailto:rodberry@gmail.com">rodberry&#64;gmail.com</a></li>
-        <li>	David	Roberts	            &#x2012; <i>	Shared Realities Ltd,	United Kingdom	</i><br/>	Email:	<a href="mailto:max.betavr@gmail.com">max.betavr&#64;gmail.com</a></li>
-        <li>	Gudrun	Klinker	            &#x2012; <i>	Technical University of Munich,	Germany	</i><br/>	Email:	<a href="mailto:klinker@in.tum.de">klinker&#64;in.tum.de</a></li>
-        <li>	Jian	Chen	            &#x2012; <i>	The Ohio State University,	United States	</i><br/>	Email:	<a href="mailto:chen.8028@osu.edu">chen.8028&#64;osu.edu</a></li>
-        <li>	Ryan P.	McMahan     	    &#x2012; <i>	University of Central Florida,	United States	</i><br/>	Email:	<a href="mailto:rpm@ucf.edu">rpm&#64;ucf.edu</a></li>
-        <li>	Bernd	Froehlich	        &#x2012; <i>	Bauhaus&#8208;Universit&auml;t Weimar,	Germany	</i><br/>	Email:	<a href="mailto:bernd.froehlich@uni-weimar.de">bernd.froehlich&#64;uni&#8208;weimar.de</a></li>
-        <li>	Carlos	Andujar	            &#x2012; <i>	Universitat Polit&egrave;cnica de Catalunya,	Spain	</i><br/>	Email:	<a href="mailto:andujar@cs.upc.edu">andujar&#64;cs.upc.edu</a></li>
-        <li>	Voicu	Popescu	            &#x2012; <i>	Purdue University,	United States	</i><br/>	Email:	<a href="mailto:popescu@purdue.edu">popescu&#64;purdue.edu</a></li>
-        <li>	Markus	Tatzgern	        &#x2012; <i>	Salzburg University of Applied Sciences,	Austria	</i><br/>	Email:	<a href="mailto:markus.tatzgern@fh-salzburg.ac.at">markus.tatzgern&#64;fh&#8208;salzburg.ac.at</a></li>
-        <li>	Kaan	Ak&#x15F;it	        &#x2012; <i>	University College London,	United Kingdom	</i><br/>	Email:	<a href="mailto:kunguz@gmail.com">kunguz&#64;gmail.com</a></li>
-        <li>	Marc Erich	Latoschik	    &#x2012; <i>	Department of Computer Science, HCI Group,	Germany	</i><br/>	Email:	<a href="mailto:marc.latoschik@uni-wuerzburg.de">	marc.latoschik&#64;uni&#8208;wuerzburg.de	</a></li>
-        <li>	Anatole	L&eacute;cuyer	    &#x2012; <i>	Inria,	France	</i><br/>	Email:	<a href="mailto:anatole.lecuyer@inria.fr">	anatole.lecuyer&#64;inria.fr	</a></li>
-        <li>	Jonathan	Kelly	        &#x2012; <i>	Iowa State University,	United States	</i><br/>	Email:	<a href="mailto:jonkelly@iastate.edu">	jonkelly&#64;iastate.edu	</a></li>
-        <li>	Dieter	Schmalstieg	        &#x2012; <i>	Graz University of Technology,	Austria	</i><br/>	Email:	<a href="mailto:schmalstieg@tugraz.at">	schmalstieg&#64;tugraz.at	</a></li>
-        <li>	Simon	Hoermann	        &#x2012; <i>	University of Canterbury,	New Zealand	</i><br/>	Email:	<a href="mailto:simon.hoermann@canterbury.ac.nz">	simon.hoermann&#64;canterbury.ac.nz	</a></li>
-        <li>	Mark	Billinghurst	    &#x2012; <i>	University of South Australia,	Australia	</i><br/>	Email:	<a href="mailto:mark.billinghurst@unisa.edu.au	">	mark.billinghurst&#64;unisa.edu.au	</a></li>
-        <li>	Wolfgang Stuerzlinger	    &#x2012; <i>	Simon Fraser University,	Canada	</i><br/>	Email:	<a href="mailto:w.s@sfu.ca">	w.s&#64;sfu.ca	</a></li>
+        <li>	Rodney	Berry	            &#x2012; <i>	Little Owl,	Australia	</i></li>
+        <li>	David	Roberts	            &#x2012; <i>	Shared Realities Ltd,	United Kingdom	</i></li>
+        <li>	Gudrun	Klinker	            &#x2012; <i>	Technical University of Munich,	Germany	</i></li>
+        <li>	Jian	Chen	            &#x2012; <i>	The Ohio State University,	United States	</i></li>
+        <li>	Ryan P.	McMahan     	    &#x2012; <i>	University of Central Florida,	United States	</i></li>
+        <li>	Bernd	Froehlich	        &#x2012; <i>	Bauhaus&#8208;Universit&auml;t Weimar,	Germany	</i></li>
+        <li>	Carlos	Andujar	            &#x2012; <i>	Universitat Polit&egrave;cnica de Catalunya,	Spain	</i></li>
+        <li>	Voicu	Popescu	            &#x2012; <i>	Purdue University,	United States	</i></li>
+        <li>	Markus	Tatzgern	        &#x2012; <i>	Salzburg University of Applied Sciences,	Austria	</i></li>
+        <li>	Kaan	Ak&#x15F;it	        &#x2012; <i>	University College London,	United Kingdom	</i></li>
+        <li>	Marc Erich	Latoschik	    &#x2012; <i>	Department of Computer Science, HCI Group,	Germany	</i></li>
+        <li>	Anatole	L&eacute;cuyer	    &#x2012; <i>	Inria,	France	</i></li>
+        <li>	Jonathan	Kelly	        &#x2012; <i>	Iowa State University,	United States	</i></li>
+        <li>	Dieter	Schmalstieg	        &#x2012; <i>	Graz University of Technology,	Austria	</i></li>
+        <li>	Simon	Hoermann	        &#x2012; <i>	University of Canterbury,	New Zealand	</i></li>
+        <li>	Mark	Billinghurst	    &#x2012; <i>	University of South Australia,	Australia	</i></li>
+        <li>	Wolfgang Stuerzlinger	    &#x2012; <i>	Simon Fraser University,	Canada	</i></li>
         <li>	Jens	Grubert 	        &#x2012; <i>	Coburg University,	Germany	</i><br/>	Email:	<a href="mailto:jg@jensgrubert.de">	jg&#64;jensgrubert.de	</a></li>
-        <li>	Ian	Williams	            &#x2012; <i>	Birmingham City University,	United Kingdom	</i><br/>	Email:	<a href="mailto:ian.williams@bcu.ac.uk">	ian.williams&#64;bcu.ac.uk	</a></li>
-        <li>	Yoshihiro	Watanabe	    &#x2012; <i>	Tokyo Institute of Technology,	Japan	</i><br/>	Email:	<a href="mailto:watanabe.y.cl@m.titech.ac.jp">	watanabe.y.cl&#64;m.titech.ac.jp	</a></li>
-        <li>	Patric	Ljung	            &#x2012; <i>	Link&ouml;ping University,	Sweden	</i><br/>	Email:	<a href="mailto:patric.ljung@liu.se">	patric.ljung&#64;liu.se	</a></li>
-        <li>	Ehsan	Azimi	            &#x2012; <i>	Johns Hopkins University,	United States	</i><br/>	Email:	<a href="mailto:eazimi1@jhu.edu">	eazimi1&#64;jhu.edu	</a></li>
-        <li>	Veronica	Teichrieb	    &#x2012; <i>	CIn&#47;UFPE,	Brazil	</i><br/>	Email:	<a href="mailto:vt@cin.ufpe.br">	vt&#64;cin.ufpe.br	</a></li>
-        <li>	Carla Dal Sasso Freitas	    &#x2012; <i>	Federal University of Rio Grande do Sul,	Brazil	</i><br/>	Email:	<a href="mailto:carla@inf.ufrgs.br">	carla&#64;inf.ufrgs.br	</a></li>
-        <li>	Matt	Adcock	            &#x2012; <i>	CSIRO,	Australia	</i><br/>	Email:	<a href="mailto:matt.adcock@csiro.au">	matt.adcock&#64;csiro.au	</a></li>
-        <li>	Ming	Lin	                &#x2012; <i>	UNC Chapel Hill,	United States	</i><br/>	Email:	<a href="mailto:lin@cs.unc.edu">	lin&#64;cs.unc.edu	</a></li>
-        <li>	Thammathip	Piumsomboon	    &#x2012; <i>	University of Canterbury,	New Zealand	</i><br/>	Email:	<a href="mailto:tham.piumsomboon@canterbury.ac.nz">	tham.piumsomboon&#64;canterbury.ac.nz	</a></li>
-        <li>	Amy	Banic	                &#x2012; <i>	University of Wyoming,	United States	</i><br/>	Email:	<a href="mailto:abanic@cs.uwyo.edu">	abanic&#64;cs.uwyo.edu	</a></li>
-        <li>	Betsy	Sanders	            &#x2012; <i>	Rhodes College,	United States	</i><br/>	Email:	<a href="mailto:sandersb@rhodes.edu">	sandersb&#64;rhodes.edu	</a></li>
-        <li>	Heide	Lukosch	            &#x2012; <i>	University of Canterbury,	New Zealand	</i><br/>	Email:	<a href="mailto:heide.lukosch@canterbury.ac.nz">	heide.lukosch&#64;canterbury.ac.nz	</a></li>
-        <li>	Anderson	Maciel	        &#x2012; <i>	Federal University of Rio Grande do Sul,	Brazil	</i><br/>	Email:	<a href="mailto:amaciel@inf.ufrgs.br">	amaciel&#64;inf.ufrgs.br	</a></li>
-        <li>	Fatima	Nunes	            &#x2012; <i>	University of S&atilde;o Paulo,	Brazil	</i><br/>	Email:	<a href="mailto:fatima.nunes@usp.br">	fatima.nunes&#64;usp.br	</a></li>
-        <li>	Amela	Sadagic	            &#x2012; <i>	Naval Postgraduate School (NPS),	United States	</i><br/>	Email:	<a href="mailto:asadagic@nps.edu">	asadagic&#64;nps.edu	</a></li>
-        <li>	Tabitha	Peck	            &#x2012; <i>	Davidson College,	United States	</i><br/>	Email:	<a href="mailto:tapeck@davidson.edu">	tapeck&#64;davidson.edu	</a></li>
-        <li>	Hartmut	Seichter	        &#x2012; <i>	University of Applied Sciences Schmalkalden,	Germany	</i><br/>	Email:	<a href="mailto:h.seichter@hs-sm.de">	h.seichter&#64;hs-sm.de	</a></li>
-        <li>	Sungchul	Jung	        &#x2012; <i>	Kennesaw State University,	United States	</i><br/>	Email:	<a href="mailto:sjung11@kennesaw.edu">	sjung11&#64;kennesaw.edu	</a></li>
-        <li>	Shi&#8208;Min	Hu	        &#x2012; <i>	Tsinghua University,	China	</i><br/>	Email:	<a href="mailto:shimin@tsinghua.edu.cn">	shimin&#64;tsinghua.edu.cn	</a></li>
-        <li>	Yue	Liu	                    &#x2012; <i>	Beijing Institute of Technology,	China	</i><br/>	Email:	<a href="mailto:liuyue@bit.edu.cn">	liuyue&#64;bit.edu.cn	</a></li>
-        <li>	Barrett	Ens	                &#x2012; <i>	Monash University,	Australia	</i><br/>	Email:	<a href="mailto:barrett.ens@monash.edu">	barrett.ens&#64;monash.edu	</a></li>
-        <li>	Adalberto	Simeone	        &#x2012; <i>	KU Leuven,	Belgium	</i><br/>	Email:	<a href="mailto:adalberto.simeone@kuleuven.be">	adalberto.simeone&#64;kuleuven.be	</a></li>
-        <li>	Kai	Kunze	                &#x2012; <i>	Keio University,	Japan	</i><br/>	Email:	<a href="mailto:kai@kmd.keio.ac.jp">	kai&#64;kmd.keio.ac.jp	</a></li>
-        <li>	Hiroyuki	Kajimoto	    &#x2012; <i>	The University of Electro&#8208;Communication,	Japan	</i><br/>	Email:	<a href="mailto:hiroyuki.kajimoto@gmail.com">	hiroyuki.kajimoto&#64;gmail.com	</a></li>
-        <li>	Daniel	Roth	            &#x2012; <i>	Human&#8208;Centered Computing and Extended Reality,	Germany	</i><br/>	Email:	<a href="mailto:d.roth@fau.de">	d.roth&#64;fau.de	</a></li>
-        <li>	Wolfgang	Broll	        &#x2012; <i>	Ilmenau University of Technology,	Germany	</i><br/>	Email:	<a href="mailto:wolfgang.broll@tu-ilmenau.de">	wolfgang.broll&#64;tu-ilmenau.de	</a></li>
-        <li>	Carolina Cruz&#8208;Neira	&#x2012; <i>	University of Central Florida,	United States	</i><br/>	Email:	<a href="mailto:carolina@ucf.edu">	carolina&#64;ucf.edu	</a></li>
-        <li>	Adrian	Clark	            &#x2012; <i>	University of Canterbury,	New Zealand	</i><br/>	Email:	<a href="mailto:adrian.clark@canterbury.ac.nz">	adrian.clark&#64;canterbury.ac.nz	</a></li>
-        <li>	Xubo	Yang	            &#x2012; <i>	Shanghai Jiao Tong University,	China	</i><br/>	Email:	<a href="mailto:yangxubo@sjtu.edu.cn">	yangxubo&#64;sjtu.edu.cn	</a></li>
-        <li>	Kiyoshi	Kiyokawa	        &#x2012; <i>	Nara Institute of Science and Technology,	Japan	</i><br/>	Email:	<a href="mailto:kiyo@is.naist.jp">	kiyo&#64;is.naist.jp	</a></li>
-        <li>	Frank	Steinicke	        &#x2012; <i>	Universit&auml;t Hamburg,	Germany	</i><br/>	Email:	<a href="mailto:frank.steinicke@uni-hamburg.de">	frank.steinicke&#64;uni-hamburg.de	</a></li>
-        <li>	Alexander	Plopski	        &#x2012; <i>	University of Otago,	New Zealand	</i><br/>	Email:	<a href="mailto:alexander.plopski@otago.ac.nz">	alexander.plopski&#64;otago.ac.nz	</a></li>
-        <li>	Huyen	Nguyen	            &#x2012; <i>	Universit&eacute; Paris&#8208;Saclay, CNRS, LIMSI, VENISE team,	France	</i><br/>	Email:	<a href="mailto:huyen.nguyen@limsi.fr">	huyen.nguyen&#64;limsi.fr	</a></li>
-        <li>	Kyle	Johnsen	            &#x2012; <i>	University of Georgia,	United States	</i><br/>	Email:	<a href="mailto:kjohnsen@uga.edu">	kjohnsen&#64;uga.edu	</a></li>
-        <li>	Charles	Hughes	            &#x2012; <i>	University of Central Florida,	United States	</i><br/>	Email:	<a href="mailto:charles.hughes@ucf.edu">	charles.hughes&#64;ucf.edu	</a></li>
+        <li>	Ian	Williams	            &#x2012; <i>	Birmingham City University,	United Kingdom	</i></li>
+        <li>	Yoshihiro	Watanabe	    &#x2012; <i>	Tokyo Institute of Technology,	Japan	</i></li>
+        <li>	Patric	Ljung	            &#x2012; <i>	Link&ouml;ping University,	Sweden	</i></li>
+        <li>	Ehsan	Azimi	            &#x2012; <i>	Johns Hopkins University,	United States	</i></li>
+        <li>	Veronica	Teichrieb	    &#x2012; <i>	CIn&#47;UFPE,	Brazil	</i></li>
+        <li>	Carla Dal Sasso Freitas	    &#x2012; <i>	Federal University of Rio Grande do Sul,	Brazil	</i></li>
+        <li>	Matt	Adcock	            &#x2012; <i>	CSIRO,	Australia	</i></li>
+        <li>	Ming	Lin	                &#x2012; <i>	UNC Chapel Hill,	United States	</i></li>
+        <li>	Thammathip	Piumsomboon	    &#x2012; <i>	University of Canterbury,	New Zealand	</i></li>
+        <li>	Amy	Banic	                &#x2012; <i>	University of Wyoming,	United States	</i></li>
+        <li>	Betsy	Sanders	            &#x2012; <i>	Rhodes College,	United States	</i></li>
+        <li>	Heide	Lukosch	            &#x2012; <i>	University of Canterbury,	New Zealand	</i></li>
+        <li>	Anderson	Maciel	        &#x2012; <i>	Federal University of Rio Grande do Sul,	Brazil	</i></li>
+        <li>	Fatima	Nunes	            &#x2012; <i>	University of S&atilde;o Paulo,	Brazil	</i></li>
+        <li>	Amela	Sadagic	            &#x2012; <i>	Naval Postgraduate School (NPS),	United States	</i></li>
+        <li>	Tabitha	Peck	            &#x2012; <i>	Davidson College,	United States	</i></li>
+        <li>	Hartmut	Seichter	        &#x2012; <i>	University of Applied Sciences Schmalkalden,	Germany	</i></li>
+        <li>	Sungchul	Jung	        &#x2012; <i>	Kennesaw State University,	United States	</i></li>
+        <li>	Shi&#8208;Min	Hu	        &#x2012; <i>	Tsinghua University,	China	</i></li>
+        <li>	Yue	Liu	                    &#x2012; <i>	Beijing Institute of Technology,	China	</i></li>
+        <li>	Barrett	Ens	                &#x2012; <i>	Monash University,	Australia	</i></li>
+        <li>	Adalberto	Simeone	        &#x2012; <i>	KU Leuven,	Belgium	</i></li>
+        <li>	Kai	Kunze	                &#x2012; <i>	Keio University,	Japan	</i></li>
+        <li>	Hiroyuki	Kajimoto	    &#x2012; <i>	The University of Electro&#8208;Communication,	Japan	</i></li>
+        <li>	Daniel	Roth	            &#x2012; <i>	Human&#8208;Centered Computing and Extended Reality,	Germany	</i></li>
+        <li>	Wolfgang	Broll	        &#x2012; <i>	Ilmenau University of Technology,	Germany	</i></li>
+        <li>	Carolina Cruz&#8208;Neira	&#x2012; <i>	University of Central Florida,	United States	</i></li>
+        <li>	Adrian	Clark	            &#x2012; <i>	University of Canterbury,	New Zealand	</i></li>
+        <li>	Xubo	Yang	            &#x2012; <i>	Shanghai Jiao Tong University,	China	</i></li>
+        <li>	Kiyoshi	Kiyokawa	        &#x2012; <i>	Nara Institute of Science and Technology,	Japan	</i></li>
+        <li>	Frank	Steinicke	        &#x2012; <i>	Universit&auml;t Hamburg,	Germany	</i></li>
+        <li>	Alexander	Plopski	        &#x2012; <i>	University of Otago,	New Zealand	</i></li>
+        <li>	Huyen	Nguyen	            &#x2012; <i>	Universit&eacute; Paris&#8208;Saclay, CNRS, LIMSI, VENISE team,	France	</i></li>
+        <li>	Kyle	Johnsen	            &#x2012; <i>	University of Georgia,	United States	</i></li>
+        <li>	Charles	Hughes	            &#x2012; <i>	University of Central Florida,	United States	</i></li>
     </ul>
 
 
