@@ -155,6 +155,7 @@ title_separator: "|"
         <li>Bhuvaneswari Sarupuri, <i>INRIA, University of Rennes 2, France</i></li>
         <li>Jo&atilde;o Madeiras Pereira, <i>University of Lisboa IST/INESC-ID, Portugal</i></li>
     </ul>
+    workshops2022 [at] ieeevr.org
 </p>
 
 </div>
