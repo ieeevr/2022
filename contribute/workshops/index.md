@@ -70,7 +70,7 @@ title_separator: "|"
         </li>
         <li>
             However, organisers without access to Google are welcome to email a PDF proposal (two
-            pages max) to the Workshop Chairs at workshops2021 [at] ieeevr.org, which should address:
+            pages max) to the Workshop Chairs at workshops2022 [at] ieeevr.org, which should address:
             <ul>
                 <li>Workshop title (and acronym if applicable)</li>
                 <li>The goal of organising the workshop</li>
