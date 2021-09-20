@@ -15,8 +15,8 @@ title_separator: "|"
         respectful of all. All communication should be appropriate for a professional audience including people of many different backgrounds. Attendees violating these 
         rules may be asked to leave the conference without a refund at the sole discretion of the conference organizers. In addition, attendees are subject to the 
         <a href="http://ieeevr.org/2022/docs/ieee_code_of_conduct2022.pdf" target="_blank">IEEE Code of Ethics</a>. If you wish to report a breach of the code 
-        of conduct this can be done via email to General Co-Chairs of IEEE VR 2022 (general2022 [at] ieeevr.org), the Steering Committee of IEEE VR (steering2022 [at] ieeevr.org), 
-        and/or its chair, Kyle Johnsen (kjohnsen [at] uga.edu). All reports will only be sent to the authorized people and will be treated confidentially.
+        of conduct this can be done via email to General Co-Chairs of IEEE VR 2022 (general2022 [at] ieeevr.org), the Steering Committee of IEEE VR (steering [at] ieeevr.org), 
+        and/or its chair, Ed Swan (swan [at] cse.msstate.edu). All reports will only be sent to the authorized people and will be treated confidentially.
     </p>
 
     <h2>IEEE Computer Society Open Conference Statement</h2>
