@@ -17,7 +17,7 @@ title_separator: "|"
 
     <h2 id="important-dates"> Important Dates </h2>
     <ul>
-        <li><b>January 10, 2022:</b> Two-page abstract and optional material submission</li>
+        <li><b>January 10, 2022:</b> Two-page abstract and optional material submission due</li>
         <li><b>January 31, 2022:</b> Notification of results</li>
         <li><b>February 10, 2022:</b> Camera-ready material and copyright submission via IEEE CPS (to be
             published in conference proceedings) and PCS (poster, video, and other additional materials)</li>
