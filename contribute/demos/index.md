@@ -6,26 +6,24 @@ title_separator: "|"
 ---
 
 <div>
+    <h1 id="cfp-demos">Call for Research Demos</h1>
     <p>
-        More information coming soon, please watch this space.
-    </p>
-    <!--
-    <h1 id="cfp-demos"> Call for Research Demos</h1>
-    <p>
-        <strong style="color: black">IEEE VR 2021: the 28th IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 27-April 3, 2021, Virtual
+        <strong style="color: black">IEEE VR 2022: the 29<sup>th</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 12-March 16, 2022, Christchurch, New Zealand
         <br />
-        <a href="http://ieeevr.org/2021/">http://ieeevr.org/2021/</a>
+        <a href="http://ieeevr.org/2022/">http://ieeevr.org/2022/</a>
     </p>
 
     <h2 id="important-dates"> Important Dates </h2>
     <ul>
-        <li><b>January 8, 2021:</b> Two-page abstract, floor plan, and video material submission.</li>
-        <li><b>January 29, 2021:</b> Notification of results.</li>
-        <li><b>February 12, 2021:</b> Camera-ready two-page abstract, floor plan, and final video material submission.</li>
+        <li><b>January 7, 2022:</b> Two-page abstract, floor plan, and video material submission.</li>
+        <li><b>January 21, 2022:</b> Notification of results.</li>
+        <li><b>February 4, 2022:</b> Camera-ready two-page abstract, floor plan, and final video material submission.</li>
     </ul>
 
     <p>
-        Proposals for research demonstrations must be submitted electronically through the online submission system <a href="https://new.precisionconference.com/~vr">https://new.precisionconference.com/~vr</a> by the given deadline. Interested contributors are encouraged to contact the chairs with any questions or to discuss potential demonstrations.
+        Proposals for research demonstrations must be submitted electronically through the online submission system 
+        <a href="https://new.precisionconference.com/~vr">https://new.precisionconference.com/~vr</a> by the given deadline. 
+        Interested contributors are encouraged to contact the chairs with any questions or to discuss potential demonstrations.
     </p>
 
     <p>
@@ -34,7 +32,11 @@ title_separator: "|"
 
     <h2 id="Overview">Overview</h2>
     <p>
-        The 28th IEEE Conference on Virtual Reality and 3D User Interfaces 2021 seeks research demonstrations from laboratories or research groups (academic, government, or industry). Demos should interest the broad XR community and be presentable in a conference setting exhibiting new and innovative work. The conference will provide basic infrastructure. Additionally, authors of accepted demos will present an overview in a fast-forward research demonstration session to summarize their demo and relate it to research being performed at their lab.
+        The 29th IEEE Conference on Virtual Reality and 3D User Interfaces 2022 seeks research demonstrations from laboratories 
+        or research groups (academic, government, or industry). Demos should interest the broad XR community and be presentable 
+        in a conference setting exhibiting new and innovative work. The conference will provide basic infrastructure. Additionally,
+        authors of accepted demos will present an overview in a fast-forward research demonstration session to summarize their 
+        demo and relate it to research being performed at their lab.
     </p>
 
 
@@ -42,37 +44,51 @@ title_separator: "|"
     <p>
         A demo proposal should include:
         <ul>
-            <li>A two-page extended abstract in PDF format describing the demo and the research itself. This will be published in the conference proceedings. Please provide the abstract in IEEE format, see below.</li>
-            <li>A schematic of the layout (a separate document detailing the size and showing components such as projectors, cameras, etc. and describing any special support needed).</li>
-            <li>A video showing the demo in action (the URL should be included in the proposal – preferably YouTube or Vimeo). This video could also be submitted to the IEEE Videos Track for separate consideration. (Please refer to the IEEE Videos Call for formatting and deadlines.)</li>
+            <li>
+                A two-page extended abstract in PDF format describing the demo and the research itself. This will be published in 
+                the conference proceedings. Please provide the abstract in IEEE format, see below.
+            </li>
+            <li>
+                A 3-5 minute instructional video that walks viewers through the research project and showcases the demo in action. 
+                Please provide an accessible URL in the submission. A YouTube or Vimeo link is highly recommended. If accepted, we 
+                plan to use the video as something attendees can view asynchronously.
+            </li>
+            <li>
+                The conference is planned for both in-person and online attendance this year and we would like to provide attendees an 
+                immersive experience of the research demo. As such, we ask that you write a 2-3 line short description separate from the 
+                extended abstract on how you would present your research demo remotely in an immersive way. For example, setting up a 
+                Mozilla Hubs room with a 3D replica of your prototype, so attendees can interact with it. Please note that this is not 
+                a requirement for the submission and will not affect the decision, but is highly recommended.
+            </li>
+            <li>
+                If there is a chance that you might attend the conference and present the research demo in person, please also 
+                submit a floor plan of how you would like to setup your demo at the venue.
+            </li>
         </ul>
     </p>
 
     <p>
-        The submission should clearly describe the overall architecture of the system or technology demonstrated. Authors should put great emphasis on the work's motivation, applications, and novelty. The description should also explain how the audience can interact with the demo. Submissions need not be anonymized but may be if the authors prefer. Abstracts for accepted demos will be included in the conference proceedings and in the IEEE Xplore Digital Library, so they must follow the IEEE Computer Society format at <a href="http://junctionpublishing.org/vgtc/Tasks/camera.html">http://junctionpublishing.org/vgtc/Tasks/camera.html</a>.
+        The submission materials should clearly describe the overall architecture of the system or technology demonstrated. Authors 
+        should put emphasis on the work's motivation, applications, novelty, and research direction. Submissions need not be anonymized 
+        but may be if the authors prefer. Abstracts for accepted demos will be included in the conference proceedings and in the IEEE 
+        Xplore Digital Library, so they must follow the IEEE Computer Society format at 
+        <a href="http://junctionpublishing.org/vgtc/Tasks/camera.html">http://junctionpublishing.org/vgtc/Tasks/camera.html</a>.
     </p>
     <p>
-        Accepted demos must be up and running during dedicated demo sessions and lunch breaks. It is further appreciated if they run at other times (e.g., coffee breaks), but that is not required for acceptance.
-    </p>
-
-
-    <h2 id="online-presentation">Online Presentation</h2>
-    <p>
-        IEEE VR 2021 will be a fully virtual conference. For the presentation of the research demos, we will use Discord. For each demo, there will be a text channel for discussions and a multimedia channel to present live demos using the video conferencing capabilities of Discord. We will require you to present your demo as a live demo in case of acceptance. In addition, demos will be presented (together with posters) in a fast forward session using a 30 sec. video, which should be provided at a later point in the process.
+        Please note that authors will be asked to do live presentations and/or demos on certain days of the conference. The days and 
+        time slots for the live presentations will be determined after the review process is complete. More details about this will 
+        be posted on this page later.
     </p>
 
     <h2 id="contact">Contacts</h2>
     <p>
-        For more information, please contact the Reserach Demonstration Chairs:
+        For more information, please contact the Research Demonstration Chairs:
         <ul>
-            <li>Ayush Bhargava - Key Lime Interactive, USA</li>
-            <li>David M. Krum - University of Southern California, USA</li>
-            <li>Benjamin Weyers - University of Trier, Germany</li>
-            <li>Rafael Kuffner dos Anjos - University College of London, UK</li>
+            <li>Alexandre Gomes de Siqueira - University of Florida, USA</li>
+            <li>Ayush Bhargava - Facebook, USA</li>
+            <li>Arindam Dey - University of Queensland, Australia</li>
+            <li>Vinoba Vinayagamoorthy - BBC Research & Development, UK</li>
         </ul>
-        researchdemonstrations2021 [at] ieeevr.org
-    </p>-->
-
-
-
+        researchdemonstrations2022 [at] ieeevr.org
+    </p>
 </div>
