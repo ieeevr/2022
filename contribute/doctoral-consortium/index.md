@@ -9,8 +9,10 @@ title_separator: "|"
     <h1 id="cfp-doctoral-cosortium">Call for Doctoral Consortium</h1>
 
     <p>
-        <strong style="color: black">IEEE VR 2022: the 29th IEEE Conference on Virtual Reality and 3D User Interfaces 12-16 March, 2022, Christchurch, New Zealand</strong>
-        <br />
+        <strong style="color: black">IEEE VR 2022: the 29th IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
+    <br /> 
+    12-16 March, 2022, Christchurch, New Zealand
+    <br />
         <a href="http://ieeevr.org/2022/">http://ieeevr.org/2022/</a>
     </p>
     
