@@ -99,7 +99,7 @@ title: "IEEEVR VGTC Awards"
 
     <p>
         <div class="notice--info">
-            <b class="notice--text"><a style="text-align: center;" href="https://tc.computer.org/vgtc/awards/vr-award-nominations/">Submit a Nomination</a></b>
+            <b class="notice--text"><a href="https://tc.computer.org/vgtc/awards/vr-award-nominations/">Submit a Nomination</a></b>
         </div>
     </p>
 
