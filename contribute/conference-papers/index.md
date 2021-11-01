@@ -121,8 +121,8 @@ IEEE VR 2022 seeks contributions in VR/AR/MR and 3DUI including, but not limited
     ensure that the PDF submission matches the PDF format template (<a href="http://junctionpublishing.org/vgtc/Templates/october2017/vgtc_conference_latex.pdf">http://junctionpublishing.org/vgtc/Templates/october2017/vgtc_conference_latex.pdf</a>).
 </p>
 <p>
-    <div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
-        <b class="notice--text" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">Failure to make reasonable attempts to adhere to the double-blind policy will result in desk rejection.</b>
+    <div class="notice--info" style="background-color: #fec10d !important; color: $theme-text !important;">
+        <b class="notice--text" style="background-color: #fec10d !important; color: $theme-text !important;">Failure to make reasonable attempts to adhere to the double-blind policy will result in desk rejection.</b>
     </div>
 </p>
 <p>
@@ -138,8 +138,8 @@ IEEE VR 2022 seeks contributions in VR/AR/MR and 3DUI including, but not limited
     therefore would not prohibit acceptance.
 </p>
 <p>
-    <div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
-        <b class="notice--text" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">Failure to adhere to the previous or simultaneous submission guidelines will result in a rejection without returning the reviews.</b>
+    <div class="notice--info" style="background-color: #fec10d !important; color: $theme-text !important;">
+        <b class="notice--text" style="background-color: #fec10d !important; color: $theme-text !important;">Failure to adhere to the previous or simultaneous submission guidelines will result in a rejection without returning the reviews.</b>
     </div>
 </p>
 <p>
@@ -150,8 +150,8 @@ IEEE VR 2022 seeks contributions in VR/AR/MR and 3DUI including, but not limited
     Authors that have questions/issues around double-blind submission policy should contact the conference chairs at the above-mentioned email address. 
 </p>
 <p>
-    <div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
-        <b class="notice--text" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">Failure to make reasonable attempts to anonymize your submission will result in desk rejection.</b>
+    <div class="notice--info" style="background-color: #fec10d !important; color: $theme-text !important;">
+        <b class="notice--text" style="background-color: #fec10d !important; color: $theme-text !important;">Failure to make reasonable attempts to anonymize your submission will result in desk rejection.</b>
     </div>
 </p>
 <p>
@@ -177,8 +177,8 @@ IEEE VR 2022 seeks contributions in VR/AR/MR and 3DUI including, but not limited
     reviews, and cover letter).
 </p>
 <p>
-    <div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
-        <b class="notice--text" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">Failure to provide the requested information associated with the journal paper submission will result in the 
+    <div class="notice--info" style="background-color: #fec10d !important; color: $theme-text !important;">
+        <b class="notice--text" style="background-color: #fec10d !important; color: $theme-text !important;">Failure to provide the requested information associated with the journal paper submission will result in the 
         conference paper submission to be treated as a new submission to the conference paper track and processed accordingly.</b>
     </div>
 </p>
@@ -206,8 +206,8 @@ IEEE VR 2022 seeks contributions in VR/AR/MR and 3DUI including, but not limited
     Island (which uses AoE) at <a href="https://www.timeanddate.com/worldclock/meeting.html">https://www.timeanddate.com/worldclock/meeting.html</a>
 </p>
 <p> 
-    <div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
-        <b class="notice--text" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">The submission deadlines will be strictly enforced. Requests for extensions will not be honored.</b>
+    <div class="notice--info" style="background-color: #fec10d !important; color: $theme-text !important;">
+        <b class="notice--text" style="background-color: #fec10d !important; color: $theme-text !important;">The submission deadlines will be strictly enforced. Requests for extensions will not be honored.</b>
     </div>
 </p>
     <ul>

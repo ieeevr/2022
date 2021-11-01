@@ -33,7 +33,7 @@ $warning-color: #841525 !default;
   font-size: 18px;
   border: none;
   outline: none;
-  background-color: $theme-yellow-light;
+  background-color: $theme-yellow;
   color: $theme-text;
   cursor: pointer;
   padding: 15px;
@@ -43,8 +43,8 @@ $warning-color: #841525 !default;
 
 @media(hover: hover) and (pointer: fine){
     #myBtnTop:hover {
-    background-color: $theme-yellow;
-    color: $theme-text;
+    background-color: $theme-navy;
+    color: $f2f2f2;
     }
 }
 
