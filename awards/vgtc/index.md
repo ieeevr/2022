@@ -34,8 +34,8 @@ title: "IEEEVR VGTC Awards"
         <a href="https://tc.computer.org/vgtc/awards/virtual-augmented-reality-technical-awards/">IEEE VGTC Virtual Reality Award Recipients</a>
     </p>
 
-    <div class="center" style="">
-        <p style="font-size: 30px;">
+    <div style="">
+        <p style="font-size: 25px;">
             <a href="https://tc.computer.org/vgtc/awards/vr-award-nominations/" class="btn btn--primary" style="border: 2px solid white;">Submit a Nomination</a>
         </p>
     </div>
