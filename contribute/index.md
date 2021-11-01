@@ -170,7 +170,7 @@ IEEE VR 2022 seeks contributions in VR/AR/MR and 3DUI including, but not limited
 </p>
 <p>
     <div class="notice--info">
-        <b class="notice--text">Failure to make reasonable attempts to adhere to the double-blind policy will result in desk rejection.</b>
+        <b style="color: #363636 ! important; background-color: $theme-yellow ! important;">Failure to make reasonable attempts to adhere to the double-blind policy will result in desk rejection.</b>
     </div>
 </p>
 <p>
@@ -188,7 +188,7 @@ IEEE VR 2022 seeks contributions in VR/AR/MR and 3DUI including, but not limited
 </p>
 <p> 
     <div class="notice--info">
-        <b style="background-color: $theme-yellow ! important;">The submission deadlines will be strictly enforced. Requests for extensions will not be honored.</b>
+        <b style="color: #363636 ! important; background-color: $theme-yellow ! important;">The submission deadlines will be strictly enforced. Requests for extensions will not be honored.</b>
     </div>
 </p>
     <ul>
