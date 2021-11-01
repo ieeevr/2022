@@ -93,7 +93,7 @@ title: "BoFs"
     {% for event in site.data.events %}
     {% if event.id == bof.id %}
     {% if event.location %}
-    <div class="notice--info">
+    <div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
         <strong style="padding-bottom: 5px;">Take me to the event:</strong>
         <p>
             {% if bof.id == 'BOFSocialX1' %}

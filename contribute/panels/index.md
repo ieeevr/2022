@@ -35,8 +35,8 @@ title_separator: "|"
     </p>
 
     <h2 id="submission-guidelines">Submission Guidelines</h2> 
-    <div class="notice--info">
-        <b>Important.</b> Submission guidelines have changed this year!
+    <div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
+        <b class="notice--text" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">Important.</b> Submission guidelines have changed this year!
     </div>
     
     <p>

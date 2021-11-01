@@ -63,8 +63,8 @@ title_separator: "|"
             <li>A one page Curriculum Vitae.</li>
         </ol>
 
-        <div class="notice--info">
-            <b>Submissions received after the deadline will not be considered.</b>
+        <div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
+            <b class="notice--text" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">Submissions received after the deadline will not be considered.</b>
         </div>
     </p>
 

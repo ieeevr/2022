@@ -134,7 +134,7 @@ title: "Research Demos"
     {% for event in site.data.events %}
     {% if event.id == 'demos-all' %}
     {% if event.location %}
-    <div class="notice--info">
+    <div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
         <strong style="padding-bottom: 5px;">Take me to the event:</strong>
         <p>
             <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
@@ -159,7 +159,7 @@ title: "Research Demos"
     <!-- TAKE ME TO THE EVENT END-->
 </div>
 
-<div class="notice--info">
+<div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
     <strong>Best of IEEE VR 2021</strong>
     <p>
         Please use this form to vote for the best poster, best demo, and best 3DUI contest submission.

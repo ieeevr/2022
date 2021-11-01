@@ -78,7 +78,7 @@ title_separator: "|"
     </p>
 
 
-    <!--<div class="notice--info">
+    <!--<div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
         <p><strong>
                 Please click <a href="/2021/program/exhibitors/">HERE</a> to see the conferences designated exhibit hours
             </strong>

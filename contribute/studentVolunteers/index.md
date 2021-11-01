@@ -71,8 +71,8 @@ title_separator: "|"
         <li style="list-style: none;">The SV chairs can be reached via email at studentvolunteers2021 [at] ieeevr.org. </li>
     </ul>
 
-    <div class="notice--info">
-        <b>Do not miss the opportunity to join our team!</b>
+    <div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
+        <b class="notice--text" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">Do not miss the opportunity to join our team!</b>
     </div>
     -->
 

@@ -181,7 +181,7 @@ title: "Exhibitors and Sponsors"
     <h1>Exhibitors and Sponsors</h1>
 
 
-    <div class="notice--info">
+    <div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
         <p><strong>
                 Please click <a href="/2021/contribute/exhibitors/">HERE</a> for more exhibit and sponsor information.
             </strong>
