@@ -4,46 +4,45 @@ title: "IEEEVR VGTC Awards"
 ---
 
 <div>
-    <h1>IEEE VGTC Virtual Reality Technical Awards</h1>
+    <h1>IEEE VGTC Virtual Reality Awards</h1>
     <p>
-        The IEEE VGTC VR Technical Awards program recognizes individuals who have made a significant contribution to the community through their research.
+        The IEEE VGTC Virtual Reality Awards recognize and honor individuals who have made a significant contribution 
+        to the community through their research and/or service. 
     </p>
     <p>
-        Anyone may nominate individuals by emailing the Chair (Henry Fuchs) at <a href="mailto:vgtc-vr-awards@vgtc.org">vgtc-vr-awards@vgtc.org</a> with a brief rationale by October 31, 2020. Please highlight contributions based on the criteria below. The Technical Awards Committee compiles a list of nominated individuals and examines each carefully, along with others the committee feels are worthy of consideration.
+        Except for the Outstanding Dissertation Award (whose nominations are due May 31st of each year), all nominations 
+        are due by <strong>November 30<sup>th</sup></strong> each year. The awards are presented at the annual IEEE VR conference.
     </p>
 
     <p>
-        Nominations should include:
+        Awards:
         <ul>
-            <li>Name, address, phone number, and email address of the nominator</li>
-            <li>Name and email address of the candidate</li>
-            <li>Suggested citation (maximum of 25 words)</li>
-            <li>Nomination statement (maximum of 500 words in length) addressing why the candidate should receive this award</li>
+            <li>IEEE VGTC Virtual Reality Outstanding Dissertation</li>
+            <li>IEEE VGTC Virtual Reality Significant New Researcher</li>
+            <li>IEEE VGTC Virtual Reality Technical Achievement</li>
+            <li>IEEE VGTC Virtual Reality Lifetime Achievement</li>
+            <li>IEEE VGTC Virtual Reality Service Award</li>
+            <li>IEEE VGTC Virtual Reality Academy</li>
         </ul>
     </p>
 
-    <h2>IEEE VGTC Virtual Reality Technical Achievement Award</h2>
     <p>
-        The Virtual Reality Technical Achievement Award is given each year to recognize an individual for a seminal technical achievement in virtual and augmented reality. <br>
-        <strong style="color: black"><i>Criteria:</i></strong>
-        <ul>
-            <li>Technical depth.</li>
-            <li>Significance of the research contribution.</li>
-            <li>Development of new research directions.</li>
-            <li>Reasonably active participant in the IEEE VR community, although people outside of this community with outstanding and relevant achievements are considered in exceptional circumstances</li>
-        </ul>
+        <a href="https://tc.computer.org/vgtc/award-criteria/">IEEE VGTC Awards Overview and Criteria</a>
     </p>
 
-    <h2>IEEE VGTC Virtual Reality Career Award</h2>
     <p>
-        The Virtual Reality Career Award is given to an individual to honor that person's lifetime contribution to virtual and augmented reality. <br>
-        <strong style="color: black"><i>Criteria:</i></strong>
-        <ul>
-            <li>Cumulative contributions to the field.</li>
-            <li>Influence on the work of others.</li>
-            <li>Development of new research directions.</li>
-            <li>Reasonably active participant in the IEEE VR community, although people outside of this community with outstanding and relevant achievements are considered in exceptional circumstances</li>
-        </ul>
+        <a href="https://tc.computer.org/vgtc/awards/virtual-augmented-reality-technical-awards/">IEEE VGTC Virtual Reality Award Recipients</a>
+    </p>
+
+    <p>
+        <div class="notice--info">
+            <b class="notice--text"><a href="https://tc.computer.org/vgtc/awards/vr-award-nominations/">Submit a Nomination</a></b>
+        </div>
+    </p>
+
+    <p>
+        For questions or additional information please email IEEE VGTC VR Awards Program Chair, currently Henry Fuchs, 
+        at <a href="mailto:vgtc-vr-awards@vgtc.org">vgtc-vr-awards@vgtc.org</a>.
     </p>
 
 </div>
