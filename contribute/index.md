@@ -169,7 +169,7 @@ IEEE VR 2022 seeks contributions in VR/AR/MR and 3DUI including, but not limited
     Authors that have questions/issues around the double-blind submission policy should contact the program chairs.
 </p>
 <p>
-    <div class="notice--info">
+    <div class="notice--info" style="background-color: #fffbed ! important; color: #363636 ! important;">
         <b style="color: #363636 ! important; background-color: $theme-yellow ! important;">Failure to make reasonable attempts to adhere to the double-blind policy will result in desk rejection.</b>
     </div>
 </p>
@@ -187,7 +187,7 @@ IEEE VR 2022 seeks contributions in VR/AR/MR and 3DUI including, but not limited
     AoE is for your local time is setting your location at 1 and Baker Island (which uses AoE) for: <a href="https://www.timeanddate.com/worldclock/meeting.html">https://www.timeanddate.com/worldclock/meeting.html</a>
 </p>
 <p> 
-    <div class="notice--info">
+    <div class="notice--info" style="background-color: #fffbed ! important; color: #363636 ! important;">
         <b style="color: #363636 ! important; background-color: $theme-yellow ! important;">The submission deadlines will be strictly enforced. Requests for extensions will not be honored.</b>
     </div>
 </p>
