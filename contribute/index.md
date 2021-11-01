@@ -169,8 +169,8 @@ IEEE VR 2022 seeks contributions in VR/AR/MR and 3DUI including, but not limited
     Authors that have questions/issues around the double-blind submission policy should contact the program chairs.
 </p>
 <p>
-    <div class="notice--info" style="background-color: #fffbed ! important; color: #363636 ! important;">
-        <b class="notice--text" style="color: #363636 ! important; background-color: $theme-yellow ! important;">Failure to make reasonable attempts to adhere to the double-blind policy will result in desk rejection.</b>
+    <div class="notice--info" style="background-color: #fffbed !important; color: #363636 !important;">
+        <b class="notice--text" style="color: #363636 !important; background-color: $theme-yellow !important;">Failure to make reasonable attempts to adhere to the double-blind policy will result in desk rejection.</b>
     </div>
 </p>
 <p>
@@ -200,7 +200,7 @@ IEEE VR 2022 seeks contributions in VR/AR/MR and 3DUI including, but not limited
     <li><b>January 22, 2022</b>: Camera-ready material due from authors of accepted papers</li>
 </ul>
 
-<p style="text-align:left ! important;">
+<p style="text-align:left !important;">
     Paper abstracts and complete papers must be submitted electronically through PCS: 
     <a href="https://new.precisionconference.com/~vr">https://new.precisionconference.com/~vr</a>
 </p>
