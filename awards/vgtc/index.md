@@ -35,9 +35,11 @@ title: "IEEEVR VGTC Awards"
     </p>
 
     <div class="center" style="position: relative;">
-        <p style="font-size: 30px; position: absolute; top: 50%; left: 50%; -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%);">
-            <a href="https://tc.computer.org/vgtc/awards/vr-award-nominations/" class="btn btn--primary" style="border: 2px solid white;">Submit a Nomination</a>
-        </p>
+        <div style="margin: 0; position: absolute; top: 50%; left: 50%; -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%);">
+            <p style="font-size: 30px;">
+                <a href="https://tc.computer.org/vgtc/awards/vr-award-nominations/" class="btn btn--primary" style="border: 2px solid white;">Submit a Nomination</a>
+            </p>
+        </div>
     </div>
 
     <!--<p>
