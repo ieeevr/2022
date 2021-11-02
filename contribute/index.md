@@ -169,7 +169,7 @@ IEEE VR 2022 seeks contributions in VR/AR/MR and 3DUI including, but not limited
     Authors that have questions/issues around the double-blind submission policy should contact the program chairs.
 </p>
 <p>
-    <div class="notice--info" style="background-color: #fffbed !important; color: #363636 !important;">
+    <div class="notice--info" style="background-color: #fec10d !important; color: #363636 !important;">
         <b class="notice--text" style="color: #363636 !important; background-color: $theme-yellow !important;">Failure to make reasonable attempts to adhere to the double-blind policy will result in desk rejection.</b>
     </div>
 </p>
