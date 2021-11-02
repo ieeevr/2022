@@ -35,7 +35,7 @@ title: "IEEEVR VGTC Awards"
     </p>
 
     <div style="">
-        <p style="font-size: 25px;">
+        <p style="font-size: 25px; text-align: center;">
             <a href="https://tc.computer.org/vgtc/awards/vr-award-nominations/" class="btn btn--primary" style="border: 2px solid white;">Submit a Nomination</a>
         </p>
     </div>
