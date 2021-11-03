@@ -27,7 +27,7 @@ title_separator: "|"
 <ul>
     <li>Paper abstracts and complete papers must be submitted electronically through the online submission system: <a href="https://new.precisionconference.com/~vr">https://new.precisionconference.com/~vr</a></li>
     <li>All paper submissions must be in English. All IEEE VR Conference Paper submissions must be prepared in IEEE Computer Society VGTC format 
-        (<a href="https://tc.computer.org/vgtc/publications/conference/">https://tc.computer.org/vgtc/publications/conference/</a> and submitted in PDF format.</li>
+        (<a href="https://tc.computer.org/vgtc/publications/conference/">https://tc.computer.org/vgtc/publications/conference/</a>) and submitted in PDF format.</li>
 </ul>
 
 <h2 id="overview">Overview</h2>
