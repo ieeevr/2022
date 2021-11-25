@@ -24,7 +24,7 @@ title_separator: "|"
     </ul>
     <p>
         Each deadline is 23:59:59 AoE (Anywhere on Earth) == GMT/UTC-12:00 on the stated day, no matter where the 
-        submitter is located.1
+        submitter is located.
     </p>
     
     <h2 id="Overview">Overview</h2>
