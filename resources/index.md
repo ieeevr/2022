@@ -10,6 +10,7 @@ title_separator: "|"
 
 <h2 id="zoom-backgrounds"> Zoom Backgrounds </h2>
 
+<div>
 <img src={{ "/assets/images/zoom_backgrounds/IEEE VR22 Zoom background virtual.jpg" | relative_url }} alt="A photograph over the water with a pink sky, a long bridge stretching from the right side of the image, and the IEEE VR 2022 logo in the top left corner. To be used as a Zoom background.">
 <p style="text-align: center ! important;">
 	<a href={{ "/assets/images/zoom_backgrounds/IEEE VR22 Zoom background virtual.jpg" | relative_url }}>JPEG</a> &#124; <a href={{ "/assets/images/zoom_backgrounds/IEEE VR22 Zoom background virtual.png" | relative_url }}>PNG</a>
@@ -19,7 +20,7 @@ title_separator: "|"
 <p style="text-align: center ! important;">
 	<a href={{ "/assets/images/zoom_backgrounds/IEEE VR22 Zoom background.jpg" | relative_url }}>JPEG</a> &#124; <a href={{ "/assets/images/zoom_backgrounds/IEEE VR22 Zoom background.png" | relative_url }}>PNG</a>
 </p>-->
-
+</div>
 
 <h2 id="banner"> IEEE VR 2022 Banner </h2>
 
