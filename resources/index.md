@@ -14,7 +14,7 @@ title_separator: "|"
 	<!--<img src={{ "/assets/images/zoom_backgrounds/IEEE VR22 Zoom background virtual.jpg" | relative_url }} alt="A photograph over the water with a pink sky, a long bridge stretching from the right side of the image, and the IEEE VR 2022 logo in the top left corner. To be used as a Zoom background.">
 	--><p style="text-align: center ! important;">
 		<strong>test</strong>
-		<a href={{ "/assets/images/zoom_backgrounds/IEEE VR22 Zoom background virtual.jpg" | relative_url }}>JPEG</a> &#124; <a href={{ "/assets/images/zoom_backgrounds/IEEE VR22 Zoom background virtual.png" | relative_url }}>PNG</a>
+		<a href="{{ "/assets/images/zoom_backgrounds/IEEE VR22 Zoom background virtual.jpg" | relative_url }}">JPEG</a> &#124; <a href={{ "/assets/images/zoom_backgrounds/IEEE VR22 Zoom background virtual.png" | relative_url }}>PNG</a>
 	</p>
 
 	<!--<img src={{ "/assets/images/zoom_backgrounds/IEEE VR22 Zoom background.jpg" | relative_url }} alt="An aerial photograph of Christchurch with the IEEE VR 2022 logo in the top left corner. To be used as a Zoom background.">
