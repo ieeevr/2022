@@ -1,12 +1,7 @@
 ---									
 layout: ieeevr-default									
 title: "Conference Committee"									
----									
-									
----									
-layout: ieeevr-default									
-title: "Conference Committee"									
----									
+---						
 									
 <div>									
 	<h2>	General Chairs	</h2>						
