@@ -3,6 +3,11 @@ layout: ieeevr-default
 title: "Conference Committee"									
 ---									
 									
+---									
+layout: ieeevr-default									
+title: "Conference Committee"									
+---									
+									
 <div>									
 	<h2>	General Chairs	</h2>						
 		<ul>							
@@ -25,7 +30,7 @@ title: "Conference Committee"
 	<h2>	Conference Paper Chairs	</h2>						
 		<ul>							
 			<li>	Pablo	Figueroa	&#x2012; <i>	Universidad de los Andes, Colombia	</i></li>	
-			<li>	Bobby	Bodenheimer	&#x2012; <i>	Vanderbilt University, USA	</i></li>	
+			<li>	Bobby	Boddenheimer	&#x2012; <i>	Vanderbilt University, USA	</i></li>	
 			<li>	Gerd	Bruder	&#x2012; <i>	University of Central Florida, USA	</i></li>	
 			<li>	Sarah	Creem-Regehr	&#x2012; <i>	University of Utah, USA	</i></li>	
 			<li>	Martin	Hachet	&#x2012; <i>	Inria Bordeaux, France	</i></li>	
@@ -36,18 +41,22 @@ title: "Conference Committee"
 			<li style="list-style: none">	conferencepapers2022	[at] ieeevr.org			</li>	
 		</ul>							
 									
-	<h2>	Finance Chair	</h2>						
-		<ul>							
-			<li>	Chris	Buyarski	&#x2012; <i>	HIT Lab NZ, University of Canterbury, New Zealand	</i></li>	
-			<li style="list-style: none">	finance2022	[at] ieeevr.org			</li>	
-		</ul>							
-									
 	<h2>	3DUI Contest Chairs	</h2>						
 		<ul>							
+			<li>	Elham	Ebrahimi	&#x2012; <i>	University of North Carolina Wilmington, USA	</i></li>	
 			<li>	Thammathip	Piumsomboon	&#x2012; <i>	University of Canterbury, New Zealand	</i></li>	
 			<li>	Daniel	Roth	&#x2012; <i>	Friedrich-Alexander University Erlangen-Nürnberg, Germany	</i></li>	
 			<li>	Luciano	Soares	&#x2012; <i>	Insper, Brazil	</i></li>	
 			<li style="list-style: none">	contest2022	[at] ieeevr.org			</li>	
+		</ul>							
+									
+	<h2>	Diversity, Accessibility, and Inclusion Chairs	</h2>						
+		<ul>							
+			<li>	Stephanie	Carnell	&#x2012; <i>	University of Central Florida, USA	</i></li>	
+			<li>	Tonja	Machulla	&#x2012; <i>	LMU München, Germany	</i></li>	
+			<li>	Catarina	Moreira	&#x2012; <i>	Queensland University of Technology, Australia	</i></li>	
+			<li>	Rory 	Clifford	&#x2012; <i>	HIT Lab NZ, University of Canterbury, New Zealand	</i></li>	
+			<li style="list-style: none">	diversity2022	[at] ieeevr.org			</li>	
 		</ul>							
 									
 	<h2>	Doctoral Consortium Chairs	</h2>						
@@ -64,6 +73,12 @@ title: "Conference Committee"
 			<li>	Mark	Billinghurst	&#x2012; <i>	University of South Australia, Australia	</i></li>	
 			<li>	Stefanie	Zollmann	&#x2012; <i>	University of Otago, New Zealand	</i></li>	
 			<li style="list-style: none">	sponsorship2022	[at] ieeevr.org			</li>	
+		</ul>							
+									
+	<h2>	Finance Chair	</h2>						
+		<ul>							
+			<li>	Chris	Buyarski	&#x2012; <i>	HIT Lab NZ, University of Canterbury, New Zealand	</i></li>	
+			<li style="list-style: none">	finance2022	[at] ieeevr.org			</li>	
 		</ul>							
 									
 	<h2>	Local Arrangements Chairs	</h2>						
@@ -152,24 +167,15 @@ title: "Conference Committee"
 			<li style="list-style: none">	awards2022	[at] ieeevr.org			</li>	
 		</ul>							-->
 									
-	<h2>	Diversity, Accessibility, and Inclusion Chairs	</h2>						
-		<ul>							
-			<li>	Stephanie	Carnell	&#x2012; <i>	University of Central Florida, USA	</i></li>	
-			<li>	Tonja	Machulla	&#x2012; <i>	LMU München, Germany	</i></li>	
-			<li>	Catarina	Moreira	&#x2012; <i>	Queensland University of Technology, Australia	</i></li>	
-			<li>	Rory 	Clifford	&#x2012; <i>	HIT Lab NZ, University of Canterbury, New Zealand	</i></li>	
-			<li style="list-style: none">	diversity2022	[at] ieeevr.org			</li>	
-		</ul>							
-									
 	<h2>	VR in VR Chairs / Streaming	</h2>						
 		<ul>							
 			<li>	Rob	Lindeman	&#x2012; <i>	HIT Lab NZ, University of Canterbury, New Zealand	</i></li>	
 			<li>	Jason	Orlosky	&#x2012; <i>	Augusta University, USA	</i></li>	
-			<li>	Kyle	Johnsen	&#x2012; <i>	University of Georgia, USA	</i></li>
+			<li>	Kyle	Johnsen	&#x2012; <i>	University of Georgia, USA	</i></li>	
 			<li style="list-style: none">	vrinvr2022	[at] ieeevr.org			</li>	
 		</ul>							
 									
 <!--	<h2>	Streaming Chairs	</h2>						
 		<ul>							
 		</ul>							-->
-</div>									
+</div>																	
