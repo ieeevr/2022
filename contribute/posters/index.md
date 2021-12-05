@@ -37,8 +37,12 @@ title_separator: "|"
         Presenting a poster is a great way to get feedback on work that has not yet been published. As the conference will take place either 
         virtually or in a hybrid form, a combination of local and remote poster presentations will be an integral part of the conference, with 
         sessions for interactive discussion between presenters and attendees for at least two days where authors can orally present a brief 
-        summary of their work to all conference attendees. Note that, in order to maintain interactive and exciting poster presentations, we 
-        require at least one presenter per accepted poster to attend the conference (in person or virtually).
+        summary of their work to all conference attendees.  Note that, in order to maintain interactive and exciting poster presentations, we require at least one presenter per accepted poster to attend the virtual conference.
+ </p>
+
+<p>
+It is currently not decided which online platform will be used for the online conference. We are aware of the fact that this is of essential interest especially for poster presenters and will inform all authors as soon as we have more information.
+
     </p>
     
     <h2 id="submission-guidelines">Submission Guidelines</h2>
