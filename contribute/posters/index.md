@@ -34,10 +34,10 @@ title_separator: "|"
         augmented reality, mixed reality, and 3D user interfaces.
     </p>
     <p>
-        Presenting a poster is a great way to get feedback on work that has not yet been published. As the conference will take place either 
-        virtually or in a hybrid form, a combination of local and remote poster presentations will be an integral part of the conference, with 
-        sessions for interactive discussion between presenters and attendees for at least two days where authors can orally present a brief 
-        summary of their work to all conference attendees.  Note that, in order to maintain interactive and exciting poster presentations, we require at least one presenter per accepted poster to attend the virtual conference.
+        Presenting a poster is a great way to get feedback on work that has not yet been published. As the conference will take place virtually
+        a remote poster presentation will be part of the conference, with sessions for interactive discussion between presenters and attendees for at
+        least two days where authors can orally present a brief summary of their work to all conference attendees.
+        Note that, in order to maintain interactive and exciting poster presentations, we require at least one presenter per accepted poster to attend the virtual conference.
  </p>
 
 <p>
