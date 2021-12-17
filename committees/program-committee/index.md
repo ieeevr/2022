@@ -153,7 +153,7 @@ title_separator: "|"
         <li>	Yalong	Yang	            &#x2012;	 <i>	Virginia Tech		</i></li>
         <li>	Jerald	Thomas	            &#x2012;	 <i>	University of Minnesota		</i></li>
         <li>	Kangsoo	Kim	                &#x2012;	 <i>	University of Calgary		</i></li>
-        <li>	Arnulph	Fuhrmann	        &#x2012;	 <i>	TH Köln		</i></li>
+        <li>	Arnulph	Fuhrmann	        &#x2012;	 <i>	TH K&ouml;ln		</i></li>
         <li>	Isaac	Cho	                &#x2012;	 <i>	University of North Carolina at Charlotte		</i></li>
         <li>	Alexandre	Gomes de Siqueira	&#x2012;	 <i>	Florida University		</i></li>
         <li>	Thomas	Pietrzak	        &#x2012;	 <i>	University of Lille		</i></li>
