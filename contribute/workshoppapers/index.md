@@ -474,6 +474,57 @@ title_separator: "|"
     </p>
 
 
+<!-- ------------------------------------------------SIVE-------------------------------------------------------- -->
+
+    <h2 id="SIVE"> Sonic Interaction in Virtual Environments </h2>
+    <!-- TAKE ME TO THE EVENT START -->
+    <!--{% for event in site.data.events %}
+    {% if event.id == 'WEVR' %}
+    {% if event.location %}
+    <div class="notice--info">
+        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
+        <p>
+            <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
+
+            {% if event.stream-url %}
+            <br />
+            {% if event.aindanaoaconteceu %}
+            <strong style="color: black;">Watch video stream live:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
+            {% else %}
+            <strong style="color: black;">Watch the recorded video stream:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
+            {% endif %}
+            {% endif %}
+            {% if event.discordurl %}
+            <br />
+            <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}" target="_blank">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
+            {% endif %}
+            {% endif %}
+        </p>
+    </div>
+    {% endif %}
+    {% endfor %}-->
+    <!-- TAKE ME TO THE EVENT END-->
+    
+    <p>
+        <strong style="color:black;">Website:</strong> <a href="https://sive.create.aau.dk/" target="_blank">https://sive.create.aau.dk/</a>
+    </p>
+    <ul>
+        <li> Submission deadline: 12<sup>th</sup> January 2022 </li>
+        <li> Notification of results: 20<sup>th</sup> January 2022 </li>
+        <li> Camera-ready submission due: 27<sup>th</sup> January 2022 </li>+
+    </ul>
+    <p>
+        The main goal of this workshop is to increase among the virtual reality community the awareness of the importance 
+        of sonic elements when designing virtual/augmented/mixed reality (VR/AR/MR) environments. We will also discuss how 
+        research in other related fields such as film sound theory, product sound design, sound and music computing, game 
+        sound design, and computer music can inform designers of VR/AR/MR environments. Moreover, the workshop will feature 
+        state-of-the-art research on the field of sound for VR/AR/MR environments.
+    </p>
+    <p>
+        <strong style="color:black;">Principal Organizer:</strong> Michele Geronazzo
+    </p>
+
+
 <!-- ------------------------------------------------WEVR-------------------------------------------------------- -->
 
     <h2 id="WEVR"> 8<sup>th</sup> Workshop on Everyday Virtual Reality </h2>
