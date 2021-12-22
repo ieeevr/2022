@@ -32,16 +32,16 @@ title_separator: "|"
     }
 
     .styled-table tbody tr:nth-of-type(even) {
-        background-color: #f3f3f3;
+        background-color: #fffbed;
     }
 
     .styled-table tbody tr:last-of-type {
-        border-bottom: 2px solid #00aeef;
+        border-bottom: 2px solid #fec10d;
     }
 
     .styled-table tbody tr.active-row {
         font-weight: bold;
-        color: #00aeef;
+        color: #fec10d;
     }
 </style>
 
@@ -96,7 +96,6 @@ title_separator: "|"
     {% endfor %}-->
     <!-- TAKE ME TO THE EVENT END-->
     
-    
     <p>
         <strong style="color:black;">Website:</strong> <a href="https://anivae.fhstp.ac.at/" target="_blank"> https://anivae.fhstp.ac.at/ </a>
     </p>
@@ -112,7 +111,7 @@ title_separator: "|"
     <p>
         <strong style="color:black;">Principal Organizer:</strong> Thomas Moser
     </p>
-
+    
 
 <!-- ------------------------------------------------OpenVR-------------------------------------------------------- -->
 
@@ -171,11 +170,11 @@ title_separator: "|"
     <p>
         <strong style="color:black;">Principal Organizer:</strong> Matias Volonte
     </p>
-
+    
 
 <!-- ------------------------------------------------TrainingXR-------------------------------------------------------- -->
 
-    <h2 id="TrainingXR"> 3<sup>rd</sup> Annual Workshop on 3D Content Creation for Simulated Training in eXtended Reality (TrainingXR) </h2>
+    <h2 id="TrainingXR"> 3rd Annual Workshop on 3D Content Creation for Simulated Training in eXtended Reality (TrainingXR) </h2>
     <!-- TAKE ME TO THE EVENT START -->
     <!--{% for event in site.data.events %}
     {% if event.id == 'SIVE' %}
@@ -204,7 +203,6 @@ title_separator: "|"
     {% endfor %}-->
     <!-- TAKE ME TO THE EVENT END-->
     
-    
     <p>
         <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/view/trainingxrieeevr2022" target="_blank">https://sites.google.com/view/trainingxrieeevr2022</a>
     </p>
@@ -224,7 +222,7 @@ title_separator: "|"
     <p>
         <strong style="color:black;">Principal Organizer:</strong> Lap Fai (Craig) Yu
     </p>
-
+    
 
 <!-- ------------------------------------------------Data4XR-------------------------------------------------------- -->
 
@@ -272,7 +270,7 @@ title_separator: "|"
         However, when XR researchers decide to import these algorithms for developing intelligent immersive interactive applications, 
         the lack of publicly available datasets arises as a challenge despite advanced AI algorithms being developed.
     </p>
-    </p>
+    <p>
         Many works related to datasets have been published, e.g., MINIST, ImageNet, CIFAR-10, etc. To unleash the full power of XR, 
         the community also needs standard datasets for developing data-driven models with machine&#47;deep learning. The workshop on 
         Datasets for Developing Intelligent XR Applications (Data4XR), hosted by the IEEE VR 2022, proposes a meaningful platform for 
@@ -282,8 +280,8 @@ title_separator: "|"
     <p>
         <strong style="color:black;">Principal Organizer:</strong> Yuyang Wang
     </p>
-
-
+    
+    
 <!-- ------------------------------------------------ReDigiTS-------------------------------------------------------- -->
 
     <h2 id="ReDigiTS"> 3D Reconstruction, Digital Twinning, and Simulation for Virtual Experiences (ReDigiTS) </h2>
@@ -315,7 +313,6 @@ title_separator: "|"
     {% endfor %}-->
     <!-- TAKE ME TO THE EVENT END-->
     
-    
     <p>
         <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/view/redigits" target="_blank">https://sites.google.com/view/redigits</a>
     </p>
@@ -334,8 +331,8 @@ title_separator: "|"
     <p>
         <strong style="color:black;">Principal Organizer:</strong> Fabrizio Lamberti
     </p>
-
-
+    
+    
 <!-- ------------------------------------------------VHCIE-------------------------------------------------------- -->
 
     <h2 id="VHCIE"> Workshop on Virtual Humans and Crowds in Immersive Environments (VHCIE) </h2>
@@ -387,7 +384,7 @@ title_separator: "|"
         other disciplines involved in modeling, developing, and evaluating virtual humans and crowds. 
     </p>
     <p>
-        The objective of VHCIE workshop on "Virtual Humans and Crowds in Immersive Environments" is then threefold. Through a panel and a 
+        The objective of VHCIE workshop on &quot;Virtual Humans and Crowds in Immersive Environments&quot; is then threefold. Through a panel and a 
         selection of submitted presentations (short papers and late breaking research), we will: 
         <ol>
             <li>
@@ -406,7 +403,7 @@ title_separator: "|"
                 creation of populated immersive VEs. However, there is still a way for improvement. Thus, the third objective of the
                 workshop is to gather the requirements of current users of these technologies for future applications. To this end, 
                 our audience and an invited cross-community panel from different research areas (VR, IVA, ..) as well as industry will 
-                try to answer questions such as&#58; Do users expect better animation quality? Better rendering? Or, higher level of 
+                try to answer questions such as: Do users expect better animation quality? Better rendering? Or, higher level of 
                 autonomy? What kind of interactivity is expected with autonomous agents?
             </li>
         </ol>
@@ -416,11 +413,11 @@ title_separator: "|"
     <p>
         <strong style="color:black;">Principal Organizer:</strong> Anne-H&eacute;l&egrave;ne Olivier
     </p>
-
+    
 
 <!-- ------------------------------------------------SIWI-------------------------------------------------------- -->
 
-    <h2 id="SIWI"> Metaverse as a promise of a bright future? – social interactions in a world of isolation </h2>
+    <h2 id="SIWI"> Metaverse as a promise of a bright future? - social interactions in a world of isolation </h2>
     <!-- TAKE ME TO THE EVENT START -->
     <!--{% for event in site.data.events %}
     {% if event.id == 'WEVR' %}
@@ -455,25 +452,24 @@ title_separator: "|"
     <ul>
         <li> Submission deadline: 12<sup>th</sup> January 2022 </li>
         <li> Notification of results: 18<sup>th</sup> January 2022 </li>
-        <li> Camera-ready submission due: 25<sup>th</sup> January 2022 </li>+
+        <li> Camera-ready submission due: 25<sup>th</sup> January 2022 </li>
     </ul>
     <p>
         The Metaverse is before us. Extended Reality, which has so far been on the periphery of life, has a chance of 
         becoming an element of everyday life. The arrival of such a world has been accelerated, on the one hand, by 
-        technological development and the readiness of IT corporations to invest in VR&#47;XR technology, and on the other 
+        technological development and the readiness of IT corporations to invest in VR/XR technology, and on the other 
         hand, by a pandemic that prompted us to look for alternative ways to exist in isolation.
     </p>
     <p>
         This situation forces us to face completely new challenges. We must find ways to define ourselves in the virtual 
         world in various dimensions, including establishing social relationships or creating our own identity. We invite 
-        you to our online workshop – a space for reflection on issues of social functioning in the world of the Metaverse. 
+        you to our online workshop - a space for reflection on issues of social functioning in the world of the Metaverse. 
         The event has been designed to allow participants to interact in three autonomous forms: lectures combined with Q&A 
         sessions, an experiment involving participant observation in the VR environment, and thematic discussion sessions.
     </p>
     <p>
         <strong style="color:black;">Principal Organizer:</strong> Anna Mierzecka
     </p>
-
 
 <!-- ------------------------------------------------SIVE-------------------------------------------------------- -->
 
@@ -512,7 +508,7 @@ title_separator: "|"
     <ul>
         <li> Submission deadline: 12<sup>th</sup> January 2022 </li>
         <li> Notification of results: 20<sup>th</sup> January 2022 </li>
-        <li> Camera-ready submission due: 27<sup>th</sup> January 2022 </li>+
+        <li> Camera-ready submission due: 27<sup>th</sup> January 2022 </li>
     </ul>
     <p>
         The main goal of this workshop is to increase among the virtual reality community the awareness of the importance 
@@ -524,11 +520,11 @@ title_separator: "|"
     <p>
         <strong style="color:black;">Principal Organizer:</strong> Michele Geronazzo
     </p>
-
+    
 
 <!-- ------------------------------------------------WEVR-------------------------------------------------------- -->
 
-    <h2 id="WEVR"> 8<sup>th</sup> Workshop on Everyday Virtual Reality </h2>
+    <h2 id="WEVR"> 8th Workshop on Everyday Virtual Reality </h2>
     <!-- TAKE ME TO THE EVENT START -->
     <!--{% for event in site.data.events %}
     {% if event.id == 'KELVAR' %}
@@ -557,7 +553,6 @@ title_separator: "|"
     {% endfor %}-->
     <!-- TAKE ME TO THE EVENT END-->
     
-    
     <p>
         <strong style="color:black;">Website:</strong> <a href="https://wevr.adalsimeone.me/" target="_blank">https://wevr.adalsimeone.me/</a>
     </p>
@@ -567,7 +562,7 @@ title_separator: "|"
         <li> Camera-ready submission due: 29<sup>th</sup> January 2022 </li>
     </ul>
     <p>
-        WEVR aims at fostering discussion and bringing advance understanding on challenges and opportunities for "Everyday" Virtual, 
+        WEVR aims at fostering discussion and bringing advance understanding on challenges and opportunities for &quot;Everyday&quot; Virtual, 
         Augmented and Mixed Reality topics in contexts and scenarios going beyond research laboratories and specialist environments. 
         Bringing together experts with diverse background, i.e. researchers, technicians, engineers, game developers, industry partners, 
         we hope to a new perspectives look and re-thinking on the following specified themes:
@@ -587,7 +582,7 @@ title_separator: "|"
     <p>
         <strong style="color:black;">Principal Organizer:</strong> Adalberto Simeone
     </p>
-
+    
 
 <!-- ------------------------------------------------ARES-------------------------------------------------------- -->
 
@@ -655,7 +650,7 @@ title_separator: "|"
     <p>
         <strong style="color:black;">Principal Organizer:</strong> Christian Eichhorn
     </p>
-
+    
 
 <!-- ------------------------------------------------XRHealth-------------------------------------------------------- -->
 
@@ -710,7 +705,7 @@ title_separator: "|"
     <p>
         <strong style="color:black;">Principal Organizer:</strong> Craig Anslow
     </p>
-
+    
     
 <!-- ------------------------------------------------AVEH-------------------------------------------------------- -->
 
@@ -742,6 +737,7 @@ title_separator: "|"
     {% endif %}
     {% endfor %}-->
     <!-- TAKE ME TO THE EVENT END-->
+    
     <p>
         <strong style="color:black;">Website:</strong> TBA <!--<a href="https://openarcloud/IEEE2021" target="_blank">https://openarcloud/IEEE2021</a>-->
     </p>
@@ -790,6 +786,7 @@ title_separator: "|"
     {% endif %}
     {% endfor %}-->
     <!-- TAKE ME TO THE EVENT END-->
+    
     <p>
         <strong style="color:black;">Website:</strong> TBA <!--<a href="https://locomotionvault.github.io/workshopieeevr.html" target="_blank">https://locomotionvault.github.io/workshopieeevr.html</a> -->
     </p>
@@ -811,7 +808,7 @@ title_separator: "|"
     <p>
         <strong style="color:black;">Principal Organizer:</strong> Moya Kate Baldry
     </p>
-
+    
 
 <!-- ------------------------------------------------METABUILD-------------------------------------------------------- -->
 
@@ -877,11 +874,11 @@ title_separator: "|"
     <p>
         <strong style="color:black;">Principal Organizer:</strong> Lik Hang Lee
     </p>
-
+    
 
 <!-- ------------------------------------------------XRIOS-------------------------------------------------------- -->
 
-    <h2 id="XRIOS"> 1<sup>st</sup> International Workshop on eXtended Reality for Industrial and Occupational Supports (XRIOS) </h2>
+    <h2 id="XRIOS"> 1st International Workshop on eXtended Reality for Industrial and Occupational Supports (XRIOS) </h2>
     <!-- TAKE ME TO THE EVENT START -->
     <!--{% for event in site.data.events %}
     {% if event.id == 'ANIVAE' %}
@@ -909,7 +906,6 @@ title_separator: "|"
     {% endif %}
     {% endfor %}-->
     <!-- TAKE ME TO THE EVENT END-->
-    
     
     <p>
         <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/view/xrios2022" target="_blank">https://sites.google.com/view/xrios2022</a>
@@ -920,7 +916,7 @@ title_separator: "|"
         <li> Camera-ready submission due: 27<sup>th</sup> January 2022 </li>
     </ul>
     <p>
-        This workshop—eXtended Reality for Industrial and Occupational Supports (XRIOS)—aims to identify the current state 
+        This workshop-eXtended Reality for Industrial and Occupational Supports (XRIOS)-aims to identify the current state 
         of XR research and the gaps in the scope of human factors and ergonomics, mainly related to the industrial and 
         occupational tasks, and discuss potential future research directions. XRIOS will build a community that bridges XR 
         developers, human factors and ergonomics researchers interested in industrial and occupational applications.
@@ -928,11 +924,11 @@ title_separator: "|"
     <p>
         <strong style="color:black;">Principal Organizer:</strong> Heejin Jeong
     </p>
-
+    
 
 <!-- ------------------------------------------------SIVA-------------------------------------------------------- -->
 
-    <h2 id="SIVA"> 1<sup>st</sup> International Workshop on Socially Intelligent Virtual Agents (SIVA) </h2>
+    <h2 id="SIVA"> 1st International Workshop on Socially Intelligent Virtual Agents (SIVA) </h2>
     <!-- TAKE ME TO THE EVENT START -->
     <!--{% for event in site.data.events %}
     {% if event.id == 'ANIVAE' %}
@@ -960,7 +956,6 @@ title_separator: "|"
     {% endif %}
     {% endfor %}-->
     <!-- TAKE ME TO THE EVENT END-->
-    
     
     <p>
         <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/view/sivaieeevr2022" target="_blank">https://sites.google.com/view/sivaieeevr2022</a>
@@ -980,11 +975,11 @@ title_separator: "|"
     <p>
         <strong style="color:black;">Principal Organizer:</strong> Susanne Schmidt
     </p>
-
+    
 
 <!-- ------------------------------------------------PERCxR-------------------------------------------------------- -->
 
-    <h2 id="PERCxR"> 8<sup>th</sup> workshop on Perceptual and Cognitive Issues in XR (PERCxR) </h2>
+    <h2 id="PERCxR"> 8th workshop on Perceptual and Cognitive Issues in XR (PERCxR) </h2>
     <!-- TAKE ME TO THE EVENT START -->
     <!--{% for event in site.data.events %}
     {% if event.id == 'ANIVAE' %}
@@ -1013,7 +1008,6 @@ title_separator: "|"
     {% endfor %}-->
     <!-- TAKE ME TO THE EVENT END-->
     
-    
     <p>
         <strong style="color:black;">Website:</strong> <a href="https://percxr.com" target="_blank">https://percxr.com</a>
     </p>
@@ -1025,7 +1019,7 @@ title_separator: "|"
         issues that inform and constrain the design of effective extended reality systems.  There is neither an in-depth 
         overview of these factors, nor well-founded knowledge on most effects as gained through formal validation. In 
         particular, long-term usage effects are inadequately understood. Meanwhile, mobile platforms and emerging display 
-        hardware ("glasses") promise to ignite the number of users, as well as the system usage duration. To fulfill 
+        hardware (&quot;glasses&quot;) promise to ignite the number of users, as well as the system usage duration. To fulfill 
         usability needs, a thorough understanding of perceptual and intertwined cognitive factors is highly needed by 
         both research and industry: issues such as depth misinterpretation, object relationship mismatches and information 
         overload can severely limit usability of applications, or even pose risks in their usage. Based on the gained 
@@ -1036,7 +1030,7 @@ title_separator: "|"
     <p>
         <strong style="color:black;">Principal Organizer:</strong> Rick Skarbez
     </p>
-
+    
 
 <!-- ------------------------------------------------EmpathicComputing-------------------------------------------------------- -->
 
@@ -1069,7 +1063,6 @@ title_separator: "|"
     {% endfor %}-->
     <!-- TAKE ME TO THE EVENT END-->
     
-    
     <p>
         <strong style="color:black;">Website:</strong> TBA
     </p>
@@ -1086,7 +1079,7 @@ title_separator: "|"
     <p>
         <strong style="color:black;">Principal Organizer:</strong> Arindam Dey
     </p>
-
+    
 
 <!-- ------------------------------------------------HSVRAR-------------------------------------------------------- -->
 
@@ -1119,7 +1112,6 @@ title_separator: "|"
     {% endfor %}-->
     <!-- TAKE ME TO THE EVENT END-->
     
-    
     <p>
         <strong style="color:black;">Website:</strong> TBA
     </p>
@@ -1135,11 +1127,11 @@ title_separator: "|"
     <p>
         <strong style="color:black;">Principal Organizer:</strong> Mark Billinghurst
     </p>
-
+    
 
 <!-- ------------------------------------------------KELVAR-------------------------------------------------------- -->
 
-    <h2 id="KELVAR"> 7<sup>th</sup> Annual Workshop on K-12&#43; Embodied Learning through Virtual and Augmented Reality (KELVAR) </h2>
+    <h2 id="KELVAR"> 7th Annual Workshop on K-12&#43; Embodied Learning through Virtual and Augmented Reality (KELVAR) </h2>
     <!-- TAKE ME TO THE EVENT START -->
     <!--{% for event in site.data.events %}
     {% if event.id == 'ANIVAE' %}
@@ -1168,7 +1160,6 @@ title_separator: "|"
     {% endfor %}-->
     <!-- TAKE ME TO THE EVENT END-->
     
-    
     <p>
         <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/site/vrkelvar/" target="_blank">https://sites.google.com/site/vrkelvar/</a>
     </p>
@@ -1187,5 +1178,5 @@ title_separator: "|"
     <p>
         <strong style="color:black;">Principal Organizer:</strong> Erica Southgate
     </p>
-
+    
 </div>

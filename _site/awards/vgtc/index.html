@@ -238,7 +238,7 @@
 
     .dropdown-content a {
         float: none;
-        color: $theme-text;
+        color: #363636;
         padding: 12px 16px;
         text-decoration: none;
         display: block;
@@ -369,22 +369,22 @@
     }
 
     .ieeevrmsgbox { // Any boxes with the theme-primary color as background
-      background-color: $theme-yellow;
+      background-color: #fec10d;
       border-radius: 7px;
     }
 
     .ieeevrmsgbox b {
-        color: $theme-text;
+        color: #363636;
     }
 
-    .notice--info * {
-        background-color: $theme-yellow ! important;
-        color: $theme-text ! important;
+    .notice--info {
+        background-color: $fffbed ! important;
+        color: #363636 ! important;
     }
 
     .notice--text {
-        background-color: $theme-yellow ! important;
-        color: $theme-text ! important;
+        background-color: $fffbed ! important;
+        color: #363636 ! important;
     }
 
     @media screen and (max-width: 900px) {
@@ -508,12 +508,12 @@
                     <a href=/contribute/conference-papers/>Call for Conference Papers</a>
                     <a href=/contribute/posters/>Call for Posters</a>
                     <a href=/contribute/workshops/>Call for Workshops</a>
-                    <a href=/contribute/demos/ style="color:#919191">Call for Research Demos</a>
+                    <a href=/contribute/3dui-contest/>Call for 3DUI Contest Entries</a>
+                    <a href=/contribute/demos/>Call for Research Demos</a>
+                    <a href=/contribute/doctoral-consortium/ >Call for Doctoral Consortium</a>
+                    <a href=/contribute/tutorials/ >Call for Tutorials</a>
                     <a href=/contribute/workshoppapers/ style="color:#919191">Call for Workshop Papers</a>
                     <a href=/contribute/panels/ style="color:#919191">Call for Panels</a>
-                    <a href=/contribute/3dui-contest/ style="color:#919191">Call for 3DUI Contest Entries</a>
-                    <a href=/contribute/doctoral-consortium/ style="color:#919191">Call for Doctoral Consortium</a>
-                    <a href=/contribute/tutorials/ style="color:#919191">Call for Tutorials</a>
                     <a href=/contribute/videos/ style="color:#919191">Call for Videos</a>
                     <a href=/contribute/studentVolunteers/ style="color:#919191">Call for Student Volunteers</a>
             <!--        <a href=/contribute/bridge-to-vr/>Bridge to VR CFP</a>                      -->
@@ -523,33 +523,31 @@
                 </div>
             </div>
             
-            <!--
             <div class="dropdown">
                 <button class="dropbtn">Awards &#9662;</button>
                 <div class="dropdown-content">
                     <a href=/awards/vgtc>VGTC Awards</a>
-                    <a href=/awards/vgtc-award-winners/>2022 Awards Winners</a>
-                    <a href=/awards/conference-awards/>Conference Awards</a>
+                    <!--<a href=/awards/vgtc-award-winners/>2022 Awards Winners</a>
+                    <a href=/awards/conference-awards/>Conference Awards</a>-->
                 </div>
             </div>
-
-            -->
 
             <div class="dropdown">
                 <button class="dropbtn">Committees &#9662;</button>
                 <div class="dropdown-content">
                     <a href=/committees/conference-committee/>Conference Committee</a>
                     <a href=/committees/steering-committee/>Steering Committee</a> 
-                    <!-- <a href=/committees/program-committee/>Program Committee</a> -->
+                    <a href=/committees/program-committee/>Program Committee</a>
                 </div>
             </div>
             <a href=/past-conferences/>Past Conferences</a>
+            <a href=/resources/>Resources</a>
             <a href="javascript:void(0);" style="font-size:16px;" class="icon" onclick="myFunction()">&#9776;</a>
         </div>
 
 
         <!-- banner -->
-        <img class="ieeevrbanner" src=/assets/images/IEEE%20VR%202020%20Logo%20BANNER.jpg alt="The logo for the IEEE Conference on Virtual Reality + User Interfaces overlaid on an image of Mount Cook and a braided river. The logo contains a kiwi wearing a virtual reality display.">
+        <img class="ieeevrbanner" src=/assets/images/IEEE%20VR%202020%20Logo%20BANNER.jpg alt="The official banner for the IEEE Conference on Virtual Reality + User Interfaces, comprised of a Kiwi wearing a VR headset overlaid on an image of Mount Cook and a braided river.">
 
         <!-- content -->
         <section class="page__content" itemprop="text">
@@ -562,46 +560,51 @@
 
 
                     <div>
-    <h1>IEEE VGTC Virtual Reality Technical Awards</h1>
+    <h1>IEEE VGTC Virtual Reality Awards</h1>
     <p>
-        The IEEE VGTC VR Technical Awards program recognizes individuals who have made a significant contribution to the community through their research.
+        The IEEE VGTC Virtual Reality Awards recognize and honor individuals who have made a significant contribution 
+        to the community through their research and/or service. 
     </p>
     <p>
-        Anyone may nominate individuals by emailing the Chair (Henry Fuchs) at <a href="mailto:vgtc-vr-awards@vgtc.org">vgtc-vr-awards@vgtc.org</a> with a brief rationale by October 31, 2020. Please highlight contributions based on the criteria below. The Technical Awards Committee compiles a list of nominated individuals and examines each carefully, along with others the committee feels are worthy of consideration.
+        Except for the Outstanding Dissertation Award (whose nominations are due May 31st of each year), all nominations 
+        are due by <strong>January 20<sup>th</sup>, 2022</strong> this year (deadline extended). The awards are presented at the annual IEEE VR conference.
     </p>
 
     <p>
-        Nominations should include:
+        Awards:
         <ul>
-            <li>Name, address, phone number, and email address of the nominator</li>
-            <li>Name and email address of the candidate</li>
-            <li>Suggested citation (maximum of 25 words)</li>
-            <li>Nomination statement (maximum of 500 words in length) addressing why the candidate should receive this award</li>
+            <li>IEEE VGTC Virtual Reality Outstanding Dissertation</li>
+            <li>IEEE VGTC Virtual Reality Significant New Researcher</li>
+            <li>IEEE VGTC Virtual Reality Technical Achievement</li>
+            <li>IEEE VGTC Virtual Reality Lifetime Achievement</li>
+            <li>IEEE VGTC Virtual Reality Service Award</li>
+            <li>IEEE VGTC Virtual Reality Academy</li>
         </ul>
     </p>
 
-    <h2>IEEE VGTC Virtual Reality Technical Achievement Award</h2>
     <p>
-        The Virtual Reality Technical Achievement Award is given each year to recognize an individual for a seminal technical achievement in virtual and augmented reality. <br />
-        <strong style="color: black"><i>Criteria:</i></strong>
-        <ul>
-            <li>Technical depth.</li>
-            <li>Significance of the research contribution.</li>
-            <li>Development of new research directions.</li>
-            <li>Reasonably active participant in the IEEE VR community, although people outside of this community with outstanding and relevant achievements are considered in exceptional circumstances</li>
-        </ul>
+        <a href="https://tc.computer.org/vgtc/award-criteria/">IEEE VGTC Awards Overview and Criteria</a>
     </p>
 
-    <h2>IEEE VGTC Virtual Reality Career Award</h2>
     <p>
-        The Virtual Reality Career Award is given to an individual to honor that person's lifetime contribution to virtual and augmented reality. <br />
-        <strong style="color: black"><i>Criteria:</i></strong>
-        <ul>
-            <li>Cumulative contributions to the field.</li>
-            <li>Influence on the work of others.</li>
-            <li>Development of new research directions.</li>
-            <li>Reasonably active participant in the IEEE VR community, although people outside of this community with outstanding and relevant achievements are considered in exceptional circumstances</li>
-        </ul>
+        <a href="https://tc.computer.org/vgtc/awards/virtual-augmented-reality-technical-awards/">IEEE VGTC Virtual Reality Award Recipients</a>
+    </p>
+
+    <div style="">
+        <p style="font-size: 25px; text-align: center;">
+            <a href="https://tc.computer.org/vgtc/awards/vr-award-nominations/" class="btn btn--primary" style="border: 2px solid white;">Submit a Nomination</a>
+        </p>
+    </div>
+
+    <!--<p>
+        <div class="notice--info" style="background-color: #fec10d !important; color: $theme-text !important;">
+            <b class="notice--text" style="background-color: #fec10d !important; color: $theme-text !important; text-align: center !important;" ><a href="https://tc.computer.org/vgtc/awards/vr-award-nominations/">Submit a Nomination</a></b>
+        </div>
+    </p>-->
+
+    <p>
+        For questions or additional information please email IEEE VGTC VR Awards Program Chair, currently Henry Fuchs, 
+        at <a href="mailto:vgtc-vr-awards@vgtc.org">vgtc-vr-awards@vgtc.org</a>.
     </p>
 
 </div>
@@ -689,6 +692,9 @@ All nominations will be reviewed by the IEEE VGTC Virtual and Augmented Reality 
                         <br>
                             <a href="https://www.christchurchnz.com/" target="_blank">
                             <img class="conf-icon" style="width: 90%;" src=/assets/images/sponsors/ChristchurchNZ_Logo.png alt="ChristchurchNZ Logo"></a>
+                            <br>
+                            <a href="https://www.canterbury.ac.nz/" target="_blank">
+                            <img class="conf-icon" style="width: 90%;" src=/assets/images/sponsors/UCRed_RGB.jpg alt="University of Canterbury Logo"></a>
                             <br>
                          <br>
                         <div style="background-color: #fec10d; border-radius: 7px;">
