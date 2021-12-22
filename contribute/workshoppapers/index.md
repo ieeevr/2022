@@ -66,7 +66,7 @@ title_separator: "|"
 
 <!-- ------------------------------------------------ANIVAE-2022-------------------------------------------------------- -->
 
-    <h2 id="ANIVAE-2022"> 5th IEEE VR Internal Workshop on Animation in Virtual and Augmented Environments (ANIVAE-2022) </h2>
+    <h2 id="ANIVAE-2022"> 5<sup>th</sup> IEEE VR Internal Workshop on Animation in Virtual and Augmented Environments (ANIVAE-2022) </h2>
     
     <!-- TAKE ME TO THE EVENT START -->
     <!--{% for event in site.data.events %}
@@ -106,7 +106,8 @@ title_separator: "|"
         <li> Camera-ready submission due: 27<sup>th</sup> January 2022 </li>
     </ul>
     <p>
-        By encouraging synergies of interdisciplinary approaches, the workshop maps animation within the AVR context from different angles and creates new knowledge in this research field.   
+        By encouraging synergies of interdisciplinary approaches, the workshop maps animation within the AVR context from different 
+        angles and creates new knowledge in this research field.   
     </p>
     <p>
         <strong style="color:black;">Principal Organizer:</strong> Thomas Moser
@@ -174,7 +175,7 @@ title_separator: "|"
 
 <!-- ------------------------------------------------TrainingXR-------------------------------------------------------- -->
 
-    <h2 id="TrainingXR"> 3rd Annual Workshop on 3D Content Creation for Simulated Training in eXtended Reality (TrainingXR) </h2>
+    <h2 id="TrainingXR"> 3<sup>rd</sup> Annual Workshop on 3D Content Creation for Simulated Training in eXtended Reality (TrainingXR) </h2>
     <!-- TAKE ME TO THE EVENT START -->
     <!--{% for event in site.data.events %}
     {% if event.id == 'SIVE' %}
@@ -273,7 +274,7 @@ title_separator: "|"
     </p>
     </p>
         Many works related to datasets have been published, e.g., MINIST, ImageNet, CIFAR-10, etc. To unleash the full power of XR, 
-        the community also needs standard datasets for developing data-driven models with machine/deep learning. The workshop on 
+        the community also needs standard datasets for developing data-driven models with machine&#47;deep learning. The workshop on 
         Datasets for Developing Intelligent XR Applications (Data4XR), hosted by the IEEE VR 2022, proposes a meaningful platform for 
         domain researchers to find valuable resources and develop collaborations across labs. It aims to promote XR research by 
         involving artificial intelligence.
@@ -326,7 +327,7 @@ title_separator: "|"
     <p>
         The aim of this workshop is to attract a collection of high-quality submissions reporting state-of-the-art research 
         activities targeted to the next generation of immersive experiences, reporting the latest methodologies, applications, 
-        standards, evaluations, and/or use cases for 3D reconstruction, digital twinning, and simulation for immersive experiences.
+        standards, evaluations, and&#47;or use cases for 3D reconstruction, digital twinning, and simulation for immersive experiences.
         Despite the pivotal role played by these research directions in the design and development of immersive experiences, 
         they are only partially addressed in the topics of workshops organized in the previous editions of IEEE VR.    
     </p>
@@ -405,7 +406,7 @@ title_separator: "|"
                 creation of populated immersive VEs. However, there is still a way for improvement. Thus, the third objective of the
                 workshop is to gather the requirements of current users of these technologies for future applications. To this end, 
                 our audience and an invited cross-community panel from different research areas (VR, IVA, ..) as well as industry will 
-                try to answer questions such as: Do users expect better animation quality? Better rendering? Or, higher level of 
+                try to answer questions such as&#58; Do users expect better animation quality? Better rendering? Or, higher level of 
                 autonomy? What kind of interactivity is expected with autonomous agents?
             </li>
         </ol>
@@ -459,7 +460,7 @@ title_separator: "|"
     <p>
         The Metaverse is before us. Extended Reality, which has so far been on the periphery of life, has a chance of 
         becoming an element of everyday life. The arrival of such a world has been accelerated, on the one hand, by 
-        technological development and the readiness of IT corporations to invest in VR/XR technology, and on the other 
+        technological development and the readiness of IT corporations to invest in VR&#47;XR technology, and on the other 
         hand, by a pandemic that prompted us to look for alternative ways to exist in isolation.
     </p>
     <p>
@@ -853,7 +854,7 @@ title_separator: "|"
     </ul>
     <p>
         The goal of this workshop is to discuss the issues related to building the metaverse under two directions: (1) technological 
-        and engineering aspects allowing to develop the metaverse’s ecosystems, and (2) content creation for and in the metaverse to 
+        and engineering aspects allowing to develop the metaverse's ecosystems, and (2) content creation for and in the metaverse to 
         provide ownership to users. These two goals are interconnected as technology should support content creation, while content 
         creation should happen with respect of the technological advances. In more details, we target:
         <ol>
@@ -880,7 +881,7 @@ title_separator: "|"
 
 <!-- ------------------------------------------------XRIOS-------------------------------------------------------- -->
 
-    <h2 id="XRIOS"> 1st International Workshop on eXtended Reality for Industrial and Occupational Supports (XRIOS) </h2>
+    <h2 id="XRIOS"> 1<sup>st</sup> International Workshop on eXtended Reality for Industrial and Occupational Supports (XRIOS) </h2>
     <!-- TAKE ME TO THE EVENT START -->
     <!--{% for event in site.data.events %}
     {% if event.id == 'ANIVAE' %}
@@ -931,7 +932,7 @@ title_separator: "|"
 
 <!-- ------------------------------------------------SIVA-------------------------------------------------------- -->
 
-    <h2 id="SIVA"> 1st International Workshop on Socially Intelligent Virtual Agents (SIVA) </h2>
+    <h2 id="SIVA"> 1<sup>st</sup> International Workshop on Socially Intelligent Virtual Agents (SIVA) </h2>
     <!-- TAKE ME TO THE EVENT START -->
     <!--{% for event in site.data.events %}
     {% if event.id == 'ANIVAE' %}
@@ -983,7 +984,7 @@ title_separator: "|"
 
 <!-- ------------------------------------------------PERCxR-------------------------------------------------------- -->
 
-    <h2 id="PERCxR"> 8th workshop on Perceptual and Cognitive Issues in XR (PERCxR) </h2>
+    <h2 id="PERCxR"> 8<sup>th</sup> workshop on Perceptual and Cognitive Issues in XR (PERCxR) </h2>
     <!-- TAKE ME TO THE EVENT START -->
     <!--{% for event in site.data.events %}
     {% if event.id == 'ANIVAE' %}
@@ -1138,7 +1139,7 @@ title_separator: "|"
 
 <!-- ------------------------------------------------KELVAR-------------------------------------------------------- -->
 
-    <h2 id="KELVAR"> 7th Annual Workshop on K-12&#43; Embodied Learning through Virtual and Augmented Reality (KELVAR) </h2>
+    <h2 id="KELVAR"> 7<sup>th</sup> Annual Workshop on K-12&#43; Embodied Learning through Virtual and Augmented Reality (KELVAR) </h2>
     <!-- TAKE ME TO THE EVENT START -->
     <!--{% for event in site.data.events %}
     {% if event.id == 'ANIVAE' %}
