@@ -8,16 +8,16 @@ title_separator: "|"
 <div>
     <h1 id="cfp-demos">Call for Research Demos</h1>
     <p>
-        <strong style="color: black">IEEE VR 2022: the 29<sup>th</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 12-March 16, 2022, Christchurch, New Zealand
+        <strong style="color: black">IEEE VR 2022: the 29<sup>th</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 12-March 16, 2022, Virtual
         <br />
         <a href="http://ieeevr.org/2022/">http://ieeevr.org/2022/</a>
     </p>
 
     <h2 id="important-dates"> Important Dates </h2>
     <ul>
-        <li><b>January 7, 2022:</b> Two-page abstract, floor plan, and video material submission.</li>
+        <li><b>January 7, 2022:</b> Two-page abstract and video material submission.</li>
         <li><b>January 21, 2022:</b> Notification of results.</li>
-        <li><b>February 4, 2022:</b> Camera-ready two-page abstract, floor plan, and final video material submission.</li>
+        <li><b>February 4, 2022:</b> Camera-ready two-page abstract and final video material submission.</li>
     </ul>
 
     <p>
@@ -34,9 +34,9 @@ title_separator: "|"
     <p>
         The 29th IEEE Conference on Virtual Reality and 3D User Interfaces 2022 seeks research demonstrations from laboratories 
         or research groups (academic, government, or industry). Demos should interest the broad XR community and be presentable 
-        in a conference setting exhibiting new and innovative work. The conference will provide basic infrastructure. Additionally,
-        authors of accepted demos will present an overview in a fast-forward research demonstration session to summarize their 
-        demo and relate it to research being performed at their lab.
+        in a conference setting exhibiting new and innovative work. The conference will provide basic infrastructure. Additionally, 
+        authors of accepted demos will present an overview in a fast-forward research demonstration session to summarize their demo 
+        and relate it to research being performed at their lab.
     </p>
 
 
@@ -54,15 +54,11 @@ title_separator: "|"
                 plan to use the video as something attendees can view asynchronously.
             </li>
             <li>
-                The conference is planned for both in-person and online attendance this year and we would like to provide attendees an 
-                immersive experience of the research demo. As such, we ask that you write a 2-3 line short description separate from the 
-                extended abstract on how you would present your research demo remotely in an immersive way. For example, setting up a 
-                Mozilla Hubs room with a 3D replica of your prototype, so attendees can interact with it. Please note that this is not 
-                a requirement for the submission and will not affect the decision, but is highly recommended.
-            </li>
-            <li>
-                If there is a chance that you might attend the conference and present the research demo in person, please also 
-                submit a floor plan of how you would like to setup your demo at the venue.
+                The conference will be a virtual event and we would like to provide attendees an immersive experience of the research 
+                demo. As such, we ask that you write a 2-3 line short description separate from the extended abstract on how you would 
+                present your research demo remotely in an immersive way. For example, setting up a Mozilla Hubs room with a 3D replica 
+                of your prototype, so attendees can interact with it. Please note that this is not a requirement for the submission and 
+                will not affect the decision, but is highly recommended.
             </li>
         </ul>
     </p>
