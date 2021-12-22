@@ -11,7 +11,7 @@ title_separator: "|"
     <p>
         <strong style="color: black">IEEE VR 2022: the 29th IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
     <br /> 
-    12-16 March, 2022, Christchurch, New Zealand
+    12-16 March, 2022, Virtual
     <br />
         <a href="http://ieeevr.org/2022/">http://ieeevr.org/2022/</a>
     </p>

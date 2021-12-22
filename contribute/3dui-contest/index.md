@@ -12,7 +12,7 @@ title_separator: "|"
     <p>
         <strong style="color: black">IEEE VR 2022: the 29th IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
         <br />
-        12th-16th March 2022, Christchurch, New Zealand 
+        12th-16th March 2022, Virtual
         <a href="https://ieeevr.org/2022/">https://ieeevr.org/2022/</a>
         <br />
         Registrations can be made via email to <a href="mailto:contest2022@ieeevr.org">contest2022@ieeevr.org</a>, final submissions can be made through the Online System: <a href="https://new.precisionconference.com/~vr">https://new.precisionconference.com/~vr</a>.
