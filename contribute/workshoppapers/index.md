@@ -843,7 +843,7 @@ title_separator: "|"
     <!-- TAKE ME TO THE EVENT END-->
     
     <p>
-        <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/view/metabuild-workshop/home" target="_blank">https://sites.google.com/view/metabuild-workshop/home</a>
+        <strong style="color:black;">Website:</strong> <a href="https://metabuild-workshop.herokuapp.com/" target="_blank">https://metabuild-workshop.herokuapp.com/</a>
     </p>
     <ul>
         <li> Submission deadline: 6<sup>th</sup> January 2022 </li>
@@ -873,7 +873,7 @@ title_separator: "|"
         </ol>
     </p>
     <p>
-        <strong style="color:black;">Principal Organizer:</strong> Lik Hang Lee
+        <strong style="color:black;">Principal Organizer:</strong> Pan Hui
     </p>
     
 
