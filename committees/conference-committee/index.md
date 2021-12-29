@@ -25,7 +25,7 @@ title: "Conference Committee"
 	<h2>	Conference Paper Chairs	</h2>						
 		<ul>							
 			<li>	Pablo	Figueroa	&#x2012; <i>	Universidad de los Andes, Colombia	</i></li>	
-			<li>	Bobby	Boddenheimer	&#x2012; <i>	Vanderbilt University, USA	</i></li>	
+			<li>	Bobby	Bodenheimer	&#x2012; <i>	Vanderbilt University, USA	</i></li>	
 			<li>	Gerd	Bruder	&#x2012; <i>	University of Central Florida, USA	</i></li>	
 			<li>	Sarah	Creem-Regehr	&#x2012; <i>	University of Utah, USA	</i></li>	
 			<li>	Martin	Hachet	&#x2012; <i>	Inria Bordeaux, France	</i></li>	
