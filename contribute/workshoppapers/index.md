@@ -48,7 +48,7 @@ title_separator: "|"
 <div>
     <h1 id="call-for-workshop-papers"> Workshops </h1>
     <p>
-        IEEE VR 2022 seeks high-quality contributions to the following 20 workshops. 
+        IEEE VR 2022 seeks high-quality contributions to the following 21 workshops. 
         These will be held virtually on March 12<sup>th</sup>-13<sup>th</sup>. For more details, see each workshop's Call for Papers below.
     </p>
     
