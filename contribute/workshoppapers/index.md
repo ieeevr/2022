@@ -1115,7 +1115,7 @@ title_separator: "|"
     
     <p>
         <strong style="color:black;">Website:</strong> <a href="http://empathiccomputing.org/ecl-workshops/workshop-on-health-and-safety-vrar/" target="_blank">http://empathiccomputing.org/ecl-workshops/workshop-on-health-and-safety-vrar/</a>
-</p>
+    </p>
     <ul>
         <li> Submission deadline: 10<sup>th</sup> January 2022 </li>
         <li> Notification of results: 18<sup>th</sup> January 2022 </li>
