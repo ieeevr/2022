@@ -1065,7 +1065,8 @@ title_separator: "|"
     <!-- TAKE ME TO THE EVENT END-->
     
     <p>
-        <strong style="color:black;">Website:</strong> TBA
+        <strong style="color:black;">Website:</strong>  <a href="http://empathiccomputing.org/ecl-workshops/workshop-on-empathic-computing/" target="_blank">http://empathiccomputing.org/ecl-workshops/workshop-on-empathic-computing/</a>
+    </p> 
     </p>
     <ul>
         <li> Submission deadline: 10<sup>th</sup> January 2022 </li>
@@ -1114,7 +1115,7 @@ title_separator: "|"
     <!-- TAKE ME TO THE EVENT END-->
     
     <p>
-        <strong style="color:black;">Website:</strong> TBA
+        <strong style="color:black;">Website:</strong> <a href="http://empathiccomputing.org/ecl-workshops/workshop-on-health-and-safety-vrar/" target="_blank">http://empathiccomputing.org/ecl-workshops/workshop-on-health-and-safety-vrar/</a>
     </p>
     <ul>
         <li> Submission deadline: 10<sup>th</sup> January 2022 </li>
