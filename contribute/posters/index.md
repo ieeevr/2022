@@ -58,8 +58,8 @@ It is currently not decided which online platform will be used for the online co
     </p>
 
     <p>
-        For every accepted paper there is the requirement to additionally submit a poster, a 30-second teaser video, and a teaser 
-        image (landscape, 1920 x 1080, jpg or png). A video does not require sound but would have captions. Detailed instructions 
+        For every accepted paper there is the requirement to additionally submit a 30-second teaser video, a teaser 
+        image (landscape, 1920 x 1080, jpg or png) and  prepare a google slide poster presentation for the virtual conference (either consisting of multiple slides or just one slide designed like a landscape poster). A video does not require sound but would have captions. Detailed instructions 
         about the format of the final posters will be provided to the authors later. 
     </p>
     
