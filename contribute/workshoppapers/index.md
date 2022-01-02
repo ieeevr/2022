@@ -318,9 +318,9 @@ title_separator: "|"
         <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/view/redigits" target="_blank">https://sites.google.com/view/redigits</a>
     </p>
     <ul>
-        <li> Submission deadline: 5<sup>th</sup> January 2022 </li>
+        <li> Submission deadline: 10<sup>th</sup> January 2022 </li>
         <li> Notification of results: 20<sup>th</sup> January 2022 </li>
-        <li> Camera-ready submission due: 25<sup>th</sup> January 2022 </li>
+        <li> Camera-ready submission due: 27<sup>th</sup> January 2022 </li>
     </ul>
     <p>
         The aim of this workshop is to attract a collection of high-quality submissions reporting state-of-the-art research 
