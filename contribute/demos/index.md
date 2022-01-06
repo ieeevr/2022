@@ -85,6 +85,6 @@ title_separator: "|"
             <li>Arindam Dey - University of Queensland, Australia</li>
             <li>Vinoba Vinayagamoorthy - BBC Research & Development, UK</li>
         </ul>
-        researchdemonstrations2022 [at] ieeevr.org
+        researchdemos2022 [at] ieeevr.org
     </p>
 </div>
