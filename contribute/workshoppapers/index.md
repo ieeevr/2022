@@ -1161,7 +1161,7 @@ title_separator: "|"
     <!-- TAKE ME TO THE EVENT END-->
     
     <p>
-        <strong style="color:black;">Website:</strong> TBA
+        <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/view/nidit" target="_blank">https://sites.google.com/view/nidit</a>
     </p>
     <ul>
         <li> Submission deadline: 10<sup>th</sup> January 2022 </li>
