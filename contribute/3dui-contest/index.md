@@ -23,8 +23,8 @@ title_separator: "|"
     AoE is for your local time is setting your location at 1 and Baker Island (which uses AoE) for: <a href="https://www.timeanddate.com/worldclock/meeting.html">https://www.timeanddate.com/worldclock/meeting.html</a>
     <ul>
         <li><strong>December 18, 2021</strong>: Contest registration (project title and team members) </li>
-        <li><strong>January 7, 2022</strong>: Submission of two-page abstract and video</li>
-        <li><strong>January 18, 2022</strong>: Notification of which entries are accepted</li>
+        <li><strong>January 14, 2022</strong>: Submission of two-page abstract and video</li>
+        <li><strong>January 25, 2022</strong>: Notification of which entries are accepted</li>
         <li><strong>January 31, 2022</strong>: Camera ready version</li>
     </ul>
 
