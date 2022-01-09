@@ -740,7 +740,7 @@ title_separator: "|"
     <!-- TAKE ME TO THE EVENT END-->
     
     <p>
-        <strong style="color:black;">Website:</strong> TBA <!--<a href="https://openarcloud/IEEE2021" target="_blank">https://openarcloud/IEEE2021</a>-->
+        <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/view/aveh2022/home" target="_blank">https://sites.google.com/view/aveh2022/home</a>
     </p>
     <ul>
         <li> Submissions due: 10<sup>th</sup> January 2022 </li>
