@@ -451,7 +451,7 @@ title_separator: "|"
         <strong style="color:black;">Website:</strong> <a href="https://workshop.htt.events/" target="_blank">https://workshop.htt.events/</a>
     </p>
     <ul>
-        <li> Submission deadline: 12<sup>th</sup> January 2022 </li>
+        <li> Submission deadline: 16<sup>th</sup> January 2022 </li>
         <li> Notification of results: 18<sup>th</sup> January 2022 </li>
         <li> Camera-ready submission due: 25<sup>th</sup> January 2022 </li>
     </ul>
