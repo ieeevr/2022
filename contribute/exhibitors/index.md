@@ -95,13 +95,17 @@ title_separator: "|"
                 We’d like to extend our deep gratitude to the exhibitors and sponsors who have partnered with us for the 2021 IEEE VR Conference.
             </p>
             <p>
-                The important partnerships, which foster collaboration and sharing trusted research, helps further the educational and global objectives of IEEE VR that our community and the field-at-large depend on.
+                The important partnerships, which foster collaboration and sharing trusted research, helps further the educational and global objectives 
+                of IEEE VR that our community and the field-at-large depend on.
             </p>
             <p>
-                Because of their participation and connection with the IEEE VR community, our conference was able to provide much-needed scholarships to students, offer student mentorship programs, contribute to the expanding access to our conferences, and make computing research and information available to a wider audience, allowing us to share important developments across the globe.
+                Because of their participation and connection with the IEEE VR community, our conference was able to provide much-needed scholarships to 
+                students, offer student mentorship programs, contribute to the expanding access to our conferences, and make computing research and information
+                available to a wider audience, allowing us to share important developments across the globe.
             </p>
             <p>
-                We remain dedicated to ensuring that our partnerships deliver rich opportunities for each supporter, including building impactful relationships, strengthening their workforce, and expanding their brand’s reach, all critical objectives for competitive computing technologies.
+                We remain dedicated to ensuring that our partnerships deliver rich opportunities for each supporter, including building impactful relationships, 
+                strengthening their workforce, and expanding their brand’s reach, all critical objectives for competitive computing technologies.
             </p>
             <p>
                 We sincerely appreciate the collaboration and partnerships we’ve achieved and the positive impact that they’ve each made on the community.
@@ -126,10 +130,13 @@ title_separator: "|"
 
     <h2>Overview</h2>
     <p>
-        IEEE VR provides a unique opportunity for your organization to reach the world's foremost virtual reality researchers and application builders. We invite companies, government organizations, and academic institutions to showcase virtual reality related products – hardware, software, integrated systems, peripherals, innovations, or literature in one of our two dedicated exhibit areas.
+        IEEE VR provides a unique opportunity for your organization to reach the world's foremost virtual reality researchers and application builders. We invite companies, 
+        government organizations, and academic institutions to showcase virtual reality related products – hardware, software, integrated systems, peripherals, innovations, 
+        or literature in one of our two dedicated exhibit areas.
     </p>
     <p>
-        Look forward to meeting with VR professionals eager to see what your company has to offer. Refreshments and a special reception will take place in the exhibit areas, ensuring good foot traffic to your display.
+        Look forward to meeting with VR professionals eager to see what your company has to offer. Refreshments and a special reception will take place in the exhibit areas, 
+        ensuring good foot traffic to your display.
     </p>
 
     <!--<style type="text/css">
@@ -249,7 +256,7 @@ title_separator: "|"
         <div class="exhibitors-column" style="display: flex; flex: 30%; justify-content: center; align-items: center;">
             <div style="">
                 <p style="font-size: 20px;">
-                    <a href="{{"/assets/contribute/exhibitors/IEEE_VR_Sponsorship_Prospectus.pdf" | relative_url }}" class="btn btn--primary" style="border: 2px solid white;">Go for it!</a>
+                    <a href="{{"/assets/contribute/exhibitors/IEEE_VR_Sponsorship_Prospectus_22.pdf" | relative_url }}" class="btn btn--primary" style="border: 2px solid white;">Go for it!</a>
                 </p>
             </div>
         </div>
