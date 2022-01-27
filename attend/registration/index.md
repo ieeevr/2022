@@ -16,7 +16,7 @@ title_separator: "|"
     display: table;
 }
 .styled-table thead tr {
-    background-color: #00aeef;
+    background-color: #fec10d;
     color: #ffffff;
     text-align: left;
 }
@@ -35,7 +35,7 @@ title_separator: "|"
 }
 
 .styled-table tbody tr:last-of-type {
-    border-bottom: 2px solid #00aeef;
+    border-bottom: 2px solid #fec10d;
 }
 
 .styled-table tbody tr.active-row {
@@ -46,179 +46,158 @@ title_separator: "|"
 
 </style>
 
-
-
-
-
 <h1 id="registration"> Registration</h1>
 <p>
-    <strong style="color: black">IEEE VR 2021: the 28th IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 27-April 3, 2021, Virtual
+    <strong style="color: black">IEEE VR 2022: the 29<sup>th</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br />
+    12-16 March, 2022, Virtual
     <br />
-    <a href="http://ieeevr.org/2021/">http://ieeevr.org/2021/</a>
+    <a href="http://ieeevr.org/2022/">http://ieeevr.org/2022/</a>
 </p>
-
-<!--
-<div class="notice--info">
-    <strong>Registration Information (20 Feb 2021):</strong>
-    <p>
-        Due to the severe weather conditions in the USA, posting the registration form is delayed, since the support team is operating out of Dallas, TX. We expect the form to be up early next week. Thank you very much for your patience and understanding.
-    </p>
-</div>
--->
 
 <div style="">
     <p style="font-size: 20px;">
-        <a href="https://cvent.me/VnyZRb" class="btn btn--primary" style="" target="_blank">Click Here to Register</a>
+        <a href="https://innovators.eventsair.com/ieee-vr-2022/register" class="btn btn--primary" style="" target="_blank">Click Here to Register</a>
     </p>
 </div>
 
+<p>
+    Please note all registration fees below are in New Zealand Dollars (NZD) 
+    and include tax. A currency converter can be found here: <a href="https://www.xe.com/currencyconverter/">https://www.xe.com/currencyconverter/</a>
+</p>
+
+<p>
+    Early bird registration fees are available until Wednesday 16<sup>th</sup> February. 
+    Following this date, late registration fees apply.
+</p>
+
 <h3>General Participant Registration</h3>
-<small>Paper authors see the next table.</small>
 <table class="styled-table">
   <tr style="vertical-align: top;">
     <th><strong>Registration Type</strong></th>
-    <!-- <th><strong>Advance Registration</strong><br/><small>(On or Before March 12th)</small></th> -->
-    <th><strong>Advance Registration</strong><br/><small style="color: rgb(255, 45, 85);">(On or Before March 25th)</small></th>
-    <th><strong>Late Registration</strong></th>
+    <th><strong>Early Bird Registration Fee</strong></th>
+    <th><strong>Late Registration Fee</strong></th>
   </tr>
   <tr>
     <td>Member</td>
-    <td>$50.00</td>
-    <td>$80.00</td>
+    <td>$100</td>
+    <td>$180</td>
   </tr>
   <tr>
     <td>Non-Member</td>
-    <td>$60.00</td>
-    <td>$100.00</td>
+    <td>$120</td>
+    <td>$220</td>
   </tr>
   <tr>
     <td>Student Member</td>
-    <td>$30.00</td>
-    <td>$45.00</td>
+    <td>$70</td>
+    <td>$130</td>
   </tr>
   <tr>
     <td>Student Non-Member</td>
-    <td>$40.00</td>
-    <td>$55.00</td>
+    <td>$85</td>
+    <td>$160</td>
   </tr>
   <tr>
-    <td><a href="https://www.ieee.org/communities/life-members/index.html" target="_blank">Life Member Fee</a></td>
-    <td>$25.00</td>
-    <td>$40.00</td>
+    <td>Life Member</td>
+    <td>$55</td>
+    <td>$100</td>
   </tr>
 </table>
 
-<h3>Paper Author Registration</h3>
+<h3>Paper Author Registration incl. TVCG Papers</h3>
 <table class="styled-table">
   <tr>
     <th><strong>Registration Type</strong></th>
-    <th><strong>Fee</strong></th>
+    <th><strong>Registration Fee</strong></th>
   </tr>
   <tr>
     <td>Member</td>
-    <td>$300.00</td>
+    <td>$500</td>
   </tr>
   <tr>
     <td>Non-Member</td>
-    <td>$360.00</td>
+    <td>$600</td>
   </tr>
   <tr>
-    <td><a href="https://www.ieee.org/communities/life-members/index.html" target="_blank">Life Member Fee</a></td>
-    <td>$150.00</td>
+    <td>Student Member</td>
+    <td>$350</td>
+  </tr>
+  <tr>
+    <td>Student Non-Member</td>
+    <td>$420</td>
+  <tr>
+    <td>Life Member</td>
+    <td>$275</td>
   </tr>
 </table>
 
-<h3>Workshops, Posters, Tutorials, Demos, Videos, 3DUI Contest, and "invited TVCG papers" Author Registration</h3>
+<h3>Workshops, Posters, Tutorials, Demos, Videos, or 3DUI Contest Author Registration</h3>
 <table class="styled-table">
   <tr>
     <th><strong>Registration Type</strong></th>
-    <th><strong>Fee</strong></th>
+    <th><strong>Registration Fee</strong></th>
   </tr>
   <tr>
     <td>Member</td>
-    <td>$100.00</td>
+    <td>$250</td>
   </tr>
   <tr>
     <td>Non-Member</td>
-    <td>$120.00</td>
+    <td>$300</td>
+  </tr>
+  <tr>
+    <td>Student Member</td>
+    <td>$175</td>
+  </tr>
+  <tr>
+    <td>Student Non-Member</td>
+    <td>$210</td>
   </tr>
 </table>
 
-
-<!--
-<h3>Workshops & Tutorials Registration</h3>
-<table>
-  <tr>
-    <th><strong>Registration Type</strong></th>
-    <th><strong>Fee</strong></th>
-  </tr>
-  <tr>
-      <td>Full-Day Member Fee</td>
-      <td>$125.00</td>
-      </tr>
-  <tr>
-      <td>Full-Day Non-Member Fee</td>
-      <td>$150.00</td>
-      </tr>
-  <tr>
-      <td>Full-Day Student Member Fee</td>
-      <td>$125.00</td>
-      </tr>
-  <tr>
-      <td>Full-Day Student Non-Member Fee</td>
-      <td>$150.00</td>
-      </tr>
-  <tr>
-      <td>Half-Day Member Fee</td>
-      <td>$95.00</td>
-      </tr>
-  <tr>
-      <td>Half-Day Non-Member Fee</td>
-      <td>$115.00</td>
-      </tr>
-  <tr>
-      <td>Half-Day Student Member Fee</td>
-      <td>$70.00</td>
-      </tr>
-  <tr>
-      <td>Half-Day Student Non-Member Fee</td>
-      <td>$85.00</td>
-  </tr>
-</table>
-
--->
+<h2>Cancellation Policy</h2>
+<p>
+    Should you need to cancel your registration, you may reassign your registration to another person. 
+    All cancellations and substitutions must be notified in writing to Lauren Broughton at 
+    <a href="mailto:lauren@conference.nz?subject=IEEE VR 22 Cancellation Request">lauren@conference.nz</a>. 
+    If you are unable to arrange a replacement, a full refund less an administration charge of 50&#37; of 
+    your registration fee will be made providing notification is received in writing before and including 
+    Wednesday 16<sup>th</sup> February 2022. After this date, refunds will be at the discretion of the 
+    Organising Committee.
+</p>
 
 <h2>Registation FAQ</h2>
 
 <ol>
-    <li style="color: #00aeef:"><strong>Can one author register as the registered author for two or more papers/publications?</strong><br/>
-        Yes. During registration at Cvent, the author should inform all papers/publications for validation.</li>
+    <li style="color: #fec10d;"><strong>Can one author register as the registered author for two or more papers/publications?</strong><br/>
+        Yes. During registration the author should inform all papers/publications for validation.</li>
 
-    <li style="color: #00aeef:"><strong>Can an author registered as "regular attendee" actually present a paper?</strong><br/>
+    <li style="color: #fec10d;"><strong>Can an author registered as "regular attendee" actually present a paper?</strong><br/>
         Yes. As long as the paper has one author registered to validate the paper, another registered attendee can present the paper.</li>
 
-    <li style="color: #00aeef:"><strong>I am invited to present a paper previously published on TVCG. What category should I register as?</strong><br/>
-        You should use the same category as Workshop/Poster/Demo contributors.</li>
+    <li style="color: #fec10d;"><strong>I am invited to present a paper previously published in TVCG. What category should I register as?</strong><br/>
+        You should use the same category as paper presenters.</li>
 
-    <li style="color: #00aeef:"><strong>What number should I provide to register as an invited TVCG paper author? </strong><br/>
+    <li style="color: #fec10d;"><strong>What number should I provide to register as an invited TVCG paper author? </strong><br/>
         You should indicate your full Paper DOI, eg: 10.1109/TVCG.20nn.ddddddd (as listed on TVCG)</li>
 
-    <li style="color: #00aeef:"><strong>What is an Invited TVCG paper?</strong><br/>
-        Invited TVCG papers are those manuscripts previously published on IEEE TVCG and invited for oral presentation at the conference. Not to be confused with IEEE VR 2021 Journal Papers published in the special issue.</li>
+    <li style="color: #fec10d;"><strong>What is an Invited TVCG paper?</strong><br/>
+        Invited TVCG papers are those manuscripts previously published on IEEE TVCG and invited for oral presentation at the conference. 
+        Not to be confused with IEEE VR 2022 Journal Papers published in the special issue.</li>
 
-    <li style="color: #00aeef:"><strong>Can a participant registered as workshop/TVCG/Poster/Demo, attend the full conference?</strong><br/>
+    <li style="color: #fec10d;"><strong>I’m presenting a paper and a workshop/poster/tutorial/demo, what category do I register as?</strong><br/>
+        You should register as a paper author.</li>
+
+    <li style="color: #fec10d;"><strong>Can a participant registered as workshop/TVCG/Poster/Demo, attend the full conference?</strong><br/>
         Yes.</li>
     
-    <li style="color: #00aeef:"><strong>Can a participant registered for the conference, attend workshops and tutorials?</strong><br/>
+    <li style="color: #fec10d;"><strong>Can a participant registered for the conference, attend workshops and tutorials?</strong><br/>
         Yes.</li>
 </ol>
-
-
-
     
 <br/>
 <div style="">
     <p style="font-size: 20px;">
-        <a href="https://cvent.me/VnyZRb" class="btn btn--primary" style="" target="_blank">Click Here to Register</a>
+        <a href="https://innovators.eventsair.com/ieee-vr-2022/register" class="btn btn--primary" style="" target="_blank">Click Here to Register</a>
     </p>
 </div>
