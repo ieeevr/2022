@@ -196,7 +196,6 @@ title_separator: "|"
         Yes.</li>
 </ul>
     
-<br/>
 <div style="">
     <p style="font-size: 20px;">
         <a href="https://innovators.eventsair.com/ieee-vr-2022/register" class="btn btn--primary" style="" target="_blank">Click Here to Register</a>
