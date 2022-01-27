@@ -125,6 +125,7 @@ title_separator: "|"
   <tr>
     <td>Student Non-Member</td>
     <td>$420</td>
+  </tr>
   <tr>
     <td>Life Member</td>
     <td>$275</td>
