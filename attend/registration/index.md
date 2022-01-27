@@ -167,32 +167,32 @@ title_separator: "|"
     Organising Committee.
 </p>
 
-<h2>Registation FAQ</h2>
+<h2>Registration FAQ</h2>
 
 <ul>
-    <li style="color: #fec10d;"><strong>Can one author register as the registered author for two or more papers/publications?</strong><br/>
+    <li><strong>Can one author register as the registered author for two or more papers/publications?</strong><br/>
         Yes. During registration the author should inform all papers/publications for validation.</li>
 
-    <li style="color: #fec10d;"><strong>Can an author registered as "regular attendee" actually present a paper?</strong><br/>
+    <li><strong>Can an author registered as "regular attendee" actually present a paper?</strong><br/>
         Yes. As long as the paper has one author registered to validate the paper, another registered attendee can present the paper.</li>
 
-    <li style="color: #fec10d;"><strong>I am invited to present a paper previously published in TVCG. What category should I register as?</strong><br/>
+    <li><strong>I am invited to present a paper previously published in TVCG. What category should I register as?</strong><br/>
         You should use the same category as paper presenters.</li>
 
-    <li style="color: #fec10d;"><strong>What number should I provide to register as an invited TVCG paper author?</strong><br/>
+    <li><strong>What number should I provide to register as an invited TVCG paper author?</strong><br/>
         You should indicate your full Paper DOI, eg: 10.1109/TVCG.20nn.ddddddd (as listed on TVCG)</li>
 
-    <li style="color: #fec10d;"><strong>What is an Invited TVCG paper?</strong><br/>
+    <li><strong>What is an Invited TVCG paper?</strong><br/>
         Invited TVCG papers are those manuscripts previously published on IEEE TVCG and invited for oral presentation at the conference. 
         Not to be confused with IEEE VR 2022 Journal Papers published in the special issue.</li>
 
-    <li style="color: #fec10d;"><strong>I'm presenting a paper and a workshop/poster/tutorial/demo, what category do I register as?</strong><br/>
+    <li><strong>I'm presenting a paper and a workshop/poster/tutorial/demo, what category do I register as?</strong><br/>
         You should register as a paper author.</li>
 
-    <li style="color: #fec10d;"><strong>Can a participant registered as workshop/TVCG/Poster/Demo attend the full conference?</strong><br/>
+    <li><strong>Can a participant registered as workshop/TVCG/Poster/Demo attend the full conference?</strong><br/>
         Yes.</li>
     
-    <li style="color: #fec10d;"><strong>Can a participant registered for the conference attend workshops and tutorials?</strong><br/>
+    <li><strong>Can a participant registered for the conference attend workshops and tutorials?</strong><br/>
         Yes.</li>
 </ul>
     
