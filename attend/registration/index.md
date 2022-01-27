@@ -160,7 +160,7 @@ title_separator: "|"
     Should you need to cancel your registration, you may reassign your registration to another person. 
     All cancellations and substitutions must be notified in writing to Lauren Broughton at 
     <a href="mailto:lauren@conference.nz?subject=IEEE VR 22 Cancellation Request">lauren@conference.nz</a>. 
-    If you are unable to arrange a replacement, a full refund less an administration charge of 50&#37; of 
+    If you are unable to arrange a replacement, a full refund less an administration charge of 50% of 
     your registration fee will be made providing notification is received in writing before and including 
     Wednesday 16<sup>th</sup> February 2022. After this date, refunds will be at the discretion of the 
     Organising Committee.
@@ -168,7 +168,7 @@ title_separator: "|"
 
 <h2>Registation FAQ</h2>
 
-<ol>
+<ul>
     <li style="color: #fec10d;"><strong>Can one author register as the registered author for two or more papers/publications?</strong><br/>
         Yes. During registration the author should inform all papers/publications for validation.</li>
 
@@ -178,22 +178,22 @@ title_separator: "|"
     <li style="color: #fec10d;"><strong>I am invited to present a paper previously published in TVCG. What category should I register as?</strong><br/>
         You should use the same category as paper presenters.</li>
 
-    <li style="color: #fec10d;"><strong>What number should I provide to register as an invited TVCG paper author? </strong><br/>
+    <li style="color: #fec10d;"><strong>What number should I provide to register as an invited TVCG paper author?</strong><br/>
         You should indicate your full Paper DOI, eg: 10.1109/TVCG.20nn.ddddddd (as listed on TVCG)</li>
 
     <li style="color: #fec10d;"><strong>What is an Invited TVCG paper?</strong><br/>
         Invited TVCG papers are those manuscripts previously published on IEEE TVCG and invited for oral presentation at the conference. 
         Not to be confused with IEEE VR 2022 Journal Papers published in the special issue.</li>
 
-    <li style="color: #fec10d;"><strong>I’m presenting a paper and a workshop/poster/tutorial/demo, what category do I register as?</strong><br/>
+    <li style="color: #fec10d;"><strong>I'm presenting a paper and a workshop/poster/tutorial/demo, what category do I register as?</strong><br/>
         You should register as a paper author.</li>
 
-    <li style="color: #fec10d;"><strong>Can a participant registered as workshop/TVCG/Poster/Demo, attend the full conference?</strong><br/>
+    <li style="color: #fec10d;"><strong>Can a participant registered as workshop/TVCG/Poster/Demo attend the full conference?</strong><br/>
         Yes.</li>
     
-    <li style="color: #fec10d;"><strong>Can a participant registered for the conference, attend workshops and tutorials?</strong><br/>
+    <li style="color: #fec10d;"><strong>Can a participant registered for the conference attend workshops and tutorials?</strong><br/>
         Yes.</li>
-</ol>
+</ul>
     
 <br/>
 <div style="">
