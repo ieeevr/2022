@@ -4,7 +4,21 @@ title: "About"
 subtitle: "IEEE VR 2022"
 title_separator: "|"
 ---
-
+<style>
+    .container {
+        position: relative;
+        width: 100%;
+        height: 0;
+        padding-bottom: 56.25%;
+    }
+    .video {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+</style>?
 
 <div>
     <h1> About the IEEE VR Conference </h1>
@@ -22,6 +36,7 @@ title_separator: "|"
             <a href="/2022/attend/code-of-conduct/" class="btn btn--primary" style="background-color: #fec10d">IEEE VR 2022 Code of Conduct</a>
         </p>
     </center>
+    <br>
 
     <h1> About Christchurch, New Zealand </h1>
     <p>
@@ -29,4 +44,12 @@ title_separator: "|"
         some massive changes in the past few years, and the time has come to explore it all. Christchurch has a vibrant art and 
         technology scene while also serving as a gateway to New Zealand's South Island with all its natural wonders and attractions.
     </p>
+    <p>
+        IEEE VR 2022 may be virtual now, but we hope to welcome you all to Christchurch one day soon.
+    </p>
+
+    <div class="container">
+        <iframe src="https://www.youtube-nocookie.com/embed/lip6wSU7-WA" title="YouTube video player" 
+        frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
+    </container>
 </div>
