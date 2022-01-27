@@ -18,7 +18,7 @@ title_separator: "|"
         width: 100%;
         height: 100%;
     }
-</style>?
+</style>
 
 <div>
     <h1> About the IEEE VR Conference </h1>
