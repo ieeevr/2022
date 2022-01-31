@@ -25,7 +25,7 @@ title_separator: "|"
         <li><strong>December 18, 2021</strong>: Contest registration (project title and team members) </li>
         <li><strong>January 14, 2022</strong>: Submission of two-page abstract and video</li>
         <li><strong>January 25, 2022</strong>: Notification of which entries are accepted</li>
-        <li><strong>January 31, 2022</strong>: Camera ready version</li>
+        <li><strong><del>January 31, 2022</del> February 7, 2022</strong>: Camera ready version</li>
     </ul>
 
     <h2 id="Overview">Overview</h2>
