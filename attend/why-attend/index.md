@@ -426,17 +426,16 @@ title_separator: "|"
         big advancements in VR, IEEE VR 2022 will feature oral presentations, posters, research demos, tutorials, and workshops.
     </p>
     <p>
-        Our goal is for IEEE VR 2022 to provide the best experience for both in-person and virtual attendees, following in the 
+        Our goal is for IEEE VR 2022 to provide the best experience for virtual attendees, following in the 
         historical footsteps of the Virtual Experience of the <a href="https://ieeevr.org/2020/">Virtual Experience of VR 2020 
         in Atlanta</a> and <a href="https://ieeevr.org/2021/">VR 2021 in Lisbon</a>. Come join us for an unforgettable experience 
         and explore the virtuality continuum in the premier event covering extended reality.
     </p>
-    <p>
+    <!--<p>
         To make the most of attending IEEE VR 2022 in New Zealand, we have also created a series of pre- and post-conference events. 
         These will give attendees the chance to see some of New Zealand's well-known research laboratories working on VR/AR/MR 
-        while also experiencing the main attractions New Zealand has to offer. We will release more information at a later date.<!--, 
-        but for now these photos will speak for themselves.-->
-    </p>
+        while also experiencing the main attractions New Zealand has to offer. We will release more information at a later date.
+    </p>-->
 
     <!--<div class="gallery">
 		<article class="from-left">
