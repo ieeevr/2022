@@ -23,7 +23,7 @@ title_separator: "|"
     </p>
 
     <h3> Trier, Germany </h3>
-    <p> Contact: Daniel Zielasko - <a href="mailto:"zielasko@uni-trier.de?subject=IEEE VR 22 Satellite Event - Trier">zielasko@uni-trier.de</a>
+    <p> Contact: Daniel Zielasko - <a href="mailto:zielasko@uni-trier.de?subject=IEEE VR 22 Satellite Event - Trier">zielasko@uni-trier.de</a></p>
     <p>
         Keep tuned for more details
     </p>
