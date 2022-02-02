@@ -186,7 +186,7 @@ title_separator: "|"
         Invited TVCG papers are those manuscripts previously published on IEEE TVCG and invited for oral presentation at the conference. 
         Not to be confused with IEEE VR 2022 Journal Papers published in the special issue.</li>
 
-    <li><strong>I'm presenting a paper and a workshop/poster/tutorial/demo, what category do I register as?</strong><br/>
+    <li><strong>I'm presenting a paper plus a workshop paper/poster/tutorial/demo, what category do I register as?</strong><br/>
         You should register as a paper author.</li>
 
     <li><strong>Can a participant registered as workshop/TVCG/Poster/Demo attend the full conference?</strong><br/>
