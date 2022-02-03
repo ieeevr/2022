@@ -25,6 +25,9 @@ title_separator: "|"
     <h3> Trier, Germany </h3>
     <p> Contact: Daniel Zielasko - <a href="mailto:zielasko@uni-trier.de?subject=IEEE VR 22 Satellite Event - Trier">zielasko@uni-trier.de</a></p>
     <p>
+<h3> Christchurch, New Zealand </h3>
+    <p> Contact: Stephan Lukosch - <a href="mailto:stephan.lukosch@canterbury.ac.nz?subject=IEEE VR 22 Satellite Event - Christchurch">stephan.lukosch@canterbury.ac.nz</a></p>
+    <p>
         Keep tuned for more details
     </p>
 </div>
