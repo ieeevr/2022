@@ -154,6 +154,10 @@ title_separator: "|"
     <td>Student Non-Member</td>
     <td>$210</td>
   </tr>
+  <tr>
+    <td>Life Member</td>
+    <td>$140</td>
+  </tr>
 </table>
 
 <h2>Cancellation Policy</h2>
