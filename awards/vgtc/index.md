@@ -11,7 +11,8 @@ title: "IEEEVR VGTC Awards"
     </p>
     <p>
         Except for the Outstanding Dissertation Award (whose nominations are due May 31st of each year), all nominations 
-        are due by <strong>January 20<sup>th</sup>, 2022</strong> this year (deadline extended). The awards are presented at the annual IEEE VR conference.
+        are due by <strong>January 20<sup>th</sup>, 2022</strong> this year. <strong>For 2022, the deadline for the VGTC VR Academy nominations is extended until February 15 AOE.</strong>
+        The awards are presented at the annual IEEE VR conference.
     </p>
 
     <p>
