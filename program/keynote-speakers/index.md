@@ -82,7 +82,7 @@ title: "Keynote Speakers"
     
     
     <!-- TAKE ME TO THE EVENT START -->
-    {% for event in site.data.events %}
+    <!--{% for event in site.data.events %}
     {% if event.id == keynote.id %}
     {% if event.location %}
     <div id="{{ keynote.id }}-program" class="notice--info">
@@ -106,7 +106,7 @@ title: "Keynote Speakers"
         </p>
     </div>
     {% endif %}
-    {% endfor %}
+    {% endfor %}-->
     <!-- TAKE ME TO THE EVENT END-->
     
     

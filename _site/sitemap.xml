@@ -28,6 +28,9 @@
 <loc>http://localhost:4000/attend/registration/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/attend/satellite-events/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/attend/virbela-instructions/</loc>
 </url>
 <url>
@@ -150,6 +153,10 @@
 <url>
 <loc>http://localhost:4000/assets/contribute/exhibitors/IEEE_VR_Sponsorship_Prospectus.pdf</loc>
 <lastmod>2021-08-16T14:15:16+12:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/contribute/exhibitors/IEEE_VR_Sponsorship_Prospectus_22.pdf</loc>
+<lastmod>2022-02-01T08:45:09+13:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/contribute/exhibitors/VR-Prospectus-2021-rp-online.pdf</loc>
