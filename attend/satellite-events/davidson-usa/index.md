@@ -13,10 +13,10 @@ title_separator: "|"
         <br /> 
         Contact: Contact: Tabitha Peck - <a href="mailto:tapeck@davidson.edu?subject=IEEE VR 22 Satellite Event - Davidson">tapeck@davidson.edu</a>
         <br />
-        Registration form: <a href="https://forms.gle/H2BRWV5HH4MXpPxN8">https://forms.gle/H2BRWV5HH4MXpPxN8</a>
-        <br />
         Dates: March 12 - 16, 2022
     </p>
+
+    <p>Registration form: <a href="https://forms.gle/H2BRWV5HH4MXpPxN8">https://forms.gle/H2BRWV5HH4MXpPxN8</a></p>
     
     <p>
         Do you miss your VR colleagues? Would you be interested in attending a satellite IEEE VR 2022

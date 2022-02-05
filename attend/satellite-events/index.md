@@ -29,7 +29,7 @@ title_separator: "|"
     <p> Contact: Stephan Lukosch - <a href="mailto:stephan.lukosch@canterbury.ac.nz?subject=IEEE VR 22 Satellite Event - Christchurch">stephan.lukosch@canterbury.ac.nz</a></p>
 
     <h3> Davidson, NC USA </h3>
-    <p> Contact: Tabitha Peck - <a href="mailto:tapeck@davidson.edu?subject=IEEE VR 22 Satellite Event - Davidson">tapeck@davidson.edu</a></p>
-    <p><a href="https://ieeevr.org/2022/attend/satellite-events/davidson-usa/">Click here for more information on this event.</a></p>
+    <p> Contact: Tabitha Peck - <a href="mailto:tapeck@davidson.edu?subject=IEEE VR 22 Satellite Event - Davidson">tapeck@davidson.edu</a><br>
+    <a href="https://ieeevr.org/2022/attend/satellite-events/davidson-usa/">Click here for more information on this event.</a></p>
     
 </div>
