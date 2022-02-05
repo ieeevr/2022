@@ -62,7 +62,7 @@ title_separator: "|"
     <p>
         How to book your room with the Homewood Suites Davidson:
         <ol>
-            <li>Click the booking link: <a href="https://www.hilton.com/en/attend-my-event/davidsonvirtualrealityconference2022/">https://www.hilton.com/en/attend-my-event/davidsonvirtualrealityconference2022/</a></li>
+            <li>Click the booking link: <br><a href="https://www.hilton.com/en/attend-my-event/davidsonvirtualrealityconference2022/">https://www.hilton.com/en/attend-my-event/davidsonvirtualrealityconference2022/</a></li>
             <li>Call into the hotel: 704-987-1818
                 <ul><li>Let the agent know you are with the Davidson Virtual Reality Conference and the dates for your stay</li></ul></li>
         </ol>
