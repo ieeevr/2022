@@ -13,7 +13,7 @@ title_separator: "|"
         <br /> 
         12-16 March, 2022, Virtual
         <br />
-        <a href="http://ieeevr.org/2022/">http://ieeevr.org/2022/</a>
+        <a href="https://ieeevr.org/2022/">https://ieeevr.org/2022/</a>
     </p>
     <p>
         Though the decision has been made to transform IEEE VR 2022 into an all-digital online conference experience, several members 
@@ -30,5 +30,6 @@ title_separator: "|"
 
     <h3> Davidson, NC USA </h3>
     <p> Contact: Tabitha Peck - <a href="mailto:tapeck@davidson.edu?subject=IEEE VR 22 Satellite Event - Davidson">tapeck@davidson.edu</a></p>
-    <p>Keep tuned for more details</p>
+    <p><a href="https://ieeeevr.org/attend/satellite-events/davidson/">Click here for more information on this event.</a></p>
+    
 </div>
