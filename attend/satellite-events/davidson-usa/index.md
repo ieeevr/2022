@@ -10,10 +10,11 @@ title_separator: "|"
     <h1 id="satellite-events-davidson-usa"> Satellite Event in Davidson, NC </h1>
     <p>
         <strong style="color: black">IEEE VR 2022: the 29<sup>th</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
-        <br /> 
-        Contact: Contact: Tabitha Peck - <a href="mailto:tapeck@davidson.edu?subject=IEEE VR 22 Satellite Event - Davidson">tapeck@davidson.edu</a>
         <br />
-        Dates: March 12 - 16, 2022
+        Dates: March 12 - 16, 2022 
+        <br />
+        Contact: Tabitha Peck - <a href="mailto:tapeck@davidson.edu?subject=IEEE VR 22 Satellite Event - Davidson">tapeck@davidson.edu</a>
+        
     </p>
 
     <p>Registration form: <a href="https://forms.gle/H2BRWV5HH4MXpPxN8">https://forms.gle/H2BRWV5HH4MXpPxN8</a></p>
@@ -83,5 +84,5 @@ title_separator: "|"
     </p>
 
     <h3> Sponsors </h3>
-    <a style="width: 50%;" href="https://www.davidson.edu/"><img src="https://www.ieeevr.org/2022/assets/images/sponsors/davidson.png" alt="The Davidson College logo"></a>
+    <a style="width: 25%;" href="https://www.davidson.edu/"><img src="https://www.ieeevr.org/2022/assets/images/sponsors/davidson.png" alt="The Davidson College logo"></a>
 </div>
