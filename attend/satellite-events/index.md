@@ -30,6 +30,6 @@ title_separator: "|"
 
     <h3> Davidson, NC USA </h3>
     <p> Contact: Tabitha Peck - <a href="mailto:tapeck@davidson.edu?subject=IEEE VR 22 Satellite Event - Davidson">tapeck@davidson.edu</a></p>
-    <p><a href="https://ieeeevr.org/attend/satellite-events/davidson/">Click here for more information on this event.</a></p>
+    <p><a href="https://ieeeevr.org/attend/satellite-events/davidson-usa/">Click here for more information on this event.</a></p>
     
 </div>
