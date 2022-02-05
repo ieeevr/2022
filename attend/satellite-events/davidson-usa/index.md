@@ -7,22 +7,16 @@ title_separator: "|"
 
 
 <div>
-    <h1 id="satellite-events"> Satellite Events </h1>
+    <h1 id="satellite-events-davidson-usa"> Satellite Event in Davidson, NC </h1>
     <p>
         <strong style="color: black">IEEE VR 2022: the 29<sup>th</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
         <br /> 
-        12-16 March, 2022, Virtual
+        Contact: Contact: Tabitha Peck - <a href="mailto:tapeck@davidson.edu?subject=IEEE VR 22 Satellite Event - Davidson">tapeck@davidson.edu</a>
         <br />
-        <a href="http://ieeevr.org/2022/">http://ieeevr.org/2022/</a>
+        Registration form: <a href="https://forms.gle/H2BRWV5HH4MXpPxN8">https://forms.gle/H2BRWV5HH4MXpPxN8</a>
+        <br />
+        Dates: March 12 - 16, 2022
     </p>
-
-    <h1> Satellite IEEE VR in Davidson, NC </h1>
-
-    <p> Contact: Tabitha Peck - <a href="mailto:tapeck@davidson.edu?subject=IEEE VR 22 Satellite Event - Davidson">tapeck@davidson.edu</a></p>
-    
-    <p> Registration form: <a href="https://forms.gle/H2BRWV5HH4MXpPxN8">https://forms.gle/H2BRWV5HH4MXpPxN8</a></p>
-    
-    <p> Dates: March 12 - 16, 2022</p>
     
     <p>
         Do you miss your VR colleagues? Would you be interested in attending a satellite IEEE VR 2022
@@ -54,7 +48,7 @@ title_separator: "|"
         We have a block of rooms reserved at Hoewood Suites:
         <ul>
             <li>King Studio with Queen sleeper sofa: $132 per night</li>
-            <li>King Suite with Queen sleeper sofeL $137 per night</li>
+            <li>King Suite with Queen sleeper sofa: $137 per night</li>
         </ul>
     </p>
 
@@ -89,5 +83,5 @@ title_separator: "|"
     </p>
 
     <h3> Sponsors </h3>
-    <a style="width: 50%;" href="https://www.davidson.edu/"><img src="https://www.ieevr.org/2022/assets/sponsors/davidson.png" alt="The Davidson College logo"></a>
+    <a style="width: 50%;" href="https://www.davidson.edu/"><img src="https://www.ieeevr.org/2022/assets/images/sponsors/davidson.png" alt="The Davidson College logo"></a>
 </div>
