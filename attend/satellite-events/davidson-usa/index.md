@@ -89,5 +89,5 @@ title_separator: "|"
     </p>
 
     <h3> Sponsors </h3>
-    <a style="width: 50%;" href="https://www.davidson.edu/"><img src="https://www.ieevr.org/assets/sponsors/davidson.png" alt="The Davidson College logo"></a>
+    <a style="width: 50%;" href="https://www.davidson.edu/"><img src="https://www.ieevr.org/2022/assets/sponsors/davidson.png" alt="The Davidson College logo"></a>
 </div>
