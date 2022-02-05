@@ -34,9 +34,9 @@ title_separator: "|"
 
     <h3>Location</h3>
 
-    <p> Directions to Davidson College: </br><a href="https://www.davidson.edu/about/campus-and-surroundings/maps-and-directions">https://www.davidson.edu/about/campus-and-surroundings/maps-and-directions</a></p>
+    <p> Directions to Davidson College: <br><a href="https://www.davidson.edu/about/campus-and-surroundings/maps-and-directions">https://www.davidson.edu/about/campus-and-surroundings/maps-and-directions</a></p>
     
-    <p> Davidson College's E. Craig Wall Jr. Academic Center</br><a href="https://shepleybulfinch.com/projects/davidson-college-e-craig-wall-jr-academic-center/">https://shepleybulfinch.com/projects/davidson-college-e-craig-wall-jr-academic-center/</a></p>
+    <p> Davidson College's E. Craig Wall Jr. Academic Center<br><a href="https://shepleybulfinch.com/projects/davidson-college-e-craig-wall-jr-academic-center/">https://shepleybulfinch.com/projects/davidson-college-e-craig-wall-jr-academic-center/</a></p>
     
     <p>
         Attendance is currently limited to 50 participants. Davidson College enforces a mask and 
@@ -78,7 +78,7 @@ title_separator: "|"
 
     <p>
         There are numerous restaurants within walking distance from the campus. Many offer take-out 
-        and have outdoor seating options. </br>
+        and have outdoor seating options. <br>
         <a href="https://www.tripadvisor.com/Restaurants-g49076-Davidson_North_Carolina.html">https://www.tripadvisor.com/Restaurants-g49076-Davidson_North_Carolina.html</a>
     </p>
 
