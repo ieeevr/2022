@@ -17,7 +17,12 @@ title_separator: "|"
         
     </p>
 
-    <p>Registration form: <a href="https://forms.gle/H2BRWV5HH4MXpPxN8">https://forms.gle/H2BRWV5HH4MXpPxN8</a></p>
+    
+    <div style="">
+        <p style="font-size: 20px;">
+            <a href="https://forms.gle/H2BRWV5HH4MXpPxN8" class="btn btn--primary" style="" target="_blank">Click Here to Register</a>
+        </p>
+    </div>
     
     <p>
         Do you miss your VR colleagues? Would you be interested in attending a satellite IEEE VR 2022
