@@ -51,7 +51,7 @@ title_separator: "|"
     <h3> Accommodation </h3>
 
     <p> 
-        We have a block of rooms reserved at Hoewood Suites:
+        We have a block of rooms reserved at Homewood Suites:
         <ul>
             <li>King Studio with Queen sleeper sofa: $132 per night</li>
             <li>King Suite with Queen sleeper sofa: $137 per night</li>
