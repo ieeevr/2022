@@ -49,6 +49,8 @@ title: "IEEEVR VGTC Awards"
 
     <p>
         If you are having trouble submitting with the linked Google form, you can simply email your nominee’s name and other information to <a href="mailto:vgtc-vr-awards@vgtc.org">vgtc-vr-awards@vgtc.org</a>.
+    </p>
+    <p>
         For questions or additional information please email IEEE VGTC VR Awards Program Chair, currently Henry Fuchs, 
         at <a href="mailto:vgtc-vr-awards@vgtc.org">vgtc-vr-awards@vgtc.org</a>.
     </p>
