@@ -128,7 +128,7 @@ Call updates will be posted on the contest page of <a href="https://ieeevr.org/2
         <li>Elham Ebrahimi, University of North Carolina, Wilmington, USA</li>
         <li>Daniel Roth, Friedrich-Alexander University (FAU) Erlangen-Nürnberg, Germany</li>
     </ul>
-    contest2022 [at] ieevr.org
+    contest2022 [at] ieeevr.org
 </p>
 
 
