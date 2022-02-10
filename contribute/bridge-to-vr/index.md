@@ -42,10 +42,10 @@ title_separator: "|"
     
     <h2>Application Guidelines</h2>
     <p>
-        Interested applicants may apply using the following Google Form:<br/>
-        <p style="font-size: 20px;">
-        <a href="https://forms.gle/fbXSCLKMc34DHR8v8" class="btn btn--primary" style="" target="_blank">Click Here to Apply</a>
+        Interested applicants may apply using the following Google Form:
     </p>
+    <p style="font-size: 20px;">
+        <a href="https://forms.gle/fbXSCLKMc34DHR8v8" class="btn btn--primary" style="" target="_blank">Click Here to Apply</a>
     </p>
 
     <p>
