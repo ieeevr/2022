@@ -9,7 +9,7 @@ title: "Diversity and Inclusion Scholarship"
         <strong style="color: black">IEEE VR 2022: the 29<sup>th</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 12-March 16, 2022, Virtual
         <br />
         <a href="http://ieeevr.org/2022/">http://ieeevr.org/2022/</a>
-    </p
+    </p>
 
     <p>
         IEEE VR 2022 is striving towards an inclusive and accessible environment to encourage 
