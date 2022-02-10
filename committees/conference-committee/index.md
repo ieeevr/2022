@@ -162,7 +162,7 @@ title: "Conference Committee"
 			<li style="list-style: none">	awards2022	[at] ieeevr.org			</li>	
 		</ul>							-->
 									
-	<h2>	VR in VR Chairs / Streaming	</h2>						
+	<h2>	VR in VR Chairs	</h2>						
 		<ul>							
 			<li>	Rob	Lindeman	&#x2012; <i>	HIT Lab NZ, University of Canterbury, New Zealand	</i></li>	
 			<li>	Jason	Orlosky	&#x2012; <i>	Augusta University, USA	</i></li>	
@@ -170,7 +170,13 @@ title: "Conference Committee"
 			<li style="list-style: none">	vrinvr2022	[at] ieeevr.org			</li>	
 		</ul>							
 									
-<!--	<h2>	Streaming Chairs	</h2>						
-		<ul>							
-		</ul>							-->
+	<h2>	Streaming Chairs	</h2>						
+		<ul>	
+			<li>	Rory	Clifford	&#x2012; <i>	HIT Lab NZ, University of Canterbury, New Zealand	</i></li>
+			<li>	Jo&atilde;o	Moreira	&#x2012; <i>	INESC-ID, Lisbon, Portugal	</i></li>
+			<li>	Kien Tran Pham Thai	&#x2012; <i>	HIT Lab NZ, University of Canterbury, New Zealand	</i></li>
+			<li>	Yuanjie Wu	&#x2012; <i>	HIT Lab NZ, University of Canterbury, New Zealand	</i></li>
+			<li>	Jacob Young	&#x2012; <i>	Victoria University of Wellington, New Zealand	</i></li>	
+			<li style="list-style: none">	streaming2022	[at] ieeevr.org			</li>	
+		</ul>							
 </div>																	
