@@ -96,6 +96,4 @@ title: "Diversity and Inclusion Scholarship"
         The committee can be reached via email at diversity2022 [at] ieeevr.org.
     </p>
     
-    
-    
 </div>
