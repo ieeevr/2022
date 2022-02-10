@@ -8,7 +8,7 @@ title_separator: "|"
 <div>
     <h1 id="bridge-to-vr">Bridge to VR Call for Participation</h1>
     <p>
-        <strong style="color: black">IEEE VR 2022: the 29<sup>th</th> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 12-March 16, 2022, Virtual
+        <strong style="color: black">IEEE VR 2022: the 29<sup>th</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 12-March 16, 2022, Virtual
         <br />
         <a href="http://ieeevr.org/2022/">http://ieeevr.org/2022/</a>
     </p>
