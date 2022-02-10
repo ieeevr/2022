@@ -106,7 +106,7 @@ title_separator: "|"
 
     <h2>Contacts</h2>
     <p>
-    This program is an initiative of the 202w IEEE VR Diversity and Inclusion Committee. 
+    This program is an initiative of the 2022 IEEE VR Diversity and Inclusion Committee. 
     The committee can be reached via email at diversity2022 [at] ieeevr.org.
     </p>
     
