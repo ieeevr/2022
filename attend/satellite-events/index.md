@@ -22,6 +22,9 @@ title_separator: "|"
         More events will be added as we get closer to the conference date.
     </p>
 
+    <h3> Bogota, Colombia </h3>
+    <p> Contact: Pablo Figueroa - <a href="mailto:pfiguero@uniandes.edu.co?subject=IEEE VR 22 Satellite Event - Bogota">pfiguero@uniandes.edu.co</a></p>
+
     <h3> Trier, Germany </h3>
     <p> Contact: Daniel Zielasko - <a href="mailto:zielasko@uni-trier.de?subject=IEEE VR 22 Satellite Event - Trier">zielasko@uni-trier.de</a></p>
     
