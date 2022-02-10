@@ -58,6 +58,7 @@ title: "Keynote Speakers"
             <td><a href="#{{ keynote.id }}">{{ keynote.name }}</a></td>
             {% if keynote.day %}
             <td style="font-size: 0.875em;">{{ keynote.day }} - {{ keynote.start }} ({{ keynote.timezone }})</td>
+            {% endif %}
         </tr>
         {% endfor %}
     </table>
@@ -77,6 +78,7 @@ title: "Keynote Speakers"
     <center><big><strong>{{ keynote.title }}</strong></big></center>
     {% if keynote.day %}
     <center><small>{{ keynote.day }} - {{ keynote.start }}, {{ keynote.timezone }}</small></center>
+    {% endif %}
     {% if keynote.chair %}
     <center><small>Session Chair: <b style="font-family: 'Courier New', monospace; color: black;">{{ keynote.chair }}</b></small></center>
     
