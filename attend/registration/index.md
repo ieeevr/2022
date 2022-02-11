@@ -132,7 +132,7 @@ title_separator: "|"
   </tr>
 </table>
 
-<h3>Workshops, Posters, Tutorials, Demos, Videos, Doctoral Consortium, or 3DUI Contest Author Registration</h3>
+<h3>Workshops, Posters, Tutorials, Demos, Videos, or 3DUI Contest Author Registration</h3>
 <table class="styled-table">
   <tr>
     <th><strong>Registration Type</strong></th>
