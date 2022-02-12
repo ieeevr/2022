@@ -23,7 +23,10 @@ title_separator: "|"
     </p>
 
     <h3> Bogota, Colombia </h3>
-    <p> Contact: Pablo Figueroa - <a href="mailto:pfiguero@uniandes.edu.co?subject=IEEE VR 22 Satellite Event - Bogota">pfiguero@uniandes.edu.co</a></p>
+    <p> Contact: Pablo Figueroa - <a href="mailto:pfiguero@uniandes.edu.co?subject=IEEE VR 22 Satellite Event - Bogota">pfiguero@uniandes.edu.co</a><br>
+        We are organizing a satellite event at Universidad de los Andes. All registered members are welcomed to visit us and share the experience as if we 
+        were in the conference. Due to time zone differences, the satellite event will be just during our afternoons, which will correspond to the morning 
+        sessions of the next day in NZ. Space is limited, so let us know at your earliest convenience that you are coming.</p>
 
     <h3> Trier, Germany </h3>
     <p> Contact: Daniel Zielasko - <a href="mailto:zielasko@uni-trier.de?subject=IEEE VR 22 Satellite Event - Trier">zielasko@uni-trier.de</a></p>
