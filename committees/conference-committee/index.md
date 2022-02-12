@@ -122,10 +122,13 @@ title: "Conference Committee"
 			<li style="list-style: none">	researchdemos2022	[at] ieeevr.org			</li>	
 		</ul>							
 									
-<!--	<h2>	Student Volunteers Chairs	</h2>						
-		<ul>							
+	<h2>	Student Volunteers Chairs	</h2>						
+		<ul>				
+			<li>	Wei Hong Lo	&#x2012; <i>	University of Otago, New Zealand	</i></li>	
+			<li>	Soraia Paulo	&#x2012; <i>	INESC-ID, Lisbon, Portugal	</i></li>	
+			<li>	Prasanth Sasikumar	&#x2012; <i>	University of Auckland, New Zealand	</i></li>	
 			<li style="list-style: none">	studentvolunteers2022	[at] ieeevr.org			</li>	
-		</ul>							-->
+		</ul>							
 									
 	<h2>	Tutorials Chairs	</h2>						
 		<ul>							
