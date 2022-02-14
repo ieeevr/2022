@@ -29,10 +29,12 @@ title_separator: "|"
         sessions of the next day in NZ. Space is limited, so let us know at your earliest convenience that you are coming.</p>
 
     <h3> Trier, Germany </h3>
-    <p> Contact: Daniel Zielasko - <a href="mailto:zielasko@uni-trier.de?subject=IEEE VR 22 Satellite Event - Trier">zielasko@uni-trier.de</a></p>
+    <p> Contact: Daniel Zielasko - <a href="mailto:zielasko@uni-trier.de?subject=IEEE VR 22 Satellite Event - Trier">zielasko@uni-trier.de</a><br>
+        More details coming soon.</p>
     
     <h3> Christchurch, New Zealand </h3>
-    <p> Contact: Stephan Lukosch - <a href="mailto:stephan.lukosch@canterbury.ac.nz?subject=IEEE VR 22 Satellite Event - Christchurch">stephan.lukosch@canterbury.ac.nz</a></p>
+    <p> Contact: Stephan Lukosch - <a href="mailto:stephan.lukosch@canterbury.ac.nz?subject=IEEE VR 22 Satellite Event - Christchurch">stephan.lukosch@canterbury.ac.nz</a><br>
+        More details coming soon.</p>
 
     <h3> Davidson, NC USA </h3>
     <p> Contact: Tabitha Peck - <a href="mailto:tapeck@davidson.edu?subject=IEEE VR 22 Satellite Event - Davidson">tapeck@davidson.edu</a><br>
