@@ -27,10 +27,6 @@ title_separator: "|"
         We are organizing a satellite event at Universidad de los Andes. All registered members are welcomed to visit us and share the experience as if we 
         were in the conference. Due to time zone differences, the satellite event will be just during our afternoons, which will correspond to the morning 
         sessions of the next day in NZ. Space is limited, so let us know at your earliest convenience that you are coming.</p>
-
-    <h3> Trier, Germany </h3>
-    <p> Contact: Daniel Zielasko - <a href="mailto:zielasko@uni-trier.de?subject=IEEE VR 22 Satellite Event - Trier">zielasko@uni-trier.de</a><br>
-        More details coming soon.</p>
     
     <h3> Christchurch, New Zealand </h3>
     <p> Contact: Stephan Lukosch - <a href="mailto:stephan.lukosch@canterbury.ac.nz?subject=IEEE VR 22 Satellite Event - Christchurch">stephan.lukosch@canterbury.ac.nz</a><br>
