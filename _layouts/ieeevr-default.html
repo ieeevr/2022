@@ -366,8 +366,19 @@ layout: default
                     <a href={{ "/committees/program-committee/"     | relative_url }}>Program Committee</a>
                 </div>
             </div>
+
             <a href={{ "/past-conferences/" | relative_url }}>Past Conferences</a>
-            <a href={{ "/resources/"        | relative_url }}>Resources</a>
+
+            <div class="dropdown">
+                <button class="dropbtn">Resources &#9662;</button>
+                <div class="dropdown-content">
+                    <a href={{ "/resources#slide-templates" | relative_url }}>Slide Templates</a>
+                    <a href={{ "/resources#zoom-backgrounds" | relative_url }}>Zoom Backgrounds</a>
+                    <a href={{ "/resources#banner" | relative_url }}>Banners</a>
+                    <a href={{ "/resources#logos" | relative_url }}>Conference Logos</a>
+                </div>
+            </div>
+
             <a href="javascript:void(0);" style="font-size:16px;" class="icon" onclick="myFunction()">&#9776;</a>
         </div>
 
