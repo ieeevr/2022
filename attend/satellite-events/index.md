@@ -39,5 +39,10 @@ title_separator: "|"
     <h3> Davidson, NC USA </h3>
     <p> Contact: Tabitha Peck - <a href="mailto:tapeck@davidson.edu?subject=IEEE VR 22 Satellite Event - Davidson">tapeck@davidson.edu</a><br>
     <a href="https://ieeevr.org/2022/attend/satellite-events/davidson-usa/">Click here for more information on this event.</a></p>
+
+    <h3> Trier, Germany - CANCELLED</h3>
+    <p> Contact: Daniel Zielasko - <a href="mailto:zielasko@uni-trier.de?subject=IEEE VR 22 Satellite Event - Trier">zielasko@uni-trier.de</a><br>
+        </p>
+    
     
 </div>
