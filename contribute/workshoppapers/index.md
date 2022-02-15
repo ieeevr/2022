@@ -708,54 +708,6 @@ title_separator: "|"
     </p>
     
     
-<!-- ------------------------------------------------AVEH-------------------------------------------------------- -->
-
-    <h2 id="AVEH"> Second Workshop on Applied VR for Enhanced Healthcare (AVEH) </h2>
-    <!-- TAKE ME TO THE EVENT START -->
-    <!--{% for event in site.data.events %}
-    {% if event.id == 'DISCE' %}
-    {% if event.location %}
-    <div class="notice--info">
-        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
-        <p>
-            <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
-
-            {% if event.stream-url %}
-            <br />
-            {% if event.aindanaoaconteceu %}
-            <strong style="color: black;">Watch video stream live:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
-            {% else %}
-            <strong style="color: black;">Watch the recorded video stream:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
-            {% endif %}
-            {% endif %}
-            {% if event.discordurl %}
-            <br />
-            <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}" target="_blank">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
-            {% endif %}
-            {% endif %}
-        </p>
-    </div>
-    {% endif %}
-    {% endfor %}-->
-    <!-- TAKE ME TO THE EVENT END-->
-    
-    <p>
-        <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/view/aveh2022/home" target="_blank">https://sites.google.com/view/aveh2022/home</a>
-    </p>
-    <ul>
-        <li> Submissions due: 10<sup>th</sup> January 2022 </li>
-        <li> Notification of results: 20<sup>th</sup> January 2022 </li>
-        <li> Camera-ready submission due: 28<sup>th</sup> January 2022 </li>
-    </ul>
-    <p>
-        This workshop goal is to bring together expert knowledge in both technology and healthcare in order to explore how the potential 
-        of VR can be used to support and enhance health and well-being. We will also encourage discussion of the challenges to development 
-        and adoption of VR in healthcare, and how these might be addressed. 
-    </p>
-    <p>
-        <strong style="color:black;">Principal Organizer:</strong> Wendy Powell
-    </p>
-    
 
 <!-- ------------------------------------------------X-IRL-------------------------------------------------------- -->
 
