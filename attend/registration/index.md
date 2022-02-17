@@ -66,8 +66,8 @@ title_separator: "|"
 </p>
 
 <p>
-    Early bird registration fees are available until <del>Wednesday 16<sup>th</sup></del> Wednesday 23<sup>rd</sup> February. 
-    Following this date, late registration fees apply.
+    Early bird registration has been extended until Wednesday the 23<sup>rd</sup> of February. 
+    Following this date, late registration fees will apply.
 </p>
 
 <h3>General Participant Registration</h3>
