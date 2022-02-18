@@ -39,7 +39,7 @@ title: "Mentorship Program"
     <p>
         This program is an initiative of the 2022 IEEE VR Inclusion, Diversity, and Accessibility Committee. The committee can be reached via email at diversity2022[at]ieeevr.org
     </p>
-    <h3>Data Privacy Information</h3>
+    <h2>Data Privacy Information</h2>
     <p>
         The information provided by the participants will be accessible only to the members of the Inclusion, Diversity, and Accessibility committee. The participants can request for their information to be corrected or deleted at any time until 31st of May 2022. After this date, their data will be anonymized and provided to the Inclusion, Diversity, and Accessibility committee of future iterations of IEEE VR for statistical purposes.
     </p>
