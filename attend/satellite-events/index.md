@@ -38,7 +38,7 @@ title_separator: "|"
 
     <h3> La Trobe University, Melbourne, Australia </h3>
     <p> Contact: Richard Skarbez  - <a href="mailto:r.skarbez@latrobe.edu.au?subject=IEEE VR 22 Satellite Event - Melbourne">r.skarbez@latrobe.edu.au</a><br>
-        For more details go here: <a href="https://www.eventbrite.com.au/e/ieee-vr-2022-satellite-event-la-trobe-university-tickets-271413584337>https://www.eventbrite.com.au/e/ieee-vr-2022-satellite-event-la-trobe-university-tickets-271413584337 </a>
+        For more details go here: <a href="https://www.eventbrite.com.au/e/ieee-vr-2022-satellite-event-la-trobe-university-tickets-271413584337">https://www.eventbrite.com.au/e/ieee-vr-2022-satellite-event-la-trobe-university-tickets-271413584337 </a>
     </p>
 
     <h3> Trier, Germany - CANCELLED</h3>
