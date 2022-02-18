@@ -36,6 +36,11 @@ title_separator: "|"
     <p> Contact: Tabitha Peck - <a href="mailto:tapeck@davidson.edu?subject=IEEE VR 22 Satellite Event - Davidson">tapeck@davidson.edu</a><br>
     <a href="https://ieeevr.org/2022/attend/satellite-events/davidson-usa/">Click here for more information on this event.</a></p>
 
+    <h3> La Trobe University, Melbourne, Australia </h3>
+    <p> Contact: Richard Skarbez  - <a href="mailto:r.skarbez@latrobe.edu.au?subject=IEEE VR 22 Satellite Event - Melbourne">r.skarbez@latrobe.edu.au</a><br>
+        For more details go here: <a href="https://www.eventbrite.com.au/e/ieee-vr-2022-satellite-event-la-trobe-university-tickets-271413584337>https://www.eventbrite.com.au/e/ieee-vr-2022-satellite-event-la-trobe-university-tickets-271413584337 </a>
+    </p>
+
     <h3> Trier, Germany - CANCELLED</h3>
     <p> Contact: Daniel Zielasko - <a href="mailto:zielasko@uni-trier.de?subject=IEEE VR 22 Satellite Event - Trier">zielasko@uni-trier.de</a><br>
         </p>
