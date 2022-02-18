@@ -200,7 +200,7 @@ title_separator: "|"
         Yes.</li>
 
     <li><strong>Are there any scholarships available that can cover (in full or partially) conference registration costs?</strong><br/>
-        Yes. Check the <a href="Diversity and Inclusion Scholarship">https://ieeevr.org/2022/attend/diversity-and-inclusion-scholarship/</a> opportunity.  
+        Yes. Check the <a href="https://ieeevr.org/2022/attend/diversity-and-inclusion-scholarship/">Diversity and Inclusion Scholarship</a> opportunity.  
 </ul>
     
 <div style="">
