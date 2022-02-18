@@ -198,6 +198,9 @@ title_separator: "|"
     
     <li><strong>Can a participant registered for the conference attend workshops and tutorials?</strong><br/>
         Yes.</li>
+
+    <li><strong>Are there any scholarships available that can cover (in full or partially) conference registration costs?</strong><br/>
+        Yes. Check the <a href="Diversity and Inclusion Scholarship">https://ieeevr.org/2022/attend/diversity-and-inclusion-scholarship/</a> opportunity.  
 </ul>
     
 <div style="">
