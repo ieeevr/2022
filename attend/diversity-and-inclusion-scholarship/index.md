@@ -20,7 +20,7 @@ title: "Diversity and Inclusion Scholarship"
     
     <h2>Who Should Apply?</h2>
     <p>
-        This scholarship provides funds for early-career researchers (graduate students and postdocs) 
+        This scholarship provides funds for early-career researchers 
         from <strong>under-represented or historically marginalised groups</strong> to attend this 
         year's conference. These groups may include (but is not exclusive to):
     </p>
