@@ -28,9 +28,6 @@ title_separator: "|"
         were in the conference. Due to time zone differences, the satellite event will be just during our afternoons, which will correspond to the morning 
         sessions of the next day in NZ. Space is limited, so let us know at your earliest convenience that you are coming.</p>
     
-    <h3> Christchurch, New Zealand </h3>
-    <p> Contact: Stephan Lukosch - <a href="mailto:stephan.lukosch@canterbury.ac.nz?subject=IEEE VR 22 Satellite Event - Christchurch">stephan.lukosch@canterbury.ac.nz</a><br>
-        More details coming soon.</p>
 
     <h3> Davidson, NC USA </h3>
     <p> Contact: Tabitha Peck - <a href="mailto:tapeck@davidson.edu?subject=IEEE VR 22 Satellite Event - Davidson">tapeck@davidson.edu</a><br>
@@ -40,6 +37,10 @@ title_separator: "|"
     <p> Contact: Richard Skarbez  - <a href="mailto:r.skarbez@latrobe.edu.au?subject=IEEE VR 22 Satellite Event - Melbourne">r.skarbez@latrobe.edu.au</a><br>
         For more details go here: <a href="https://www.eventbrite.com.au/e/ieee-vr-2022-satellite-event-la-trobe-university-tickets-271413584337">https://www.eventbrite.com.au/e/ieee-vr-2022-satellite-event-la-trobe-university-tickets-271413584337 </a>
     </p>
+
+    <h3> Christchurch, New Zealand - CANCELLED</h3>
+    <p> Contact: Stephan Lukosch - <a href="mailto:stephan.lukosch@canterbury.ac.nz?subject=IEEE VR 22 Satellite Event - Christchurch">stephan.lukosch@canterbury.ac.nz</a><br>
+        </p>
 
     <h3> Trier, Germany - CANCELLED</h3>
     <p> Contact: Daniel Zielasko - <a href="mailto:zielasko@uni-trier.de?subject=IEEE VR 22 Satellite Event - Trier">zielasko@uni-trier.de</a><br>
