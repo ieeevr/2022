@@ -389,7 +389,7 @@ title: "Program Overview"
 
 <div style="text-align:center;">
         <small><span style="color:gray;">Conference local time</span></small>
-        <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=small&timezone=Pacific%2FAuckland" width="100%" height="140" frameborder="0" seamless></iframe>
+        <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=small&timezone=Pacific%2FAuckland" width="100%" height="100" frameborder="0" seamless></iframe>
 </div>
 
 
@@ -451,7 +451,7 @@ title: "Program Overview"
 
                     <div class="session session-2 track-workshop" style="grid-column: track-2-start / track-2-end; grid-row: time-0800 / time-1100;">
                         <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Workshop: ARES - Augmented Reality Enabling Superhuman Sports + Serious Games<!--</a>--></h3>
-                        <span class="session-time">8:00 - 10:00</span>
+                        <span class="session-time">8:00 - 11:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
                     
@@ -495,7 +495,7 @@ title: "Program Overview"
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>-->
                     </div>
 
-                    <div class="session session-8 track-workshop" style="grid-column: track-3-start / track-3-end; grid-row: time-1100 / time-1300;">
+                    <div class="session session-8 track-workshop" style="grid-column: track-3-start / track-3-end; grid-row: time-1100 / time-1400;">
                         <h3 class="session-title"><!--<a href="/2021/contribute/workshoppapers/#DISCE">-->Workshop: Open Access Tools and Libraries for Virtual Reality<!--</a>--></h3>
                         <span class="session-time">11:00 - 14:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>-->
