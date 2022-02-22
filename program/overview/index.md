@@ -571,6 +571,7 @@ title: "Program Overview"
     </div>
 </div>
 
+<!--
 <div>
     <div class="wrap-collabsible"> <input id="collapsible2" class="toggle" type="checkbox" checked> <label for="collapsible2" class="lbl-toggle">Sunday, March 28</label>
         <div class="collapsible-content">
@@ -977,13 +978,6 @@ title: "Program Overview"
 
                     <p class="time-slot" style="grid-row: time-1300;">13:00</p>
 
-                    <!--
-                    <div class="session session-7 track-event" style="grid-column: track-1-start / track-1-end; grid-row: time-1300 / time-1400;">
-                        <h3 class="session-title">Mixer</h3>
-                        <span class="session-time">13:00 - 14:00</span>
-                    </div>
-                    -->
-
                     <div class="session session-8 track-workshop" style="grid-column: track-1-start / track-4-end; grid-row: time-1300 / time-1400;">
                         <h3 class="session-title">Papers: <a href="/2021/program/papers/#4.3">Redirected Locomotion</a></h3>
                         <span class="session-time">13:00 - 14:00</span>
@@ -1241,4 +1235,4 @@ title: "Program Overview"
             </div>
         </div>
     </div>
-</div>
+</div>-->
