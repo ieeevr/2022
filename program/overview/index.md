@@ -496,9 +496,9 @@ title: "Program Overview"
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>-->
                     </div>
 
-                    <div class="session session-8 track-workshop" style="grid-column: track-3-start / track-3-end; grid-row: time-1100 / time-1330;">
+                    <div class="session session-8 track-workshop" style="grid-column: track-3-start / track-3-end; grid-row: time-1100 / time-1400;">
                         <h3 class="session-title"><!--<a href="/2021/contribute/workshoppapers/#DISCE">-->Workshop: Open Access Tools and Libraries for Virtual Reality<!--</a>--></h3>
-                        <span class="session-time">11:00 - 13:30</span>
+                        <span class="session-time">11:00 - 14:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>-->
                     </div>
 
@@ -518,9 +518,9 @@ title: "Program Overview"
 
                     <p class="time-slot" style="grid-row: time-1300;">13:00</p>
 
-                    <div class="session session-11 track-workshop" style="grid-column: track-3-start / track-3-end; grid-row: time-1330 / time-1700;">
+                    <div class="session session-11 track-workshop" style="grid-column: track-3-start / track-3-end; grid-row: time-1400 / time-1700;">
                         <h3 class="session-title"><!--<a href="/2021/contribute/workshoppapers/#DISCE">-->Workshop: Data4XR: Datasets for Developing Intelligent XR Applications<!--</a>--></h3>
-                        <span class="session-time">13:30 - 17:00</span>
+                        <span class="session-time">14:00 - 17:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>-->
                     </div>
 
