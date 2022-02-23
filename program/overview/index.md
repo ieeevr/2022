@@ -765,7 +765,7 @@ title: "Program Overview"
 
                     <!-- Currently marked as optional
                     <div class="session session-10 track-3" style="grid-column: track-3-start / track-3-end; grid-row: time-1630 / time-1730;">
-                        <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Paper Session 25<!--</a>--></h3>
+                        <h3 class="session-title">Paper Session 25</h3>
                         <span class="session-time">16:30 - 17:30</span>
                     </div>
                     -->
