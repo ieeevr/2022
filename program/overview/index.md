@@ -764,22 +764,10 @@ title: "Program Overview"
 
                     <p class="time-slot" style="grid-row: time-1600;">16:00</p>
 
-                    <!-- Currently unused
-                    <div class="session session-14 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-1630 / time-1730;">
-                        <h3 class="session-title">Paper Session 7</h3>
-                        <span class="session-time">16:30 - 17:30</span>
-                    </div>-->
-
                     <div class="session session-15 track-2" style="grid-column: track-3-start / track-4-end; grid-row: time-1630 / time-1730;">
                         <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Papers: Multimodal VR<!--</a>--></h3>
                         <span class="session-time">16:30 - 17:30</span>
                     </div>
-
-                    <!-- Unused
-                    <div class="session session-16 track-3" style="grid-column: track-5-start / track-6-end; grid-row: time-1630 / time-1730;">
-                        <h3 class="session-title">Paper Session 25 (Optional)</h3>
-                        <span class="session-time">16:30 - 17:30</span>
-                    </div>-->
 
                     <p class="time-slot" style="grid-row: time-1700;">17:00</p>
 
@@ -1077,20 +1065,6 @@ title: "Program Overview"
                         <span class="session-time">14:00 - 15:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
-                    
-                    <!-- Unused
-                    <div class="session session-16 track-2" style="grid-column: track-3-start / track-4-end; grid-row: time-1400 / time-1500;">
-                        <h3 class="session-title">Paper Session 25</h3>
-                        <span class="session-time">14:00 - 15:00</span>
-                        <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
-                    </div> -->
-
-                    <!-- Unused
-                    <div class="session session-17 track-3" style="grid-column: track-5-start / track-6-end; grid-row: time-1400 / time-1500;">
-                        <h3 class="session-title">Paper Session 29 (Optional)</h3>
-                        <span class="session-time">14:00 - 15:00</span>
-                        <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
-                    </div>-->
 
                     <p class="time-slot" style="grid-row: time-1500;">15:00</p>
 
