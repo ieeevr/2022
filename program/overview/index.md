@@ -107,7 +107,7 @@ title: "Program Overview"
             display: grid;
             grid-gap: 1em;
             grid-template-rows:
-                [tracks] auto [time-0700] 0.5fr [time-0730] 0.5fr [time-0800] 0.5fr [time-0830] 0.5fr [time-0900] 0.5fr [time-0930] 0.5fr [time-1000] 0.5fr [time-1030] 0.5fr [time-1100] 0.5fr [time-1130] 0.5fr [time-1200] 0.5fr [time-1230] 0.5fr [time-1300] 0.5fr [time-1330] 0.5fr [time-1400] 0.5fr [time-1430] 0.5fr [time-1500] 0.5fr [time-1530] 0.5fr [time-1600] 0.5fr [time-1630] 0.5fr [time-1700] 0.5fr [time-1730] 0.5fr [time-1800] 0.5fr;
+                [tracks] auto [time-0700] 0.5fr [time-0730] 0.5fr [time-0800] 0.5fr [time-0830] 0.5fr [time-0900] 0.5fr [time-0930] 0.5fr [time-1000] 0.5fr [time-1030] 0.5fr [time-1100] 0.5fr [time-1130] 0.5fr [time-1200] 0.5fr [time-1230] 0.5fr [time-1300] 0.5fr [time-1330] 0.5fr [time-1400] 0.5fr [time-1430] 0.5fr [time-1500] 0.5fr [time-1530] 0.5fr [time-1600] 0.5fr [time-1630] 0.5fr [time-1700] 0.5fr [time-1730] 0.5fr [time-1800] 0.5fr [time-1830] 0.5fr [time-1900] 0.5fr;
 
             grid-template-columns:
                 [times] 4em [track-1-start] 0.5fr [track-1-end track-2-start] 0.5fr [track-2-end track-3-start] 0.5fr [track-3-end track-4-start] 0.5fr [track-4-end track-5-start] 0.5fr [track-5-end track-6-start] 0.5fr [track-6-end];
@@ -959,9 +959,9 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-1530;"></p>
                     <p class="time-slot" style="grid-row: time-1600;">16:00</p>
 
-                    <div class="session session-18 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-1600 / time-1700;">
+                    <div class="session session-18 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-1800 / time-1900;">
                         <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Papers: Machine Learning<!--</a>--></h3>
-                        <span class="session-time">16:00 - 17:00</span>
+                        <span class="session-time">18:00 - 19:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
@@ -971,14 +971,18 @@ title: "Program Overview"
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
-                    <div class="session session-20 track-3" style="grid-column: track-5-start / track-6-end; grid-row: time-1600 / time-1700;">
+                    <div class="session session-20 track-3" style="grid-column: track-5-start / track-6-end; grid-row: time-1800 / time-1900;">
                         <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Papers: Medical and Health Care<!--</a>--></h3>
-                        <span class="session-time">16:00 - 17:00</span>
+                        <span class="session-time">18:00 - 19:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1630;"></p>
                     <p class="time-slot" style="grid-row: time-1700;">17:00</p>
+                    <p class="time-slot" style="grid-row: time-1730;"></p>
+                    <p class="time-slot" style="grid-row: time-1800;">18:00</p>
+                    <p class="time-slot" style="grid-row: time-1830;"></p>
+                    <p class="time-slot" style="grid-row: time-1900;">19:00</p>
                     
                 </div>
             </div>
