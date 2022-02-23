@@ -15,7 +15,7 @@ title: "Program Overview"
     }
 
     .styled-table thead tr {
-        background-color: #00aeef;
+        background-color: #fec10d;
         color: #ffffff;
         text-align: left;
     }
@@ -370,7 +370,7 @@ title: "Program Overview"
     .collapsible-content .content-inner {
         background: white;
         /* rgba(0, 105, 255, .2);*/
-        border-bottom: 1px solid rgba(0, 105, 255, .45);
+        border-bottom: 1px solid rgba(254, 193, 13, .45);
         border-bottom-left-radius: 7px;
         border-bottom-right-radius: 7px;
         padding: .5rem 1rem;
@@ -544,7 +544,7 @@ title: "Program Overview"
         <div class="collapsible-content">
             <div class="content-inner">
                 <center><strong>NZ Daylight Savings Time, UTC+13</strong></center>
-                <div class="schedule-sat-12" aria-labelledby="schedule-heading">
+                <div class="schedule-sun-13" aria-labelledby="schedule-heading">
 
                     <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
@@ -671,7 +671,7 @@ title: "Program Overview"
         <div class="collapsible-content">
             <div class="content-inner">
                 <center><strong>NZ Daylight Savings Time, UTC+13</strong></center>
-                <div class="schedule-sat-12" aria-labelledby="schedule-heading">
+                <div class="schedule-mon-14" aria-labelledby="schedule-heading">
 
                     <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
@@ -804,7 +804,7 @@ title: "Program Overview"
         <div class="collapsible-content">
             <div class="content-inner">
                 <center><strong>NZ Daylight Savings Time, UTC+13</strong></center>
-                <div class="schedule-sat-12" aria-labelledby="schedule-heading">
+                <div class="schedule-tue-15" aria-labelledby="schedule-heading">
 
                     <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
@@ -967,7 +967,7 @@ title: "Program Overview"
         <div class="collapsible-content">
             <div class="content-inner">
                 <center><strong>NZ Daylight Savings Time, UTC+13</strong></center>
-                <div class="schedule-sat-12" aria-labelledby="schedule-heading">
+                <div class="schedule-wed-16" aria-labelledby="schedule-heading">
 
                     <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
