@@ -471,6 +471,7 @@ title: "Program Overview"
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>-->
                     </div>
 
+                    <p class="time-slot" style="grid-row: time-0830;">8:30</p>
                     <p class="time-slot" style="grid-row: time-0900;">9:00</p>
 
                     <div class="session session-6 track-dc" style="grid-column: track-6-start / track-6-end; grid-row: time-0900 / time-1800;">
@@ -479,6 +480,7 @@ title: "Program Overview"
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
                     
+                    <p class="time-slot" style="grid-row: time-0930;">9:30</p>
                     <p class="time-slot" style="grid-row: time-1000;">10:00</p>
 
                     <div class="session session-7 track-tutorial" style="grid-column: track-1-start / track-1-end; grid-row: time-1000 / time-1130;">
@@ -487,7 +489,7 @@ title: "Program Overview"
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>-->
                     </div>
 
-
+                    <p class="time-slot" style="grid-row: time-1030;">10:30</p>
                     <p class="time-slot" style="grid-row: time-1100;">11:00</p>
 
                     <div class="session session-8 track-workshop" style="grid-column: track-2-start / track-2-end; grid-row: time-1100 / time-1600;">
@@ -508,6 +510,7 @@ title: "Program Overview"
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>-->
                     </div>
 
+                    <p class="time-slot" style="grid-row: time-1130;">11:30</p>
                     <p class="time-slot" style="grid-row: time-1200;">12:00</p>
 
                     <div class="session session-10 track-tutorial" style="grid-column: track-1-start / track-1-end; grid-row: time-1200 / time-1330;">
@@ -516,6 +519,7 @@ title: "Program Overview"
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>-->
                     </div>
 
+                    <p class="time-slot" style="grid-row: time-1230;">12:30</p>
                     <p class="time-slot" style="grid-row: time-1300;">13:00</p>
 
                     <div class="session session-11 track-workshop" style="grid-column: track-3-start / track-3-end; grid-row: time-1400 / time-1700;">
@@ -525,9 +529,13 @@ title: "Program Overview"
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1400;">14:00</p>
+                    <p class="time-slot" style="grid-row: time-1430;">14:30</p>
                     <p class="time-slot" style="grid-row: time-1500;">15:00</p>
+                    <p class="time-slot" style="grid-row: time-1530;">15:30</p>
                     <p class="time-slot" style="grid-row: time-1600;">16:00</p>
+                    <p class="time-slot" style="grid-row: time-1630;">16:30</p>
                     <p class="time-slot" style="grid-row: time-1700;">17:00</p>
+                    <p class="time-slot" style="grid-row: time-1730;">17:30</p>
                     <p class="time-slot" style="grid-row: time-1800;">18:00</p>
 
                 </div>
