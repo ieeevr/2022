@@ -15,7 +15,7 @@ title: "Papers"
     }
 
     .styled-table thead tr {
-        background-color: #00aeef;
+        background-color: #fec10d;
         color: #ffffff;
         text-align: left;
     }
@@ -34,12 +34,12 @@ title: "Papers"
     }
 
     .styled-table tbody tr:last-of-type {
-        border-bottom: 2px solid #00aeef;
+        border-bottom: 2px solid #fec10d;
     }
 
     .styled-table tbody tr.active-row {
         font-weight: bold;
-        color: #00aeef;
+        color: #fec10d;
     }
 
     /* Collapsible */
@@ -58,7 +58,7 @@ title: "Papers"
         font-size: 0.8rem;
         text-align: left;
         padding: 0rem;
-        color: #00aeef;
+        color: #fec10d;
         background: #ffffff;
         cursor: pointer;
         border-radius: 7px;
@@ -204,7 +204,7 @@ INVITED MISSING
     {% endif %}
     
         <!-- TAKE ME TO THE EVENT START -->
-    {% for event in site.data.events %}
+    <!--{% for event in site.data.events %}
     {% if event.id == session.id %}
     {% if event.location %}
     <div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
@@ -228,7 +228,7 @@ INVITED MISSING
         </p>
     </div>
     {% endif %}
-    {% endfor %}
+    {% endfor %}-->
     <!-- TAKE ME TO THE EVENT END-->
     
     
@@ -255,11 +255,13 @@ INVITED MISSING
     {% if p.id == paper.id %}
     <p><i>{{ p.authors }}</i></p>
     <div id="{{ paper.id }}" class="wrap-collabsible"> <input id="collapsible{{ paper.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ paper.id }}" class="lbl-toggle">Abstract</label>
+    {% if p.abstract %}
         <div class="collapsible-content">
             <div class="content-inner">
                 <p>{{ p.abstract }}</p>
             </div>
         </div>
+    {% endif %}
     </div>
     {% endif %}
     {% endfor %}
