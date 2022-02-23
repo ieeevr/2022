@@ -675,10 +675,14 @@ title: "Program Overview"
                     <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-3; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-4; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-5; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-6; grid-row: tracks;"></span>
 
                     <p class="time-slot" style="grid-row: time-0900;">9:00</p>
 
-                    <div class="session session-1 track-tutorial" style="grid-column: track-1-start / track-3-end; grid-row: time-0900 / time-1030;">
+                    <div class="session session-1 track-tutorial" style="grid-column: track-1-start / track-6-end; grid-row: time-0900 / time-1030;">
                         <h3 class="session-title"><!--<a href="/2022/program/tutorials/#T4">-->Opening incl. VGTC Awards<!--</a>--></h3>
                         <span class="session-time">9:00 - 10:30</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>-->
@@ -686,85 +690,91 @@ title: "Program Overview"
 
                     <p class="time-slot" style="grid-row: time-1000;">10:00</p>
 
-                    <div class="session session-2 track-keynote" style="grid-column: track-1-start / track-3-end; grid-row: time-1030 / time-1130;">
+                    <div class="session session-2 track-keynote" style="grid-column: track-1-start / track-6-end; grid-row: time-1030 / time-1130;">
                         <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Keynote 1 - Tim Dwyer<!--</a>--></h3>
                         <span class="session-time">10:30 - 11:30</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1100;">11:00</p>
+
+                    <div class="session session-3 track-break" style="grid-column: track-1-start / track-6-end; grid-row: time-1130 / time-1200;">
+                        <h3 class="session-title">Break</h3>
+                        <span class="session-time">11:30 - 12:00</span>
+                    </div>
+
                     <p class="time-slot" style="grid-row: time-1200;">12:00</p>
                     
-                    <div class="session session-3 track-1" style="grid-column: track-1-start / track-1-end; grid-row: time-1200 / time-1300;">
+                    <div class="session session-4 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-1200 / time-1300;">
                         <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Paper Session 1<!--</a>--></h3>
                         <span class="session-time">12:00 - 13:00</span>
                     </div>
 
-                    <div class="session session-4 track-2" style="grid-column: track-2-start / track-2-end; grid-row: time-1200 / time-1300;">
+                    <div class="session session-5 track-2" style="grid-column: track-3-start / track-4-end; grid-row: time-1200 / time-1300;">
                         <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Paper Session 2<!--</a>--></h3>
                         <span class="session-time">12:00 - 13:00</span>
                     </div>
 
-                    <div class="session session-5 track-3" style="grid-column: track-3-start / track-3-end; grid-row: time-1200 / time-1300;">
+                    <div class="session session-6 track-3" style="grid-column: track-5-start / track-6-end; grid-row: time-1200 / time-1300;">
                         <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Paper Session 3<!--</a>--></h3>
                         <span class="session-time">12:00 - 13:00</span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1300;">13:00</p>
 
-                    <div class="session session-6 track-break" style="grid-column: track-1-start / track-2-end; grid-row: time-1300 / time-1400;">
+                    <div class="session session-7 track-break" style="grid-column: track-1-start / track-4-end; grid-row: time-1300 / time-1400;">
                         <h3 class="session-title">Lunch</h3>
                         <span class="session-time">13:00 - 14:00</span>
                     </div>
 
-                    <div class="session session-7 track-4" style="grid-column: track-3-start / track-3-end; grid-row: time-1300 / time-1400;">
+                    <div class="session session-8 track-4" style="grid-column: track-5-start / track-6-end; grid-row: time-1300 / time-1400;">
                         <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Posters and Demos - Session 1 Fast Forward<!--</a>--></h3>
                         <span class="session-time">13:00 - 14:00</span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1400;">14:00</p>
 
-                    <div class="session session-8 track-1" style="grid-column: track-1-start / track-1-end; grid-row: time-1400 / time-1500;">
+                    <div class="session session-9 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-1400 / time-1500;">
                         <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Paper Session 4<!--</a>--></h3>
                         <span class="session-time">14:00 - 15:00</span>
                     </div>
 
-                    <div class="session session-9 track-2" style="grid-column: track-2-start / track-2-end; grid-row: time-1400 / time-1500;">
+                    <div class="session session-10 track-2" style="grid-column: track-3-start / track-4-end; grid-row: time-1400 / time-1500;">
                         <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Paper Session 5<!--</a>--></h3>
                         <span class="session-time">14:00 - 15:00</span>
                     </div>
 
-                    <div class="session session-10 track-3" style="grid-column: track-3-start / track-3-end; grid-row: time-1400 / time-1500;">
+                    <div class="session session-11 track-3" style="grid-column: track-5-start / track-6-end; grid-row: time-1400 / time-1500;">
                         <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Paper Session 6<!--</a>--></h3>
                         <span class="session-time">14:00 - 15:00</span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1500;">15:00</p>
 
-                    <div class="session session-11 track-4" style="grid-column: track-1-start / track-1-end; grid-row: time-1500 / time-1630;">
+                    <div class="session session-12 track-4" style="grid-column: track-1-start / track-2-end; grid-row: time-1500 / time-1630;">
                         <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Posters and Demos - Session 1<!--</a>--></h3>
                         <span class="session-time">15:00 - 16:30</span>
                     </div>
 
-                    <div class="session session-12 track-exhibit" style="grid-column: track-2-start / track-2-end; grid-row: time-1500 / time-1630;">
+                    <div class="session session-13 track-exhibit" style="grid-column: track-3-start / track-4-end; grid-row: time-1500 / time-1630;">
                         <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Industry Exhibition<!--</a>--></h3>
                         <span class="session-time">15:00 - 16:30</span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1600;">16:00</p>
 
-                    <div class="session session-13 track-1" style="grid-column: track-1-start / track-1-end; grid-row: time-1630 / time-1730;">
+                    <div class="session session-14 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-1630 / time-1730;">
                         <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Paper Session 7<!--</a>--></h3>
                         <span class="session-time">16:30 - 17:30</span>
                     </div>
 
-                    <div class="session session-14 track-2" style="grid-column: track-2-start / track-2-end; grid-row: time-1630 / time-1730;">
+                    <div class="session session-15 track-2" style="grid-column: track-3-start / track-4-end; grid-row: time-1630 / time-1730;">
                         <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Paper Session 8<!--</a>--></h3>
                         <span class="session-time">16:30 - 17:30</span>
                     </div>
 
                     <!-- Currently marked as optional
-                    <div class="session session-10 track-3" style="grid-column: track-3-start / track-3-end; grid-row: time-1630 / time-1730;">
+                    <div class="session session-10 track-3" style="grid-column: track-5-start / track-6-end; grid-row: time-1630 / time-1730;">
                         <h3 class="session-title">Paper Session 25</h3>
                         <span class="session-time">16:30 - 17:30</span>
                     </div>
@@ -772,14 +782,14 @@ title: "Program Overview"
 
                     <p class="time-slot" style="grid-row: time-1700;">17:00</p>
 
-                    <div class="session session-15 track-break" style="grid-column: track-1-start / track-3-end; grid-row: time-1730 / time-1800;">
+                    <div class="session session-16 track-break" style="grid-column: track-1-start / track-6-end; grid-row: time-1730 / time-1800;">
                         <h3 class="session-title">Break</h3>
                         <span class="session-time">17:30 - 18:00</span>
                     </div>
                     
                     <p class="time-slot" style="grid-row: time-1800;">18:00</p>
 
-                    <div class="session session-16 track-event" style="grid-column: track-1-start / track-3-end; grid-row: time-1800 / time-1900;">
+                    <div class="session session-17 track-event" style="grid-column: track-1-start / track-6-end; grid-row: time-1800 / time-1900;">
                         <h3 class="session-title">Speed Dating in Virbela</h3>
                         <span class="session-time">18:30 - 19:00</span>
                     </div>
