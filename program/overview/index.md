@@ -458,7 +458,7 @@ title: "Program Overview"
                     
                     <div class="session session-3 track-workshop" style="grid-column: track-3-start / track-3-end; grid-row: time-0800 / time-1100;">
                         <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Workshop: 1<sup>st</sup> International Workshop on Socially Intelligent Virtual Agents (SIVA)<!--</a>--></h3>
-                        <span class="session-time">8:00 - 10:00</span>
+                        <span class="session-time">8:00 - 11:00</span>
                     </div>
                     <div class="session session-4 track-workshop" style="grid-column: track-4-start / track-4-end; grid-row: time-0800 / time-1130;">
                         <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->3D Reconstruction, Digital Twinning, and Simulation for Virtual Experiences (ReDigiTS)<!--</a>--></h3>
@@ -530,40 +530,131 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-1700;">17:00</p>
                     <p class="time-slot" style="grid-row: time-1800;">18:00</p>
 
-                    <!-- rest is invalid
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div>
+    <div class="wrap-collabsible"> <input id="collapsible1" class="toggle" type="checkbox" checked> <label for="collapsible1" class="lbl-toggle">Sunday, March 13<sup>th</sup></label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <center><strong>NZ Daylight Savings Time, UTC+13</strong></center>
+                <div class="schedule-sat-12" aria-labelledby="schedule-heading">
+
+                    <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-3; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-4; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-5; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-6; grid-row: tracks;"></span>
+
+                    <p class="time-slot" style="grid-row: time-0800;">8:00</p>
+
+                    <div class="session session-1 track-tutorial" style="grid-column: track-1-start / track-1-end; grid-row: time-0800 / time-0930;">
+                        <h3 class="session-title"><!--<a href="/2022/program/tutorials/#T4">-->Tutorial: Build Your Own Social Virtual Reality with Ubiq - Part 1 - Anthony Steed et al.<!--</a>--></h3>
+                        <span class="session-time">8:00 - 9:30</span>
+                        <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>-->
+                    </div>
+
+                    <div class="session session-2 track-workshop" style="grid-column: track-2-start / track-2-end; grid-row: time-0800 / time-1100;">
+                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Workshop on Virtual Humans and Crowds in Immersive Environments (VHCIE)<!--</a>--></h3>
+                        <span class="session-time">8:00 - 11:00</span>
+                        <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
+                    </div>
+                    
+                    <div class="session session-3 track-workshop" style="grid-column: track-3-start / track-3-end; grid-row: time-0800 / time-1100;">
+                        <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->3<sup>rd</sup> Annual Workshop on 3D Content Creation for Simulated Training in eXtended Reality (TrainingXR)<!--</a>--></h3>
+                        <span class="session-time">8:00 - 11:00</span>
+                    </div>
+                    <div class="session session-4 track-workshop" style="grid-column: track-4-start / track-4-end; grid-row: time-0800 / time-1100;">
+                        <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Workshop: Metaverse as a promise of a bright future? - social interactions in a world of isolation<!--</a>--></h3>
+                        <span class="session-time">8:00 - 11:00</span>
+                    </div>
+                    
+                    <div class="session session-5 track-workshop" style="grid-column: track-5-start / track-5-end; grid-row: time-0800 / time-1100;">
+                        <h3 class="session-title"><!--<a href="/2021/program/tutorials/#T1">-->5<sup>th</sup> IEEE VR Internal Workshop on Animation in Virtual and Augmented Environments (ANIVAE-2022)<!--</a>--></h3>
+                        <span class="session-time">8:00 - 11:00</span>
+                        <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>-->
+                    </div>
+
+                    <div class="session session-6 track-workshop" style="grid-column: track-6-start / track-6-end; grid-row: time-0800 / time-1100;">
+                        <h3 class="session-title"><!--<a href="/2021/program/tutorials/#T1">-->Workshop: XR for Health and Wellbeing<!--</a>--></h3>
+                        <span class="session-time">8:00 - 11:00</span>
+                        <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>-->
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-0900;">9:00</p>
+                    <p class="time-slot" style="grid-row: time-1000;">10:00</p>
+
+                    <div class="session session-7 track-tutorial" style="grid-column: track-1-start / track-1-end; grid-row: time-1000 / time-1130;">
+                        <h3 class="session-title"><!--<a href="/2021/contribute/workshoppapers/#DISCE">-->Tutorial: Build Your Own Social Virtual Reality with Ubiq - Part 1 - Anthony Steed et al.<!--</a>--></h3>
+                        <span class="session-time">10:00 - 11:30</span>
+                        <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>-->
+                    </div>
+
+
+                    <p class="time-slot" style="grid-row: time-1100;">11:00</p>
+
+                    <div class="session session-8 track-workshop" style="grid-column: track-3-start / track-3-end; grid-row: time-1100 / time-1400;">
+                        <h3 class="session-title"><!--<a href="/2021/contribute/workshoppapers/#DISCE">-->8<sup>th</sup> workshop on Perceptual and Cognitive Issues in XR (PERCxR)<!--</a>--></h3>
+                        <span class="session-time">11:00 - 14:00</span>
+                        <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>-->
+                    </div>
+
+                    <div class="session session-8 track-workshop" style="grid-column: track-4-start / track-4-end; grid-row: time-1100 / time-1400;">
+                        <h3 class="session-title"><!--<a href="/2021/contribute/workshoppapers/#DISCE">-->Workshop on Novel Input Devices and Interaction Techniques (NIDIT)<!--</a>--></h3>
+                        <span class="session-time">11:00 - 14:00</span>
+                        <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>-->
+                    </div>
+
+                    <div class="session session-9 track-workshop" style="grid-column: track-5-start / track-5-end; grid-row: time-1100 / time-1400;">
+                        <h3 class="session-title"><!--<a href="/2021/contribute/workshoppapers/#DISCE">-->8<sup>th</sup> Workshop on Everyday Virtual Reality<!--</a>--></h3>
+                        <span class="session-time">11:00 - 14:00</span>
+                        <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>-->
+                    </div>
+
+                    <div class="session session-10 track-workshop" style="grid-column: track-6-start / track-6-end; grid-row: time-1100 / time-1400;">
+                        <h3 class="session-title"><!--<a href="/2021/contribute/workshoppapers/#DISCE">-->Health and Safety in VR and AR<!--</a>--></h3>
+                        <span class="session-time">11:00 - 14:00</span>
+                        <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>-->
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1200;">12:00</p>
+
+                    <div class="session session-11 track-tutorial" style="grid-column: track-1-start / track-1-end; grid-row: time-1200 / time-1330;">
+                        <h3 class="session-title"><!--<a href="/2021/contribute/workshoppapers/#DISCE">-->Tutorial: Emotion in Virtual Reality - Darlene Barker<!--</a>--></h3>
+                        <span class="session-time">12:00 - 13:30</span>
+                        <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>-->
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1300;">13:00</p>
+                    <p class="time-slot" style="grid-row: time-1400;">14:00</p>
+
+                    <div class="session session-12 track-workshop" style="grid-column: track-3-start / track-3-end; grid-row: time-1400 / time-1700;">
+                        <h3 class="session-title"><!--<a href="/2021/contribute/workshoppapers/#DISCE">-->7<sup>th</sup> Annual Workshop on K-12+ Embodied Learning through Virtual and Augmented Reality (KELVAR)<!--</a>--></h3>
+                        <span class="session-time">14:00 - 17:00</span>
+                        <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>-->
+                    </div>
+
+                    <div class="session session-13 track-workshop" style="grid-column: track-4-start / track-4-end; grid-row: time-1400 / time-1700;">
+                        <h3 class="session-title"><!--<a href="/2021/contribute/workshoppapers/#DISCE">-->METABUILD: First Workshop for Building the Foundations of the Metaverse<!--</a>--></h3>
+                        <span class="session-time">14:00 - 17:00</span>
+                        <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>-->
+                    </div>
+
+                    <div class="session session-14 track-workshop" style="grid-column: track-5-start / track-5-end; grid-row: time-1400 / time-1500;">
+                        <h3 class="session-title"><!--<a href="/2021/contribute/workshoppapers/#DISCE">-->Workshop: X-IRL risks: Identifying privacy and security risks in inter-reality attacks and interactions<!--</a>--></h3>
+                        <span class="session-time">14:00 - 15:00</span>
+                        <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>-->
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1500;">15:00</p>
                     <p class="time-slot" style="grid-row: time-1600;">16:00</p>
-                    <div class="session session-9 track-tutorial" style="grid-column: track-1-start / track-1-end; grid-row: time-1600 / time-1800;">
-                        <h3 class="session-title">
-                            <a href="/2021/program/tutorials/#T6S1">Tutorial: Combining the Virtual and the Real, Session 1
-                            </a>
-                        </h3>
-                        <span class="session-time">16:00 - 17:30</span>
-                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>
-                    </div>
-
                     <p class="time-slot" style="grid-row: time-1700;">17:00</p>
-                    <div class="session session-10 track-workshop" style="grid-column: track-2-start / track-2-end; grid-row: time-1700 / time-2100;">
-                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#VHCIE2021">Workshop: Virtual Humans and Crowds for Immersive Environments (VHCIE 2021)</a></h3>
-                        <span class="session-time">17:00 - 21:00</span>
-                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>
-                    </div>
-
-                    <p class="time-slot" style="grid-row: time-1730;">17:15</p>
-                    <div class="session session-7 track-dc" style="grid-column: track-4-start / track-4-end; grid-row: time-1730 / time-1900;">
-                        <h3 class="session-title"><a href="/2021/program/doctoral-consortium/">Doctoral Consortium</a></h3>
-                        <span class="session-time">17:15 - 18:05</span>
-                    </div>
-
-                    <p class="time-slot" style="grid-row: time-1800;">18:00</p>
-                    <div class="session session-9S2 track-tutorial" style="grid-column: track-1-start / track-1-end; grid-row: time-1800 / time-2100;">
-                        <h3 class="session-title">
-                            <a href="/2021/program/tutorials/#T6S2">
-                                Tutorial: Combining the Virtual and the Real, Session 2
-                            </a>
-                        </h3>
-                        <span class="session-time">18:00 - 21:00</span>
-                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>
-                    </div>-->
 
                 </div>
 
@@ -571,6 +662,7 @@ title: "Program Overview"
         </div>
     </div>
 </div>
+
 
 <!--
 <div>
