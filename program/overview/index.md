@@ -707,17 +707,17 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-1200;">12:00</p>
                     
                     <div class="session session-4 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-1200 / time-1300;">
-                        <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Paper Session 1<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Papers: Displays<!--</a>--></h3>
                         <span class="session-time">12:00 - 13:00</span>
                     </div>
 
                     <div class="session session-5 track-2" style="grid-column: track-3-start / track-4-end; grid-row: time-1200 / time-1300;">
-                        <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Paper Session 2<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Papers: Security<!--</a>--></h3>
                         <span class="session-time">12:00 - 13:00</span>
                     </div>
 
                     <div class="session session-6 track-3" style="grid-column: track-5-start / track-6-end; grid-row: time-1200 / time-1300;">
-                        <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Paper Session 3<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Papers: Emotion and Cognition<!--</a>--></h3>
                         <span class="session-time">12:00 - 13:00</span>
                     </div>
 
@@ -736,17 +736,17 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-1400;">14:00</p>
 
                     <div class="session session-9 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-1400 / time-1500;">
-                        <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Paper Session 4<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Papers: 3DUI<!--</a>--></h3>
                         <span class="session-time">14:00 - 15:00</span>
                     </div>
 
                     <div class="session session-10 track-2" style="grid-column: track-3-start / track-4-end; grid-row: time-1400 / time-1500;">
-                        <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Paper Session 5<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Papers: Locomotion (Americas)<!--</a>--></h3>
                         <span class="session-time">14:00 - 15:00</span>
                     </div>
 
                     <div class="session session-11 track-3" style="grid-column: track-5-start / track-6-end; grid-row: time-1400 / time-1500;">
-                        <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Paper Session 6<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Papers: Immersive Visualization and Virtual Production<!--</a>--></h3>
                         <span class="session-time">14:00 - 15:00</span>
                     </div>
 
@@ -764,20 +764,22 @@ title: "Program Overview"
 
                     <p class="time-slot" style="grid-row: time-1600;">16:00</p>
 
+                    <!-- Currently unused
                     <div class="session session-14 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-1630 / time-1730;">
                         <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Paper Session 7<!--</a>--></h3>
                         <span class="session-time">16:30 - 17:30</span>
-                    </div>
+                    </div>-->
 
                     <div class="session session-15 track-2" style="grid-column: track-3-start / track-4-end; grid-row: time-1630 / time-1730;">
-                        <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Paper Session 8<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Papers: Multimodal VR<!--</a>--></h3>
                         <span class="session-time">16:30 - 17:30</span>
                     </div>
 
+                    <!-- Unused
                     <div class="session session-16 track-3" style="grid-column: track-5-start / track-6-end; grid-row: time-1630 / time-1730;">
                         <h3 class="session-title">Paper Session 25 (Optional)</h3>
                         <span class="session-time">16:30 - 17:30</span>
-                    </div>
+                    </div>-->
 
                     <p class="time-slot" style="grid-row: time-1700;">17:00</p>
 
@@ -825,19 +827,19 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-0800;">8:00</p>
 
                     <div class="session session-2 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-0830 / time-0930;">
-                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Paper Session 9<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Papers: Embodiment<!--</a>--></h3>
                         <span class="session-time">8:30 - 9:30</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
                     <div class="session session-3 track-2" style="grid-column: track-3-start / track-4-end; grid-row: time-0830 / time-0930;">
-                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Paper Session 10<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Papers: Presence<!--</a>--></h3>
                         <span class="session-time">8:30 - 9:30</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
                     <div class="session session-4 track-3" style="grid-column: track-5-start / track-6-end; grid-row: time-0830 / time-0930;">
-                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Paper Session 11<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Papers: Interaction Design<!--</a>--></h3>
                         <span class="session-time">8:30 - 9:30</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
@@ -866,19 +868,19 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-1100;">11:00</p>
 
                     <div class="session session-8 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-1100 / time-1200;">
-                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Paper Session 12<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Papers: Collaboration<!--</a>--></h3>
                         <span class="session-time">11:00 - 12:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
                     <div class="session session-9 track-2" style="grid-column: track-3-start / track-4-end; grid-row: time-1100 / time-1200;">
-                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Paper Session 13<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Papers: Perception in AR<!--</a>--></h3>
                         <span class="session-time">11:00 - 12:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
                     <div class="session session-10 track-3" style="grid-column: track-5-start / track-6-end; grid-row: time-1100 / time-1200;">
-                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Paper Session 14<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Papers: Virtual Humans and Agents<!--</a>--></h3>
                         <span class="session-time">11:00 - 12:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
@@ -894,19 +896,19 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-1300;">13:00</p>
 
                     <div class="session session-12 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-1300 / time-1400;">
-                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Paper Session 15<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Papers: Augmented Reality<!--</a>--></h3>
                         <span class="session-time">13:00 - 14:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
                     <div class="session session-13 track-2" style="grid-column: track-3-start / track-4-end; grid-row: time-1300 / time-1400;">
-                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Paper Session 16<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Papers: Locomotion (Asia-Pacific)<!--</a>--></h3>
                         <span class="session-time">13:00 - 14:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
                     <div class="session session-14 track-3" style="grid-column: track-5-start / track-6-end; grid-row: time-1300 / time-1400;">
-                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Paper Session 17<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Papers: Perception<!--</a>--></h3>
                         <span class="session-time">13:00 - 14:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
@@ -936,7 +938,7 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-1600;">16:00</p>
 
                     <div class="session session-18 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-1600 / time-1700;">
-                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Paper Session 26 (Optional)<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Papers: Machine Learning<!--</a>--></h3>
                         <span class="session-time">16:00 - 17:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
@@ -948,7 +950,7 @@ title: "Program Overview"
                     </div>
 
                     <div class="session session-20 track-3" style="grid-column: track-5-start / track-6-end; grid-row: time-1600 / time-1700;">
-                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Paper Session 27 (Optional)<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Papers: Medical and Health Care<!--</a>--></h3>
                         <span class="session-time">16:00 - 17:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
@@ -988,19 +990,19 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-0800;">8:00</p>
 
                     <div class="session session-2 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-0830 / time-0930;">
-                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Paper Session 17<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Papers: Audio in VR<!--</a>--></h3>
                         <span class="session-time">8:30 - 9:30</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
                     <div class="session session-3 track-2" style="grid-column: track-3-start / track-4-end; grid-row: time-0830 / time-0930;">
-                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Paper Session 18<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Papers: Haptics<!--</a>--></h3>
                         <span class="session-time">8:30 - 9:30</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
                     <div class="session session-4 track-3" style="grid-column: track-5-start / track-6-end; grid-row: time-0830 / time-0930;">
-                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Paper Session 19<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Papers: Locomotion (Europe)<!--</a>--></h3>
                         <span class="session-time">8:30 - 9:30</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
@@ -1051,19 +1053,19 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-1300;">13:00</p>
 
                     <div class="session session-12 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-1300 / time-1400;">
-                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Paper Session 20<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Papers: Rendering<!--</a>--></h3>
                         <span class="session-time">13:00 - 14:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
                     <div class="session session-13 track-2" style="grid-column: track-3-start / track-4-end; grid-row: time-1300 / time-1400;">
-                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Paper Session 21<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Papers: Computer Vision<!--</a>--></h3>
                         <span class="session-time">13:00 - 14:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
                     <div class="session session-14 track-3" style="grid-column: track-5-start / track-6-end; grid-row: time-1300 / time-1400;">
-                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Paper Session 22<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Papers: Negative Effects<!--</a>--></h3>
                         <span class="session-time">13:00 - 14:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
@@ -1071,22 +1073,24 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-1400;">14:00</p>
 
                     <div class="session session-15 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-1400 / time-1500;">
-                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Paper Session 23<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Papers: Advanced UI<!--</a>--></h3>
                         <span class="session-time">14:00 - 15:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
-
+                    
+                    <!-- Unused
                     <div class="session session-16 track-2" style="grid-column: track-3-start / track-4-end; grid-row: time-1400 / time-1500;">
-                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Paper Session 24<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Paper Session 25<!--</a>--></h3>
                         <span class="session-time">14:00 - 15:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
-                    </div>
+                    </div> -->
 
+                    <!-- Unused
                     <div class="session session-17 track-3" style="grid-column: track-5-start / track-6-end; grid-row: time-1400 / time-1500;">
-                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Paper Session 28 (Optional)<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="/2022/contribute/workshoppapers/#SIVE">-->Paper Session 29 (Optional)<!--</a>--></h3>
                         <span class="session-time">14:00 - 15:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
-                    </div>
+                    </div>-->
 
                     <p class="time-slot" style="grid-row: time-1500;">15:00</p>
 
