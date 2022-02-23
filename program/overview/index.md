@@ -980,7 +980,7 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-0700;">7:00</p>
 
                     <div class="session session-1 track-3dui" style="grid-column: track-5-start / track-6-end; grid-row: time-0730 / time-0830;">
-                        <h3 class="session-title"><!--<a href="/2022/program/tutorials/#T4">-->33DUI Contest Fast Forward<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="/2022/program/tutorials/#T4">-->3DUI Contest Fast Forward<!--</a>--></h3>
                         <span class="session-time">7:30 - 8:30</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>-->
                     </div>
