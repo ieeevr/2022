@@ -528,6 +528,7 @@ title: "Program Overview"
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>-->
                     </div>
 
+                    <p class="time-slot" style="grid-row: time-1330;">13:30</p>
                     <p class="time-slot" style="grid-row: time-1400;">14:00</p>
                     <p class="time-slot" style="grid-row: time-1430;">14:30</p>
                     <p class="time-slot" style="grid-row: time-1500;">15:00</p>
