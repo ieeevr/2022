@@ -34,12 +34,12 @@ title: "Program Overview"
     }
 
     .styled-table tbody tr:last-of-type {
-        border-bottom: 2px solid #00aeef;
+        border-bottom: 2px solid #fec10d;
     }
 
     .styled-table tbody tr.active-row {
         font-weight: bold;
-        color: #00aeef;
+        color: #fec10d;
     }
 
 
@@ -326,7 +326,7 @@ title: "Program Overview"
         text-align: left;
         padding: 0.5rem;
         color: #ffffff;
-        background: #00aeef;
+        background: #fec10d;
         cursor: pointer;
         border-radius: 7px;
         transition: all 0.25s ease-out;
