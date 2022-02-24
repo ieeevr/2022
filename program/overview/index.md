@@ -451,7 +451,7 @@ title: "Program Overview"
                     </div>
 
                     <div class="session session-2 track-workshop" style="grid-column: track-2-start / track-2-end; grid-row: time-0800 / time-1100;">
-                        <h3 class="session-title"><a href={{ "/contribute/workshoppapers/#ARES" | relative_url }}">Workshop: ARES - Augmented Reality Enabling Superhuman Sports + Serious Games</a></h3>
+                        <h3 class="session-title"><a href={{ "/contribute/workshoppapers/#ARES" | relative_url }}>Workshop: ARES - Augmented Reality Enabling Superhuman Sports + Serious Games</a></h3>
                         <span class="session-time">8:00 - 11:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
