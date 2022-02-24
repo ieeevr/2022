@@ -451,17 +451,17 @@ title: "Program Overview"
                     </div>
 
                     <div class="session session-2 track-workshop" style="grid-column: track-2-start / track-2-end; grid-row: time-0800 / time-1100;">
-                        <h3 class="session-title"><a href="/2022/contribute/workshoppapers/#ARES">Workshop: ARES - Augmented Reality Enabling Superhuman Sports + Serious Games</a></h3>
+                        <h3 class="session-title"><a href={{ "/contribute/workshoppapers/#ARES" | relative_url }}">Workshop: ARES - Augmented Reality Enabling Superhuman Sports + Serious Games</a></h3>
                         <span class="session-time">8:00 - 11:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
                     
                     <div class="session session-3 track-workshop" style="grid-column: track-3-start / track-3-end; grid-row: time-0800 / time-1100;">
-                        <h3 class="session-title"><a href="/2022/program/workshoppapers/#SIVA">1<sup>st</sup> International Workshop on Socially Intelligent Virtual Agents (SIVA)</a></h3>
+                        <h3 class="session-title"><a href="/2022/contribute/workshoppapers/#SIVA">1<sup>st</sup> International Workshop on Socially Intelligent Virtual Agents (SIVA)</a></h3>
                         <span class="session-time">8:00 - 11:00</span>
                     </div>
                     <div class="session session-4 track-workshop" style="grid-column: track-4-start / track-4-end; grid-row: time-0800 / time-1130;">
-                        <h3 class="session-title"><a href="/2022/program/workshoppapers/#ReDigiTS">3D Reconstruction, Digital Twinning, and Simulation for Virtual Experiences (ReDigiTS)</a></h3>
+                        <h3 class="session-title"><a href="/2022/contribute/workshoppapers/#ReDigiTS">3D Reconstruction, Digital Twinning, and Simulation for Virtual Experiences (ReDigiTS)</a></h3>
                         <span class="session-time">8:00 - 11:30</span>
                     </div>
                     
