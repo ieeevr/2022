@@ -120,11 +120,11 @@ title: "Papers"
 <div>
     <table class="styled-table" style="font-size: 0.9em; ">
         <tr>
-            <th>Monday, March 29, Lisbon WEST, UTC+1</th>
+            <th>Monday, March 14, NZDT, UTC+13</th>
             <th></th>
         </tr>
         {% for session in site.data.sessions %}
-        {% if session.day == 'Monday, March 29' %}
+        {% if session.day == 'Monday, March 14' %}
         <tr>
             <td style="font-size: 0.9em;"><a href="#{{ session.id }}">{{ session.name }}</a></td>
             <td>{{ session.starttime }} - {{ session.endtime }}</td>
@@ -136,11 +136,11 @@ title: "Papers"
 <div>
     <table class="styled-table" style="font-size: 0.9em; ">
         <tr>
-            <th>Tuesday, March 30, Lisbon WEST, UTC+1</th>
+            <th>Tuesday, March 15, NZDT, UTC+13</th>
             <th></th>
         </tr>
         {% for session in site.data.sessions %}
-        {% if session.day == 'Tuesday, March 30' %}
+        {% if session.day == 'Tuesday, March 15' %}
         <tr>
             <td style="font-size: 0.9em;"><a href="#{{ session.id }}">{{ session.name }}</a></td>
             <td>{{ session.starttime }} - {{ session.endtime }}</td>
@@ -152,27 +152,11 @@ title: "Papers"
 <div>
     <table class="styled-table" style="font-size: 0.9em; ">
         <tr>
-            <th>Wednesday, March 31, Lisbon WEST, UTC+1</th>
+            <th>Wednesday, March 16, NZDT, UTC+13</th>
             <th></th>
         </tr>
         {% for session in site.data.sessions %}
-        {% if session.day == 'Wednesday, March 31' %}
-        <tr>
-            <td style="font-size: 0.9em;"><a href="#{{ session.id }}">{{ session.name }}</a></td>
-            <td>{{ session.starttime }} - {{ session.endtime }}</td>
-        </tr>
-        {% endif %}
-        {% endfor %}
-    </table>
-</div>
-<div>
-    <table class="styled-table" style="font-size: 0.9em; ">
-        <tr>
-            <th>Thursday, April 1, Lisbon WEST, UTC+1</th>
-            <th></th>
-        </tr>
-        {% for session in site.data.sessions %}
-        {% if session.day == 'Thursday, April 1' %}
+        {% if session.day == 'Wednesday, March 16' %}
         <tr>
             <td style="font-size: 0.9em;"><a href="#{{ session.id }}">{{ session.name }}</a></td>
             <td>{{ session.starttime }} - {{ session.endtime }}</td>
@@ -252,18 +236,22 @@ INVITED MISSING
     {% endif %}
 
     {% for p in source %}
-    {% if p.id == paper.id %}
-    <p><i>{{ p.authors }}</i></p>
-    <div id="{{ paper.id }}" class="wrap-collabsible"> <input id="collapsible{{ paper.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ paper.id }}" class="lbl-toggle">Abstract</label>
-    {% if p.abstract %}
-        <div class="collapsible-content">
-            <div class="content-inner">
-                <p>{{ p.abstract }}</p>
-            </div>
-        </div>
-    {% endif %}
-    </div>
-    {% endif %}
+        {% if p.id == paper.id %}
+            {% if p.authors %}
+                <p><i>{{ p.authors }}</i></p>
+            {% else %}
+                <p><i>Author information coming soon</i></p>
+            {% endif %}
+            {% if p.abstract %}
+                <div id="{{ paper.id }}" class="wrap-collabsible"> <input id="collapsible{{ paper.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ paper.id }}" class="lbl-toggle">Abstract</label>
+                    <div class="collapsible-content">
+                        <div class="content-inner">
+                            <p>{{ p.abstract }}</p>
+                        </div>
+                    </div>
+                </div>
+            {% endif %}
+        {% endif %}
     {% endfor %}
 
     {% endif %}
