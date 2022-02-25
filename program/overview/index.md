@@ -959,25 +959,31 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-1530;"></p>
                     <p class="time-slot" style="grid-row: time-1600;">16:00</p>
 
-                    <div class="session session-18 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-1800 / time-1900;">
+                    <div class="session session-18 track-break" style="grid-column: track-1-start / track-6-end; grid-row: time-1730 / time-1800;">
+                        <h3 class="session-title">Break</h3>
+                        <span class="session-time">17:30 - 18:00</span>
+                        <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
+                    </div>
+
+                    <div class="session session-19 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-1800 / time-1900;">
                         <h3 class="session-title"><a href="{{ "/program/papers/#1.6" | relative_url }}">Papers: Machine Learning</a></h3>
                         <span class="session-time">18:00 - 19:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
-                    <div class="session session-19 track-exhibition" style="grid-column: track-3-start / track-4-end; grid-row: time-1600 / time-1730;">
+                    <div class="session session-20 track-exhibition" style="grid-column: track-3-start / track-4-end; grid-row: time-1600 / time-1730;">
                         <h3 class="session-title"><!--<a href="{{ "/contribute/workshoppapers/#SIVE" | relative_url }}">-->Industry Exhibition<!--</a>--></h3>
                         <span class="session-time">16:00 - 17:30</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
-                    <div class="session session-20 track-3" style="grid-column: track-3-start / track-4-end; grid-row: time-1800 / time-1900;">
+                    <div class="session session-21 track-2" style="grid-column: track-3-start / track-4-end; grid-row: time-1800 / time-1900;">
                         <h3 class="session-title"><a href="{{ "/program/papers/#3.8" | relative_url }}">Papers: Negative Effects</a></h3>
                         <span class="session-time">18:00 - 19:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
-                    <div class="session session-21 track-3" style="grid-column: track-5-start / track-6-end; grid-row: time-1800 / time-1900;">
+                    <div class="session session-22 track-3" style="grid-column: track-5-start / track-6-end; grid-row: time-1800 / time-1900;">
                         <h3 class="session-title"><a href="{{ "/program/papers/#3.6" | relative_url }}">Papers: Medical and Health Care</a></h3>
                         <span class="session-time">18:00 - 19:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
