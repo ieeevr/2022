@@ -972,6 +972,12 @@ title: "Program Overview"
                     </div>
 
                     <div class="session session-20 track-3" style="grid-column: track-5-start / track-6-end; grid-row: time-1800 / time-1900;">
+                        <h3 class="session-title"><a href="{{ "/program/papers/#3.8" | relative_url }}">Papers: Negative Effects</a></h3>
+                        <span class="session-time">18:00 - 19:00</span>
+                        <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
+                    </div>
+
+                    <div class="session session-21 track-3" style="grid-column: track-3-start / track-4-end; grid-row: time-1800 / time-1900;">
                         <h3 class="session-title"><a href="{{ "/program/papers/#3.6" | relative_url }}">Papers: Medical and Health Care</a></h3>
                         <span class="session-time">18:00 - 19:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
@@ -1093,12 +1099,6 @@ title: "Program Overview"
 
                     <div class="session session-13 track-2" style="grid-column: track-3-start / track-4-end; grid-row: time-1300 / time-1400;">
                         <h3 class="session-title"><a href="{{ "/program/papers/#2.8" | relative_url }}">Papers: Computer Vision</a></h3>
-                        <span class="session-time">13:00 - 14:00</span>
-                        <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
-                    </div>
-
-                    <div class="session session-14 track-3" style="grid-column: track-5-start / track-6-end; grid-row: time-1300 / time-1400;">
-                        <h3 class="session-title"><a href="{{ "/program/papers/#3.8" | relative_url }}">Papers: Negative Effects</a></h3>
                         <span class="session-time">13:00 - 14:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
