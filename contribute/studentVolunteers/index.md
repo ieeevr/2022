@@ -17,7 +17,7 @@ title_separator: "|"
     <h2 id="important-dates"> Important Dates </h2>
     <ul>
         <li><b>February 18, 2022:</b> Open student volunteer applications</li>
-        <li><b>February 25, 2022:</b> Close student volunteer applications</li>
+        <li><b>February <del>25</del> 27, 2022:</b> Close student volunteer applications</li>
         <li><b>March 1, 2022:</b> Student volunteer notification of acceptance</li>
     </ul>
 
