@@ -242,6 +242,9 @@ INVITED MISSING
             {% else %}
                 <p><i>Author information coming soon</i></p>
             {% endif %}
+            {% if p.url %}
+                <p><small>URL: <a href="{{ p.url }}" target="_blank">{{ p.url }}</a></small></p>
+            {% endif %}
             {% if p.abstract %}
                 <div id="{{ paper.id }}" class="wrap-collabsible"> <input id="collapsible{{ paper.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ paper.id }}" class="lbl-toggle">Abstract</label>
                     <div class="collapsible-content">
