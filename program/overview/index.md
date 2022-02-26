@@ -1109,6 +1109,12 @@ title: "Program Overview"
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
+                    <div class="session session-14 track-3" style="grid-column: track-5-start / track-6-end; grid-row: time-1300 / time-1400;">
+                        <h3 class="session-title"><a href="{{ "/program/papers/#3.9" | relative_url }}">Papers: Inclusive VR</a></h3>
+                        <span class="session-time">13:00 - 14:00</span>
+                        <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
+                    </div>
+
                     <p class="time-slot" style="grid-row: time-1330;"></p>
                     <p class="time-slot" style="grid-row: time-1400;">14:00</p>
 
