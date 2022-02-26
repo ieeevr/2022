@@ -906,7 +906,7 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-1200;">12:00</p>
 
                     <div class="session session-11 track-break" style="grid-column: track-1-start / track-6-end; grid-row: time-1200 / time-1300;">
-                        <h3 class="session-title">Lunch</a></h3>
+                        <h3 class="session-title">Lunch</h3>
                         <span class="session-time">12:00 - 13:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
