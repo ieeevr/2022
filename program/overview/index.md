@@ -466,7 +466,7 @@ title: "Program Overview"
                     </div>
                     
                     <div class="session session-5 track-workshop" style="grid-column: track-5-start / track-5-end; grid-row: time-0800 / time-1100;">
-                        <h3 class="session-title"><!--<a href="/2021/program/tutorials/#T1">-->Tutorial: Web-Based VR Development and Instruction using Babylon.js<!--</a>--></h3>
+                        <h3 class="session-title"><a href="{{ "/contribute/workshoppapers/#SIVE" | relative_url }}">Sonic Interaction in Virtual Environments</a></h3>
                         <span class="session-time">8:00 - 11:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>-->
                     </div>
