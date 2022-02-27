@@ -18,7 +18,7 @@ title_separator: "|"
     <ul>
         <li><b>February 18, 2022:</b> Open student volunteer applications</li>
         <li><b>February <del>25</del> 27, 2022:</b> Close student volunteer applications</li>
-        <li><b>March 1, 2022:</b> Student volunteer notification of acceptance</li>
+        <li><b>March <del>1</del> 4, 2022:</b> Student volunteer notification of acceptance</li>
     </ul>
 
     <p>
