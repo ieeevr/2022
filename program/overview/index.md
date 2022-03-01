@@ -447,7 +447,7 @@ title_separator: "|"
                     <p class="time-slot" style="grid-row: time-0800;">8:00</p>
 
                     <div class="session session-1 track-tutorial" style="grid-column: track-1-start / track-1-end; grid-row: time-0800 / time-0930;">
-                        <h3 class="session-title"><!--<a href="{{ "/program/tutorials/#T4" | relative_url }}">-->Tutorial: Remote Collaboration using Augmented Reality: Development and Evaluation - Bernado Marques et al.<!--</a>--></h3>
+                        <h3 class="session-title"><a href="{{ "/program/tutorials/#RemoteCollaboration" | relative_url }}">Tutorial: Remote Collaboration using Augmented Reality: Development and Evaluation - Bernado Marques et al.</a></h3>
                         <span class="session-time">8:00 - 9:30</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>-->
                     </div>
@@ -463,12 +463,12 @@ title_separator: "|"
                         <span class="session-time">8:00 - 11:00</span>
                     </div>
                     <div class="session session-4 track-workshop" style="grid-column: track-4-start / track-4-end; grid-row: time-0800 / time-1130;">
-                        <h3 class="session-title"><a href="{{ "/contribute/workshoppapers/#ReDigiTS" | relative_url }}">3D Reconstruction, Digital Twinning, and Simulation for Virtual Experiences (ReDigiTS)</a></h3>
+                        <h3 class="session-title"><a href="{{ "/contribute/workshoppapers/#ReDigiTS" | relative_url }}">Workshop: 3D Reconstruction, Digital Twinning, and Simulation for Virtual Experiences (ReDigiTS)</a></h3>
                         <span class="session-time">8:00 - 11:30</span>
                     </div>
                     
                     <div class="session session-5 track-workshop" style="grid-column: track-5-start / track-5-end; grid-row: time-0800 / time-1100;">
-                        <h3 class="session-title"><a href="{{ "/contribute/workshoppapers/#SIVE" | relative_url }}">Sonic Interaction in Virtual Environments</a></h3>
+                        <h3 class="session-title"><a href="{{ "/contribute/workshoppapers/#SIVE" | relative_url }}">Workshop: Sonic Interaction in Virtual Environments</a></h3>
                         <span class="session-time">8:00 - 11:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>-->
                     </div>
@@ -486,7 +486,7 @@ title_separator: "|"
                     <p class="time-slot" style="grid-row: time-1000;">10:00</p>
 
                     <div class="session session-7 track-tutorial" style="grid-column: track-1-start / track-1-end; grid-row: time-1000 / time-1130;">
-                        <h3 class="session-title"><!--<a href="/2021/contribute/workshoppapers/#DISCE">-->Tutorial: Developing Situated Analytics Applications with RagRug - Dieter Schmalstieg, Philipp Fleck<!--</a>--></h3>
+                        <h3 class="session-title"><a href="{{ "/program/tutorials/#RagRug" | relative_url }}">Tutorial: Developing Situated Analytics Applications with RagRug - Dieter Schmalstieg, Philipp Fleck</a></h3>
                         <span class="session-time">10:00 - 11:30</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>-->
                     </div>
@@ -516,7 +516,7 @@ title_separator: "|"
                     <p class="time-slot" style="grid-row: time-1200;">12:00</p>
 
                     <div class="session session-10 track-tutorial" style="grid-column: track-1-start / track-1-end; grid-row: time-1200 / time-1330;">
-                        <h3 class="session-title"><!--<a href="/2021/contribute/workshoppapers/#DISCE">-->Tutorial: Empathy-Enabled Extended Reality - Denis Gra&#x10D;anin<!--</a>--></h3>
+                        <h3 class="session-title"><a href="{{ "/program/tutorials/#EmpathyXR" | relative_url }}">Tutorial: Empathy-Enabled Extended Reality - Denis Gra&#x10D;anin</a></h3>
                         <span class="session-time">12:00 - 13:30</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>-->
                     </div>
@@ -567,7 +567,7 @@ title_separator: "|"
                     <p class="time-slot" style="grid-row: time-0800;">8:00</p>
 
                     <div class="session session-1 track-tutorial" style="grid-column: track-1-start / track-1-end; grid-row: time-0800 / time-0930;">
-                        <h3 class="session-title"><!--<a href="{{ "/program/tutorials/#T4" | relative_url }}">-->Tutorial: Build Your Own Social Virtual Reality with Ubiq - Part 1 - Anthony Steed et al.<!--</a>--></h3>
+                        <h3 class="session-title"><a href="{{ "/program/tutorials/#Ubiq" | relative_url }}">Tutorial: Build Your Own Social Virtual Reality with Ubiq - Part 1 - Anthony Steed et al.</a></h3>
                         <span class="session-time">8:00 - 9:30</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>-->
                     </div>
@@ -605,7 +605,7 @@ title_separator: "|"
                     <p class="time-slot" style="grid-row: time-1000;">10:00</p>
 
                     <div class="session session-7 track-tutorial" style="grid-column: track-1-start / track-1-end; grid-row: time-1000 / time-1130;">
-                        <h3 class="session-title"><!--<a href="/2021/contribute/workshoppapers/#DISCE">-->Tutorial: Build Your Own Social Virtual Reality with Ubiq - Part 2 - Anthony Steed et al.<!--</a>--></h3>
+                        <h3 class="session-title"><a href="{{ "/program/tutorials/#Ubiq" | relative_url }}">Tutorial: Build Your Own Social Virtual Reality with Ubiq - Part 2 - Anthony Steed et al.</a></h3>
                         <span class="session-time">10:00 - 11:30</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>-->
                     </div>
@@ -632,7 +632,7 @@ title_separator: "|"
                     </div>
 
                     <div class="session session-10 track-workshop" style="grid-column: track-6-start / track-6-end; grid-row: time-1100 / time-1400;">
-                        <h3 class="session-title"><a href="{{ "/contribute/workshoppapers/#HSVRAR" | relative_url }}">Health and Safety in VR and AR</a></h3>
+                        <h3 class="session-title"><a href="{{ "/contribute/workshoppapers/#HSVRAR" | relative_url }}">Workshop: Health and Safety in VR and AR</a></h3>
                         <span class="session-time">11:00 - 14:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>-->
                     </div>
@@ -641,7 +641,7 @@ title_separator: "|"
                     <p class="time-slot" style="grid-row: time-1200;">12:00</p>
 
                     <div class="session session-11 track-tutorial" style="grid-column: track-1-start / track-1-end; grid-row: time-1200 / time-1330;">
-                        <h3 class="session-title"><!--<a href="{{ "/contribute/workshoppapers/#DISCE" | relative_url }}">-->Tutorial: Emotion in Virtual Reality - Darlene Barker<!--</a>--></h3>
+                        <h3 class="session-title"><a href="{{ "/program/tutorials/#EmotionAndTouch" | relative_url }}">Tutorial: Emotion and Touch in Virtual Reality - Darlene Barker</a></h3>
                         <span class="session-time">12:00 - 13:30</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>-->
                     </div>
