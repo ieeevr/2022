@@ -129,7 +129,7 @@ title_separator: "|"
         {% if session.day == 'Monday, March 14' %}
         <tr>
             <td style="font-size: 0.9em;"><a href="#{{ session.id }}">{{ session.name }}</a></td>
-            <td>{{ session.starttime }} - {{ session.endtime }}</td>
+            <td style="white-space: nowrap; text-align: right;">{{ session.starttime }} - {{ session.endtime }}</td>
         </tr>
         {% endif %}
         {% endfor %}
