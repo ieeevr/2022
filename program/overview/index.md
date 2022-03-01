@@ -864,13 +864,13 @@ title_separator: "|"
                     <p class="time-slot" style="grid-row: time-0900;">9:00</p>
 
                     <div class="session session-5 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-0930 / time-1100;">
-                        <h3 class="session-title"><!--<a href="{{ "/contribute/workshoppapers/#SIVE" | relative_url }}">-->Posters and Demos - Session 2<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="{{ "/contribute/workshoppapers/#VERA" | relative_url }}">-->Posters and Demos - Session 2<!--</a>--></h3>
                         <span class="session-time">9:30 - 11:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
                     <div class="session session-6 track-event" style="grid-column: track-3-start / track-4-end; grid-row: time-0930 / time-1100;">
-                        <h3 class="session-title"><!--<a href="{{ "/contribute/workshoppapers/#SIVE" | relative_url }}">-->Panel 1 - Planning a Virtual Experience Research Accelerator (VERA)<!--</a>--></h3>
+                        <h3 class="session-title"><a href="{{ "/program/panels/#VERA" | relative_url }}">Panel 1 - Planning a Virtual Experience Research Accelerator (VERA)</a></h3>
                         <span class="session-time">9:30 - 11:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
@@ -1059,7 +1059,7 @@ title_separator: "|"
                     </div>
 
                     <div class="session session-6 track-event" style="grid-column: track-3-start / track-4-end; grid-row: time-0930 / time-1100;">
-                        <h3 class="session-title"><!--<a href="{{ "/contribute/workshoppapers/#SIVE" | relative_url }}">-->Panel 2 - Future Visions for IEEE VR<!--</a>--></h3>
+                        <h3 class="session-title"><a href="{{ "/program/panels/#PastPresentVisions" | relative_url }}">Panel 2 - Future Visions for IEEE VR</a></h3>
                         <span class="session-time">9:30 - 11:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
