@@ -163,15 +163,16 @@ INVITED MISSING
     {% for workshop in site.data.workshops %}
         {% if workshop.day == day.day %}
 
+            <!-- Workshop title matter -->
             <h2 id="{{ workshop.id }}">Workshop: {{ workshop.name }}</h2>
     
-
             <p><strong>{{ workshop.day }}, {{ workshop.starttime }}, {{ workshop.timezone }}</strong></p>
             {% if workshop.organiser %}
-                <p><small>Principal Organiser: <b style="color: black;">{{ workshop.organiser }}</b></small></p>
+                <p><small><b style="color: black;">Principal Organiser:</b> {{ workshop.organiser }}</small></p>
             {% endif %}
+
             {% if workshop.url %}
-                <p><small>Website: <a href="{{ workshop.url }}" target="_blank">{{ workshop.url }}</a></small></p>
+                <p><small><b style="color: black;">Website:</b> <a href="{{ workshop.url }}" target="_blank">{{ workshop.url }}</a></small></p>
             {% endif %}
 
             {% if workshop.abstract %}
@@ -212,33 +213,48 @@ INVITED MISSING
             {% endfor %}-->
             <!-- TAKE ME TO THE EVENT END-->
     
-    
+            <!-- Only show the 'workshop papers' toggle if there's actually something to show -->
+            {% assign papers_in_session = false %}
             {% for paper in site.data.workshoppapers %}
                 {% if workshop.id == paper.workshop %}
-
-                    <h4 id="{{ paper.id }}">{{ paper.title }}</h4>
-
-                    {% if paper.authors %}
-                        <p><i>{{ paper.authors }}</i></p>
-                    {% else %}
-                        <p><i>Author information coming soon</i></p>
-                    {% endif %}
-                    {% if paper.url %}
-                        <p><small>URL: <a href="{{ paper.url }}" target="_blank">{{ paper.url }}</a></small></p>
-                    {% endif %}
-                    {% if paper.abstract %}
-                        <div id="{{ paper.id }}" class="wrap-collabsible"> <input id="collapsible{{ paper.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ paper.id }}" class="lbl-toggle">Abstract</label>
-                            <div class="collapsible-content">
-                                <div class="content-inner">
-                                    <p>{{ paper.abstract }}</p>
-                                </div>
-                            </div>
-                        </div>
-                    {% endif %}
-
+                    {% assign papers_in_session = true %}
                 {% endif %}
             {% endfor %}
 
+            <!-- Show a hideable list of all papers in this workshop -->
+            {% if papers_in_session == true %}
+            <div id="{{ workshop.id }}2" class="wrap-collabsible"> <input id="collapsible{{ workshop.id }}2" class="toggle" type="checkbox"> <label for="collapsible{{ workshop.id }}2" class="lbl-toggle">Workshop Papers</label>
+                <div class="collapsible-content">
+                    <div class="content-inner">
+                        {% for paper in site.data.workshoppapers %}
+                            {% if workshop.id == paper.workshop %}
+
+                                <h4 id="{{ paper.id }}">{{ paper.title }}</h4>
+
+                                {% if paper.authors %}
+                                    <p><i>{{ paper.authors }}</i></p>
+                                {% else %}
+                                    <p><i>Author information coming soon</i></p>
+                                {% endif %}
+                                {% if paper.url %}
+                                    <p><small>URL: <a href="{{ paper.url }}" target="_blank">{{ paper.url }}</a></small></p>
+                                {% endif %}
+                                {% if paper.abstract %}
+                                    <div id="{{ paper.id }}" class="wrap-collabsible"> <input id="collapsible{{ paper.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ paper.id }}" class="lbl-toggle">Abstract</label>
+                                        <div class="collapsible-content">
+                                            <div class="content-inner">
+                                                <p>{{ paper.abstract }}</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                {% endif %}
+
+                            {% endif %}
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+            {% endif %}
         {% endif %}
     {% endfor %}
 </div>
