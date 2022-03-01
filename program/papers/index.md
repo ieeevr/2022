@@ -173,132 +173,102 @@ title_separator: "|"
 INVITED MISSING
 -->
 
+<!--
+SORRY FOR THE NESTING, I HAD TO DO SOME DEBUGGING
+-->
+
 
 {% for day in site.data.days %}
 <div>
     {% for session in site.data.sessions %}
-    {% if session.day == day.day %}
+        {% if session.day == day.day %}
 
-    <h2 id="{{ session.id }}">Session: {{ session.name }}</h2>
+            <h2 id="{{ session.id }}">Session: {{ session.name }}</h2>
     
-
+            <p><strong>{{ session.day }}, {{ session.starttime }}, {{ session.timezone }}</strong></p>
+            {% if session.sessionchair %}
+                <p><small><b style="color: black;">Session Chair:</b> {{ session.sessionchair }}</small></p>
+            {% endif %}
     
-    
-    <p><strong>{{ session.day }}, {{ session.starttime }}, {{ session.timezone }}</strong></p>
-    {% if session.sessionchair %}
-    <p><small>Session Chair: <b style="font-family: 'Courier New', monospace; color: black;">{{ session.sessionchair }}</b></small></p>
-    {% endif %}
-    
-        <!-- TAKE ME TO THE EVENT START -->
-    <!--{% for event in site.data.events %}
-    {% if event.id == session.id %}
-    {% if event.location %}
-    <div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
-        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
-        <p>
-            <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
+            <!-- TAKE ME TO THE EVENT START -->
+            <!--{% for event in site.data.events %}
+                {% if event.id == session.id %}
+                    {% if event.location %}
+                        <div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
+                            <strong style="padding-bottom: 5px;">Take me to the event:</strong>
+                            <p>
+                                <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
 
-            {% if event.stream-url %}
-            <br />
-            {% if event.aindanaoaconteceu %}
-            <strong style="color: black;">Watch video stream live:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
-            {% else %}
-            <strong style="color: black;">Watch the recorded video stream:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
-            {% endif %}
-            {% endif %}
-            {% if event.discordurl %}
-            <br />
-            <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}" target="_blank">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
-            {% endif %}
-            {% endif %}
-        </p>
-    </div>
-    {% endif %}
-    {% endfor %}-->
-    <!-- TAKE ME TO THE EVENT END-->
-    
-    
-
-    {% for paper in site.data.papers %}
-    {% if session.id == paper.session %}
-
-    <h4 id="{{ paper.id }}">{{ paper.title }}</h4>
-    <p><strong><small>{{ paper.type }}</small></strong></p>
-
-    {% if paper.type == 'Journal' %}
-    {% assign source = site.data.journalpapers %}
-    {% endif %}
-
-    {% if paper.type == 'Conference' %}
-    {% assign source = site.data.conferencepapers %}
-    {% endif %}
-
-    {% if paper.type == 'Invited Journal' %}
-    {% assign source = site.data.invitedjournalpapers %}
-    {% endif %}
-
-    {% for p in source %}
-        {% if p.id == paper.id %}
-            {% if p.authors %}
-                <p><i>{{ p.authors }}</i></p>
-            {% else %}
-                <p><i>Author information coming soon</i></p>
-            {% endif %}
-            {% if p.url %}
-                <p><small>URL: <a href="{{ p.url }}" target="_blank">{{ p.url }}</a></small></p>
-            {% endif %}
-            {% if p.abstract %}
-                <div id="{{ paper.id }}" class="wrap-collabsible"> <input id="collapsible{{ paper.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ paper.id }}" class="lbl-toggle">Abstract</label>
-                    <div class="collapsible-content">
-                        <div class="content-inner">
-                            <p>{{ p.abstract }}</p>
+                                {% if event.stream-url %}
+                                    <br />
+                                    {% if event.aindanaoaconteceu %}
+                                        <strong style="color: black;">Watch video stream live:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
+                                    {% else %}
+                                        <strong style="color: black;">Watch the recorded video stream:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
+                                    {% endif %}
+                                {% endif %}
+                                {% if event.discordurl %}
+                                    <br />
+                                    <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}" target="_blank">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
+                                {% endif %}
+                            </p>
                         </div>
+                    {% endif %}
+                {% endif %}
+            {% endfor %}-->
+            <!-- TAKE ME TO THE EVENT END-->
+    
+    
+            <div id="{{ session.id }}" class="wrap-collabsible"> <input id="collapsible{{ session.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ session.id }}" class="lbl-toggle">Papers</label>
+                <div class="collapsible-content">
+                    <div class="content-inner">
+                        {% for paper in site.data.papers %}
+                            {% if session.id == paper.session %}
+
+                                <h4 id="{{ paper.id }}">{{ paper.title }}</h4>
+                                <p><strong><small>{{ paper.type }}</small></strong></p>
+
+                                {% if paper.type == 'Journal' %}
+                                {% assign source = site.data.journalpapers %}
+                                {% endif %}
+
+                                {% if paper.type == 'Conference' %}
+                                {% assign source = site.data.conferencepapers %}
+                                {% endif %}
+
+                                {% if paper.type == 'Invited Journal' %}
+                                {% assign source = site.data.invitedjournalpapers %}
+                                {% endif %}
+
+                                {% for p in source %}
+                                    {% if p.id == paper.id %}
+                                        {% if p.authors %}
+                                            <p><i>{{ p.authors }}</i></p>
+                                        {% else %}
+                                            <p><i>Author information coming soon</i></p>
+                                        {% endif %}
+                                        {% if p.url %}
+                                            <p><small>URL: <a href="{{ p.url }}" target="_blank">{{ p.url }}</a></small></p>
+                                        {% endif %}
+                                        {% if p.abstract %}
+                                            <div id="{{ paper.id }}" class="wrap-collabsible"> <input id="collapsible{{ paper.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ paper.id }}" class="lbl-toggle">Abstract</label>
+                                                <div class="collapsible-content">
+                                                    <div class="content-inner">
+                                                        <p>{{ p.abstract }}</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        {% endif %}
+                                    {% endif %}
+                                {% endfor %}
+
+                            {% endif %}
+                        {% endfor %}
                     </div>
                 </div>
-            {% endif %}
+            </div>
+
         {% endif %}
-    {% endfor %}
-
-    {% endif %}
-    {% endfor %}
-
-    {% endif %}
     {% endfor %}
 </div>
 {% endfor %}
-
-
-
-
-
-
-<!--
-<div id="S1">
-    {% for session in site.data.sessions %}
-    {% if session.id == 'S1' %}
-    <h2>{{ session.name }}: {{ session.title }}</h2>
-    {% endif %}
-    {% endfor %}
-
-    {% for paper in site.data.papers %}
-    {% if paper.session == 'S1' %}
-
-    <div>
-        {% for demo in site.data.demos %}
-
-        <h3 id="{{ paper.id }}">{{ paper.title }}</h3>
-        <p><i>{{ paper.authors }}</i></p>
-        <div id="{{ paper.id }}" class="wrap-collabsible"> <input id="collapsible{{ paper.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ paper.id }}" class="lbl-toggle">Abstract</label>
-            <div class="collapsible-content">
-                <div class="content-inner">
-                    <p>{{ paper.abstract }}</p>
-                </div>
-            </div>
-        </div>
-        {% endfor %}
-    </div>
-
-    {% endif %}
-    {% endfor %}
-</div>
--->
