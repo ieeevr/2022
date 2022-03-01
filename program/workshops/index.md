@@ -129,7 +129,7 @@ title_separator: "|"
             {% if workshop.day == 'Saturday, March 12' %}
                 <tr>
                     <td style="font-size: 0.9em;"><a href="#{{ workshop.id }}">{{ workshop.name }}</a></td>
-                    <td style="white-space: nowrap;">{{ workshop.starttime }} - {{ workshop.endtime }}</td>
+                    <td style="white-space: nowrap; text-align: right;">{{ workshop.starttime }} - {{ workshop.endtime }}</td>
                 </tr>
             {% endif %}
         {% endfor %}
@@ -145,7 +145,7 @@ title_separator: "|"
             {% if workshop.day == 'Sunday, March 13' %}
                 <tr>
                     <td style="font-size: 0.9em;"><a href="#{{ workshop.id }}">{{ workshop.name }}</a></td>
-                    <td style="white-space: nowrap;">{{ workshop.starttime }} - {{ workshop.endtime }}</td>
+                    <td style="white-space: nowrap; text-align: right;">{{ workshop.starttime }} - {{ workshop.endtime }}</td>
                 </tr>
             {% endif %}
         {% endfor %}
@@ -161,7 +161,7 @@ INVITED MISSING
 {% for day in site.data.workshopdays %}
 <div>
     {% for workshop in site.data.workshops %}
-        {% if workshop.day == day.day' %}
+        {% if workshop.day == day.day %}
 
             <h2 id="{{ workshop.id }}">Workshop: {{ workshop.name }}</h2>
     

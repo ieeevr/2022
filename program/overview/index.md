@@ -583,7 +583,7 @@ title_separator: "|"
                         <span class="session-time">8:00 - 11:00</span>
                     </div>
                     <div class="session session-4 track-workshop" style="grid-column: track-4-start / track-4-end; grid-row: time-0800 / time-1100;">
-                        <h3 class="session-title"><a href="{{ "/contribute/workshoppapers/#SIWI" | relative_url }}">-->Workshop: Metaverse as a promise of a bright future? - social interactions in a world of isolation</a></h3>
+                        <h3 class="session-title"><a href="{{ "/contribute/workshoppapers/#SIWI" | relative_url }}">Workshop: Metaverse as a promise of a bright future? - social interactions in a world of isolation</a></h3>
                         <span class="session-time">8:00 - 11:00</span>
                     </div>
                     

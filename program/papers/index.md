@@ -177,7 +177,7 @@ INVITED MISSING
 {% for day in site.data.days %}
 <div>
     {% for session in site.data.sessions %}
-    {% if session.day == day.day' %}
+    {% if session.day == day.day %}
 
     <h2 id="{{ session.id }}">Session: {{ session.name }}</h2>
     
