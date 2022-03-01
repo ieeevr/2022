@@ -46,7 +46,7 @@ title: "Diversity and Inclusion Scholarship"
     <p>
         All interested undergraduate students, including those who have limited or no experience 
         conducting virtual reality research, are encouraged to apply to 
-        <a href="https://ieeevr.org/2022/contribute/bridge-to-vr/">the Bridge to VR Program</a>.
+        <a href="https://ieeevr.org/2022/attend/bridge-to-vr/">the Bridge to VR Program</a>.
     </p>
     
     <h2>Scholarship Details</h2>
