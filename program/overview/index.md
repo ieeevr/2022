@@ -227,12 +227,12 @@ title_separator: "|"
     }
 
     .track-3 {
-        background-color: #103b62;
+        background-color: rgb(52, 199, 89);
         color: #fff;
     }
 
-    .track-4 {
-        background-color: #c35500;
+    .track-poster {
+        background-color: #c65833;
         color: #fff;
     }
 
@@ -261,7 +261,7 @@ title_separator: "|"
     }
 
     .track-dc {
-        background-color: #fedf80;
+        background-color: #fe850b;
         color: #464646;
     }
 
@@ -754,7 +754,7 @@ title_separator: "|"
                         <span class="session-time">13:00 - 14:00</span>
                     </div>
 
-                    <div class="session session-8 track-4" style="grid-column: track-5-start / track-6-end; grid-row: time-1300 / time-1400;">
+                    <div class="session session-8 track-poster" style="grid-column: track-5-start / track-6-end; grid-row: time-1300 / time-1400;">
                         <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Posters and Demos - Session 1 Fast Forward<!--</a>--></h3>
                         <span class="session-time">13:00 - 14:00</span>
                     </div>
@@ -780,7 +780,7 @@ title_separator: "|"
                     <p class="time-slot" style="grid-row: time-1430;"></p>
                     <p class="time-slot" style="grid-row: time-1500;">15:00</p>
 
-                    <div class="session session-12 track-4" style="grid-column: track-1-start / track-2-end; grid-row: time-1500 / time-1630;">
+                    <div class="session session-12 track-poster" style="grid-column: track-1-start / track-2-end; grid-row: time-1500 / time-1630;">
                         <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Posters and Demos - Session 1<!--</a>--></h3>
                         <span class="session-time">15:00 - 16:30</span>
                     </div>
@@ -837,7 +837,7 @@ title_separator: "|"
 
                     <p class="time-slot" style="grid-row: time-0700;">7:00</p>
 
-                    <div class="session session-1 track-3" style="grid-column: track-5-start / track-6-end; grid-row: time-0730 / time-0830;">
+                    <div class="session session-1 track-poster" style="grid-column: track-5-start / track-6-end; grid-row: time-0730 / time-0830;">
                         <h3 class="session-title"><!--<a href="{{ "/program/tutorials/#T4" | relative_url }}">-->Posters and Demos - Session 2 Fast Forward<!--</a>--></h3>
                         <span class="session-time">7:30 - 8:30</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>-->
@@ -867,7 +867,7 @@ title_separator: "|"
                     <p class="time-slot" style="grid-row: time-0830;"></p>
                     <p class="time-slot" style="grid-row: time-0900;">9:00</p>
 
-                    <div class="session session-5 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-0930 / time-1100;">
+                    <div class="session session-5 track-poster" style="grid-column: track-1-start / track-2-end; grid-row: time-0930 / time-1100;">
                         <h3 class="session-title"><!--<a href="{{ "/contribute/workshoppapers/#VERA" | relative_url }}">-->Posters and Demos - Session 2<!--</a>--></h3>
                         <span class="session-time">9:30 - 11:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
@@ -879,7 +879,7 @@ title_separator: "|"
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
-                    <div class="session session-7 track-event" style="grid-column: track-5-start / track-6-end; grid-row: time-0930 / time-1100;">
+                    <div class="session session-7 track-exhibition" style="grid-column: track-5-start / track-6-end; grid-row: time-0930 / time-1100;">
                         <h3 class="session-title"><!--<a href="{{ "/contribute/workshoppapers/#SIVE" | relative_url }}">-->Recruitment Fair<!--</a>--></h3>
                         <span class="session-time">9:30 - 11:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
@@ -1099,7 +1099,7 @@ title_separator: "|"
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
-                    <div class="session session-10 track-3" style="grid-column: track-5-start / track-6-end; grid-row: time-1200 / time-1300;">
+                    <div class="session session-10 track-poster" style="grid-column: track-5-start / track-6-end; grid-row: time-1200 / time-1300;">
                         <h3 class="session-title"><!--<a href="{{ "/contribute/workshoppapers/#SIVE" | relative_url }}">-->Posters and Demos - Session 3 Fast Forward<!--</a>--></h3>
                         <span class="session-time">12:00 - 13:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
@@ -1147,7 +1147,7 @@ title_separator: "|"
                     <p class="time-slot" style="grid-row: time-1530;"></p>
                     <p class="time-slot" style="grid-row: time-1600;">16:00</p>
 
-                    <div class="session session-19 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-1530 / time-1700;">
+                    <div class="session session-19 track-poster" style="grid-column: track-1-start / track-2-end; grid-row: time-1530 / time-1700;">
                         <h3 class="session-title"><!--<a href="{{ "/contribute/workshoppapers/#SIVE" | relative_url }}">-->Posters and Demos - Session 3<!--</a>--></h3>
                         <span class="session-time">15:30 - 17:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
