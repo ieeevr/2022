@@ -261,7 +261,7 @@ title_separator: "|"
     }
 
     .track-dc {
-        background-color: #fffbed;
+        background-color: #fedf80;
         color: #464646;
     }
 
