@@ -285,6 +285,11 @@ title_separator: "|"
         color: #fff;
     }
 
+    .track-rob {
+        background-color: #fe850b;
+        color: #fff;
+    }
+
     .track-3dui {
         /* background-color: rgb(88, 86, 214); */
         background-color: rgb(211, 15, 69);
@@ -781,8 +786,13 @@ title_separator: "|"
                         <span class="session-time">15:00 - 16:30</span>
                     </div>
 
-                    <div class="session session-13 track-exhibit" style="grid-column: track-3-start / track-4-end; grid-row: time-1500 / time-1630;">
+                    <div class="session session-13 track-exhibit" style="grid-column: track-1-start / track-2-end; grid-row: time-1500 / time-1630;">
                         <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Industry Exhibition<!--</a>--></h3>
+                        <span class="session-time">15:00 - 16:30</span>
+                    </div>
+
+                    <div class="session session-14 track-rob" style="grid-column: track-3-start / track-6-end; grid-row: time-1500 / time-1630;">
+                        <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Social Activities in Virbela<!--</a>--></h3>
                         <span class="session-time">15:00 - 16:30</span>
                     </div>
 
