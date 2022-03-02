@@ -217,17 +217,17 @@ title_separator: "|"
     }
 
     .track-1 {
-        background-color: #1259B2;
+        background-color: #fec10d;
         color: #fff;
     }
 
     .track-2 {
-        background-color: #687f00;
+        background-color: #009cb4;
         color: #fff;
     }
 
     .track-3 {
-        background-color: #544D69;
+        background-color: #103b62;
         color: #fff;
     }
 
@@ -261,8 +261,8 @@ title_separator: "|"
     }
 
     .track-dc {
-        background-color: rgb(255, 149, 0);
-        color: #fff;
+        background-color: #fffbed;
+        color: #464646;
     }
 
     .track-exhibition {
@@ -291,7 +291,6 @@ title_separator: "|"
     }
 
     .track-3dui {
-        /* background-color: rgb(88, 86, 214); */
         background-color: rgb(211, 15, 69);
         color: #fff;
     }
@@ -786,12 +785,12 @@ title_separator: "|"
                         <span class="session-time">15:00 - 16:30</span>
                     </div>
 
-                    <div class="session session-13 track-exhibit" style="grid-column: track-1-start / track-2-end; grid-row: time-1500 / time-1630;">
+                    <div class="session session-13 track-exhibit" style="grid-column: track-3-start / track-4-end; grid-row: time-1500 / time-1630;">
                         <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Industry Exhibition<!--</a>--></h3>
                         <span class="session-time">15:00 - 16:30</span>
                     </div>
 
-                    <div class="session session-14 track-rob" style="grid-column: track-3-start / track-6-end; grid-row: time-1500 / time-1630;">
+                    <div class="session session-14 track-rob" style="grid-column: track-5-start / track-6-end; grid-row: time-1500 / time-1630;">
                         <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Social Activities in Virbela<!--</a>--></h3>
                         <span class="session-time">15:00 - 16:30</span>
                     </div>
