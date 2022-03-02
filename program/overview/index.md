@@ -1064,11 +1064,11 @@ title_separator: "|"
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
+                    <!--
                     <div class="session session-7 track-event" style="grid-column: track-5-start / track-6-end; grid-row: time-0930 / time-1100;">
-                        <h3 class="session-title"><!--<a href="{{ "/contribute/workshoppapers/#SIVE" | relative_url }}">-->Sponsor Talks<!--</a>--></h3>
+                        <h3 class="session-title">Sponsor Talks</h3>
                         <span class="session-time">9:30 - 11:00</span>
-                        <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
-                    </div>
+                    </div>-->
 
                     <p class="time-slot" style="grid-row: time-0730;"></p>
                     <p class="time-slot" style="grid-row: time-1000;">10:00</p>
