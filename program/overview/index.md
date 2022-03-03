@@ -457,22 +457,22 @@ title_separator: "|"
                     </div>
 
                     <div class="session session-2 track-workshop" style="grid-column: track-2-start / track-2-end; grid-row: time-0800 / time-1100;">
-                        <h3 class="session-title"><a href="{{ "/contribute/workshoppapers/#ARES" | relative_url }}">Workshop: ARES - Augmented Reality Enabling Superhuman Sports + Serious Games</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/workshops/#ARES" | relative_url }}">Workshop: ARES - Augmented Reality Enabling Superhuman Sports + Serious Games</a></h3>
                         <span class="session-time">8:00 - 11:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
                     
                     <div class="session session-3 track-workshop" style="grid-column: track-3-start / track-3-end; grid-row: time-0800 / time-1100;">
-                        <h3 class="session-title"><a href="{{ "/contribute/workshoppapers/#SIVA" | relative_url }}">1<sup>st</sup> International Workshop on Socially Intelligent Virtual Agents (SIVA)</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/workshops/#SIVA" | relative_url }}">1<sup>st</sup> International Workshop on Socially Intelligent Virtual Agents (SIVA)</a></h3>
                         <span class="session-time">8:00 - 11:00</span>
                     </div>
                     <div class="session session-4 track-workshop" style="grid-column: track-4-start / track-4-end; grid-row: time-0800 / time-1130;">
-                        <h3 class="session-title"><a href="{{ "/contribute/workshoppapers/#ReDigiTS" | relative_url }}">Workshop: 3D Reconstruction, Digital Twinning, and Simulation for Virtual Experiences (ReDigiTS)</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/workshops/#ReDigiTS" | relative_url }}">Workshop: 3D Reconstruction, Digital Twinning, and Simulation for Virtual Experiences (ReDigiTS)</a></h3>
                         <span class="session-time">8:00 - 11:30</span>
                     </div>
                     
                     <div class="session session-5 track-workshop" style="grid-column: track-5-start / track-5-end; grid-row: time-0800 / time-1100;">
-                        <h3 class="session-title"><a href="{{ "/contribute/workshoppapers/#SIVE" | relative_url }}">Workshop: Sonic Interaction in Virtual Environments</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/workshops/#SIVE" | relative_url }}">Workshop: Sonic Interaction in Virtual Environments</a></h3>
                         <span class="session-time">8:00 - 11:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>-->
                     </div>
@@ -481,7 +481,7 @@ title_separator: "|"
                     <p class="time-slot" style="grid-row: time-0900;">9:00</p>
 
                     <div class="session session-6 track-dc" style="grid-column: track-6-start / track-6-end; grid-row: time-0900 / time-1800;">
-                        <h3 class="session-title"><!--<a href="/2021/contribute/workshoppapers/#NIDIT">-->Doctoral Consortium<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="/2021/program/workshops/#NIDIT">-->Doctoral Consortium<!--</a>--></h3>
                         <span class="session-time">9:00 - 18:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
@@ -499,19 +499,19 @@ title_separator: "|"
                     <p class="time-slot" style="grid-row: time-1100;">11:00</p>
 
                     <div class="session session-8 track-workshop" style="grid-column: track-2-start / track-2-end; grid-row: time-1100 / time-1600;">
-                        <h3 class="session-title"><a href="{{ "/contribute/workshoppapers/#EmpathicComputing" | relative_url }}">Workshop: Empathic Computing</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/workshops/#EmpathicComputing" | relative_url }}">Workshop: Empathic Computing</a></h3>
                         <span class="session-time">11:00 - 16:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>-->
                     </div>
 
                     <div class="session session-8 track-workshop" style="grid-column: track-3-start / track-3-end; grid-row: time-1100 / time-1400;">
-                        <h3 class="session-title"><a href="{{ "/contribute/workshoppapers/#OpenVR" | relative_url }}">Workshop: Open Access Tools and Libraries for Virtual Reality</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/workshops/#OpenVR" | relative_url }}">Workshop: Open Access Tools and Libraries for Virtual Reality</a></h3>
                         <span class="session-time">11:00 - 14:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>-->
                     </div>
 
                     <div class="session session-9 track-workshop" style="grid-column: track-5-start / track-5-end; grid-row: time-1100 / time-1500;">
-                        <h3 class="session-title"><a href="{{ "/contribute/workshoppapers/#XRIOS" | relative_url }}">1<sup>st</sup> International Workshop on eXtended Reality for Industrial and Occupational Supports (XRIOS)</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/workshops/#XRIOS" | relative_url }}">1<sup>st</sup> International Workshop on eXtended Reality for Industrial and Occupational Supports (XRIOS)</a></h3>
                         <span class="session-time">11:00 - 15:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>-->
                     </div>
@@ -529,7 +529,7 @@ title_separator: "|"
                     <p class="time-slot" style="grid-row: time-1300;">13:00</p>
 
                     <div class="session session-11 track-workshop" style="grid-column: track-3-start / track-3-end; grid-row: time-1400 / time-1700;">
-                        <h3 class="session-title"><a href="{{ "/contribute/workshoppapers/#Data4XR" | relative_url }}">Workshop: Data4XR: Datasets for Developing Intelligent XR Applications</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/workshops/#Data4XR" | relative_url }}">Workshop: Data4XR: Datasets for Developing Intelligent XR Applications</a></h3>
                         <span class="session-time">14:00 - 17:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>-->
                     </div>
@@ -577,28 +577,28 @@ title_separator: "|"
                     </div>
 
                     <div class="session session-2 track-workshop" style="grid-column: track-2-start / track-2-end; grid-row: time-0800 / time-1100;">
-                        <h3 class="session-title"><a href="{{ "/contribute/workshoppapers/#VHCIE" | relative_url }}">Workshop on Virtual Humans and Crowds in Immersive Environments (VHCIE)</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/workshops/#VHCIE" | relative_url }}">Workshop on Virtual Humans and Crowds in Immersive Environments (VHCIE)</a></h3>
                         <span class="session-time">8:00 - 11:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
                     
                     <div class="session session-3 track-workshop" style="grid-column: track-3-start / track-3-end; grid-row: time-0800 / time-1100;">
-                        <h3 class="session-title"><a href="{{ "/contribute/workshoppapers/#TrainingXR" | relative_url }}">3<sup>rd</sup> Annual Workshop on 3D Content Creation for Simulated Training in eXtended Reality (TrainingXR)</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/workshops/#TrainingXR" | relative_url }}">3<sup>rd</sup> Annual Workshop on 3D Content Creation for Simulated Training in eXtended Reality (TrainingXR)</a></h3>
                         <span class="session-time">8:00 - 11:00</span>
                     </div>
                     <div class="session session-4 track-workshop" style="grid-column: track-4-start / track-4-end; grid-row: time-0800 / time-1100;">
-                        <h3 class="session-title"><a href="{{ "/contribute/workshoppapers/#SIWI" | relative_url }}">Workshop: Metaverse as a promise of a bright future? - social interactions in a world of isolation</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/workshops/#SIWI" | relative_url }}">Workshop: Metaverse as a promise of a bright future? - social interactions in a world of isolation</a></h3>
                         <span class="session-time">8:00 - 11:00</span>
                     </div>
                     
                     <div class="session session-5 track-workshop" style="grid-column: track-5-start / track-5-end; grid-row: time-0800 / time-1100;">
-                        <h3 class="session-title"><a href="{{ "/contribute/workshoppapers/#ANIVAE-2022" | relative_url }}">5<sup>th</sup> IEEE VR Internal Workshop on Animation in Virtual and Augmented Environments (ANIVAE-2022)</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/workshops/#ANIVAE-2022" | relative_url }}">5<sup>th</sup> IEEE VR Internal Workshop on Animation in Virtual and Augmented Environments (ANIVAE-2022)</a></h3>
                         <span class="session-time">8:00 - 11:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>-->
                     </div>
 
                     <div class="session session-6 track-workshop" style="grid-column: track-6-start / track-6-end; grid-row: time-0800 / time-1100;">
-                        <h3 class="session-title"><a href="{{ "/contribute/workshoppapers/#XRHealth" | relative_url }}">Workshop: XR for Health and Wellbeing</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/workshops/#XRHealth" | relative_url }}">Workshop: XR for Health and Wellbeing</a></h3>
                         <span class="session-time">8:00 - 11:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>-->
                     </div>
@@ -618,25 +618,25 @@ title_separator: "|"
                     <p class="time-slot" style="grid-row: time-1100;">11:00</p>
 
                     <div class="session session-8 track-workshop" style="grid-column: track-3-start / track-3-end; grid-row: time-1100 / time-1400;">
-                        <h3 class="session-title"><a href="{{ "/contribute/workshoppapers/#PERCxR" | relative_url }}">8<sup>th</sup> workshop on Perceptual and Cognitive Issues in XR (PERCxR)</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/workshops/#PERCxR" | relative_url }}">8<sup>th</sup> workshop on Perceptual and Cognitive Issues in XR (PERCxR)</a></h3>
                         <span class="session-time">11:00 - 14:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>-->
                     </div>
 
                     <div class="session session-8 track-workshop" style="grid-column: track-4-start / track-4-end; grid-row: time-1100 / time-1400;">
-                        <h3 class="session-title"><a href="{{ "/contribute/workshoppapers/#NIDIT" | relative_url }}">Workshop on Novel Input Devices and Interaction Techniques (NIDIT)</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/workshops/#NIDIT" | relative_url }}">Workshop on Novel Input Devices and Interaction Techniques (NIDIT)</a></h3>
                         <span class="session-time">11:00 - 14:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>-->
                     </div>
 
                     <div class="session session-9 track-workshop" style="grid-column: track-5-start / track-5-end; grid-row: time-1100 / time-1400;">
-                        <h3 class="session-title"><a href="{{ "/contribute/workshoppapers/#WEVR" | relative_url }}">8<sup>th</sup> Workshop on Everyday Virtual Reality</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/workshops/#WEVR" | relative_url }}">8<sup>th</sup> Workshop on Everyday Virtual Reality</a></h3>
                         <span class="session-time">11:00 - 14:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>-->
                     </div>
 
                     <div class="session session-10 track-workshop" style="grid-column: track-6-start / track-6-end; grid-row: time-1100 / time-1400;">
-                        <h3 class="session-title"><a href="{{ "/contribute/workshoppapers/#HSVRAR" | relative_url }}">Workshop: Health and Safety in VR and AR</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/workshops/#HSVRAR" | relative_url }}">Workshop: Health and Safety in VR and AR</a></h3>
                         <span class="session-time">11:00 - 14:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>-->
                     </div>
@@ -656,19 +656,19 @@ title_separator: "|"
                     <p class="time-slot" style="grid-row: time-1400;">14:00</p>
 
                     <div class="session session-12 track-workshop" style="grid-column: track-3-start / track-3-end; grid-row: time-1400 / time-1700;">
-                        <h3 class="session-title"><a href="{{ "/contribute/workshoppapers/#KELVAR" | relative_url }}">7<sup>th</sup> Annual Workshop on K-12+ Embodied Learning through Virtual and Augmented Reality (KELVAR)</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/workshops/#KELVAR" | relative_url }}">7<sup>th</sup> Annual Workshop on K-12+ Embodied Learning through Virtual and Augmented Reality (KELVAR)</a></h3>
                         <span class="session-time">14:00 - 17:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>-->
                     </div>
 
                     <div class="session session-13 track-workshop" style="grid-column: track-4-start / track-4-end; grid-row: time-1400 / time-1700;">
-                        <h3 class="session-title"><a href="{{ "/contribute/workshoppapers/#METABUILD" | relative_url }}">METABUILD: First Workshop for Building the Foundations of the Metaverse</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/workshops/#METABUILD" | relative_url }}">METABUILD: First Workshop for Building the Foundations of the Metaverse</a></h3>
                         <span class="session-time">14:00 - 17:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>-->
                     </div>
 
                     <div class="session session-14 track-workshop" style="grid-column: track-5-start / track-5-end; grid-row: time-1400 / time-1500;">
-                        <h3 class="session-title"><a href="{{ "/contribute/workshoppapers/#X-IRL" | relative_url }}">Workshop: X-IRL risks: Identifying privacy and security risks in inter-reality attacks and interactions</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/workshops/#X-IRL" | relative_url }}">Workshop: X-IRL risks: Identifying privacy and security risks in inter-reality attacks and interactions</a></h3>
                         <span class="session-time">14:00 - 15:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>-->
                     </div>
@@ -868,7 +868,7 @@ title_separator: "|"
                     <p class="time-slot" style="grid-row: time-0900;">9:00</p>
 
                     <div class="session session-5 track-poster" style="grid-column: track-1-start / track-2-end; grid-row: time-0930 / time-1100;">
-                        <h3 class="session-title"><!--<a href="{{ "/contribute/workshoppapers/#VERA" | relative_url }}">-->Posters and Demos - Session 2<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="{{ "/program/workshops/#VERA" | relative_url }}">-->Posters and Demos - Session 2<!--</a>--></h3>
                         <span class="session-time">9:30 - 11:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
@@ -880,7 +880,7 @@ title_separator: "|"
                     </div>
 
                     <div class="session session-7 track-exhibition" style="grid-column: track-5-start / track-6-end; grid-row: time-0930 / time-1100;">
-                        <h3 class="session-title"><!--<a href="{{ "/contribute/workshoppapers/#SIVE" | relative_url }}">-->Recruitment Fair<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="{{ "/program/workshops/#SIVE" | relative_url }}">-->Recruitment Fair<!--</a>--></h3>
                         <span class="session-time">9:30 - 11:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
@@ -978,7 +978,7 @@ title_separator: "|"
                     </div>
 
                     <div class="session session-20 track-exhibition" style="grid-column: track-1-start / track-2-end; grid-row: time-1600 / time-1730;">
-                        <h3 class="session-title"><!--<a href="{{ "/contribute/workshoppapers/#SIVE" | relative_url }}">-->Industry Exhibition<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="{{ "/program/workshops/#SIVE" | relative_url }}">-->Industry Exhibition<!--</a>--></h3>
                         <span class="session-time">16:00 - 17:30</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
@@ -1062,7 +1062,7 @@ title_separator: "|"
                     <p class="time-slot" style="grid-row: time-0900;">9:00</p>
 
                     <div class="session session-5 track-3dui" style="grid-column: track-1-start / track-2-end; grid-row: time-0930 / time-1100;">
-                        <h3 class="session-title"><!--<a href="{{ "/contribute/workshoppapers/#SIVE" | relative_url }}">-->3DUI Contest<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="{{ "/program/workshops/#SIVE" | relative_url }}">-->3DUI Contest<!--</a>--></h3>
                         <span class="session-time">9:30 - 11:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
@@ -1100,7 +1100,7 @@ title_separator: "|"
                     </div>
 
                     <div class="session session-10 track-poster" style="grid-column: track-5-start / track-6-end; grid-row: time-1200 / time-1300;">
-                        <h3 class="session-title"><!--<a href="{{ "/contribute/workshoppapers/#SIVE" | relative_url }}">-->Posters and Demos - Session 3 Fast Forward<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="{{ "/program/workshops/#SIVE" | relative_url }}">-->Posters and Demos - Session 3 Fast Forward<!--</a>--></h3>
                         <span class="session-time">12:00 - 13:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
@@ -1148,13 +1148,13 @@ title_separator: "|"
                     <p class="time-slot" style="grid-row: time-1600;">16:00</p>
 
                     <div class="session session-19 track-poster" style="grid-column: track-1-start / track-2-end; grid-row: time-1530 / time-1700;">
-                        <h3 class="session-title"><!--<a href="{{ "/contribute/workshoppapers/#SIVE" | relative_url }}">-->Posters and Demos - Session 3<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="{{ "/program/workshops/#SIVE" | relative_url }}">-->Posters and Demos - Session 3<!--</a>--></h3>
                         <span class="session-time">15:30 - 17:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
                     <div class="session session-20 track-exhibition" style="grid-column: track-3-start / track-4-end; grid-row: time-1530 / time-1700;">
-                        <h3 class="session-title"><!--<a href="{{ "/contribute/workshoppapers/#SIVE" | relative_url }}">-->Industry Exhibition<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="{{ "/program/workshops/#SIVE" | relative_url }}">-->Industry Exhibition<!--</a>--></h3>
                         <span class="session-time">15:30 - 17:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
@@ -1163,7 +1163,7 @@ title_separator: "|"
                     <p class="time-slot" style="grid-row: time-1700;">17:00</p>
 
                     <div class="session session-21 track-tutorial" style="grid-column: track-1-start / track-6-end; grid-row: time-1700 / time-1830;">
-                        <h3 class="session-title"><!--<a href="{{ "/contribute/workshoppapers/#SIVE" | relative_url }}">-->Conference Closing<!--</a>--></h3>
+                        <h3 class="session-title"><!--<a href="{{ "/program/workshops/#SIVE" | relative_url }}">-->Conference Closing<!--</a>--></h3>
                         <span class="session-time">17:00 - 18:30</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
