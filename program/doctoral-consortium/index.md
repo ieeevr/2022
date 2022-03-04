@@ -48,7 +48,7 @@ title: "Doctoral Consortium"
 <h1>Doctoral Consortium</h1>
 <div>
     <p>
-        Here is the proposed schedule with mentor assignments. All of this time is NZ Daylight Savings Time, UTC+13. All presenters and mentors are encouraged to attend as much of the doctoral consortium as possible, however we understand that our different time zones may make attendance difficult at particular times. All talks will be recorded and available for later viewing. If a student and/or mentor are not available to meet during the scheduled mentoring sessions, they should set up a time to meet later that is convenient for them both. 
+        Here is the proposed schedule with mentor assignments. All times below are NZ Daylight Savings Time, UTC+13. All presenters and mentors are encouraged to attend as much of the doctoral consortium as possible, however we understand that our different time zones may make attendance difficult at particular times. All talks will be recorded and available for later viewing. If a student and/or mentor are not available to meet during the scheduled mentoring sessions, they should set up a time to meet later that is convenient for them both. 
     </p>
     <p>
         Mentors listed first next to a student will meet during the Mentor Group 1 Breakout session, and mentors listed second will meet with that student during the Mentor Group 2 Breakout session.
@@ -64,13 +64,13 @@ title: "Doctoral Consortium"
             <th></th>
         </tr>
         <tr>
-            <td><span style="color: #00aeef;">9:00 - 9:15 am</span></td>
+            <td><span style="color: #00aeef;">9:00 - 9:15 </span></td>
             <td>
                 Welcome + Ice Breaker
             </td>
         </tr>
         <tr>
-            <td><span style="color: #00aeef;">9:15 - 10:45 am</span></td>
+            <td><span style="color: #00aeef;">9:15 - 10:45 </span></td>
             <td>
                 <strong>Presentations 1 - 6 (8 min talk + 4 min questions)</strong><br/>
                 Verena Biener – Dr. Bowman & Dr. Zollmann<br/>
@@ -82,13 +82,13 @@ title: "Doctoral Consortium"
             </td>
         </tr>
         <tr>
-            <td ><span style="color: #00aeef;">10:45 - 11:00 am</span></td>
+            <td ><span style="color: #00aeef;">10:45 - 11:00 </span></td>
             <td>
                 Break
             </td>
         </tr>
         <tr>
-            <td ><span style="color: #00aeef;">11:00 - 12:30 pm</span></td>
+            <td ><span style="color: #00aeef;">11:00 - 12:30 </span></td>
             <td>
                 <strong>Presentations 7 - 13 (8 min talk + 4 min questions)</strong><br/>
                 Monsurat Olaosebikan – Dr. Gruchalla & Dr. Robb<br/>
@@ -101,13 +101,13 @@ title: "Doctoral Consortium"
             </td>
         </tr>
         <tr>
-            <td><span style="color: #00aeef;">12:30 - 13:15 pm</span></td>
+            <td><span style="color: #00aeef;">12:30 - 13:15 </span></td>
             <td>
                 Break
             </td>
         </tr>
         <tr>
-            <td><span style="color: #00aeef;">13:15 - 15:00 pm</span></td>
+            <td><span style="color: #00aeef;">13:15 - 15:00 </span></td>
             <td>
                 <strong>Presentations 14 - 20 (8 min talk + 4 min questions)</strong><br/>
                 Matt Gottsacker - Dr. Gonzalez Franco & Dr. Stevenson Won<br/>
@@ -120,25 +120,25 @@ title: "Doctoral Consortium"
             </td>
         </tr>
         <tr>
-            <td ><span style="color: #00aeef;">15:00 - 15:45 pm</span></td>
+            <td ><span style="color: #00aeef;">15:00 - 15:45 </span></td>
             <td>
                 Mentoring Group 1 Breakout (45 min)
             </td>
         </tr>
         <tr>
-            <td><span style="color: #00aeef;">15:45 - 16:00 pm</span></td>
+            <td><span style="color: #00aeef;">15:45 - 16:00 </span></td>
             <td>
                 Break
             </td>
         </tr>
         <tr>
-            <td ><span style="color: #00aeef;">16:00 - 16:45 pm</span></td>
+            <td ><span style="color: #00aeef;">16:00 - 16:45 </span></td>
             <td>
                 Mentoring Group 2 Breakout (45 min)
             </td>
         </tr>
         <tr>
-            <td ><span style="color: #00aeef;">16:45 - 17:00 pm</span></td>
+            <td ><span style="color: #00aeef;">16:45 - 17:00 </span></td>
             <td>
                 Closing
             </td>
@@ -150,7 +150,7 @@ title: "Doctoral Consortium"
 </div>
 
 
-<h2>Accepted Students</h2>
+<!--<h2>Accepted Students</h2>
 
 <div>
     <table class="styled-table" style="font-size: 0.8em; ">
@@ -167,4 +167,4 @@ title: "Doctoral Consortium"
         </tr>
         {% endfor %}
     </table>
-</div>
+</div>-->
