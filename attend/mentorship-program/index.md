@@ -17,7 +17,7 @@ title: "Mentorship Program"
         Interested individuals can opt-in to the Mentorship Program after registering for the 2022 IEEE VR conference. Mentors and mentees will be matched by the program organizers based on different levels of IEEE VR experience and research interests and will be put in contact before the conference begins.
     </p>
     <p> 
-        A sign-up form will be shared with <strong>all registered attendees</strong> of the IEEE VR 2022 conference. Interested participants should complete this form by <strong>March 05, 2022</strong>. This deadline is to give time for the committee to match mentors and mentees before the conference begins.
+        A sign-up form will be shared with <strong>all registered attendees</strong> of the IEEE VR 2022 conference. Interested participants should complete this form by <strong>March 10, 2022</strong>. This deadline is to give time for the committee to match mentors and mentees before the conference begins.
     </p>
 
     <h2>What is involved in this program?</h2>
