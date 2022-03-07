@@ -732,17 +732,17 @@ title_separator: "|"
                     <p class="time-slot" style="grid-row: time-1200;">12:00</p>
                     
                     <div class="session session-4 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-1200 / time-1300;">
-                        <h3 class="session-title"><a href="{{ "/program/papers/#1.1" | relative_url }}">Papers: Displays</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/papers/#displays" | relative_url }}">Papers: Displays</a></h3>
                         <span class="session-time">12:00 - 13:00</span>
                     </div>
 
                     <div class="session session-5 track-2" style="grid-column: track-3-start / track-4-end; grid-row: time-1200 / time-1300;">
-                        <h3 class="session-title"><a href="{{ "/program/papers/#2.1" | relative_url }}">Papers: Security</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/papers/#security" | relative_url }}">Papers: Security</a></h3>
                         <span class="session-time">12:00 - 13:00</span>
                     </div>
 
                     <div class="session session-6 track-3" style="grid-column: track-5-start / track-6-end; grid-row: time-1200 / time-1300;">
-                        <h3 class="session-title"><a href="{{ "/program/papers/#3.1" | relative_url }}">Papers: Emotion and Cognition</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/papers/#emotion-and-cognition" | relative_url }}">Papers: Emotion and Cognition</a></h3>
                         <span class="session-time">12:00 - 13:00</span>
                     </div>
 
@@ -763,17 +763,17 @@ title_separator: "|"
                     <p class="time-slot" style="grid-row: time-1400;">14:00</p>
 
                     <div class="session session-9 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-1400 / time-1500;">
-                        <h3 class="session-title"><a href="{{ "/program/papers/#1.2" | relative_url }}">Papers: 3DUI</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/papers/#3dui" | relative_url }}">Papers: 3DUI</a></h3>
                         <span class="session-time">14:00 - 15:00</span>
                     </div>
 
                     <div class="session session-10 track-2" style="grid-column: track-3-start / track-4-end; grid-row: time-1400 / time-1500;">
-                        <h3 class="session-title"><a href="{{ "/program/papers/#2.2" | relative_url }}">Papers: Locomotion (Americas)</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/papers/#locomotion-americas" | relative_url }}">Papers: Locomotion (Americas)</a></h3>
                         <span class="session-time">14:00 - 15:00</span>
                     </div>
 
                     <div class="session session-11 track-3" style="grid-column: track-5-start / track-6-end; grid-row: time-1400 / time-1500;">
-                        <h3 class="session-title"><a href="{{ "/program/papers/#3.2" | relative_url }}">Papers: Immersive Visualization and Virtual Production</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/papers/#immvis" | relative_url }}">Papers: Immersive Visualization and Virtual Production</a></h3>
                         <span class="session-time">14:00 - 15:00</span>
                     </div>
 
@@ -794,7 +794,7 @@ title_separator: "|"
                     <p class="time-slot" style="grid-row: time-1600;">16:00</p>
 
                     <div class="session session-15 track-2" style="grid-column: track-3-start / track-4-end; grid-row: time-1630 / time-1730;">
-                        <h3 class="session-title"><a href="{{ "/program/papers/#2.3" | relative_url }}">Papers: Multimodal VR</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/papers/#multimodal-vr" | relative_url }}">Papers: Multimodal VR</a></h3>
                         <span class="session-time">16:30 - 17:30</span>
                     </div>
 
@@ -837,19 +837,19 @@ title_separator: "|"
                     <p class="time-slot" style="grid-row: time-0800;">8:00</p>
 
                     <div class="session session-2 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-0830 / time-0930;">
-                        <h3 class="session-title"><a href="{{ "/program/papers/#1.3" | relative_url }}">Papers: Embodiment</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/papers/#embodiment" | relative_url }}">Papers: Embodiment</a></h3>
                         <span class="session-time">8:30 - 9:30</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
                     <div class="session session-3 track-2" style="grid-column: track-3-start / track-4-end; grid-row: time-0830 / time-0930;">
-                        <h3 class="session-title"><a href="{{ "/program/papers/#2.4" | relative_url }}">Papers: Presence</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/papers/#presence" | relative_url }}">Papers: Presence</a></h3>
                         <span class="session-time">8:30 - 9:30</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
                     <div class="session session-4 track-3" style="grid-column: track-5-start / track-6-end; grid-row: time-0830 / time-0930;">
-                        <h3 class="session-title"><a href="{{ "/program/papers/#3.3" | relative_url }}">Papers: Interaction Design</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/papers/#interaction-design" | relative_url }}">Papers: Interaction Design</a></h3>
                         <span class="session-time">8:30 - 9:30</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
@@ -881,19 +881,19 @@ title_separator: "|"
                     <p class="time-slot" style="grid-row: time-1100;">11:00</p>
 
                     <div class="session session-8 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-1100 / time-1200;">
-                        <h3 class="session-title"><a href="{{ "/program/papers/#1.4" | relative_url }}">Papers: Collaboration</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/papers/#collaboration" | relative_url }}">Papers: Collaboration</a></h3>
                         <span class="session-time">11:00 - 12:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
                     <div class="session session-9 track-2" style="grid-column: track-3-start / track-4-end; grid-row: time-1100 / time-1200;">
-                        <h3 class="session-title"><a href="{{ "/program/papers/#2.5" | relative_url }}">Papers: Perception in AR</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/papers/#perception-in-ar" | relative_url }}">Papers: Perception in AR</a></h3>
                         <span class="session-time">11:00 - 12:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
                     <div class="session session-10 track-3" style="grid-column: track-5-start / track-6-end; grid-row: time-1100 / time-1200;">
-                        <h3 class="session-title"><a href="{{ "/program/papers/#3.4" | relative_url }}">Papers: Virtual Humans and Agents</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/papers/#virtual-humans-and-agents" | relative_url }}">Papers: Virtual Humans and Agents</a></h3>
                         <span class="session-time">11:00 - 12:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
@@ -916,19 +916,19 @@ title_separator: "|"
                     <p class="time-slot" style="grid-row: time-1300;">13:00</p>
 
                     <div class="session session-13 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-1300 / time-1400;">
-                        <h3 class="session-title"><a href="{{ "/program/papers/#1.5" | relative_url }}">Papers: Augmented Reality</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/papers/#augmented-reality" | relative_url }}">Papers: Augmented Reality</a></h3>
                         <span class="session-time">13:00 - 14:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
                     <div class="session session-14 track-2" style="grid-column: track-3-start / track-4-end; grid-row: time-1300 / time-1400;">
-                        <h3 class="session-title"><a href="{{ "/program/papers/#2.6" | relative_url }}">Papers: Locomotion (Asia-Pacific)</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/papers/#locomotion-asia-pacific" | relative_url }}">Papers: Locomotion (Asia-Pacific)</a></h3>
                         <span class="session-time">13:00 - 14:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
                     <div class="session session-15 track-3" style="grid-column: track-5-start / track-6-end; grid-row: time-1300 / time-1400;">
-                        <h3 class="session-title"><a href="{{ "/program/papers/#3.5" | relative_url }}">Papers: Perception</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/papers/#perception" | relative_url }}">Papers: Perception</a></h3>
                         <span class="session-time">13:00 - 14:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
@@ -967,7 +967,7 @@ title_separator: "|"
                     </div>
 
                     <div class="session session-20 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-1800 / time-1900;">
-                        <h3 class="session-title"><a href="{{ "/program/papers/#1.6" | relative_url }}">Papers: Machine Learning</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/papers/#machine-learning" | relative_url }}">Papers: Machine Learning</a></h3>
                         <span class="session-time">18:00 - 19:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
@@ -984,13 +984,13 @@ title_separator: "|"
                     </div>
 
                     <div class="session session-23 track-2" style="grid-column: track-3-start / track-4-end; grid-row: time-1800 / time-1900;">
-                        <h3 class="session-title"><a href="{{ "/program/papers/#3.8" | relative_url }}">Papers: Negative Effects</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/papers/#negative-effects" | relative_url }}">Papers: Negative Effects</a></h3>
                         <span class="session-time">18:00 - 19:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
                     <div class="session session-24 track-3" style="grid-column: track-5-start / track-6-end; grid-row: time-1800 / time-1900;">
-                        <h3 class="session-title"><a href="{{ "/program/papers/#3.6" | relative_url }}">Papers: Medical and Health Care</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/papers/#healthcare" | relative_url }}">Papers: Medical and Health Care</a></h3>
                         <span class="session-time">18:00 - 19:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
@@ -1045,19 +1045,19 @@ title_separator: "|"
                     <p class="time-slot" style="grid-row: time-0800;">8:00</p>
 
                     <div class="session session-2 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-0830 / time-0930;">
-                        <h3 class="session-title"><a href="{{ "/program/papers/#1.7" | relative_url }}">Papers: Audio in VR</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/papers/#audio-in-vr" | relative_url }}">Papers: Audio in VR</a></h3>
                         <span class="session-time">8:30 - 9:30</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
                     <div class="session session-3 track-2" style="grid-column: track-3-start / track-4-end; grid-row: time-0830 / time-0930;">
-                        <h3 class="session-title"><a href="{{ "/program/papers/#2.7" | relative_url }}">Papers: Haptics</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/papers/#haptics" | relative_url }}">Papers: Haptics</a></h3>
                         <span class="session-time">8:30 - 9:30</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
                     <div class="session session-4 track-3" style="grid-column: track-5-start / track-6-end; grid-row: time-0830 / time-0930;">
-                        <h3 class="session-title"><a href="{{ "/program/papers/#3.7" | relative_url }}">Papers: Locomotion (Europe)</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/papers/#locomotion-europe" | relative_url }}">Papers: Locomotion (Europe)</a></h3>
                         <span class="session-time">8:30 - 9:30</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
@@ -1113,19 +1113,19 @@ title_separator: "|"
                     <p class="time-slot" style="grid-row: time-1300;">13:00</p>
 
                     <div class="session session-12 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-1300 / time-1400;">
-                        <h3 class="session-title"><a href="{{ "/program/papers/#1.8" | relative_url }}">Papers: Rendering</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/papers/#rendering" | relative_url }}">Papers: Rendering</a></h3>
                         <span class="session-time">13:00 - 14:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
                     <div class="session session-13 track-2" style="grid-column: track-3-start / track-4-end; grid-row: time-1300 / time-1400;">
-                        <h3 class="session-title"><a href="{{ "/program/papers/#2.8" | relative_url }}">Papers: Computer Vision</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/papers/#computer-vision" | relative_url }}">Papers: Computer Vision</a></h3>
                         <span class="session-time">13:00 - 14:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
                     <div class="session session-14 track-3" style="grid-column: track-5-start / track-6-end; grid-row: time-1300 / time-1400;">
-                        <h3 class="session-title"><a href="{{ "/program/papers/#3.9" | relative_url }}">Papers: Inclusive VR</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/papers/#inclusive-vr" | relative_url }}">Papers: Inclusive VR</a></h3>
                         <span class="session-time">13:00 - 14:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
@@ -1134,7 +1134,7 @@ title_separator: "|"
                     <p class="time-slot" style="grid-row: time-1400;">14:00</p>
 
                     <div class="session session-15 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-1400 / time-1500;">
-                        <h3 class="session-title"><a href="{{ "/program/papers/#1.9" | relative_url }}">Papers: Advanced UI</a></h3>
+                        <h3 class="session-title"><a href="{{ "/program/papers/#advanced-ui" | relative_url }}">Papers: Advanced UI</a></h3>
                         <span class="session-time">14:00 - 15:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
