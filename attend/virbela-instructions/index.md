@@ -38,7 +38,7 @@ title: "Virbela Instructions"
     }
 
     .styled-table thead tr {
-        background-color: #00aeef;
+        background-color: #fec10d;
         color: #ffffff;
         text-align: left;
     }
@@ -54,11 +54,11 @@ title: "Virbela Instructions"
     }
 
     .styled-table tbody tr:nth-of-type(even) {
-        background-color: #f3f3f3;
+        background-color: #fffbed;
     }
 
     .styled-table tbody tr:last-of-type {
-        border-bottom: 2px solid #00aeef;
+        border-bottom: 2px solid #fec10d;
     }
 
     .styled-table tbody tr.active-row {
@@ -210,16 +210,16 @@ title: "Virbela Instructions"
     }
 
     .styled-table2 tbody tr:nth-of-type(even) {
-        background-color: #f3f3f3;
+        background-color: #fffbed;
     }
 
     .styled-table2 tbody tr:last-of-type {
-        border-bottom: 2px solid #00aeef;
+        border-bottom: 2px solid #fec10d;
     }
 
     .styled-table2 tbody tr.active-row {
         font-weight: bold;
-        color: #00aeef;
+        color: #fec10d;
     }
 
     img {
@@ -262,7 +262,7 @@ title: "Virbela Instructions"
     <h1>Virbela / iLRN Virtual Campus Instructions</h1>
 
     <p>
-        Dear IEEEVR 2021 attendee,
+        Dear IEEEVR 2022 attendee,
     </p>
     <p>
         This year, we will have the poster, doctoral consortium, demo, 3DUI contest, and video presentations on the iLRN Virtual Campus, the 3D venue for the conference, which runs on the Virbela platform. Below is a quick guide to help you set up and navigate the platform and environment.
@@ -277,12 +277,17 @@ title: "Virbela Instructions"
         </div>
 
         <p> <br> <br>
-            IEEE VR 2021 will happen on the iLRN Virtual Campus, powered by Virbela. You should have received an email inviting you to access the Campus; you will need to click on the “Accept Invitation” link in that email to finish creating your account and download the software.
+            IEEE VR 2022 will happen on the iLRN Virtual Campus, powered by Virbela. You should have received an email inviting you to access the Campus; 
+            you will need to click on the “Accept Invitation” link in that email to finish creating your account and download the software.
         </p>
         
-        <p> <b>IMPORTANT:</b> The iLRN Virtual Campus is <b style="font-size: 1em;color: black"> not </b> the same as the Virbela Open Campus application that can be downloaded from Virbela’s website. Please use the link provided in the invitation email to access the correct Campus. The application icon should be labelled “iLRN” and not “Virbela”. </p>
+        <p> <b>IMPORTANT:</b> The iLRN Virtual Campus is <b style="font-size: 1em;color: black"> not </b> the same as the Virbela Open Campus 
+        application that can be downloaded from Virbela’s website. Please use the link provided in the invitation email to access the correct 
+        Campus. The application icon should be labelled “iLRN” and not “Virbela”. </p>
         
-        <p> Also, if you already have an account associated with your email address on the iLRN Virtual Campus from a previous visit (e.g., the IEEE ISMAR 2020 conference), you will not receive an email invitation. Simply log in to the Campus to gain access. If you need to re-download the software, you can find it at <a href="https://immersivelrn.org/ilrn-virtual-campus">https://immersivelrn.org/ilrn-virtual-campus</a></p>
+        <p> Also, if you already have an account associated with your email address on the iLRN Virtual Campus from a previous visit (e.g., the 
+        IEEE ISMAR 2020 conference), you will not receive an email invitation. Simply log in to the Campus to gain access. If you need to 
+        re-download the software, you can find it at <a href="https://immersivelrn.org/ilrn-virtual-campus">https://immersivelrn.org/ilrn-virtual-campus</a></p>
 
         <h3>System Requirements</h3>
 
@@ -377,7 +382,7 @@ title: "Virbela Instructions"
         <h2>Configuring Virbela</h2>
 
         <p>
-            Once you open the iLRN Virtual Campus application, it will download and install the virtual assets for IEEE VR 2021. This may take a while for the first time.
+            Once you open the iLRN Virtual Campus application, it will download and install the virtual assets for IEEE VR 2022. This may take a while for the first time.
         </p>
 
         <p>
@@ -392,8 +397,8 @@ title: "Virbela Instructions"
             For Windows users, once you open the virtual campus, you can configure some aspects before clicking the “Play!” button to launch the iLRN Virtual Campus.
         </p>
 
-        <!--    image here <img style="width: 20%;" src="/2021/assets/images/sponsors/Virbela-logo.png" alt="Virbela Logo"> -->
-        <img src="/2021/assets/images/Images_IEEEVR/image1.png" alt="Play!Button">
+        <!--    image here <img style="width: 20%;" src="/2022/assets/images/sponsors/Virbela-logo.png" alt="Virbela Logo"> -->
+        <img src="{{ "/assets/images/Images_IEEEVR/image1.png" | relative_url }}" alt="Play!Button">
 
         <ul>
             <li>You can change the resolution or graphics quality at this point to reduce the load on your graphics device, which will help Virbela run more smoothly.</li>
@@ -402,11 +407,11 @@ title: "Virbela Instructions"
         </ul>
 
         <p>
-            If you Accepted the email invitation that was sent to you, you should not need to use the registration feature on the login screen of the iLRN Virtual Campus application. However, if you did not receive the email (make sure you check your spam!), you can attempt to register yourself, but you must <b style="font-size: 1em;color: black"> make sure you use the same email address </b> you used to register IEEE VR 2021. (Otherwise, upon entry to the Virutal Campus you will not have access to the rooms/spaces designated for the conference.). You will also be prompted to enter other information, including your name and organization (or institution). Following registration, you will be automatically redirected to the login screen where you can login with your new account.
+            If you Accepted the email invitation that was sent to you, you should not need to use the registration feature on the login screen of the iLRN Virtual Campus application. However, if you did not receive the email (make sure you check your spam!), you can attempt to register yourself, but you must <b style="font-size: 1em;color: black"> make sure you use the same email address </b> you used to register IEEE VR 2022. (Otherwise, upon entry to the Virutal Campus you will not have access to the rooms/spaces designated for the conference.). You will also be prompted to enter other information, including your name and organization (or institution). Following registration, you will be automatically redirected to the login screen where you can login with your new account.
         </p>
 
         <!--    image here -->
-        <img src="/2021/assets/images/Images_IEEEVR/image2.png" alt="Registration">
+        <img src="{{ "/assets/images/Images_IEEEVR/image2.png" | relative_url }}" alt="Registration">
 
         <h3>Creating your Avatar</h3>
 
@@ -415,7 +420,7 @@ title: "Virbela Instructions"
         </p>
 
         <!--    image here -->
-        <img src="/2021/assets/images/Images_IEEEVR/image3.png" alt="Avatar Menu">
+        <img src="{{ "/assets/images/Images_IEEEVR/image3.png" | relative_url }}" alt="Avatar Menu">
 
         <p>
             After customizing your avatar using the menu (1), select save and exit using the green button in the bottom <b style="font-size: 1em;color: black">right hand </b> corner of the character creation screen (2). This will then bring you into the virtual campus.
@@ -427,7 +432,7 @@ title: "Virbela Instructions"
 
         <h3>Using Virbela</h3>
 
-        <p>Once inside the iLRN Virtual Campus, you can explore the campus environment and interact with other IEEE VR 2021 attendees.</p>
+        <p>Once inside the iLRN Virtual Campus, you can explore the campus environment and interact with other IEEE VR 2022 attendees.</p>
 
         <h2>Walking Around</h2>
         <p>By default, you can move around using the keyboard:</p>
@@ -471,7 +476,7 @@ title: "Virbela Instructions"
         <p>This is the primary way to communicate in Virbela. When you arrive in the virtual campus, your microphone will be on mute. It is advised to always keep it on mute when you are not talking to avoid background noise. To speak, you can click at the microphone icon to turn it on. Clicking it again and you will turn it off. You can also talk by pressing and holding the key 1 if you do not want your microphone on all the time.</p>
 
         <!--    image here -->
-        <img src="/2021/assets/images/Images_IEEEVR/image4.png" alt="Voice Communication">
+        <img src="{{ "/assets/images/Images_IEEEVR/image4.png" | relative_url }}" alt="Voice Communication">
 
         <p>When you are speaking, a chat bubble will appear both above your head and above the icon. You can only communicate with users who are in the same location as you. For example, if you’re in the Main Stage and someone else is in the Landing Zone, you will not be able to hear each other. Also, you can only hear and talk with people close to you when in open spaces because the audio is spatial in open places. Inside a room, on the other hand, you can hear and talk with anyone regardless of the distance.</p>
 
@@ -484,7 +489,7 @@ title: "Virbela Instructions"
         <p>In the upper left corner of the screen sits the context menu. Here you will find information about how many users are in the same area as you, names of people in the area, and the GO TO menu, which allows you to navigate the world easily.</p>
 
         <!--    image here -->
-        <img src="/2021/assets/images/Images_IEEEVR/image5.png" alt="GO TO Menu">
+        <img src="{{ "/assets/images/Images_IEEEVR/image5.png" | relative_url }}" alt="GO TO Menu">
 
         <p>The GO TO menu within the context menu allows you to jump to different locations. For example, if you are in the Landing Zone and want to go to the Main Stage for the technical sessions, you would: Select <i>GO TO > Main Stage</i>. Your avatar will then be transported and arrive in the Main Stage.</p>
 
@@ -493,7 +498,7 @@ title: "Virbela Instructions"
         <p>Below the GO TO Menu, you can see your name, which also reviews a menu that allows you to change your avatar, view your profile and use emotes and actions, such as greeting, clap and dance. You can also trigger them using the keys <strong>F1</strong> to <strong>F8</strong>.</p>
 
         <!--    image here -->
-        <img src="/2021/assets/images/Images_IEEEVR/image6.png" alt="Your Name">
+        <img src="{{ "/assets/images/Images_IEEEVR/image6.png" | relative_url }}" alt="Your Name">
 
         <h3>Gear Menu</h3>
 
@@ -510,7 +515,7 @@ title: "Virbela Instructions"
 
         <h2>Event etiquette</h2>
 
-        <p>We cannot wait to see you at IEEE VR 2021, but we ask you to pay special attention to the event etiquette below:</p>
+        <p>We cannot wait to see you at IEEE VR 2022, but we ask you to pay special attention to the event etiquette below:</p>
 
         <ul>
             <li>Stay muted on arrival and only open your microphone when you are speaking.</li>
@@ -522,12 +527,12 @@ title: "Virbela Instructions"
     
     <div>
         <h2 id="map">Campus Map</h2>
-        <img src="/2021/assets/virbela/iLRN_Virtual_Campus_Map_-_IEEE_VR_2021.jpg" style="width: 100%;" alt="Virbela Virtual Environment map">
+        <img src="{{ "/assets/virbela/iLRN_Virtual_Campus_Map_-_IEEE_VR_2021.jpg" | relative_url }}" style="width: 100%;" alt="Virbela Virtual Environment map">
         <br/>
         <div style="">
         <center>
             <p style="font-size: 20px;">
-                <a href="/2021/assets/virbela/iLRN_Virtual_Campus_Map_-_IEEE_VR_2021.pdf" class="btn btn--primary" style="" download>Download Map as PDF</a>
+                <a href="{{ "assets/virbela/iLRN_Virtual_Campus_Map_-_IEEE_VR_2021.pdf" | relative_url }}" class="btn btn--primary" style="" download>Download Map as PDF</a>
             </p>
         </center>
     </div>
@@ -539,7 +544,7 @@ title: "Virbela Instructions"
         <h2>FAQs</h2>
 
         <p><b style="font-size: 1em;color: black">I’m in the virtual campus, however I am having issues with sound and talking?</b><br>
-            Once you are in the iLRN Virtual Campus, student volunteers and iLRN support staff will be available to assist you with troubleshooting sound and other technical issues. If you are having difficulty getting into the iLRN Virtual Campus, please reach out to the IEEE VR 2021 helpdesk on Discord. </p>
+            Once you are in the iLRN Virtual Campus, student volunteers and iLRN support staff will be available to assist you with troubleshooting sound and other technical issues. If you are having difficulty getting into the iLRN Virtual Campus, please reach out to the IEEE VR 2022 helpdesk on Discord. </p>
 
         <p><b style="font-size: 1em;color: black">I’m hearing background/environment sounds (e.g., footsteps, birds chirping) but cannot hear other people talking, what should I do?</b><br>
             This is a common issue on Windows computers. To solve this problem open your <i>Control Panel > Hardware and Sounds > Manage Audio devices</i> and select your headphone/speaker as your default device selecting it and clicking on <i>Set Default</i> option. Detailed instructions can be found <a href="https://support.virbela.com/portal/en/kb/articles/can-hear-ambient-noise-but-not-voice-windows"><strong>here</strong></a></p>
