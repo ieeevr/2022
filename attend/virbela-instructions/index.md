@@ -261,6 +261,16 @@ title: "Virbela Instructions"
 <div>
     <h1>Virbela / iLRN Virtual Campus Instructions</h1>
 
+    <div>
+        <br>
+        <div style="">
+        <center>
+            <p style="font-size: 20px;">
+                <a href="https://www.virbela.com/install?id=ilrn" class="btn btn--primary" style="" download>Click here to install Virbela</a>
+            </p>
+        </center>
+    </div>
+
     <p>
         Dear IEEEVR 2022 attendee,
     </p>
