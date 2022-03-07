@@ -119,7 +119,7 @@ title_separator: "|"
             display: grid;
             grid-gap: 1em;
             grid-template-rows:
-                [tracks] auto [time-0700] 0.5fr [time-0730] 0.5fr [time-0800] 0.5fr [time-0830] 0.5fr [time-0900] 0.5fr [time-0930] 0.5fr [time-1000] 0.5fr [time-1030] 0.5fr [time-1100] 0.5fr [time-1130] 0.5fr [time-1200] 0.5fr [time-1230] 0.5fr [time-1300] 0.5fr [time-1330] 0.5fr [time-1400] 0.5fr [time-1430] 0.5fr [time-1500] 0.5fr [time-1530] 0.5fr [time-1600] 0.5fr [time-1630] 0.5fr [time-1700] 0.5fr [time-1730] 0.5fr [time-1800] 0.5fr [time-1830] 0.5fr [time-1900] 0.5fr;
+                [tracks] auto [time-0600] 0.5fr [time-0630] 0.5fr [time-0700] 0.5fr [time-0730] 0.5fr [time-0800] 0.5fr [time-0830] 0.5fr [time-0900] 0.5fr [time-0930] 0.5fr [time-1000] 0.5fr [time-1030] 0.5fr [time-1100] 0.5fr [time-1130] 0.5fr [time-1200] 0.5fr [time-1230] 0.5fr [time-1300] 0.5fr [time-1330] 0.5fr [time-1400] 0.5fr [time-1430] 0.5fr [time-1500] 0.5fr [time-1530] 0.5fr [time-1600] 0.5fr [time-1630] 0.5fr [time-1700] 0.5fr [time-1730] 0.5fr [time-1800] 0.5fr [time-1830] 0.5fr [time-1900] 0.5fr;
 
             grid-template-columns:
                 [times] 4em [track-1-start] 0.5fr [track-1-end track-2-start] 0.5fr [track-2-end track-3-start] 0.5fr [track-3-end track-4-start] 0.5fr [track-4-end track-5-start] 0.5fr [track-5-end track-6-start] 0.5fr [track-6-end];
@@ -262,7 +262,7 @@ title_separator: "|"
 
     .track-dc {
         background-color: rgb(255, 149, 0);
-        color: #464646;
+        color: #fff;
     }
 
     .track-exhibition {
@@ -481,7 +481,7 @@ title_separator: "|"
                     <p class="time-slot" style="grid-row: time-0900;">9:00</p>
 
                     <div class="session session-6 track-dc" style="grid-column: track-6-start / track-6-end; grid-row: time-0900 / time-1800;">
-                        <h3 class="session-title"><!--<a href="/2021/program/workshops/#NIDIT">-->Doctoral Consortium<!--</a>--></h3>
+                        <h3 class="session-title"><a href="{{ "/program/doctoral-consortium" | relative_url }}">Doctoral Consortium</a></h3>
                         <span class="session-time">9:00 - 18:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
@@ -800,19 +800,9 @@ title_separator: "|"
 
                     <p class="time-slot" style="grid-row: time-1630;"></p>
                     <p class="time-slot" style="grid-row: time-1700;">17:00</p>
-
-                    <div class="session session-17 track-break" style="grid-column: track-1-start / track-6-end; grid-row: time-1730 / time-1800;">
-                        <h3 class="session-title">Break</h3>
-                        <span class="session-time">17:30 - 18:00</span>
-                    </div>
                     
                     <p class="time-slot" style="grid-row: time-1730;"></p>
                     <p class="time-slot" style="grid-row: time-1800;">18:00</p>
-
-                    <div class="session session-18 track-event" style="grid-column: track-1-start / track-6-end; grid-row: time-1800 / time-1900;">
-                        <h3 class="session-title">Speed Dating in Virbela</h3>
-                        <span class="session-time">18:30 - 19:00</span>
-                    </div>
                 </div>
             </div>
         </div>
@@ -911,28 +901,33 @@ title_separator: "|"
                     <p class="time-slot" style="grid-row: time-1130;"></p>
                     <p class="time-slot" style="grid-row: time-1200;">12:00</p>
 
-                    <div class="session session-11 track-break" style="grid-column: track-1-start / track-6-end; grid-row: time-1200 / time-1300;">
+                    <div class="session session-11 track-break" style="grid-column: track-1-start / track-4-end; grid-row: time-1200 / time-1300;">
                         <h3 class="session-title">Lunch</h3>
                         <span class="session-time">12:00 - 13:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
+                    <div class="session session-12 track-event" style="grid-column: track-5-start / track-6-end; grid-row: time-1200 / time-1300;">
+                        <h3 class="session-title">Speed Dating in Virbela</h3>
+                        <span class="session-time">12:00 - 13:00</span>
+                    </div>
+
                     <p class="time-slot" style="grid-row: time-1230;"></p>
                     <p class="time-slot" style="grid-row: time-1300;">13:00</p>
 
-                    <div class="session session-12 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-1300 / time-1400;">
+                    <div class="session session-13 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-1300 / time-1400;">
                         <h3 class="session-title"><a href="{{ "/program/papers/#1.5" | relative_url }}">Papers: Augmented Reality</a></h3>
                         <span class="session-time">13:00 - 14:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
-                    <div class="session session-13 track-2" style="grid-column: track-3-start / track-4-end; grid-row: time-1300 / time-1400;">
+                    <div class="session session-14 track-2" style="grid-column: track-3-start / track-4-end; grid-row: time-1300 / time-1400;">
                         <h3 class="session-title"><a href="{{ "/program/papers/#2.6" | relative_url }}">Papers: Locomotion (Asia-Pacific)</a></h3>
                         <span class="session-time">13:00 - 14:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
-                    <div class="session session-14 track-3" style="grid-column: track-5-start / track-6-end; grid-row: time-1300 / time-1400;">
+                    <div class="session session-15 track-3" style="grid-column: track-5-start / track-6-end; grid-row: time-1300 / time-1400;">
                         <h3 class="session-title"><a href="{{ "/program/papers/#3.5" | relative_url }}">Papers: Perception</a></h3>
                         <span class="session-time">13:00 - 14:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
@@ -941,13 +936,13 @@ title_separator: "|"
                     <p class="time-slot" style="grid-row: time-1330;"></p>
                     <p class="time-slot" style="grid-row: time-1400;">14:00</p>
 
-                    <div class="session session-15 track-break" style="grid-column: track-1-start / track-6-end; grid-row: time-1400 / time-1430;">
+                    <div class="session session-16 track-break" style="grid-column: track-1-start / track-6-end; grid-row: time-1400 / time-1430;">
                         <h3 class="session-title">Break</h3>
                         <span class="session-time">14:00 - 14:30</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
-                    <div class="session session-16 track-keynote" style="grid-column: track-1-start / track-6-end; grid-row: time-1430 / time-1530;">
+                    <div class="session session-17 track-keynote" style="grid-column: track-1-start / track-6-end; grid-row: time-1430 / time-1530;">
                         <h3 class="session-title"><a href="{{ "/program/keynote-speakers/#keynote-staples" | relative_url }}">Keynote 2 - Aliesha Staples</a></h3>
                         <span class="session-time">14:30 - 15:30</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
@@ -956,7 +951,7 @@ title_separator: "|"
                     <p class="time-slot" style="grid-row: time-1430;"></p>
                     <p class="time-slot" style="grid-row: time-1500;">15:00</p>
 
-                    <div class="session session-17 track-break" style="grid-column: track-1-start / track-6-end; grid-row: time-1530 / time-1600;">
+                    <div class="session session-18 track-break" style="grid-column: track-1-start / track-6-end; grid-row: time-1530 / time-1600;">
                         <h3 class="session-title">Break</h3>
                         <span class="session-time">15:30 - 16:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
@@ -965,36 +960,36 @@ title_separator: "|"
                     <p class="time-slot" style="grid-row: time-1530;"></p>
                     <p class="time-slot" style="grid-row: time-1600;">16:00</p>
 
-                    <div class="session session-18 track-break" style="grid-column: track-1-start / track-6-end; grid-row: time-1730 / time-1800;">
+                    <div class="session session-19 track-break" style="grid-column: track-1-start / track-6-end; grid-row: time-1730 / time-1800;">
                         <h3 class="session-title">Break</h3>
                         <span class="session-time">17:30 - 18:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
-                    <div class="session session-19 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-1800 / time-1900;">
+                    <div class="session session-20 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-1800 / time-1900;">
                         <h3 class="session-title"><a href="{{ "/program/papers/#1.6" | relative_url }}">Papers: Machine Learning</a></h3>
                         <span class="session-time">18:00 - 19:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
-                    <div class="session session-20 track-exhibition" style="grid-column: track-1-start / track-2-end; grid-row: time-1600 / time-1730;">
+                    <div class="session session-21 track-exhibition" style="grid-column: track-1-start / track-2-end; grid-row: time-1600 / time-1730;">
                         <h3 class="session-title"><!--<a href="{{ "/program/workshops/#SIVE" | relative_url }}">-->Industry Exhibition<!--</a>--></h3>
                         <span class="session-time">16:00 - 17:30</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
-                    <div class="session session-14 track-rob" style="grid-column: track-3-start / track-6-end; grid-row: time-1600 / time-1730;">
+                    <div class="session session-22 track-rob" style="grid-column: track-3-start / track-6-end; grid-row: time-1600 / time-1730;">
                         <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Social Activities in Virbela<!--</a>--></h3>
                         <span class="session-time">16:00 - 17:30</span>
                     </div>
 
-                    <div class="session session-21 track-2" style="grid-column: track-3-start / track-4-end; grid-row: time-1800 / time-1900;">
+                    <div class="session session-23 track-2" style="grid-column: track-3-start / track-4-end; grid-row: time-1800 / time-1900;">
                         <h3 class="session-title"><a href="{{ "/program/papers/#3.8" | relative_url }}">Papers: Negative Effects</a></h3>
                         <span class="session-time">18:00 - 19:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
-                    <div class="session session-22 track-3" style="grid-column: track-5-start / track-6-end; grid-row: time-1800 / time-1900;">
+                    <div class="session session-24 track-3" style="grid-column: track-5-start / track-6-end; grid-row: time-1800 / time-1900;">
                         <h3 class="session-title"><a href="{{ "/program/papers/#3.6" | relative_url }}">Papers: Medical and Health Care</a></h3>
                         <span class="session-time">18:00 - 19:00</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
@@ -1029,6 +1024,15 @@ title_separator: "|"
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-5; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-6; grid-row: tracks;"></span>
 
+                    <p class="time-slot" style="grid-row: time-0600;">6:00</p>
+                    <p class="time-slot" style="grid-row: time-0630;"></p>
+
+                    <div class="session session-0 track-event" style="grid-column: track-1-start / track-6-end; grid-row: time-0630 / time-0730;">
+                        <h3 class="session-title"><!--<a href="{{ "/program/tutorials/#T4" | relative_url }}">-->XR Bootcamp Graduation Ceremony<!--</a>--></h3>
+                        <span class="session-time">6:30 - 7:30</span>
+                        <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>-->
+                    </div>
+
                     <p class="time-slot" style="grid-row: time-0700;">7:00</p>
                     <p class="time-slot" style="grid-row: time-0730;"></p>
 
@@ -1058,7 +1062,7 @@ title_separator: "|"
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
                     </div>
 
-                    <p class="time-slot" style="grid-row: time-830;"></p>
+                    <p class="time-slot" style="grid-row: time-0830;"></p>
                     <p class="time-slot" style="grid-row: time-0900;">9:00</p>
 
                     <div class="session session-5 track-3dui" style="grid-column: track-1-start / track-2-end; grid-row: time-0930 / time-1100;">
@@ -1079,7 +1083,7 @@ title_separator: "|"
                         <span class="session-time">9:30 - 11:00</span>
                     </div>-->
 
-                    <p class="time-slot" style="grid-row: time-0730;"></p>
+                    <p class="time-slot" style="grid-row: time-0930;"></p>
                     <p class="time-slot" style="grid-row: time-1000;">10:00</p>
                     <p class="time-slot" style="grid-row: time-1030;"></p>
                     <p class="time-slot" style="grid-row: time-1100;">11:00</p>
