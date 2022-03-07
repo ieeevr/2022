@@ -7,7 +7,7 @@ title: "Doctoral Consortium"
     .styled-table {
         border-collapse: collapse;
         margin: 25px 0;
-        font-size: 0.8em;
+        font-size: 0.9em;
         font-family: sans-serif;
         /*min-width: 400px;*/
         box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
@@ -15,7 +15,7 @@ title: "Doctoral Consortium"
     }
 
     .styled-table thead tr {
-        background-color: #00aeef;
+        background-color: #fec10d;
         color: #ffffff;
         text-align: left;
     }
@@ -23,7 +23,6 @@ title: "Doctoral Consortium"
     .styled-table th,
     .styled-table td {
         padding: 12px 15px;
-        font-size: 0.9em;
     }
 
     .styled-table tbody tr {
@@ -31,18 +30,17 @@ title: "Doctoral Consortium"
     }
 
     .styled-table tbody tr:nth-of-type(even) {
-        background-color: #f3f3f3;
+        background-color: #fffbed;
     }
 
     .styled-table tbody tr:last-of-type {
-        border-bottom: 2px solid #00aeef;
+        border-bottom: 2px solid #fec10d;
     }
 
     .styled-table tbody tr.active-row {
         font-weight: bold;
-        color: #00aeef;
+        color: #fec10d;
     }
-
 </style>
 
 <h1>Doctoral Consortium</h1>
@@ -64,13 +62,13 @@ title: "Doctoral Consortium"
             <th></th>
         </tr>
         <tr>
-            <td><span style="color: #00aeef;">9:00 - 9:15 </span></td>
+            <td><span style="color: #009cb4;">9:00 - 9:15 </span></td>
             <td>
                 Welcome + Ice Breaker
             </td>
         </tr>
         <tr>
-            <td><span style="color: #00aeef;">9:15 - 10:45 </span></td>
+            <td><span style="color: #009cb4;">9:15 - 10:45 </span></td>
             <td>
                 <strong>Presentations 1 - 6 (8 min talk + 4 min questions)</strong><br/>
                 Verena Biener – Dr. Bowman & Dr. Zollmann<br/>
@@ -82,13 +80,13 @@ title: "Doctoral Consortium"
             </td>
         </tr>
         <tr>
-            <td ><span style="color: #00aeef;">10:45 - 11:00 </span></td>
+            <td ><span style="color: #009cb4;">10:45 - 11:00 </span></td>
             <td>
                 Break
             </td>
         </tr>
         <tr>
-            <td ><span style="color: #00aeef;">11:00 - 12:30 </span></td>
+            <td ><span style="color: #009cb4;">11:00 - 12:30 </span></td>
             <td>
                 <strong>Presentations 7 - 13 (8 min talk + 4 min questions)</strong><br/>
                 Monsurat Olaosebikan – Dr. Gruchalla & Dr. Robb<br/>
@@ -101,13 +99,13 @@ title: "Doctoral Consortium"
             </td>
         </tr>
         <tr>
-            <td><span style="color: #00aeef;">12:30 - 13:15 </span></td>
+            <td><span style="color: #009cb4;">12:30 - 13:15 </span></td>
             <td>
                 Break
             </td>
         </tr>
         <tr>
-            <td><span style="color: #00aeef;">13:15 - 15:00 </span></td>
+            <td><span style="color: #009cb4;">13:15 - 15:00 </span></td>
             <td>
                 <strong>Presentations 14 - 20 (8 min talk + 4 min questions)</strong><br/>
                 Matt Gottsacker - Dr. Gonzalez Franco & Dr. Stevenson Won<br/>
@@ -120,25 +118,25 @@ title: "Doctoral Consortium"
             </td>
         </tr>
         <tr>
-            <td ><span style="color: #00aeef;">15:00 - 15:45 </span></td>
+            <td ><span style="color: #009cb4;">15:00 - 15:45 </span></td>
             <td>
                 Mentoring Group 1 Breakout (45 min)
             </td>
         </tr>
         <tr>
-            <td><span style="color: #00aeef;">15:45 - 16:00 </span></td>
+            <td><span style="color: #009cb4;">15:45 - 16:00 </span></td>
             <td>
                 Break
             </td>
         </tr>
         <tr>
-            <td ><span style="color: #00aeef;">16:00 - 16:45 </span></td>
+            <td ><span style="color: #009cb4;">16:00 - 16:45 </span></td>
             <td>
                 Mentoring Group 2 Breakout (45 min)
             </td>
         </tr>
         <tr>
-            <td ><span style="color: #00aeef;">16:45 - 17:00 </span></td>
+            <td ><span style="color: #009cb4;">16:45 - 17:00 </span></td>
             <td>
                 Closing
             </td>
@@ -161,7 +159,7 @@ title: "Doctoral Consortium"
         </tr>
         {% for student in site.data.dc %}
         <tr>
-            <td style="font-size: 0.8em;"><span style="color: #00aeef;">{{ student.author }}</span></td>
+            <td style="font-size: 0.8em;"><span style="color: #009cb4;">{{ student.author }}</span></td>
             <td>{{ student.title }}</td>
             <td>{{ student.affiliation }}</td>
         </tr>
