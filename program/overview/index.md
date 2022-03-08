@@ -1028,7 +1028,7 @@ title_separator: "|"
                     <p class="time-slot" style="grid-row: time-0630;"></p>
 
                     <div class="session session-0 track-event" style="grid-column: track-1-start / track-6-end; grid-row: time-0630 / time-0730;">
-                        <h3 class="session-title"><!--<a href="{{ "/program/tutorials/#T4" | relative_url }}">-->XR Bootcamp Graduation Ceremony<!--</a>--></h3>
+                        <h3 class="session-title"><a href="https://www.eventbrite.com/e/graduation-ceremony-of-the-mixed-reality-hololens-master-class-tickets-289541736127">XR Bootcamp Graduation Ceremony</a></h3>
                         <span class="session-time">6:30 - 7:30</span>
                         <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>-->
                     </div>
