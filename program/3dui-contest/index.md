@@ -156,7 +156,7 @@ title: "3DUI Contest"
 
 
 <h1>3DUI Contest</h1>
-
+<!--
 <div>
     <h2>Fast Forward</h2>
     
@@ -164,7 +164,7 @@ title: "3DUI Contest"
     <iframe src="https://www.youtube.com/embed/5BB05YIG7uY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 </div>
-    
+-->    
 
 <div>
     <table class="styled-table">
@@ -181,7 +181,7 @@ title: "3DUI Contest"
 </div>
 
 <div>
-<!-- TAKE ME TO THE EVENT START -->
+<!-- TAKE ME TO THE EVENT START 
     {% for event in site.data.events %}
     {% if event.id == '3dui1' %}
     {% if event.location %}
@@ -207,7 +207,7 @@ title: "3DUI Contest"
     </div>
     {% endif %}
     {% endfor %}
-    <!-- TAKE ME TO THE EVENT END-->
+    TAKE ME TO THE EVENT END-->
 </div>
 
 
