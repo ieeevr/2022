@@ -81,7 +81,7 @@ title_separator: "|"
         For more information, please contact the Research Demonstration Chairs:
         <ul>
             <li>Alexandre Gomes de Siqueira - University of Florida, USA</li>
-            <li>Ayush Bhargava - Facebook, USA</li>
+            <li>Ayush Bhargava - Meta, USA</li>
             <li>Arindam Dey - University of Queensland, Australia</li>
             <li>Vinoba Vinayagamoorthy - BBC Research & Development, UK</li>
         </ul>

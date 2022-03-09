@@ -118,7 +118,7 @@ title: "Conference Committee"
 			<li>	Alexandre	Gomes de Siqueira	&#x2012; <i>	University of Florida, USA	</i></li>	
 			<li>	Arindam	Dey	&#x2012; <i>	University of Queensland, Australia	</i></li>	
 			<li>	Vinoba	Vinayagamoorthy	&#x2012; <i>	BBC Research & Development, London	</i></li>	
-			<li>	Ayush	Bhargava	&#x2012; <i>	Facebook, USA	</i></li>	
+			<li>	Ayush	Bhargava	&#x2012; <i>	Meta, USA	</i></li>	
 			<li style="list-style: none">	researchdemos2022	[at] ieeevr.org			</li>	
 		</ul>							
 									
