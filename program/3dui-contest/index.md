@@ -210,7 +210,7 @@ title: "3DUI Contest"
     TAKE ME TO THE EVENT END-->
 </div>
 
-
+<!--
 <div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
     <strong>Best of IEEE VR 2021</strong>
     <p>
@@ -221,7 +221,7 @@ title: "3DUI Contest"
             <a href="https://cutt.ly/Mx0n5Zu" class="btn btn--primary" style="color: white;" target="_blank">Vote!</a>
         </p>
     </center>
-</div>
+</div>-->
 
 
 <div>
