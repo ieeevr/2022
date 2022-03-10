@@ -43,9 +43,6 @@
 <loc>http://localhost:4000/attend/why-attend/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/attend/zoom-instructions/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/awards/conference-awards/</loc>
 </url>
 <url>
@@ -160,6 +157,9 @@
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/attend/zoom-instructions/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/program/234261670A9952191E222E7AE8D70AC9A7912CDA/</loc>
 </url>
 <url>
@@ -217,6 +217,10 @@
 <url>
 <loc>http://localhost:4000/assets/images/zoom_backgrounds/IEEE%20VR22%20Zoom%20Background%20mountain.pdf</loc>
 <lastmod>2022-03-01T13:20:35+13:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/virbela/CampusMap_IEEE-VR-2022.pdf</loc>
+<lastmod>2022-03-10T20:28:53+13:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/virbela/iLRN_Virtual_Campus_Map_-_IEEE_VR_2021.pdf</loc>
