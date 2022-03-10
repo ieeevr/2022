@@ -1,4 +1,4 @@
----
+﻿---
 layout: ieeevr-default
 title: "Zoom Instructions"
 subtitle: "IEEE VR 2022"
@@ -261,7 +261,7 @@ title_separator: "|"
 
 
 <div>
-    <h1>Zoom Event Hub Instructions</h1>
+    <h1>Zoom Events Instructions</h1>
 
     <p>Instructions on how to access and use the IEEE VR 22 Zoom event hub will be available closer to the event.</p>
 

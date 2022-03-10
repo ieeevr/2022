@@ -1,6 +1,8 @@
 ---
 layout: ieeevr-default
 title: "Virbela Instructions"
+subtitle: "IEEE VR 2022"
+title_separator: "|"
 ---
 
 <style>
@@ -297,7 +299,7 @@ title: "Virbela Instructions"
         
         <p> Also, if you already have an account associated with your email address on the iLRN Virtual Campus from a previous visit (e.g., the 
         IEEE ISMAR 2020 conference), you will not receive an email invitation. Simply log in to the Campus to gain access. If you need to 
-        re-download the software, you can find it at <a href="https://immersivelrn.org/ilrn-virtual-campus">https://immersivelrn.org/ilrn-virtual-campus</a></p>
+        re-download the software, you can find it at <a href="https://immersivelrn.org/pages/virtual-campus">https://immersivelrn.org/pages/virtual-campus</a></p>
 
         <h3>System Requirements</h3>
 
@@ -537,12 +539,11 @@ title: "Virbela Instructions"
     
     <div>
         <h2 id="map">Campus Map</h2>
-        <img src="{{ "/assets/virbela/iLRN_Virtual_Campus_Map_-_IEEE_VR_2021.jpg" | relative_url }}" style="width: 100%;" alt="Virbela Virtual Environment map">
-        <br/>
+        <img src="{{ "/assets/virbela/CampusMap_IEEE-VR-2022.png" | relative_url }}" style="width: 100%;" alt="Virbela Virtual Environment map">
         <div style="">
         <center>
             <p style="font-size: 20px;">
-                <a href="{{ "assets/virbela/iLRN_Virtual_Campus_Map_-_IEEE_VR_2021.pdf" | relative_url }}" class="btn btn--primary" style="" download>Download Map as PDF</a>
+                <a href="{{ "assets/virbela/CampusMap_IEEE-VR-2022.png" | relative_url }}" class="btn btn--primary" style="" download>Download Map as PDF</a>
             </p>
         </center>
     </div>
