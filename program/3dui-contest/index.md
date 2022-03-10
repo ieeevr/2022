@@ -7,7 +7,7 @@ title: "3DUI Contest"
     .styled-table {
         border-collapse: collapse;
         margin: 25px 0;
-        font-size: 0.8em;
+        font-size: 0.9em;
         font-family: sans-serif;
         /*min-width: 400px;*/
         box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
@@ -15,7 +15,7 @@ title: "3DUI Contest"
     }
 
     .styled-table thead tr {
-        background-color: #00aeef;
+        background-color: #fec10d;
         color: #ffffff;
         text-align: left;
     }
@@ -30,18 +30,19 @@ title: "3DUI Contest"
     }
 
     .styled-table tbody tr:nth-of-type(even) {
-        background-color: #f3f3f3;
+        background-color: #fffbed;
     }
 
     .styled-table tbody tr:last-of-type {
-        border-bottom: 2px solid #00aeef;
+        border-bottom: 2px solid #fec10d;
     }
 
     .styled-table tbody tr.active-row {
         font-weight: bold;
-        color: #00aeef;
+        color: #fec10d;
     }
 
+    /* Collapsible */
     input[type='checkbox'] {
         display: none;
     }
@@ -54,10 +55,10 @@ title: "3DUI Contest"
         display: block;
         font-weight: bold;
         /* font-family: monospace; */
-        font-size: 1rem;
+        font-size: 0.8rem;
         text-align: left;
-        padding: 0.1rem;
-        color: #00aeef;
+        padding: 0rem;
+        color: #fec10d;
         background: #ffffff;
         cursor: pointer;
         border-radius: 7px;
@@ -229,6 +230,15 @@ title: "3DUI Contest"
     <h3 id="{{ entry.id }}">{{ entry.title }}</h3>
     <p><small><strong> Booth {{ entry.boothid2}} - {{ entry.boothid1}}   </strong></small></p>
     <p><i>{{ entry.authors }}</i></p>
+    {% if entry.abstract %}
+        <div id="{{ entry.id }}" class="wrap-collabsible"> <input id="collapsible{{ entry.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ entry.id }}" class="lbl-toggle">Abstract</label>
+            <div class="collapsible-content">
+                <div class="content-inner">
+                    <p>{{ entry.abstract }}</p>
+                </div>
+            </div>
+        </div>
+    {% endif %}
     <hr>
     {% endfor %}
 </div>
