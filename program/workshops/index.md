@@ -171,12 +171,17 @@ INVITED MISSING
                 <p><small><b style="color: black;">Principal Organiser:</b> {{ workshop.organiser }}</small></p>
             {% endif %}
 
+            <p>
             {% if workshop.url %}
-                <p><small><b style="color: black;">Website:</b> <a href="{{ workshop.url }}" target="_blank">{{ workshop.url }}</a></small></p>
+                <small><b style="color: black;">Website:</b> <a href="{{ workshop.url }}" target="_blank">{{ workshop.url }}</a></small>
+                {% if workshop.discordurl %}
+                    <br>
+                {% endif %}
             {% endif %}
             {% if workshop.discordurl %}
-                <p><small><b style="color: black;">Discord URL:</b> <a href="{{ workshop.discordurl }}" target="_blank">{{ workshop.discordurl }}</a></small></p>
+                <p><small><b style="color: black;">Discord URL:</b> <a href="{{ workshop.discordurl }}" target="_blank">{{ workshop.discordurl }}</a></small>
             {% endif %}
+            </p>
 
             {% if workshop.abstract %}
                 <div id="{{ workshop.id }}" class="wrap-collabsible"> <input id="collapsible{{ workshop.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ workshop.id }}" class="lbl-toggle">Workshop Description</label>
