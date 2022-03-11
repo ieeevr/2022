@@ -189,6 +189,9 @@ SORRY FOR THE NESTING, I HAD TO DO SOME DEBUGGING
             {% if session.sessionchair %}
                 <p><small><b style="color: black;">Session Chair:</b> {{ session.sessionchair }}</small></p>
             {% endif %}
+            {% if session.discordurl %}
+                <p><small><b style="color: black;">Discord URL:</b> {{ session.discordurl }}</small></p>
+            {% endif %}
     
             <!-- TAKE ME TO THE EVENT START -->
             <!--{% for event in site.data.events %}

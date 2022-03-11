@@ -1,27 +1,27 @@
-id,name,day,starttime,endtime,timezone,sessionchair,discord-category
-displays,Displays,"Monday, March 14",12:00,13:00,NZDT UTC+13,Yuta Itoh, 
-security,Security,"Monday, March 14",12:00,13:00,NZDT UTC+13,Sab Babu,
-emotion-and-cognition,Emotion and Cognition,"Monday, March 14",12:00,13:00,NZDT UTC+13,Anderson Maciel,
-3dui,3DUI,"Monday, March 14",14:00,15:00,NZDT UTC+13,Kiyoshi Kiyokawa, 
-locomotion-americas,Locomotion (Americas),"Monday, March 14",14:00,15:00,NZDT UTC+13,Eike Langbehn,
-immvis,Immersive Visualization and Virtual Production,"Monday, March 14",14:00,15:00,NZDT UTC+13,Luciana Nedel,
-multimodal-vr,Multimodal VR,"Monday, March 14",16:30,17:30,NZDT UTC+13,Sandra Malpica,
-embodiment,Embodiment,"Tuesday, March 15",8:30,9:30,NZDT UTC+13,Tabitha Peck, 
-presence,Presence,"Tuesday, March 15",8:30,9:30,NZDT UTC+13,Adam Jones,
-interaction-design,Interaction Design,"Tuesday, March 15",8:30,9:30,NZDT UTC+13,Rick Skarbez,
-collaboration,Collaboration,"Tuesday, March 15",11:00,12:00,NZDT UTC+13,Wallace Lages, 
-perception-in-ar,Perception in AR,"Tuesday, March 15",11:00,12:00,NZDT UTC+13,&Eacute;tienne Peillard,
-virtual-humans-and-agents,Virtual Humans and Agents,"Tuesday, March 15",11:00,12:00,NZDT UTC+13,Kangsoo Kim,
-augmented-reality,Augmented Reality,"Tuesday, March 15",13:00,14:00,NZDT UTC+13,Vicki Interrante, 
-locomotion-asia-pacific,Locomotion (Asia-Pacific),"Tuesday, March 15",13:00,14:00,NZDT UTC+13,Rob Lindeman,
-perception,Perception,"Tuesday, March 15",13:00,14:00,NZDT UTC+13,Scott Kuhl,
-machine-learning,Machine Learning,"Tuesday, March 15",18:00,19:00,NZDT UTC+13,Miao Wang, 
-healthcare,Medical and Health Care,"Tuesday, March 15",18:00,19:00,NZDT UTC+13,Junjun Pan,
-negative-effects,Negative Effects,"Tuesday, March 15",18:00,19:00,NZDT UTC+13,Barrett Ens,
-audio-in-vr,Audio in VR,"Wednesday, March 16",8:30,9:30,NZDT UTC+13,Iana Podkosova,
-haptics,Haptics,"Wednesday, March 16",8:30,9:30,NZDT UTC+13,Mar Gonzalez Franco,
-locomotion-europe,Locomotion (Europe),"Wednesday, March 16",8:30,9:30,NZDT UTC+13,Evan Suma Rosenberg,
-rendering,Rendering,"Wednesday, March 16",13:00,14:00,NZDT UTC+13,Lili Wang,
-computer-vision,Computer Vision,"Wednesday, March 16",13:00,14:00,NZDT UTC+13,Bruce Thomas,
-inclusive-vr,Inclusive VR,"Wednesday, March 16",13:00,14:00,NZDT UTC+13,Victor Adriel Oliveira,
-advanced-ui,Advanced UI,"Wednesday, March 16",14:00,15:00,NZDT UTC+13,Ryan McMahan,
+id,name,day,starttime,endtime,timezone,sessionchair,discordurl
+displays,Displays,"Monday, March 14",12:00,13:00,NZDT UTC+13,Yuta Itoh,https://discord.com/channels/842181663248482334/951017483446411285
+security,Security,"Monday, March 14",12:00,13:00,NZDT UTC+13,Sab Babu,https://discord.com/channels/842181663248482334/951017519320293386
+emotion-and-cognition,Emotion and Cognition,"Monday, March 14",12:00,13:00,NZDT UTC+13,Anderson Maciel,https://discord.com/channels/842181663248482334/951017566447497258
+3dui,3DUI,"Monday, March 14",14:00,15:00,NZDT UTC+13,Kiyoshi Kiyokawa,https://discord.com/channels/842181663248482334/951017600698171452
+locomotion-americas,Locomotion (Americas),"Monday, March 14",14:00,15:00,NZDT UTC+13,Eike Langbehn,https://discord.com/channels/842181663248482334/951017710773489674
+immvis,Immersive Visualization and Virtual Production,"Monday, March 14",14:00,15:00,NZDT UTC+13,Luciana Nedel,https://discord.com/channels/842181663248482334/951017772069052416
+multimodal-vr,Multimodal VR,"Monday, March 14",16:30,17:30,NZDT UTC+13,Sandra Malpica,https://discord.com/channels/842181663248482334/951017808924377118
+embodiment,Embodiment,"Tuesday, March 15",8:30,9:30,NZDT UTC+13,Tabitha Peck,https://discord.com/channels/842181663248482334/951018222868627456
+presence,Presence,"Tuesday, March 15",8:30,9:30,NZDT UTC+13,Adam Jones,https://discord.com/channels/842181663248482334/951018273355477002
+interaction-design,Interaction Design,"Tuesday, March 15",8:30,9:30,NZDT UTC+13,Rick Skarbez,https://discord.com/channels/842181663248482334/951018309715906570
+collaboration,Collaboration,"Tuesday, March 15",11:00,12:00,NZDT UTC+13,Wallace Lages,https://discord.com/channels/842181663248482334/951018348488052757
+perception-in-ar,Perception in AR,"Tuesday, March 15",11:00,12:00,NZDT UTC+13,&Eacute;tienne Peillard,https://discord.com/channels/842181663248482334/951018400510001192
+virtual-humans-and-agents,Virtual Humans and Agents,"Tuesday, March 15",11:00,12:00,NZDT UTC+13,Kangsoo Kim,https://discord.com/channels/842181663248482334/951018494512750592
+augmented-reality,Augmented Reality,"Tuesday, March 15",13:00,14:00,NZDT UTC+13,Vicki Interrante,https://discord.com/channels/842181663248482334/951018549554606111
+locomotion-asia-pacific,Locomotion (Asia-Pacific),"Tuesday, March 15",13:00,14:00,NZDT UTC+13,Rob Lindeman,https://discord.com/channels/842181663248482334/951018594546880582
+perception,Perception,"Tuesday, March 15",13:00,14:00,NZDT UTC+13,Scott Kuhl,https://discord.com/channels/842181663248482334/951018621990215680
+machine-learning,Machine Learning,"Tuesday, March 15",18:00,19:00,NZDT UTC+13,Miao Wang,https://discord.com/channels/842181663248482334/951018650343706666
+healthcare,Medical and Health Care,"Tuesday, March 15",18:00,19:00,NZDT UTC+13,Junjun Pan,https://discord.com/channels/842181663248482334/951018774985863169
+negative-effects,Negative Effects,"Tuesday, March 15",18:00,19:00,NZDT UTC+13,Barrett Ens,https://discord.com/channels/842181663248482334/951018685781389332
+audio-in-vr,Audio in VR,"Wednesday, March 16",8:30,9:30,NZDT UTC+13,Iana Podkosova,https://discord.com/channels/842181663248482334/951018857240334357
+haptics,Haptics,"Wednesday, March 16",8:30,9:30,NZDT UTC+13,Mar Gonzalez Franco,https://discord.com/channels/842181663248482334/951018879281410109
+locomotion-europe,Locomotion (Europe),"Wednesday, March 16",8:30,9:30,NZDT UTC+13,Evan Suma Rosenberg,https://discord.com/channels/842181663248482334/951018919194415134
+rendering,Rendering,"Wednesday, March 16",13:00,14:00,NZDT UTC+13,Lili Wang,https://discord.com/channels/842181663248482334/951018980305420368
+computer-vision,Computer Vision,"Wednesday, March 16",13:00,14:00,NZDT UTC+13,Bruce Thomas,https://discord.com/channels/842181663248482334/951019026509889556
+inclusive-vr,Inclusive VR,"Wednesday, March 16",13:00,14:00,NZDT UTC+13,Victor Adriel Oliveira,https://discord.com/channels/842181663248482334/951019069321150514
+advanced-ui,Advanced UI,"Wednesday, March 16",14:00,15:00,NZDT UTC+13,Ryan McMahan,https://discord.com/channels/842181663248482334/951019111943667722
