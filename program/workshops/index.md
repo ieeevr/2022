@@ -172,7 +172,18 @@ INVITED MISSING
             {% endif %}
 
             {% if workshop.url %}
-                <p><small><b style="color: black;">Website:</b> <a href="{{ workshop.url }}" target="_blank">{{ workshop.url }}</a></small></p>
+                <p><small><b style="color: black;">Website:</b> <a href="{{ workshop.url }}" target="_blank">{{ workshop.url }}</a></small>
+                {% if workshop.discordurl %}
+                    <br>
+                {% else %}
+                    </p>
+                {% endif %}
+            {% endif %}
+            {% if workshop.discordurl %}
+                {% unless workshop.url %}
+                    <p>
+                {% endunless %}
+                <small><b style="color: black;">Discord URL:</b> <a href="{{ tutorial.discordurl }}" target="_blank">{{ tutorial.discordurl }}</a></small></p>
             {% endif %}
 
             {% if workshop.abstract %}

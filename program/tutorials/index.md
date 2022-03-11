@@ -172,7 +172,7 @@ title_separator: "|"
                 <p><strong>{{ tutorial.day }}, {{ tutorial.time }}, {{ tutorial.timezone }}</strong></p>
             {%endif %}
             {% if tutorial.organiser %}
-                <p><small>Organisers: <b style="color: black;">{{ tutorial.organiser }}</b></small></p>
+                <p><small><b style="color: black;">Organisers:</b> {{ tutorial.organiser }}</small></p>
             {% endif %}
             {% if tutorial.discordurl %}
                 <p><small><b style="color: black;">Discord URL:</b> <a href="{{ tutorial.discordurl }}" target="_blank">{{ tutorial.discordurl }}</a></small></p>
