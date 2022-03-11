@@ -51,98 +51,101 @@ title: "Doctoral Consortium"
     <p>
         Mentors listed first next to a student will meet during the Mentor Group 1 Breakout session, and mentors listed second will meet with that student during the Mentor Group 2 Breakout session.
     </p>
+    <p>
+        Please use the official Discord for discussions during the event: <a href="https://discord.com/channels/842181663248482334/951012706654253106">https://discord.com/channels/842181663248482334/951012706654253106</a>
+    </p>
 </div>
 
 <div>
 
-<div>
-    <table class="styled-table" style="font-size: 0.8em; ">
-        <tr>
-            <th>Schedule</th>
-            <th></th>
-        </tr>
-        <tr>
-            <td><span style="color: #009cb4;">9:00 - 9:15 </span></td>
-            <td>
-                Welcome + Ice Breaker
-            </td>
-        </tr>
-        <tr>
-            <td><span style="color: #009cb4;">9:15 - 10:45 </span></td>
-            <td>
-                <strong>Presentations 1 - 6 (8 min talk + 4 min questions)</strong><br/>
-                Verena Biener – Dr. Bowman & Dr. Zollmann<br/>
-                Shakiba Davari – Dr. Zollmann & Dr. Feiner<br/>
-                Soumyajit Chakraborty - Dr. Froehlich & Dr. Klinker<br/>
-                Faisal Zaman - Dr. Klinker & Dr. Froehlich<br/>
-                Shu Wei - Dr. Nóbrega & Dr. Steed<br/>
-                Niall L. Williams - Dr. Steed & Dr. Nóbrega<br/>
-            </td>
-        </tr>
-        <tr>
-            <td ><span style="color: #009cb4;">10:45 - 11:00 </span></td>
-            <td>
-                Break
-            </td>
-        </tr>
-        <tr>
-            <td ><span style="color: #009cb4;">11:00 - 12:30 </span></td>
-            <td>
-                <strong>Presentations 7 - 13 (8 min talk + 4 min questions)</strong><br/>
-                Monsurat Olaosebikan – Dr. Gruchalla & Dr. Robb<br/>
-                Andrew H Maxim – Dr. Robb & Dr. Skarbez<br/>
-                Yu Zhao – Dr. Feiner & Dr. Thomas<br/>
-                Zahra Borhani – Dr. Orlosky & Dr. Bowman<br/>
-                Xiaodan Hu – Dr. Krum & Dr. Orlosky<br/>
-                Benjamin Powley – Dr. Cutchin & Dr. Gruchalla<br/>
-                Daniel A. Muñoz – Dr. Skarbez & Dr. Ahn<br/>
-            </td>
-        </tr>
-        <tr>
-            <td><span style="color: #009cb4;">12:30 - 13:15 </span></td>
-            <td>
-                Break
-            </td>
-        </tr>
-        <tr>
-            <td><span style="color: #009cb4;">13:15 - 15:00 </span></td>
-            <td>
-                <strong>Presentations 14 - 20 (8 min talk + 4 min questions)</strong><br/>
-                Matt Gottsacker - Dr. Gonzalez Franco & Dr. Stevenson Won<br/>
-                Prasanth Sasikumar – Dr. Gabbard & Dr. Krum<br/>
-                Hiroshika Nadeeshani Premarathne – Dr. Lok & Dr. Cutchin<br/>
-                Kunal Gupta - Dr. Ahn & Dr. Johnsen<br/>
-                Dmitry Resnyansky - Dr. Johnsen & Dr. Volonte<br/>
-                Udapola Balage Hansi Shashiprabha Udapola - Dr. Stevenson Won & Dr. Gabbard<br/>
-                Nisal Manisha Udawatta Kankanamge Don – Dr. Volonte & Dr. Lok<br/>
-            </td>
-        </tr>
-        <tr>
-            <td ><span style="color: #009cb4;">15:00 - 15:45 </span></td>
-            <td>
-                Mentoring Group 1 Breakout (45 min)
-            </td>
-        </tr>
-        <tr>
-            <td><span style="color: #009cb4;">15:45 - 16:00 </span></td>
-            <td>
-                Break
-            </td>
-        </tr>
-        <tr>
-            <td ><span style="color: #009cb4;">16:00 - 16:45 </span></td>
-            <td>
-                Mentoring Group 2 Breakout (45 min)
-            </td>
-        </tr>
-        <tr>
-            <td ><span style="color: #009cb4;">16:45 - 17:00 </span></td>
-            <td>
-                Closing
-            </td>
-        </tr>
-    </table>
-</div>
+    <div>
+        <table class="styled-table" style="font-size: 0.8em; ">
+            <tr>
+                <th>Schedule</th>
+                <th></th>
+            </tr>
+            <tr>
+                <td><span style="color: #009cb4;">9:00 - 9:15 </span></td>
+                <td>
+                    Welcome + Ice Breaker
+                </td>
+            </tr>
+            <tr>
+                <td><span style="color: #009cb4;">9:15 - 10:45 </span></td>
+                <td>
+                    <strong>Presentations 1 - 6 (8 min talk + 4 min questions)</strong><br/>
+                    Verena Biener – Dr. Bowman & Dr. Zollmann<br/>
+                    Shakiba Davari – Dr. Zollmann & Dr. Feiner<br/>
+                    Soumyajit Chakraborty - Dr. Froehlich & Dr. Klinker<br/>
+                    Faisal Zaman - Dr. Klinker & Dr. Froehlich<br/>
+                    Shu Wei - Dr. Nóbrega & Dr. Steed<br/>
+                    Niall L. Williams - Dr. Steed & Dr. Nóbrega<br/>
+                </td>
+            </tr>
+            <tr>
+                <td ><span style="color: #009cb4;">10:45 - 11:00 </span></td>
+                <td>
+                    Break
+                </td>
+            </tr>
+            <tr>
+                <td ><span style="color: #009cb4;">11:00 - 12:30 </span></td>
+                <td>
+                    <strong>Presentations 7 - 13 (8 min talk + 4 min questions)</strong><br/>
+                    Monsurat Olaosebikan – Dr. Gruchalla & Dr. Robb<br/>
+                    Andrew H Maxim – Dr. Robb & Dr. Skarbez<br/>
+                    Yu Zhao – Dr. Feiner & Dr. Thomas<br/>
+                    Zahra Borhani – Dr. Orlosky & Dr. Bowman<br/>
+                    Xiaodan Hu – Dr. Krum & Dr. Orlosky<br/>
+                    Benjamin Powley – Dr. Cutchin & Dr. Gruchalla<br/>
+                    Daniel A. Muñoz – Dr. Skarbez & Dr. Ahn<br/>
+                </td>
+            </tr>
+            <tr>
+                <td><span style="color: #009cb4;">12:30 - 13:15 </span></td>
+                <td>
+                    Break
+                </td>
+            </tr>
+            <tr>
+                <td><span style="color: #009cb4;">13:15 - 15:00 </span></td>
+                <td>
+                    <strong>Presentations 14 - 20 (8 min talk + 4 min questions)</strong><br/>
+                    Matt Gottsacker - Dr. Gonzalez Franco & Dr. Stevenson Won<br/>
+                    Prasanth Sasikumar – Dr. Gabbard & Dr. Krum<br/>
+                    Hiroshika Nadeeshani Premarathne – Dr. Lok & Dr. Cutchin<br/>
+                    Kunal Gupta - Dr. Ahn & Dr. Johnsen<br/>
+                    Dmitry Resnyansky - Dr. Johnsen & Dr. Volonte<br/>
+                    Udapola Balage Hansi Shashiprabha Udapola - Dr. Stevenson Won & Dr. Gabbard<br/>
+                    Nisal Manisha Udawatta Kankanamge Don – Dr. Volonte & Dr. Lok<br/>
+                </td>
+            </tr>
+            <tr>
+                <td ><span style="color: #009cb4;">15:00 - 15:45 </span></td>
+                <td>
+                    Mentoring Group 1 Breakout (45 min)
+                </td>
+            </tr>
+            <tr>
+                <td><span style="color: #009cb4;">15:45 - 16:00 </span></td>
+                <td>
+                    Break
+                </td>
+            </tr>
+            <tr>
+                <td ><span style="color: #009cb4;">16:00 - 16:45 </span></td>
+                <td>
+                    Mentoring Group 2 Breakout (45 min)
+                </td>
+            </tr>
+            <tr>
+                <td ><span style="color: #009cb4;">16:45 - 17:00 </span></td>
+                <td>
+                    Closing
+                </td>
+            </tr>
+        </table>
+    </div>
     
     
 </div>

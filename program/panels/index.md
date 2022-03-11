@@ -137,6 +137,10 @@ title_separator: "|"
         <h2 id="{{ panel.id }}">{{panel.name}}: {{ panel.title }}</h2>
         
         <p><strong>{{ panel.day }}, {{ panel.starttime }} - {{ panel.endtime }}, {{ panel.timezone }}</strong></p>
+
+        {% if panel.discordurl %}
+            <p><small><b style="color: black;">Discord URL:</b> <a href="{{ panel.discordurl }}" target="_blank">{{ panel.discordurl }}</a></small></p>
+        {% endif %}
         
         {% if panel.moderator %}
             <p><small><b style="color: black;">Moderators:</b> <br>{{ panel.moderator }}</small></p>

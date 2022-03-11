@@ -174,6 +174,9 @@ title_separator: "|"
             {% if tutorial.organiser %}
                 <p><small>Organisers: <b style="color: black;">{{ tutorial.organiser }}</b></small></p>
             {% endif %}
+            {% if tutorial.discordurl %}
+                <p><small><b style="color: black;">Discord URL:</b> <a href="{{ tutorial.discordurl }}" target="_blank">{{ tutorial.discordurl }}</a></small></p>
+            {% endif %}
 
             {% if tutorial.abstract %}
                 <div id="{{ tutorial.id }}" class="wrap-collabsible"> <input id="collapsible{{ tutorial.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ tutorial.id }}" class="lbl-toggle">Abstract</label>
