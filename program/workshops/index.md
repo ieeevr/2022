@@ -183,7 +183,7 @@ INVITED MISSING
                 {% unless workshop.url %}
                     <p>
                 {% endunless %}
-                <small><b style="color: black;">Discord URL:</b> <a href="{{ tutorial.discordurl }}" target="_blank">{{ tutorial.discordurl }}</a></small></p>
+                <small><b style="color: black;">Discord URL:</b> <a href="{{ workshop.discordurl }}" target="_blank">{{ workshop.discordurl }}</a></small></p>
             {% endif %}
 
             {% if workshop.abstract %}
