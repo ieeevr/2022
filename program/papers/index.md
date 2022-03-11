@@ -190,7 +190,7 @@ SORRY FOR THE NESTING, I HAD TO DO SOME DEBUGGING
                 <p><small><b style="color: black;">Session Chair:</b> {{ session.sessionchair }}</small></p>
             {% endif %}
             {% if session.discordurl %}
-                <p><small><b style="color: black;">Discord URL:</b> {{ session.discordurl }}</small></p>
+                <p><small><b style="color: black;">Discord URL:</b> <a href="{{ session.discordurl }}" target="_blank">{{ session.discordurl }}</a></small></p>
             {% endif %}
     
             <!-- TAKE ME TO THE EVENT START -->
