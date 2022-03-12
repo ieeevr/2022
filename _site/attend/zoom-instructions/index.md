@@ -264,13 +264,13 @@ title_separator: "|"
     <h1>Zoom Events Instructions</h1>
 
     <div>
-        <br>
         <div style="">
         <center>
             <p style="font-size: 20px;">
                 <a href="https://events.zoom.us/ev/AMhPE42qSa3t0DDhNEdVpwntLRhotRRpkXfFrCuFaDN7WNQXQHbMvw2fnfGgpsnKf27gWYU" class="btn btn--primary" style="" download>Click here to join the Zoom event</a>
             </p>
         </center>
+        </div>
     </div>
 
     <p>
@@ -286,8 +286,9 @@ title_separator: "|"
         <h2>Joining the Zoom Event</h2>
 
         <p>
-            All sessions will be accessed through the Zoom Events hub, joinable via the link above. <strong>If you are registered as a speaker or panelist for conference 
-            you should have also received an email invitation; please ensure that you accept this invitation prior to accessing the Zoom hub.</strong>
+            All sessions will be accessed through the Zoom Events hub, joinable via the link above. <strong>If you are registered as a speaker or panelist for the conference 
+            you should have also received an email invitation; please ensure that you accept this invitation prior to accessing the Zoom hub.</strong> Workshop presenters 
+            do not need to worry about this step and can access the above Zoom link as normal.
         </p>
 
         <p>

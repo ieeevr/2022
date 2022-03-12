@@ -264,13 +264,13 @@ title_separator: "|"
     <h1>Zoom Events Instructions</h1>
 
     <div>
-        <br>
         <div style="">
         <center>
             <p style="font-size: 20px;">
                 <a href="https://events.zoom.us/ev/AMhPE42qSa3t0DDhNEdVpwntLRhotRRpkXfFrCuFaDN7WNQXQHbMvw2fnfGgpsnKf27gWYU" class="btn btn--primary" style="" download>Click here to join the Zoom event</a>
             </p>
         </center>
+        </div>
     </div>
 
     <p>
