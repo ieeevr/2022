@@ -411,6 +411,11 @@ title_separator: "|"
     <strong style="color: rgb(255, 45, 85);">All times are given in New Zealand local time (UTC +13). Please note that these times are subject to change.
     More details will be made available closer to the conference date.</strong>
 </div>
+
+<div class="notice--warning">
+    <strong style="color: rgb(255, 45, 85);">Please note that those in the US are currently seeing an error in the clock above. If you are unsure, please either check the program on Zoom 
+    for the correct time, or <a href="https://www.timeanddate.com/worldclock/new-zealand/auckland">Verify the current NZDT time here</a>.</strong>
+</div>
 <!--<div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
     <strong>Locations</strong>
     <p>
