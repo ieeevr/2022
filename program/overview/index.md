@@ -414,7 +414,7 @@ title_separator: "|"
 
 <div class="notice--warning">
     <strong style="color: rgb(255, 45, 85);">Please note that those in the US are currently seeing an error in the clock above. If you are unsure, please either check the program on Zoom 
-    for the correct time, or <a href="https://www.timeanddate.com/worldclock/new-zealand/auckland">Verify the current NZDT time here</a>.</strong>
+    for the correct time, or <a href="https://www.timeanddate.com/worldclock/new-zealand/auckland">verify the current NZDT time here</a>.</strong>
 </div>
 <!--<div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
     <strong>Locations</strong>
