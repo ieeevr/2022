@@ -489,12 +489,12 @@
                     <a href=/program/workshops/>Workshops</a>
                     <a href=/program/tutorials/>Tutorials</a>
                     <a href=/program/panels/>Panels</a>
+                    <a href=/program/posters/>Posters</a>
+                    <a href=/program/demos/>Demos</a>
                     <a href=/program/3dui-contest/>3DUI Contest Entries</a>
                     <a href=/program/doctoral-consortium/>Doctoral Consortium</a>
                     <!--<a href=/program/exhibitors/>Exhibitors and Sponsors</a>
                     <a href=/program/plenary-sessions/>Plenary Sessions</a>
-                    <a href=/program/posters/>Posters</a>
-                    <a href=/program/demos/>Demos</a>
                     <a href=/program/videos/>Videos</a>
                     <a href=/program/bofs/>Birds of a Feather</a>-->
 
@@ -572,7 +572,7 @@
     .styled-table {
         border-collapse: collapse;
         margin: 25px 0;
-        font-size: 0.8em;
+        font-size: 0.9em;
         font-family: sans-serif;
         /*min-width: 400px;*/
         box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
@@ -580,7 +580,7 @@
     }
 
     .styled-table thead tr {
-        background-color: #00aeef;
+        background-color: #fec10d;
         color: #ffffff;
         text-align: left;
     }
@@ -595,18 +595,19 @@
     }
 
     .styled-table tbody tr:nth-of-type(even) {
-        background-color: #f3f3f3;
+        background-color: #fffbed;
     }
 
     .styled-table tbody tr:last-of-type {
-        border-bottom: 2px solid #00aeef;
+        border-bottom: 2px solid #fec10d;
     }
 
     .styled-table tbody tr.active-row {
         font-weight: bold;
-        color: #00aeef;
+        color: #fec10d;
     }
 
+    /* Collapsible */
     input[type='checkbox'] {
         display: none;
     }
@@ -619,10 +620,10 @@
         display: block;
         font-weight: bold;
         /* font-family: monospace; */
-        font-size: 1rem;
+        font-size: 0.8rem;
         text-align: left;
-        padding: 0.1rem;
-        color: #00aeef;
+        padding: 0rem;
+        color: #fec10d;
         background: #ffffff;
         cursor: pointer;
         border-radius: 7px;
@@ -677,6 +678,27 @@
         margin-bottom: 0;
     }
     
+    /* video container */
+    .video-container {
+        overflow: hidden;
+        position: relative;
+        width: 100%;
+    }
+
+    .video-container::after {
+        padding-top: 56.25%;
+        /* 75% if 4:3*/
+        display: block;
+        content: '';
+    }
+
+    .video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
 </style>
 
 <div>
@@ -687,59 +709,59 @@
         </tr>
         
         <tr>
-            <td style="font-size: 0.9em;"><a href="#PO1016">Boarding Sensation Presentation of the Biped Walking Robot with a Low-cost Two-axis Motion Platform</a></td>
+            <td style="font-size: 0.9em;"><a href="#PO1002">Distant Hand Interaction Framework in Augmented Reality</a></td>
         </tr>
         
         <tr>
-            <td style="font-size: 0.9em;"><a href="#PO1017">Virtual Equipment System: Face Mask and Voodoo Doll for User Privacy and Self-Expression Options in Virtual Reality</a></td>
+            <td style="font-size: 0.9em;"><a href="#PO1003">Mid-air Haptic Texture Exploration in VR</a></td>
         </tr>
         
         <tr>
-            <td style="font-size: 0.9em;"><a href="#PO1019">Demonstrating High-Precision and High-Fidelity Digital Inking for Virtual Reality</a></td>
+            <td style="font-size: 0.9em;"><a href="#PO1008">We Are Oulu: Exploring Situated Empathy through a Communal Virtual Reality Experience</a></td>
         </tr>
         
         <tr>
-            <td style="font-size: 0.9em;"><a href="#PO1020">Virtual Reality for Remote Controlled Robotics in Engineering Education</a></td>
+            <td style="font-size: 0.9em;"><a href="#PO1011">Asymmetric interfaces with stylus and gesture for VR sketching</a></td>
         </tr>
         
         <tr>
-            <td style="font-size: 0.9em;"><a href="#PO1021">Development of a Virtual Reality Assessment of Visuospatial Function and Oculomotor Control</a></td>
+            <td style="font-size: 0.9em;"><a href="#PO1012">Pixel Processor Arrays For Low Latency Gaze Estimation</a></td>
         </tr>
         
         <tr>
-            <td style="font-size: 0.9em;"><a href="#PO1022">A Real-time approach to improve drilling decision-making process using virtual reality visualizations</a></td>
+            <td style="font-size: 0.9em;"><a href="#PO1013">Aroaro - A Tool for Distributed Immersive Mixed Reality Visualization</a></td>
         </tr>
         
         <tr>
-            <td style="font-size: 0.9em;"><a href="#PO1024">Shared Augmented Reality Experience Between a Microsoft Flight  Simulator User and a User in the Real World</a></td>
+            <td style="font-size: 0.9em;"><a href="#PO1014">3DColAR: Exploring 3D Colour Selection and Surface Painting for Head Worn AR using Hand Gestures</a></td>
         </tr>
         
         <tr>
-            <td style="font-size: 0.9em;"><a href="#PO1024b">Real-time Mixed Reality Teleconsultation for Intensive Care Units in Pandemic Situations</a></td>
+            <td style="font-size: 0.9em;"><a href="#PO1015">B-Handy: An Augmented Reality System for Biomechanical Measurement</a></td>
         </tr>
         
         <tr>
-            <td style="font-size: 0.9em;"><a href="#PO1025">Turning a Messy Room into a Fully Immersive VR Playground</a></td>
+            <td style="font-size: 0.9em;"><a href="#PO1016">ORUN - A Virtual reality serious-game for kinematics learning</a></td>
         </tr>
         
         <tr>
-            <td style="font-size: 0.9em;"><a href="#PO1026">Demonstrating Rapid Touch Interaction in Virtual Reality through Wearable Touch Sensing</a></td>
+            <td style="font-size: 0.9em;"><a href="#PO1017">Demonstrating Immersive Gesture Exploration with GestureExplorer</a></td>
         </tr>
         
         <tr>
-            <td style="font-size: 0.9em;"><a href="#PO1027">Virtual Control Interface: Discover and Control IoT devicesintuitively through AR glasses with Multi-model Interactions</a></td>
+            <td style="font-size: 0.9em;"><a href="#PO1020">NUX IVE - a research tool for comparing voice user interface and graphical user interface in VR</a></td>
         </tr>
         
         <tr>
-            <td style="font-size: 0.9em;"><a href="#PO2029">Revealable Volume Displays: 3D Exploration of Mixed-Reality Public Exhibitions</a></td>
+            <td style="font-size: 0.9em;"><a href="#PO1021">Feeding the fish: Interaction design to support listening to accounts of marginalization</a></td>
         </tr>
         
         <tr>
-            <td style="font-size: 0.9em;"><a href="#PO2278">Magnoramas</a></td>
+            <td style="font-size: 0.9em;"><a href="#PO1022">Intelligence Visualization for Wave Energy Power Generation</a></td>
         </tr>
         
         <tr>
-            <td style="font-size: 0.9em;"><a href="#PO2308">Visualizing Planetary Spectroscopy through Immersive On-site Rendering</a></td>
+            <td style="font-size: 0.9em;"><a href="#PO1024">Liquid digital twins based on magnetic fluid toy</a></td>
         </tr>
         
     </table>
@@ -747,7 +769,7 @@
 
 <div>
 <!-- TAKE ME TO THE EVENT START -->
-    
+    <!--
     
     
     
@@ -930,10 +952,11 @@
     
     
     
-    
+    -->
     <!-- TAKE ME TO THE EVENT END-->
 </div>
 
+<!--
 <div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
     <strong>Best of IEEE VR 2021</strong>
     <p>
@@ -944,265 +967,272 @@
             <a href="https://cutt.ly/Mx0n5Zu" class="btn btn--primary" style="color: white;" target="_blank">Vote!</a>
         </p>
     </center>
-</div>
+</div>-->
 
 <div>
     
     
-    <h3 id="PO1016">Boarding Sensation Presentation of the Biped Walking Robot with a Low-cost Two-axis Motion Platform</h3>
-    <p><i>Kyosuke Mori: Hiroshima City University; Wataru Wakita: Hiroshima City University</i></p>
+    <h3 id="PO1002">Distant Hand Interaction Framework in Augmented Reality</h3>
+    <p><i>Jesus Ugarte, Nahal Norouzi, Austin Erickson, Gerd Bruder, Greg Welch</i></p>
     
-<p> <small><strong style="color: black;"> Booth: C23 - Expo Hall B </strong></small> <br /> </p>    
+<p> <small><strong style="color: black;"> Booth: C27 - Expo Hall A </strong></small> <br /> </p>    
     
     
-        <p>Teaser Video: <a href="https://youtu.be/oQlC2pOd7SM" target="_blank">Watch Now</a></p>
+        <p>Teaser Video: <a href="https://www.youtube.com/watch?v=OD97erd3lxI" target="_blank">Watch Now</a></p>
+    
+    
+    <div id="PO1002" class="wrap-collabsible"> <input id="collapsiblePO1002" class="toggle" type="checkbox" /> <label for="collapsiblePO1002" class="lbl-toggle">Abstract</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <p>Recent augmented reality (AR) head-mounted displays support shared multi-user experiences, with past research studying the enhancement of interpersonal communication cues. However, less is known about distant interaction in AR and, in particular, distant communication. In this demonstration, we present a research framework for distant hand interaction in AR, including different techniques for hand communication, such as distant communication through symbolic hand gestures and distant drawing.</p>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+    <h3 id="PO1003">Mid-air Haptic Texture Exploration in VR</h3>
+    <p><i>Orestis Georgiou, Jonatan Martinez, Abdenaceur Abdouni, Adam Harwood</i></p>
+    
+<p> <small><strong style="color: black;"> Booth: C32 - Expo Hall A </strong></small> <br /> </p>    
+    
+    
+        <p>Teaser Video: <a href="https://youtu.be/ABAt3CF6XxU" target="_blank">Watch Now</a></p>
+    
+    
+    <div id="PO1003" class="wrap-collabsible"> <input id="collapsiblePO1003" class="toggle" type="checkbox" /> <label for="collapsiblePO1003" class="lbl-toggle">Abstract</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <p>Mid-air haptic feedback has traditionally been used to enhance gesture input interactions. Here we present a VR research demo that expands such interactions to include for active haptic exploration. In the demo, the user can explore a virtual object using both hands and feel its intrinsic properties such as consistency and texture. The paper describes the physical apparatus used, the haptic rendering techniques leveraged, and the demo's relevance to applications such as VR shopping.</p>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+    <h3 id="PO1008">We Are Oulu: Exploring Situated Empathy through a Communal Virtual Reality Experience</h3>
+    <p><i>Mohammad Sina Kiarostami, Aku Visuri, Simo Hosio</i></p>
+    
+<p> <small><strong style="color: black;"> Booth: C26 - Expo Hall A </strong></small> <br /> </p>    
+    
+    
+        <p>Teaser Video: <a href="https://www.youtube.com/watch?v=nWQQBg16_xo" target="_blank">Watch Now</a></p>
+    
+    
+    <div id="PO1008" class="wrap-collabsible"> <input id="collapsiblePO1008" class="toggle" type="checkbox" /> <label for="collapsiblePO1008" class="lbl-toggle">Abstract</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <p>In this research, we explore and measure situated empathy. We focus on the hardships of an international community in a foreign country using a virtual reality experiment. Our aim is to facilitate a better understanding of an international community's quality of life and unique difficulties in a society. To this end, we designed a VR experiment with three main stages: data collection, a pre-experiment questionnaire and a post-experiment questionnaire with a concluding interview.</p>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+    <h3 id="PO1011">Asymmetric interfaces with stylus and gesture for VR sketching</h3>
+    <p><i>Qianyuan Zou, Huidong Bai, Lei Gao, Allan Fowler, Mark Billinghurst</i></p>
+    
+<p> <small><strong style="color: black;"> Booth: C33 - Expo Hall A </strong></small> <br /> </p>    
+    
+    
+        <p>Teaser Video: <a href="https://youtu.be/fLlSrU3GpkA" target="_blank">Watch Now</a></p>
+    
+    
+    <div id="PO1011" class="wrap-collabsible"> <input id="collapsiblePO1011" class="toggle" type="checkbox" /> <label for="collapsiblePO1011" class="lbl-toggle">Abstract</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <p>Virtual Reality (VR) can be used for design and artistic applications. However, traditional symmetrical input devices are not specifically designed as creative tools and may not fully meet artist needs. In this demonstration, we present a variety of tool-based asymmetric VR interfaces to assist artists to create artwork with better performance and easier effort. We conducted a pilot study showing that most users prefer to create art with different tools in both hands.</p>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+    <h3 id="PO1012">Pixel Processor Arrays For Low Latency Gaze Estimation</h3>
+    <p><i>Laurie Bose, Piotr Dudek, Stephen Carey, Jianing Chen</i></p>
+    
+<p> <small><strong style="color: black;"> Booth: C25 - Expo Hall A </strong></small> <br /> </p>    
+    
+    
+        <p>Teaser Video: <a href="https://youtu.be/x2Ac1Y8hhW4" target="_blank">Watch Now</a></p>
+    
+    
+    <div id="PO1012" class="wrap-collabsible"> <input id="collapsiblePO1012" class="toggle" type="checkbox" /> <label for="collapsiblePO1012" class="lbl-toggle">Abstract</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <p>We demonstrate gaze tracking at over 10,000 Hz, with processing latency below 0.1 ms via use of a Pixel Processor Array (PPA) vision sensor. The PPA allows visual data to be processed efficiently at the point of light capture. By extracting features used for gaze tracking upon the PPA, we reduce data transfer from sensor to processing from entire images to a hand-full of contextual bytes, saving significant power, time and allowing for frame-rates far exceeding traditional camera sensors.</p>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+    <h3 id="PO1013">Aroaro - A Tool for Distributed Immersive Mixed Reality Visualization</h3>
+    <p><i>Fernando Beltr&aacute;n, David C White, Jing Geng</i></p>
+    
+<p> <small><strong style="color: black;"> Booth: C34 - Expo Hall A </strong></small> <br /> </p>    
+    
+    
+    
+    <div id="PO1013" class="wrap-collabsible"> <input id="collapsiblePO1013" class="toggle" type="checkbox" /> <label for="collapsiblePO1013" class="lbl-toggle">Abstract</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <p>In this research demo we present three immersive scenarios on three XR modalities - VR, immersive AR on HoloLens and 2D AR on Android. 
+These scenarios are a network of Harry Potter characters in VR, a map-based visualization of a soldier's history with rich attributes including images and sound on HoloLens, and a visualization of car racing on Android. 
+These visualizations have been created with Aroaro our distributed mixed reality data visualization tool.</p>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+    <h3 id="PO1014">3DColAR: Exploring 3D Colour Selection and Surface Painting for Head Worn AR using Hand Gestures</h3>
+    <p><i>Louise M Lawrence. Gun Lee, Mark Billinghurst, Damien Rompapas</i></p>
+    
+<p> <small><strong style="color: black;"> Booth:  -  </strong></small> <br /> </p>    
+    
+    
+        <p>Teaser Video: <a href="https://youtu.be/PGOm-8Vf3Po" target="_blank">Watch Now</a></p>
+    
+    
+    <div id="PO1014" class="wrap-collabsible"> <input id="collapsiblePO1014" class="toggle" type="checkbox" /> <label for="collapsiblePO1014" class="lbl-toggle">Abstract</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <p>Color selection and surface painting has been largely unexplored in head-worn AR using hand gestures. We present a system with two key approaches for painting a virtual 3D model using mid- air hand gestures. This includes a virtual pen which the user can grasp using their hand, and the use of the user's fingertip directly. We hope to explore how the various techniques effect users when performing surface painting of virtual objects using mid-air hand gestures via. several user 
+studies.</p>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+    <h3 id="PO1015">B-Handy: An Augmented Reality System for Biomechanical Measurement</h3>
+    <p><i>James O Campbell, Alvaro Cassinelli, Daniel Saakes, Damien Rompapas</i></p>
+    
+<p> <small><strong style="color: black;"> Booth:  -  </strong></small> <br /> </p>    
+    
+    
+        <p>Teaser Video: <a href="https://www.youtube.com/watch?v=AZOsmsZHv3U" target="_blank">Watch Now</a></p>
+    
+    
+    <div id="PO1015" class="wrap-collabsible"> <input id="collapsiblePO1015" class="toggle" type="checkbox" /> <label for="collapsiblePO1015" class="lbl-toggle">Abstract</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <p>The study of Bio-mechanics allows us to infer measurements without measuring tools. A limitation comes from the complex mental transformations of space involved. The efficiency of this task degrades the larger these measurements become. We present a system that offloads this mental workload by providing visual transformations of space in the form of tracking and duplicating the user's hand in AR.</p>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+    <h3 id="PO1016">ORUN - A Virtual reality serious-game for kinematics learning</h3>
+    <p><i>Jhasmani Tito, Regina Moraes, Tania Basso</i></p>
+    
+<p> <small><strong style="color: black;"> Booth:  -  </strong></small> <br /> </p>    
+    
+    
+        <p>Teaser Video: <a href="https://youtu.be/B2Ay-LsVHkA" target="_blank">Watch Now</a></p>
     
     
     <div id="PO1016" class="wrap-collabsible"> <input id="collapsiblePO1016" class="toggle" type="checkbox" /> <label for="collapsiblePO1016" class="lbl-toggle">Abstract</label>
         <div class="collapsible-content">
             <div class="content-inner">
-                <p>We render a boarding sensation of a biped robot at low cost and high immersive by approximate the 6-DOF motion such as the impact, vibration, and steep slope experienced on boarding a biped robot to a 2-DOF rolling motion at max ± 25 degrees in both at pitch and roll directions with our low-cost two-axis motion platform.</p>
+                <p>Virtual Reality is one of the new educational technologies that has an imperative importance due to the possibilities that it offers, such as bringing hands-on experiences for learning physics phenomena. This demo is a serious game, based on VR, and focused on learning of specific concepts of kinematics. The game is intended to deliver an immersive experience in which the student has an active role and whose game design includes theoretical concepts to maintain engagement throughout the tasks.</p>
             </div>
         </div>
     </div>
     
     
     
-    <h3 id="PO1017">Virtual Equipment System: Face Mask and Voodoo Doll for User Privacy and Self-Expression Options in Virtual Reality</h3>
-    <p><i>Powen Yao: University of Southern California; Vangelis Lympouridis: USC; Michael Zyda: USC</i></p>
+    <h3 id="PO1017">Demonstrating Immersive Gesture Exploration with GestureExplorer</h3>
+    <p><i>Ang Li, Jiazhou Liu, Maxime Cordeil, Barrett Ens</i></p>
     
-<p> <small><strong style="color: black;"> Booth: C26 - Expo Hall A </strong></small> <br /> </p>    
+<p> <small><strong style="color: black;"> Booth:  -  </strong></small> <br /> </p>    
     
     
-        <p>Teaser Video: <a href="https://www.youtube.com/watch?v=RazSyF9W1nU&amp;t=3s" target="_blank">Watch Now</a></p>
+        <p>Teaser Video: <a href="https://youtu.be/Kq9APfo7DFc" target="_blank">Watch Now</a></p>
     
     
     <div id="PO1017" class="wrap-collabsible"> <input id="collapsiblePO1017" class="toggle" type="checkbox" /> <label for="collapsiblePO1017" class="lbl-toggle">Abstract</label>
         <div class="collapsible-content">
             <div class="content-inner">
-                <p>Current trends in immersive technologies suggest an increase in capturing user’s data to drive interactions and avatar representations. With growing numbers of data types being collected, users need an easy way to view and control their privacy settings. In this demo, we present a method for users to adjust options related to privacy settings, user data collection, and self-expression through the use of 3D user interface metaphors such as a mask and a voodoo doll.</p>
+                <p>We demonstrate GestureExplorer, which features versatile immersive visualisations to grant the user free control over their perspective, allowing them to gain a better understanding of gestures. It provides multiple data visualisation views, and interactive features to support analysis and exploration of gesture data sets. This demonstration shows the potential of GestureExplorer for providing a useful and engaging experience for exploring gesture data.</p>
             </div>
         </div>
     </div>
     
     
     
-    <h3 id="PO1019">Demonstrating High-Precision and High-Fidelity Digital Inking for Virtual Reality</h3>
-    <p><i>Hugo Romat: ETH Zurich; Andreas Rene Fender: ETH; Manuel Meier: ETH Zürich; Christian Holz: ETH Zürich</i></p>
+    <h3 id="PO1020">NUX IVE - a research tool for comparing voice user interface and graphical user interface in VR</h3>
+    <p><i>Karolina Buchta, Piotr W&oacute;jcik, Mateusz Pelc, Agnieszka G&oacute;rowska, Duarte Mota, Kostiantyn Boichenko, Konrad Nakonieczny, Krzysztof Wrona, Marta Szymczyk, Tymoteusz Czuchnowski, Justyna Janicka, Damian Ga?uszka, Rados?aw Sterna, Magdalena Igras-Cybulska</i></p>
     
-<p> <small><strong style="color: black;"> Booth: C28 - Expo Hall B </strong></small> <br /> </p>    
-    
-    
-    
-    <div id="PO1019" class="wrap-collabsible"> <input id="collapsiblePO1019" class="toggle" type="checkbox" /> <label for="collapsiblePO1019" class="lbl-toggle">Abstract</label>
-        <div class="collapsible-content">
-            <div class="content-inner">
-                <p>Digital pen interaction has become a first-class input modality for precision tasks such as writing, annotating, and drawing. In Virtual Reality, however, input is largely detected using cameras which does not nearly reach the fidelity we achieve with analog handwriting. In this paper, we present Flashpen, a digital pen for VR whose sensing principle affords accurately digitizing hand-writing.</p>
-            </div>
-        </div>
-    </div>
+<p> <small><strong style="color: black;"> Booth:  -  </strong></small> <br /> </p>    
     
     
-    
-    <h3 id="PO1020">Virtual Reality for Remote Controlled Robotics in Engineering Education</h3>
-    <p><i>Andrew Rukangu: University of Georgia; Alexander James Tuttle: University of Georgia; Kyle Johnsen: University of Georgia</i></p>
-    
-<p> <small><strong style="color: black;"> Booth: C23 - Expo Hall A </strong></small> <br /> </p>    
-    
+        <p>Teaser Video: <a href="https://www.youtube.com/watch?v=vgwrknpn5tY" target="_blank">Watch Now</a></p>
     
     
     <div id="PO1020" class="wrap-collabsible"> <input id="collapsiblePO1020" class="toggle" type="checkbox" /> <label for="collapsiblePO1020" class="lbl-toggle">Abstract</label>
         <div class="collapsible-content">
             <div class="content-inner">
-                <p>There is a high demand for high-end lab equipment in engineering education, especially for courses that require practical hands-on lab exercises. However, this equipment is quite expensive which forces some institutions to seek other alternatives or forego them altogether. In this work, use virtual and augmented reality to build and test a remote UR-10 based robotics lab that allows students to work together on a hands-on robotics-based lab.</p>
+                <p>We introduce a new IVE designed to compare user interaction between the mode with traditional graphical user interface (GUI) with the mode in which every element of interface is replaced by voice user interface (VUI). In each version, 4 scenarios of interaction with a virtual assistant in a sci-fi location are implemented, each of them lasting several minutes. The IVE is supplemented with tools for automatic generating reports on user behavior (clicktracking, audiotracking and eyetracking).</p>
             </div>
         </div>
     </div>
     
     
     
-    <h3 id="PO1021">Development of a Virtual Reality Assessment of Visuospatial Function and Oculomotor Control</h3>
-    <p><i>Garima Adlakha: University of Southern California; Sanya Singh: University of Southern California; Kranthi Nuthalapati: University of Southern California; Apoorva Aravind Patil: University of Southern California; Prajakta Khandve: University of Southern California; Pushpak Bhattacharyya: University of Southern California; Saravanan Manoharan: University of Southern California; Sanjay Mallasamudram Santhanam: University of Southern California; Isaiah J Lachica: University of Southern California; James M. Finley: University of Southern California; Vangelis Lympouridis: USC</i></p>
+    <h3 id="PO1021">Feeding the fish: Interaction design to support listening to accounts of marginalization</h3>
+    <p><i>Dylan Par&eacute;, John Craig, Scout Windsor</i></p>
     
-<p> <small><strong style="color: black;"> Booth: C22 - Expo Hall A </strong></small> <br /> </p>    
+<p> <small><strong style="color: black;"> Booth:  -  </strong></small> <br /> </p>    
     
     
-        <p>Teaser Video: <a href="https://www.youtube.com/watch?v=i_oVs7FsGFg" target="_blank">Watch Now</a></p>
+        <p>Teaser Video: <a href="https://youtu.be/orsG09QrLbs" target="_blank">Watch Now</a></p>
     
     
     <div id="PO1021" class="wrap-collabsible"> <input id="collapsiblePO1021" class="toggle" type="checkbox" /> <label for="collapsiblePO1021" class="lbl-toggle">Abstract</label>
         <div class="collapsible-content">
             <div class="content-inner">
-                <p>This demo uses Virtual Reality (VR) to assess cognitive function in people with Parkinson's disease. We developed a VR-based assessment that combines simple game mechanics with components of the Trail Making Test. We collect performance metrics and gaze analytics during gameplay using the HTC Vive Pro Eye system. Ultimately, this data will allow clinicians and researchers to characterize cognitive and visuomotor deficits in people with neurological impairments such as Parkinson's disease.</p>
+                <p>We present a study using a virtual reality experience designed to deepen understanding of gender and sexuality-based marginalization in STEM fields as complex experiences with individual and systemic dimensions. Our design supports learners to remain engaged in listening to and learning about the marginalized other. Our analysis describes how participants reflect upon and use the interactions to move through the difficulties of listening to another's stories of marginalization.</p>
             </div>
         </div>
     </div>
     
     
     
-    <h3 id="PO1022">A Real-time approach to improve drilling decision-making process using virtual reality visualizations</h3>
-    <p><i>Thiago Malheiros Porcino: SENAI ISI SVP - Firjan; Márcia M. Dórea: SENAI ISI SVP - Firjan; Diego Barboza: SENAI ISI SVP - Firjan; Wesley Oliveira: SENAI ISI SVP - Firjan; Eric Romani: SENAI ISI SVP - Firjan; Fernando Perin Munerato: Repsol Sinopec Brazil; João H. Batista: Repsol Sinopec Brazil</i></p>
+    <h3 id="PO1022">Intelligence Visualization for Wave Energy Power Generation</h3>
+    <p><i>Xiaocheng Liu, Yuqi Liu, Jinkang Guo, Ranran Lou, Zhihan Lv</i></p>
     
-<p> <small><strong style="color: black;"> Booth: C27 - Expo Hall A </strong></small> <br /> </p>    
+<p> <small><strong style="color: black;"> Booth:  -  </strong></small> <br /> </p>    
     
     
-        <p>Teaser Video: <a href="https://www.youtube.com/watch?v=emN2dskuOLg" target="_blank">Watch Now</a></p>
+        <p>Teaser Video: <a href="https://youtu.be/5Zs8tyV4MyM" target="_blank">Watch Now</a></p>
     
     
     <div id="PO1022" class="wrap-collabsible"> <input id="collapsiblePO1022" class="toggle" type="checkbox" /> <label for="collapsiblePO1022" class="lbl-toggle">Abstract</label>
         <div class="collapsible-content">
             <div class="content-inner">
-                <p>Virtual reality (VR) is one of the key Industry 4.0 trends and is being largely used for training and simulations. A VR environment can reduce training and drilling analysis costs, and help operators and coordinators to monitor the trajectory and other operational variables during the drilling process. This paper presents Divisor, a virtual reality tool for monitoring variables and analyzing historical and real-time data while drilling a new oil well.</p>
+                <p>Ocean waves provide a large amount of renewable energy, and Wave energy converter (WEC) can convert wave energy into electric energy with the linear motion of waves. This paper proposes a visualization platform for wave power generation. The platform can intelligently allocate power generation equipment based on the power generation forecast data to achieve precise matching of power generation and power consumption, thereby improving overall power generation efficiency.</p>
             </div>
         </div>
     </div>
     
     
     
-    <h3 id="PO1024">Shared Augmented Reality Experience Between a Microsoft Flight  Simulator User and a User in the Real World</h3>
-    <p><i>Christoph Leuze: Nakamir Inc; Matthias Leuze: Alpinschule Innsbruck</i></p>
+    <h3 id="PO1024">Liquid digital twins based on magnetic fluid toy</h3>
+    <p><i>Yuqi Liu, Zengxu Bian, Xiaocheng Liu, Zhihan Lv</i></p>
     
-<p> <small><strong style="color: black;"> Booth: C21 - Expo Hall A </strong></small> <br /> </p>    
-    
-    
-        <p>Teaser Video: <a href="https://youtu.be/ngPJNtdsviU" target="_blank">Watch Now</a></p>
-    
-    
-    <div id="PO1024" class="wrap-collabsible"> <input id="collapsiblePO1024" class="toggle" type="checkbox" /> <label for="collapsiblePO1024" class="lbl-toggle">Abstract</label>
-        <div class="collapsible-content">
-            <div class="content-inner">
-                <p>Our demo consists of an application that allows a user with an AR display (smartphone or Hololens 2) to watch another user, flying an airplane in the Microsoft Flight Simulator 2020 (MSFS), at their respective location in the real world. To do that, we take the location of a plane in MSFS, and stream it via a server to a mobile AR device. The mobile device user can then see the same 3D plane model move at exactly that real world location, that corresponds to the plane’s virtual MSFS location.</p>
-            </div>
-        </div>
-    </div>
-    
-    
-    
-    <h3 id="PO1024b">Real-time Mixed Reality Teleconsultation for Intensive Care Units in Pandemic Situations</h3>
-    <p><i>Daniel Roth (Computer Aided Medical Procedures and Augmented Reality); Kevin Yu (Research Group MITI); Frieder Pankratz (LMU); Gleb Gorbachev (Computer Aided Medical Procedures and Augmented Reality); Andreas Keller (Computer Aided Medical Procedures and Augmented Reality); Marc Lazarovici (Institut für Notfallmedizin); Dirk Wilhelm (Research Group MITI); Simon Weidert (Orthopedic Trauma Surgery, Ludwig-Maximillian University); Nassir Nawab (Computer Aided Medical Procedures and Augmented Reality); Ulrich Eck: Computer Aided Medical Procedures and Augmented Reality</i></p>
-    
-<p> <small><strong style="color: black;"> Booth: C27 - Expo Hall B </strong></small> <br /> </p>    
-    
-    
-    
-    <div id="PO1024b" class="wrap-collabsible"> <input id="collapsiblePO1024b" class="toggle" type="checkbox" /> <label for="collapsiblePO1024b" class="lbl-toggle">Abstract</label>
-        <div class="collapsible-content">
-            <div class="content-inner">
-                <p>This demo depicts a COVID-19 ICU station patient visit. Through our system, remote experts can join a COVID -19 ICU patient visit without physically moving in the hospital, which avoids gatherings and personnel traffic and optimizes resources.</p>
-            </div>
-        </div>
-    </div>
-    
-    
-    
-    <h3 id="PO1025">Turning a Messy Room into a Fully Immersive VR Playground</h3>
-    <p><i>Naoki Matsuo: Kwansei Gakuin University; Masataka Imura: Kwansei Gakuin University</i></p>
-    
-<p> <small><strong style="color: black;"> Booth: C22 - Expo Hall B </strong></small> <br /> </p>    
-    
-    
-        <p>Teaser Video: <a href="https://www.youtube.com/watch?v=JQmwr8seeIM&amp;t=9s" target="_blank">Watch Now</a></p>
-    
-    
-    <div id="PO1025" class="wrap-collabsible"> <input id="collapsiblePO1025" class="toggle" type="checkbox" /> <label for="collapsiblePO1025" class="lbl-toggle">Abstract</label>
-        <div class="collapsible-content">
-            <div class="content-inner">
-                <p>In this study, to enable a VR experience with an HMD even in a space with obstacles, we constructed a reality-based VR space in real time that does not impair the worldview even in a space with obstacles. In addition, we aim to construct a VR space that is easier to recognize by classifying ``objects that are boundaries of space'' and ``ordinary obstacles'' using a deep learning network and superimposing virtual objects corresponding to each type of real object.</p>
-            </div>
-        </div>
-    </div>
-    
-    
-    
-    <h3 id="PO1026">Demonstrating Rapid Touch Interaction in Virtual Reality through Wearable Touch Sensing</h3>
-    <p><i>Manuel Meier: ETH Zürich; Paul Streli: ETH Zürich; Andreas Rene Fender: ETH Zürich; Christian Holz: ETH Zürich</i></p>
-    
-<p> <small><strong style="color: black;"> Booth: C26 - Expo Hall B </strong></small> <br /> </p>    
-    
-    
-        <p>Teaser Video: <a href="https://www.youtube.com/watch?v=cZl_Sn2dhZY" target="_blank">Watch Now</a></p>
-    
-    
-    <div id="PO1026" class="wrap-collabsible"> <input id="collapsiblePO1026" class="toggle" type="checkbox" /> <label for="collapsiblePO1026" class="lbl-toggle">Abstract</label>
-        <div class="collapsible-content">
-            <div class="content-inner">
-                <p>We bring quick touch interaction to Virtual Reality, illustrating the beneficial use of rapid tapping, typing, and surface gestures for Virtual Reality. The productivity scenarios that become possible are reminiscent of apps that exist on today's tablets. We use a wrist-worn prototype to complement the optical hand tracking from VR headsets with inertial sensing to detect touch events on surfaces. Our demonstration comprises UI control in word processors, web browsers, and document editors.</p>
-            </div>
-        </div>
-    </div>
-    
-    
-    
-    <h3 id="PO1027">Virtual Control Interface: Discover and Control IoT devicesintuitively through AR glasses with Multi-model Interactions</h3>
-    <p><i>Zezhen Xu: University of Southern California; Vangelis Lympouridis: USC</i></p>
-    
-<p> <small><strong style="color: black;"> Booth: C25 - Expo Hall A </strong></small> <br /> </p>    
-    
-    
-        <p>Teaser Video: <a href="https://youtu.be/K3CGRsZ1sqc" target="_blank">Watch Now</a></p>
-    
-    
-    <div id="PO1027" class="wrap-collabsible"> <input id="collapsiblePO1027" class="toggle" type="checkbox" /> <label for="collapsiblePO1027" class="lbl-toggle">Abstract</label>
-        <div class="collapsible-content">
-            <div class="content-inner">
-                <p>The number of smart home devices will increase exponentially. The current Internet of Things (IoT) control interfaces on smartphones are spatially separated from the devices they operate, making them less intuitive and progressively more complicated. We developed VCI, a Virtual Reality (VR) simulation for HCI researchers to explore multimodal interactions with IoT in a future smart home setting using virtual control interfaces projected on emulated AR glasses.</p>
-            </div>
-        </div>
-    </div>
-    
-    
-    
-    <h3 id="PO2029">Revealable Volume Displays: 3D Exploration of Mixed-Reality Public Exhibitions</h3>
-    <p><i>Fatma Ben Guefrech: Université de Lille; Florent Berthaut: Université de Lille; Patricia Plénacoste: Université de Lille; Yvan Peter: Université Lille 1; Laurent Grisoni: University of Lille</i></p>
-    
-<p> <small><strong style="color: black;"> Booth: C24 - Expo Hall B </strong></small> <br /> </p>    
-    
-    
-        <p>Teaser Video: <a href="https://www.youtube.com/watch?v=waN7LQpy8bM" target="_blank">Watch Now</a></p>
-    
-    
-    <div id="PO2029" class="wrap-collabsible"> <input id="collapsiblePO2029" class="toggle" type="checkbox" /> <label for="collapsiblePO2029" class="lbl-toggle">Abstract</label>
-        <div class="collapsible-content">
-            <div class="content-inner">
-                <p>We present a class of mixed-reality displays which allow for the 3D exploration of content in public exhibitions, that we call Revealable Volume Displays (RVD). They allow visitors to reveal information placed freely inside or around protected artefacts, visible by all, using their reflection in the panel. We first discuss the implementation of RVDs, providing both projector-based and mobile versions. We then present a design space that describes the interaction possibilities that they offer. Drawing on insights from a field study during a first exhibition, we finally propose and evaluate techniques for facilitating 3D exploration with RVDs.</p>
-            </div>
-        </div>
-    </div>
-    
-    
-    
-    <h3 id="PO2278">Magnoramas</h3>
-    <p><i>Kevin Yu: Research Group MITI; Alexander Winkler: Technical University of Munich; Frieder Pankratz: LMU; Marc Lazarovici: Institut für Notfallmedizin; Prof. Dirk Wilhelm: Research Group MITI; Ulrich Eck: Computer Aided; Medical Procedures and Augmented Reality; Daniel Roth: Computer Aided Medical Procedures and Augmented Reality; Nassir Navab: Technische Universität München</i></p>
-    
-<p> <small><strong style="color: black;"> Booth: C21 - Expo Hall B </strong></small> <br /> </p>    
-    
-    
-        <p>Teaser Video: <a href="https://youtu.be/3g9MDfUugjg" target="_blank">Watch Now</a></p>
-    
-    
-    <div id="PO2278" class="wrap-collabsible"> <input id="collapsiblePO2278" class="toggle" type="checkbox" /> <label for="collapsiblePO2278" class="lbl-toggle">Abstract</label>
-        <div class="collapsible-content">
-            <div class="content-inner">
-                <p>We introduce Magnoramas, an interaction method for creating supernaturally precise annotations on virtual objects. We evaluated Magnoramas in a collaborative context in a simplified clinical scenario. Teleconsultation was performed between a remote expert inside a 3D reconstruction and embodied by an avatar in Virtual Reality that collaborated with a local user through Augmented Reality. The results show that Magnoramas significantly improve the precision of annotations while preserving usability and perceived presence measures compared to the baseline method. By additionally hiding the physical world while keeping the Magnorama, users can intentionally lower their perceived social presence and focus on their tasks.</p>
-            </div>
-        </div>
-    </div>
-    
-    
-    
-    <h3 id="PO2308">Visualizing Planetary Spectroscopy through Immersive On-site Rendering</h3>
-    <p><i>Lauren Gold: Arizona State University; Alireza Bahremand: Arizona State University; Connor Richards: Arizona State University; Justin Hertzberg: Arizona State University; Kyle Sese: Arizona State University; Alexander A Gonzalez: Hamilton High School; Zoe Purcell: Arizona State University; Kathryn E Powell: Northern Arizona University; Robert LiKamWa: Arizona State University</i></p>
-    
-<p> <small><strong style="color: black;"> Booth: C24 - Expo Hall A </strong></small> <br /> </p>    
+<p> <small><strong style="color: black;"> Booth:  -  </strong></small> <br /> </p>    
     
     
         <p>Teaser Video: <a href="https://youtu.be/Wz3Nzo09qko" target="_blank">Watch Now</a></p>
     
     
-    <div id="PO2308" class="wrap-collabsible"> <input id="collapsiblePO2308" class="toggle" type="checkbox" /> <label for="collapsiblePO2308" class="lbl-toggle">Abstract</label>
+    <div id="PO1024" class="wrap-collabsible"> <input id="collapsiblePO1024" class="toggle" type="checkbox" /> <label for="collapsiblePO1024" class="lbl-toggle">Abstract</label>
         <div class="collapsible-content">
             <div class="content-inner">
-                <p>Planetary Visor is our virtual reality tool to visualize orbital and rover-based datasets from the ongoing traverse of the NASA Curiosity rover in Gale Crater. Data from orbital spectrometers provide insight about the composition of planetary terrains. Meanwhile, Curiosity rover data provide fine-scaled localized information about Martian geology. By visualizing the intersection of the orbiting instrument's field of view with the rover-scale topography, and providing interactive navigation controls, Visor constitutes a platform for users to intuitively understand the scale and context of the Martian geologic data under scientific investigation.</p>
+                <p>As a new type of functional material,magnetic fluid has both the fluidity of liquid and the magnetic properties of solid magnetic material. By controlling the magnets,one can simulate the effect of manipulating liquids like a sea emperor.This will provide new ideas for the multiverse of the metaverse. Therefore,this paper hopes to provide a control idea for the future application of magnetic fluid by performing Digital Twins simulation of magnetic fluid.</p>
             </div>
         </div>
     </div>

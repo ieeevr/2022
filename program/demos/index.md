@@ -7,7 +7,7 @@ title: "Research Demos"
     .styled-table {
         border-collapse: collapse;
         margin: 25px 0;
-        font-size: 0.8em;
+        font-size: 0.9em;
         font-family: sans-serif;
         /*min-width: 400px;*/
         box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
@@ -15,7 +15,7 @@ title: "Research Demos"
     }
 
     .styled-table thead tr {
-        background-color: #00aeef;
+        background-color: #fec10d;
         color: #ffffff;
         text-align: left;
     }
@@ -30,18 +30,19 @@ title: "Research Demos"
     }
 
     .styled-table tbody tr:nth-of-type(even) {
-        background-color: #f3f3f3;
+        background-color: #fffbed;
     }
 
     .styled-table tbody tr:last-of-type {
-        border-bottom: 2px solid #00aeef;
+        border-bottom: 2px solid #fec10d;
     }
 
     .styled-table tbody tr.active-row {
         font-weight: bold;
-        color: #00aeef;
+        color: #fec10d;
     }
 
+    /* Collapsible */
     input[type='checkbox'] {
         display: none;
     }
@@ -54,10 +55,10 @@ title: "Research Demos"
         display: block;
         font-weight: bold;
         /* font-family: monospace; */
-        font-size: 1rem;
+        font-size: 0.8rem;
         text-align: left;
-        padding: 0.1rem;
-        color: #00aeef;
+        padding: 0rem;
+        color: #fec10d;
         background: #ffffff;
         cursor: pointer;
         border-radius: 7px;
@@ -112,6 +113,27 @@ title: "Research Demos"
         margin-bottom: 0;
     }
     
+    /* video container */
+    .video-container {
+        overflow: hidden;
+        position: relative;
+        width: 100%;
+    }
+
+    .video-container::after {
+        padding-top: 56.25%;
+        /* 75% if 4:3*/
+        display: block;
+        content: '';
+    }
+
+    .video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
 </style>
 
 
@@ -131,7 +153,7 @@ title: "Research Demos"
 
 <div>
 <!-- TAKE ME TO THE EVENT START -->
-    {% for event in site.data.events %}
+    <!--{% for event in site.data.events %}
     {% if event.id == 'demos-all' %}
     {% if event.location %}
     <div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
@@ -155,10 +177,11 @@ title: "Research Demos"
         </p>
     </div> 
     {% endif %}
-    {% endfor %}
+    {% endfor %}-->
     <!-- TAKE ME TO THE EVENT END-->
 </div>
 
+<!--
 <div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
     <strong>Best of IEEE VR 2021</strong>
     <p>
@@ -169,7 +192,7 @@ title: "Research Demos"
             <a href="https://cutt.ly/Mx0n5Zu" class="btn btn--primary" style="color: white;" target="_blank">Vote!</a>
         </p>
     </center>
-</div>
+</div>-->
 
 <div>
     {% for demo in site.data.demos %}
