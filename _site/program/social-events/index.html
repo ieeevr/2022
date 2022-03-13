@@ -11,7 +11,7 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Research Demos | IEEE VR 2022</title>
+<!-- begin _includes/seo.html --><title>Social Events | IEEE VR 2022</title>
 <meta name="description" content=" ">
 
 
@@ -21,8 +21,8 @@
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="IEEE VR 2022">
-<meta property="og:title" content="Research Demos">
-<meta property="og:url" content="http://localhost:4000/program/demos/">
+<meta property="og:title" content="Social Events">
+<meta property="og:url" content="http://localhost:4000/program/social-events/">
 
 
   <meta property="og:description" content=" ">
@@ -32,9 +32,9 @@
 
 
   <meta name="twitter:site" content="@ieeevr">
-  <meta name="twitter:title" content="Research Demos">
+  <meta name="twitter:title" content="Social Events">
   <meta name="twitter:description" content=" ">
-  <meta name="twitter:url" content="http://localhost:4000/program/demos/">
+  <meta name="twitter:url" content="http://localhost:4000/program/social-events/">
 
   
     <meta name="twitter:card" content="summary">
@@ -54,7 +54,7 @@
   
 
 
-<link rel="canonical" href="http://localhost:4000/program/demos/">
+<link rel="canonical" href="http://localhost:4000/program/social-events/">
 
 
 
@@ -677,569 +677,230 @@
     .collapsible-content p {
         margin-bottom: 0;
     }
-    
-    /* video container */
-    .video-container {
-        overflow: hidden;
-        position: relative;
-        width: 100%;
-    }
 
-    .video-container::after {
-        padding-top: 56.25%;
-        /* 75% if 4:3*/
-        display: block;
-        content: '';
-    }
-
-    .video-container iframe {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-    }
 </style>
 
 <div>
-    <table class="styled-table">
-
-        <tr>
-            <th>Research Demos</th>
-        </tr>
-        
-        <tr>
-            <td style="font-size: 0.9em;"><a href="#PO1002">Distant Hand Interaction Framework in Augmented Reality</a></td>
-        </tr>
-        
-        <tr>
-            <td style="font-size: 0.9em;"><a href="#PO1003">Mid-air Haptic Texture Exploration in VR</a></td>
-        </tr>
-        
-        <tr>
-            <td style="font-size: 0.9em;"><a href="#PO1008">We Are Oulu: Exploring Situated Empathy through a Communal Virtual Reality Experience</a></td>
-        </tr>
-        
-        <tr>
-            <td style="font-size: 0.9em;"><a href="#PO1011">Asymmetric interfaces with stylus and gesture for VR sketching</a></td>
-        </tr>
-        
-        <tr>
-            <td style="font-size: 0.9em;"><a href="#PO1012">Pixel Processor Arrays For Low Latency Gaze Estimation</a></td>
-        </tr>
-        
-        <tr>
-            <td style="font-size: 0.9em;"><a href="#PO1013">Aroaro - A Tool for Distributed Immersive Mixed Reality Visualization</a></td>
-        </tr>
-        
-        <tr>
-            <td style="font-size: 0.9em;"><a href="#PO1014">3DColAR: Exploring 3D Colour Selection and Surface Painting for Head Worn AR using Hand Gestures</a></td>
-        </tr>
-        
-        <tr>
-            <td style="font-size: 0.9em;"><a href="#PO1015">B-Handy: An Augmented Reality System for Biomechanical Measurement</a></td>
-        </tr>
-        
-        <tr>
-            <td style="font-size: 0.9em;"><a href="#PO1016">ORUN - A Virtual reality serious-game for kinematics learning</a></td>
-        </tr>
-        
-        <tr>
-            <td style="font-size: 0.9em;"><a href="#PO1017">Demonstrating Immersive Gesture Exploration with GestureExplorer</a></td>
-        </tr>
-        
-        <tr>
-            <td style="font-size: 0.9em;"><a href="#PO1020">NUX IVE - a research tool for comparing voice user interface and graphical user interface in VR</a></td>
-        </tr>
-        
-        <tr>
-            <td style="font-size: 0.9em;"><a href="#PO1021">Feeding the fish: Interaction design to support listening to accounts of marginalization</a></td>
-        </tr>
-        
-        <tr>
-            <td style="font-size: 0.9em;"><a href="#PO1022">Intelligence Visualization for Wave Energy Power Generation</a></td>
-        </tr>
-        
-        <tr>
-            <td style="font-size: 0.9em;"><a href="#PO1024">Liquid digital twins based on magnetic fluid toy</a></td>
-        </tr>
-        
-    </table>
-</div>
-
-<div>
-<!-- TAKE ME TO THE EVENT START -->
-    <!--
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    <div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
-        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
-        <p>
-            <strong style="color: black;">Virbela Location:</strong> Hall A and Hall B (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
-
-            
-            
-            <br />
-            <strong style="color: black;">Discord Channel:</strong> <a href="https://discord.com/channels/785628120471699507/823244312762515486" target="_blank">Open in Browser</a>, <a href="discord://discord.com/channels/785628120471699507/823244312762515486">Open in App</a> (Participants only)
-            
-            
-        </p>
-    </div> 
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    -->
-    <!-- TAKE ME TO THE EVENT END-->
-</div>
-
-<!--
-<div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
-    <strong>Best of IEEE VR 2021</strong>
     <p>
-        Please use this form to vote for the best poster, best demo, and best 3DUI contest submission.
+        Kia Ora! Haere Mai!
     </p>
-    <center>
-        <p style="font-size: 20px;">
-            <a href="https://cutt.ly/Mx0n5Zu" class="btn btn--primary" style="color: white;" target="_blank">Vote!</a>
-        </p>
-    </center>
-</div>-->
+    <p>
+        Hello and welcome!
+    </p>
+    <p>
+        IEEE VR 2022 has an exciting and interesting programme of content this year, and we hope you enjoy all that this special event has to offer.
+    </p>
+    <p>
+        In addition to the content, social aspects of conference events are almost as important. Old friendships are renewed, and new ones formed. 
+        Like-minded researchers can be brought together to collaborate in new ways. Commercial, governmental, academic, artistic and social organisations 
+        can share their points of view to help address some of the challenges facing society, both great and small.
+    </p>
+    <p>
+        We have organised several social opportunities for attendees within the IEEE VR Virbela/iLRN Campus. Our goal is to promote connection and collaboration, exploration and excitement, friendship and fun. Okay&#8230; enough of the alliteration!
+    </p>
+    <p>
+        There is a slot in the Conference Programme for &quot;Social Activities in Virbela&quot; on Tuesday from 16:00-17:30 NZDT, but most of the social opportunities can be enjoyed at any time.
+    </p>
+    <p>
+        Below is a list of some social opportunities we have put together for you. We hope you can find some things here that sound interesting, and that they help you have a fuller experience at the conference.
+    </p>
 
-<div>
-    
-    
-    <h3 id="PO1002">Distant Hand Interaction Framework in Augmented Reality</h3>
-    <p><i>Jesus Ugarte, Nahal Norouzi, Austin Erickson, Gerd Bruder, Greg Welch</i></p>
-    
-<p> <small><strong style="color: black;"> Booth: C27 - Expo Hall A </strong></small> <br /> </p>    
-    
-    
-        <p>Teaser Video: <a href="https://www.youtube.com/watch?v=OD97erd3lxI" target="_blank">Watch Now</a></p>
-    
-    
-    <div id="PO1002" class="wrap-collabsible"> <input id="collapsiblePO1002" class="toggle" type="checkbox" /> <label for="collapsiblePO1002" class="lbl-toggle">Abstract</label>
-        <div class="collapsible-content">
-            <div class="content-inner">
-                <p>Recent augmented reality (AR) head-mounted displays support shared multi-user experiences, with past research studying the enhancement of interpersonal communication cues. However, less is known about distant interaction in AR and, in particular, distant communication. In this demonstration, we present a research framework for distant hand interaction in AR, including different techniques for hand communication, such as distant communication through symbolic hand gestures and distant drawing.</p>
-            </div>
-        </div>
-    </div>
-    
-    
-    
-    <h3 id="PO1003">Mid-air Haptic Texture Exploration in VR</h3>
-    <p><i>Orestis Georgiou, Jonatan Martinez, Abdenaceur Abdouni, Adam Harwood</i></p>
-    
-<p> <small><strong style="color: black;"> Booth: C32 - Expo Hall A </strong></small> <br /> </p>    
-    
-    
-        <p>Teaser Video: <a href="https://youtu.be/ABAt3CF6XxU" target="_blank">Watch Now</a></p>
-    
-    
-    <div id="PO1003" class="wrap-collabsible"> <input id="collapsiblePO1003" class="toggle" type="checkbox" /> <label for="collapsiblePO1003" class="lbl-toggle">Abstract</label>
-        <div class="collapsible-content">
-            <div class="content-inner">
-                <p>Mid-air haptic feedback has traditionally been used to enhance gesture input interactions. Here we present a VR research demo that expands such interactions to include for active haptic exploration. In the demo, the user can explore a virtual object using both hands and feel its intrinsic properties such as consistency and texture. The paper describes the physical apparatus used, the haptic rendering techniques leveraged, and the demo's relevance to applications such as VR shopping.</p>
-            </div>
-        </div>
-    </div>
-    
-    
-    
-    <h3 id="PO1008">We Are Oulu: Exploring Situated Empathy through a Communal Virtual Reality Experience</h3>
-    <p><i>Mohammad Sina Kiarostami, Aku Visuri, Simo Hosio</i></p>
-    
-<p> <small><strong style="color: black;"> Booth: C26 - Expo Hall A </strong></small> <br /> </p>    
-    
-    
-        <p>Teaser Video: <a href="https://www.youtube.com/watch?v=nWQQBg16_xo" target="_blank">Watch Now</a></p>
-    
-    
-    <div id="PO1008" class="wrap-collabsible"> <input id="collapsiblePO1008" class="toggle" type="checkbox" /> <label for="collapsiblePO1008" class="lbl-toggle">Abstract</label>
-        <div class="collapsible-content">
-            <div class="content-inner">
-                <p>In this research, we explore and measure situated empathy. We focus on the hardships of an international community in a foreign country using a virtual reality experiment. Our aim is to facilitate a better understanding of an international community's quality of life and unique difficulties in a society. To this end, we designed a VR experiment with three main stages: data collection, a pre-experiment questionnaire and a post-experiment questionnaire with a concluding interview.</p>
-            </div>
-        </div>
-    </div>
-    
-    
-    
-    <h3 id="PO1011">Asymmetric interfaces with stylus and gesture for VR sketching</h3>
-    <p><i>Qianyuan Zou, Huidong Bai, Lei Gao, Allan Fowler, Mark Billinghurst</i></p>
-    
-<p> <small><strong style="color: black;"> Booth: C33 - Expo Hall A </strong></small> <br /> </p>    
-    
-    
-        <p>Teaser Video: <a href="https://youtu.be/fLlSrU3GpkA" target="_blank">Watch Now</a></p>
-    
-    
-    <div id="PO1011" class="wrap-collabsible"> <input id="collapsiblePO1011" class="toggle" type="checkbox" /> <label for="collapsiblePO1011" class="lbl-toggle">Abstract</label>
-        <div class="collapsible-content">
-            <div class="content-inner">
-                <p>Virtual Reality (VR) can be used for design and artistic applications. However, traditional symmetrical input devices are not specifically designed as creative tools and may not fully meet artist needs. In this demonstration, we present a variety of tool-based asymmetric VR interfaces to assist artists to create artwork with better performance and easier effort. We conducted a pilot study showing that most users prefer to create art with different tools in both hands.</p>
-            </div>
-        </div>
-    </div>
-    
-    
-    
-    <h3 id="PO1012">Pixel Processor Arrays For Low Latency Gaze Estimation</h3>
-    <p><i>Laurie Bose, Piotr Dudek, Stephen Carey, Jianing Chen</i></p>
-    
-<p> <small><strong style="color: black;"> Booth: C25 - Expo Hall A </strong></small> <br /> </p>    
-    
-    
-        <p>Teaser Video: <a href="https://youtu.be/x2Ac1Y8hhW4" target="_blank">Watch Now</a></p>
-    
-    
-    <div id="PO1012" class="wrap-collabsible"> <input id="collapsiblePO1012" class="toggle" type="checkbox" /> <label for="collapsiblePO1012" class="lbl-toggle">Abstract</label>
-        <div class="collapsible-content">
-            <div class="content-inner">
-                <p>We demonstrate gaze tracking at over 10,000 Hz, with processing latency below 0.1 ms via use of a Pixel Processor Array (PPA) vision sensor. The PPA allows visual data to be processed efficiently at the point of light capture. By extracting features used for gaze tracking upon the PPA, we reduce data transfer from sensor to processing from entire images to a hand-full of contextual bytes, saving significant power, time and allowing for frame-rates far exceeding traditional camera sensors.</p>
-            </div>
-        </div>
-    </div>
-    
-    
-    
-    <h3 id="PO1013">Aroaro - A Tool for Distributed Immersive Mixed Reality Visualization</h3>
-    <p><i>Fernando Beltr&aacute;n, David C White, Jing Geng</i></p>
-    
-<p> <small><strong style="color: black;"> Booth: C34 - Expo Hall A </strong></small> <br /> </p>    
-    
-    
-    
-    <div id="PO1013" class="wrap-collabsible"> <input id="collapsiblePO1013" class="toggle" type="checkbox" /> <label for="collapsiblePO1013" class="lbl-toggle">Abstract</label>
-        <div class="collapsible-content">
-            <div class="content-inner">
-                <p>In this research demo we present three immersive scenarios on three XR modalities - VR, immersive AR on HoloLens and 2D AR on Android. 
-These scenarios are a network of Harry Potter characters in VR, a map-based visualization of a soldier's history with rich attributes including images and sound on HoloLens, and a visualization of car racing on Android. 
-These visualizations have been created with Aroaro our distributed mixed reality data visualization tool.</p>
-            </div>
-        </div>
-    </div>
-    
-    
-    
-    <h3 id="PO1014">3DColAR: Exploring 3D Colour Selection and Surface Painting for Head Worn AR using Hand Gestures</h3>
-    <p><i>Louise M Lawrence. Gun Lee, Mark Billinghurst, Damien Rompapas</i></p>
-    
-<p> <small><strong style="color: black;"> Booth: TBD -  </strong></small> <br /> </p>    
-    
-    
-        <p>Teaser Video: <a href="https://youtu.be/PGOm-8Vf3Po" target="_blank">Watch Now</a></p>
-    
-    
-    <div id="PO1014" class="wrap-collabsible"> <input id="collapsiblePO1014" class="toggle" type="checkbox" /> <label for="collapsiblePO1014" class="lbl-toggle">Abstract</label>
-        <div class="collapsible-content">
-            <div class="content-inner">
-                <p>Color selection and surface painting has been largely unexplored in head-worn AR using hand gestures. We present a system with two key approaches for painting a virtual 3D model using mid- air hand gestures. This includes a virtual pen which the user can grasp using their hand, and the use of the user's fingertip directly. We hope to explore how the various techniques effect users when performing surface painting of virtual objects using mid-air hand gestures via. several user 
-studies.</p>
-            </div>
-        </div>
-    </div>
-    
-    
-    
-    <h3 id="PO1015">B-Handy: An Augmented Reality System for Biomechanical Measurement</h3>
-    <p><i>James O Campbell, Alvaro Cassinelli, Daniel Saakes, Damien Rompapas</i></p>
-    
-<p> <small><strong style="color: black;"> Booth: TBD -  </strong></small> <br /> </p>    
-    
-    
-        <p>Teaser Video: <a href="https://www.youtube.com/watch?v=AZOsmsZHv3U" target="_blank">Watch Now</a></p>
-    
-    
-    <div id="PO1015" class="wrap-collabsible"> <input id="collapsiblePO1015" class="toggle" type="checkbox" /> <label for="collapsiblePO1015" class="lbl-toggle">Abstract</label>
-        <div class="collapsible-content">
-            <div class="content-inner">
-                <p>The study of Bio-mechanics allows us to infer measurements without measuring tools. A limitation comes from the complex mental transformations of space involved. The efficiency of this task degrades the larger these measurements become. We present a system that offloads this mental workload by providing visual transformations of space in the form of tracking and duplicating the user's hand in AR.</p>
-            </div>
-        </div>
-    </div>
-    
-    
-    
-    <h3 id="PO1016">ORUN - A Virtual reality serious-game for kinematics learning</h3>
-    <p><i>Jhasmani Tito, Regina Moraes, Tania Basso</i></p>
-    
-<p> <small><strong style="color: black;"> Booth: TBD -  </strong></small> <br /> </p>    
-    
-    
-        <p>Teaser Video: <a href="https://youtu.be/B2Ay-LsVHkA" target="_blank">Watch Now</a></p>
-    
-    
-    <div id="PO1016" class="wrap-collabsible"> <input id="collapsiblePO1016" class="toggle" type="checkbox" /> <label for="collapsiblePO1016" class="lbl-toggle">Abstract</label>
-        <div class="collapsible-content">
-            <div class="content-inner">
-                <p>Virtual Reality is one of the new educational technologies that has an imperative importance due to the possibilities that it offers, such as bringing hands-on experiences for learning physics phenomena. This demo is a serious game, based on VR, and focused on learning of specific concepts of kinematics. The game is intended to deliver an immersive experience in which the student has an active role and whose game design includes theoretical concepts to maintain engagement throughout the tasks.</p>
-            </div>
-        </div>
-    </div>
-    
-    
-    
-    <h3 id="PO1017">Demonstrating Immersive Gesture Exploration with GestureExplorer</h3>
-    <p><i>Ang Li, Jiazhou Liu, Maxime Cordeil, Barrett Ens</i></p>
-    
-<p> <small><strong style="color: black;"> Booth: TBD -  </strong></small> <br /> </p>    
-    
-    
-        <p>Teaser Video: <a href="https://youtu.be/Kq9APfo7DFc" target="_blank">Watch Now</a></p>
-    
-    
-    <div id="PO1017" class="wrap-collabsible"> <input id="collapsiblePO1017" class="toggle" type="checkbox" /> <label for="collapsiblePO1017" class="lbl-toggle">Abstract</label>
-        <div class="collapsible-content">
-            <div class="content-inner">
-                <p>We demonstrate GestureExplorer, which features versatile immersive visualisations to grant the user free control over their perspective, allowing them to gain a better understanding of gestures. It provides multiple data visualisation views, and interactive features to support analysis and exploration of gesture data sets. This demonstration shows the potential of GestureExplorer for providing a useful and engaging experience for exploring gesture data.</p>
-            </div>
-        </div>
-    </div>
-    
-    
-    
-    <h3 id="PO1020">NUX IVE - a research tool for comparing voice user interface and graphical user interface in VR</h3>
-    <p><i>Karolina Buchta, Piotr W&oacute;jcik, Mateusz Pelc, Agnieszka G&oacute;rowska, Duarte Mota, Kostiantyn Boichenko, Konrad Nakonieczny, Krzysztof Wrona, Marta Szymczyk, Tymoteusz Czuchnowski, Justyna Janicka, Damian Ga?uszka, Rados?aw Sterna, Magdalena Igras-Cybulska</i></p>
-    
-<p> <small><strong style="color: black;"> Booth: TBD -  </strong></small> <br /> </p>    
-    
-    
-        <p>Teaser Video: <a href="https://www.youtube.com/watch?v=vgwrknpn5tY" target="_blank">Watch Now</a></p>
-    
-    
-    <div id="PO1020" class="wrap-collabsible"> <input id="collapsiblePO1020" class="toggle" type="checkbox" /> <label for="collapsiblePO1020" class="lbl-toggle">Abstract</label>
-        <div class="collapsible-content">
-            <div class="content-inner">
-                <p>We introduce a new IVE designed to compare user interaction between the mode with traditional graphical user interface (GUI) with the mode in which every element of interface is replaced by voice user interface (VUI). In each version, 4 scenarios of interaction with a virtual assistant in a sci-fi location are implemented, each of them lasting several minutes. The IVE is supplemented with tools for automatic generating reports on user behavior (clicktracking, audiotracking and eyetracking).</p>
-            </div>
-        </div>
-    </div>
-    
-    
-    
-    <h3 id="PO1021">Feeding the fish: Interaction design to support listening to accounts of marginalization</h3>
-    <p><i>Dylan Par&eacute;, John Craig, Scout Windsor</i></p>
-    
-<p> <small><strong style="color: black;"> Booth: TBD -  </strong></small> <br /> </p>    
-    
-    
-        <p>Teaser Video: <a href="https://youtu.be/orsG09QrLbs" target="_blank">Watch Now</a></p>
-    
-    
-    <div id="PO1021" class="wrap-collabsible"> <input id="collapsiblePO1021" class="toggle" type="checkbox" /> <label for="collapsiblePO1021" class="lbl-toggle">Abstract</label>
-        <div class="collapsible-content">
-            <div class="content-inner">
-                <p>We present a study using a virtual reality experience designed to deepen understanding of gender and sexuality-based marginalization in STEM fields as complex experiences with individual and systemic dimensions. Our design supports learners to remain engaged in listening to and learning about the marginalized other. Our analysis describes how participants reflect upon and use the interactions to move through the difficulties of listening to another's stories of marginalization.</p>
-            </div>
-        </div>
-    </div>
-    
-    
-    
-    <h3 id="PO1022">Intelligence Visualization for Wave Energy Power Generation</h3>
-    <p><i>Xiaocheng Liu, Yuqi Liu, Jinkang Guo, Ranran Lou, Zhihan Lv</i></p>
-    
-<p> <small><strong style="color: black;"> Booth: TBD -  </strong></small> <br /> </p>    
-    
-    
-        <p>Teaser Video: <a href="https://youtu.be/5Zs8tyV4MyM" target="_blank">Watch Now</a></p>
-    
-    
-    <div id="PO1022" class="wrap-collabsible"> <input id="collapsiblePO1022" class="toggle" type="checkbox" /> <label for="collapsiblePO1022" class="lbl-toggle">Abstract</label>
-        <div class="collapsible-content">
-            <div class="content-inner">
-                <p>Ocean waves provide a large amount of renewable energy, and Wave energy converter (WEC) can convert wave energy into electric energy with the linear motion of waves. This paper proposes a visualization platform for wave power generation. The platform can intelligently allocate power generation equipment based on the power generation forecast data to achieve precise matching of power generation and power consumption, thereby improving overall power generation efficiency.</p>
-            </div>
-        </div>
-    </div>
-    
-    
-    
-    <h3 id="PO1024">Liquid digital twins based on magnetic fluid toy</h3>
-    <p><i>Yuqi Liu, Zengxu Bian, Xiaocheng Liu, Zhihan Lv</i></p>
-    
-<p> <small><strong style="color: black;"> Booth: TBD -  </strong></small> <br /> </p>    
-    
-    
-        <p>Teaser Video: <a href="https://youtu.be/Wz3Nzo09qko" target="_blank">Watch Now</a></p>
-    
-    
-    <div id="PO1024" class="wrap-collabsible"> <input id="collapsiblePO1024" class="toggle" type="checkbox" /> <label for="collapsiblePO1024" class="lbl-toggle">Abstract</label>
-        <div class="collapsible-content">
-            <div class="content-inner">
-                <p>As a new type of functional material,magnetic fluid has both the fluidity of liquid and the magnetic properties of solid magnetic material. By controlling the magnets,one can simulate the effect of manipulating liquids like a sea emperor.This will provide new ideas for the multiverse of the metaverse. Therefore,this paper hopes to provide a control idea for the future application of magnetic fluid by performing Digital Twins simulation of magnetic fluid.</p>
-            </div>
-        </div>
-    </div>
-    
-    
+    <table class="styled-table" style="font-size: 0.9em; ">
+        <tr><th>Events:</th></tr>
+        <tr><td style="font-size: 0.9em;"><a href="#ReadyPlayer22">Ready Player 22, Anytime, (Everywhere)</a></td></tr>
+        <tr><td style="font-size: 0.9em;"><a href="#PowerboatRacing">Powerboat Racing, Anytime, (Sumner Beach)</a></td></tr>
+        <tr><td style="font-size: 0.9em;"><a href="#PowerboatPleasure">Powerboat Pleasure/Exploration, Anytime, (Lyttelton Docks)</a></td></tr>
+        <tr><td style="font-size: 0.9em;"><a href="#Soccer">Freeplay and 3-v-3 Football/Soccer, Anytime, (Hagley Park - Soccer Field)</a></td></tr>
+        <tr><td style="font-size: 0.9em;"><a href="#Flashmobs">Flashmobs, During Conference Breaks or Anytime, (Summer Beach, Everywhere)</a></td></tr>
+        <tr><td style="font-size: 0.9em;"><a href="#InvisiblePath">Invisible Path Game, Anytime, (in the GOTO Menu)</a></td></tr>
+        <tr><td style="font-size: 0.9em;"><a href="#Drinks">Virtual Drinks and Dancing, Anytime, (Riverside Rooftop Bar, Music Hall)</a></td></tr>
+        <tr><td style="font-size: 0.9em;"><a href="#Photos">Photos from Previous IEEE VR Conferences, Anytime, (Gogo's Galleries)</a></td></tr>
+        <tr><td style="font-size: 0.9em;"><a href="#SpeedDating">Speed Dating, Tuesday 12pm-1pm NZDT, (Speed Dating Arena)</a></td></tr>
+        <tr><td style="font-size: 0.9em;"><a href="#CrossCountry">Cross Country Running, Anytime, (Start at Bridge of Remembrance)</a></td></tr>
+        <tr><td style="font-size: 0.9em;"><a href="#StairRunning">Stair Running, Anytime, (Start at Campus Commons Entrance)</a></td></tr>
+    </table>
+
+    <h2 id="ReadyPlayer22">Ready Player 22, Anytime, (Everywhere)</h2>
+    <p>
+        Started in 2021, Ready Player 22 (RP22) is a puzzle-solving/exploration/collaboration activity. 
+        There are four puzzles that need to be solved, each revealing a &quot;key&quot; that unlocks a hidden room. 
+        The first one to find all the keys is the winner. Leaderboards throughout the campus show the current status 
+        of the game. Some of the puzzles will require exploration around the campus. Some will require coordination 
+        with other players. More information will be provided, both here and around the campus on billboards, 
+        when the game begins at the start of the conference.
+    </p>
+
+    <h2 id="PowerboatRacing">Powerboat Racing, Anytime, (Sumner Beach)</h2>
+    <p>
+        Two powerboats have been placed at &quot;Sumner Beach.&quot; Choose a boat to drive by hovering your cursor over 
+        the steering wheel of one of them, and clicking. Or you can choose to be a passenger by clicking on an empty seat 
+        on one of the boats. You can then put your boat at the start flag, and begin the race when another racer joins in 
+        the other boat. Or just practise your skills!
+    </p>
+    <p>
+        You will need to navigate around four red-and-white striped buoys, starting with the right-most one you see. 
+        Go to the right of the first, the left of the second, etc., then head back to the start area.
+    </p>
+    <img src="/assets/images/social-events/powerboat_racing_route.jpg" alt="The route used for the powerboat races" />
+
+
+    <h2 id="PowerboatPleasure">Powerboat Pleasure/Exploration, Anytime, (Lyttelton Docks)</h2>
+    <p>
+        Several powerboats have been placed at the &quot;Lyttelton Docks&quot; area. Choose a boat to drive by hovering your 
+        cursor over the steering wheel of one of them, and clicking. Or you can choose to be a passenger by clicking 
+        on an empty seat on one of the boats.
+    </p>
+
+
+    <h2 id="Soccer">Freeplay and 3-v-3 Football/Soccer, Anytime, (Hagley Park - Soccer Field)</h2>
+    <p>
+        You can kick a soccer/football around, or divide up into teams. Several balls are around the field, so people can practice. Just have fun!
+    </p>
+
+
+    <h2 id="Flashmobs">Flashmobs, During Conference Breaks or Anytime, (Summer Beach, Everywhere)</h2>
+    <p>
+        This was a big hit last year, but several people missed it. This year we will coordinate better by having an open invitation to &quot;Meet on Sumner Beach!&quot;
+    </p>
+    <p>
+        If you've never taken part in a (virtual) flashmob, the idea is for a seemingly-random set of folks to start dancing in sync with each other at a specified time and place.
+    </p>
+    <p>
+        At IEEE VR, we will do this virtually, by having a group of avatars &quot;meet&quot; at a given place and time, and then triggering certain built-in dance moves at the same time.
+    </p>
+    <p>
+        More specifically:
+        <ol>
+            <li>One person should be designated as the &quot;organiser&quot; of the flashmob</li>
+            <li>The organiser asks everyone to arrange themselves, for example in a circle or grid, or just randomly.</li>
+            <li>The organiser lets everyone  know what command to load up in the chat window (see the table below)</li>
+            <li>Everyone opens their chat window, and loads up the command, but waits for the signal from the organiser before pressing <kbd>RETURN</kbd>. 
+                Each command starts with a slash (&quot;<kbd>/</kbd>&quot;). If you don't include the slash, it will just echo what you type into 
+                the chat window for all to see (embarrassing!).</li>
+            <li>The organiser counts down from 5, and everyone hits <kbd>RETURN</kbd> at the same time.</li>
+            <li>If you want to record a video of the flashmob, someone will have to use the &quot;<kbd>/freelook</kbd>&quot; command,
+                and fly up high, look down, and record the screen using a third-party tool such as &quot;Camtasia&quot; or the 
+                built-in &quot;screenshot&quot; tool on Mac.</li>
+        </ol>
+    </p>
+    <p>
+        Some of the commands are quite long, some play music too, most are pretty silly &#128513;
+    </p>
+    <table class="styled-table" style="font-size: 0.7em; ">
+        <tr><th>Command</th></tr>
+        <tr>
+            <td><kbd>/backflip</kbd></td>
+            <td><kbd>/basketballidle</kbd></td>
+            <td><kbd>/basketballshoot</kbd></td>
+        </tr>
+        <tr>
+            <td><kbd>/bow</kbd></td>
+            <td><kbd>/cheer</kbd></td>
+            <td><kbd>/clap</kbd></td>
+        </tr>
+        <tr>
+            <td><kbd>/climb</kbd></td>
+            <td><kbd>/comehere</kbd></td>
+            <td><kbd>/confused</kbd></td>
+        </tr>
+        <tr>
+            <td><kbd>/cry</kbd></td>
+            <td><kbd>/dance</kbd></td>
+            <td><kbd>/dance2</kbd></td>
+        </tr>
+        <tr>
+            <td><kbd>/handsin</kbd></td>
+            <td><kbd>/headbang</kbd></td>
+            <td><kbd>/headbanglong</kbd></td>
+        </tr>
+        <tr>
+            <td><kbd>/hiphopdancelong</kbd></td>
+            <td><kbd>/housedancelong</kbd></td>
+            <td><kbd>/impatient</kbd></td>
+        </tr>
+        <tr>
+            <td><kbd>/laugh</kbd></td>
+            <td><kbd>/powerpose</kbd></td>
+            <td><kbd>/raisehand</kbd></td>
+        </tr>
+        <tr>
+            <td><kbd>/robotdancelong</kbd></td>
+            <td><kbd>/salsadancelong</kbd></td>
+            <td><kbd>/samba</kbd></td>
+        </tr>
+        <tr>
+            <td><kbd>/shakehand</kbd></td>
+            <td><kbd>/swingdancelong</kbd></td>
+            <td><kbd>/talkinghandgesture</kbd></td>
+        </tr>
+        <tr>
+            <td><kbd>/tassellefttoright</kbd></td>
+            <td><kbd>/tasselrighttoleft</kbd></td>
+            <td><kbd>/think</kbd></td>
+        </tr>
+        <tr>
+            <td><kbd>/thumbsup</kbd></td>
+            <td><kbd>/thumbsupexcited</kbd></td>
+            <td><kbd>/thumbsup2</kbd></td>
+        </tr>
+        <tr>
+            <td><kbd>/twistdancelong</kbd></td>
+            <td><kbd>/wave</kbd></td>
+        </tr>
+    </table>
+    <p>
+        It's best to practice entering codes before the flashmob so you are ready. Besides, someone 
+        nearby will probably ask you: &quot;Hey! How'd you do that?!?!&quot; And that's a great way 
+        to meet new people.
+    </p>
+
+
+    <h2 id="InvisiblePath">Invisible Path Game, Anytime, (in the GOTO Menu)</h2>
+    <p>
+        On the GOTO menu at the top left of the Virbela interface, you will find an item called 
+        &quot;VR22 Invisible Path Game.&quot; This is a game where one group must guide another 
+        group to complete a maze.
+    </p>
+
+
+    <h2 id="Drinks">Virtual Drinks and Dancing, Anytime, (Riverside Rooftop Bar, Music Hall)</h2>
+    <p>
+        There are several areas where people can just hangout in a bar-like environment. One is the 
+        &quot;Riverside Rooftop Bar&quot; and the other is &quot;VR22 Music Hall&quot;. Enjoy these 
+        places, and try out our dance moves!
+    </p>
+
+
+    <h2 id="Photos">Photos from Previous IEEE VR Conferences, Anytime, (Gogo's Galleries)</h2>
+    <p>
+        We have made some rooms with pictures contributed by attendees to previous VR conferences on 
+        the walls. These are located in the &quot;Tower of the Sun&quot; accessible under &quot;Gogo's Galleries&quot; 
+        from the GOTO menu. Feel free to have a look!
+    </p>
+
+
+    <h2 id="SpeedDating">Speed Dating, Tuesday 12pm-1pm NZDT, (Speed Dating Arena)</h2>
+    <p>
+        There is a session on Tuesday from 12pm-1pm NZDT (UTC+13). The session can be accessed 
+        through the GOTO menu, from the entry &quot;VR22 Speed Dating Arena.&quot;
+    </p>
+
+
+    <h2 id="CrossCountry">Cross Country Running, Anytime, (Start at Bridge of Remembrance)</h2>
+    <p>
+        We have laid out a path through the campus that you can follow as a sort of Cross Country path. 
+        Just come to the &quot;Bridge of Remembrance&quot;, and follow the PINK PostIt notes to follow 
+        this loop.
+    </p>
+
+
+    <h2 id="StairRunning">Stair Running, Anytime, (Start at Campus Commons Entrance)</h2>
+    <p>
+        We have laid out a set of GREEN PostIt notes up one of the stairways of the &quot;Campus Commons.&quot; 
+        Start outside the entrance, and run inside and up the stairs on the right. Be the first to get to 
+        the top and take the lift down for the Ground Floor to win!
+    </p>
 </div>
-
 
 
 

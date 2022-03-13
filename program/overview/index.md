@@ -913,7 +913,7 @@ title_separator: "|"
                     </div>
 
                     <div class="session session-12 track-event" style="grid-column: track-5-start / track-6-end; grid-row: time-1200 / time-1300;">
-                        <h3 class="session-title">Speed Dating in Virbela</h3>
+                        <h3 class="session-title"><a href="{{ "/program/social-events/#SpeedDating" | relative_url }}">Speed Dating in Virbela</a></h3>
                         <span class="session-time">12:00 - 13:00</span>
                     </div>
 
@@ -984,7 +984,7 @@ title_separator: "|"
                     </div>
 
                     <div class="session session-22 track-rob" style="grid-column: track-3-start / track-6-end; grid-row: time-1600 / time-1730;">
-                        <h3 class="session-title"><!--<a href="/2021/program/doctoral-consortium/">-->Social Activities in Virbela<!--</a>--></h3>
+                        <h3 class="session-title"><a href="{{ "/program/social-events/#SpeedDating" | relative_url }}">Social Activities in Virbela</a></h3>
                         <span class="session-time">16:00 - 17:30</span>
                     </div>
 
