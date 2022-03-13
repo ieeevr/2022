@@ -7,7 +7,7 @@ title: "Posters"
     .styled-table {
         border-collapse: collapse;
         margin: 25px 0;
-        font-size: 0.8em;
+        font-size: 0.9em;
         font-family: sans-serif;
         /*min-width: 400px;*/
         box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
@@ -15,7 +15,7 @@ title: "Posters"
     }
 
     .styled-table thead tr {
-        background-color: #00aeef;
+        background-color: #fec10d;
         color: #ffffff;
         text-align: left;
     }
@@ -30,18 +30,19 @@ title: "Posters"
     }
 
     .styled-table tbody tr:nth-of-type(even) {
-        background-color: #f3f3f3;
+        background-color: #fffbed;
     }
 
     .styled-table tbody tr:last-of-type {
-        border-bottom: 2px solid #00aeef;
+        border-bottom: 2px solid #fec10d;
     }
 
     .styled-table tbody tr.active-row {
         font-weight: bold;
-        color: #00aeef;
+        color: #fec10d;
     }
 
+    /* Collapsible */
     input[type='checkbox'] {
         display: none;
     }
@@ -57,7 +58,7 @@ title: "Posters"
         font-size: 0.8rem;
         text-align: left;
         padding: 0rem;
-        color: #00aeef;
+        color: #fec10d;
         background: #ffffff;
         cursor: pointer;
         border-radius: 7px;
@@ -144,35 +145,44 @@ title: "Posters"
         <tr>
             <th>Posters</th>
             <th>Location</th>
+            <th>Poster Session</th>
         </tr>
         <tr>
-            <td><a href="#DCA">Doctoral Consortium Posters</a></td>
-            <td>Hall A</td>
+            <td><a href="#DCA">Doctoral Consortium Posters (Session 1)</a></td>
+            <td>Expo Hall A</td>
         </tr>
         <tr>
-            <td><a href="#DCB">Doctoral Consortium Posters</a></td>
-            <td>Hall B</td>
+            <td><a href="#DCB">Doctoral Consortium Posters (Session 2)</a></td>
+            <td>Expo Hall B</td>
         </tr>
         <tr>
-            <td><a href="#PA">Posters</a></td>
-            <td>Hall A</td>
+            <td><a href="#DCC">Doctoral Consortium Posters (Session 3)</a></td>
+            <td>Expo Hall C</td>
         </tr>
         <tr>
-            <td><a href="#PB">Posters</a></td>
-            <td>Hall B</td>
+            <td><a href="#PA">Posters (Session 1)</a></td>
+            <td>Expo Hall A</td>
+        </tr>
+        <tr>
+            <td><a href="#PB">Posters (Session 2)</a></td>
+            <td>Expo Hall B</td>
+        </tr>
+        <tr>
+            <td><a href="#PC">Posters (Session 3)</a></td>
+            <td>Expo Hall C</td>
         </tr>
     </table>
 </div>
 
 <div>
 <!-- TAKE ME TO THE EVENT START -->
-    {% for event in site.data.events %}
+    <!--{% for event in site.data.events %}
     {% if event.id == 'posters-all' %}
     {% if event.location %}
     <div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
         <strong style="padding-bottom: 5px;">Take me to the event:</strong>
         <p>
-            <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
+            <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2022/attend/virbela-instructions/#map">MAP</a>)
 
             {% if event.stream-url %}
             <br />
@@ -190,25 +200,13 @@ title: "Posters"
         </p>
     </div> 
     {% endif %}
-    {% endfor %}
+    {% endfor %}-->
     <!-- TAKE ME TO THE EVENT END-->
-</div>
-
-<div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
-    <strong>Best of IEEE VR 2021</strong>
-    <p>
-        Please use this form to vote for the best poster, best demo, and best 3DUI contest submission.
-    </p>
-    <center>
-        <p style="font-size: 20px;">
-            <a href="https://cutt.ly/Mx0n5Zu" class="btn btn--primary" style="color: white;" target="_blank">Vote!</a>
-        </p>
-    </center>
 </div>
 
 <div>
     
-    <h2 id="DCA"> Doctoral Consortium - Hall A</h2>
+    <h2 id="DCA"> Doctoral Consortium - Expo Hall A</h2>
     
     {% for poster in site.data.posters %}
     {% if poster.type == 'DC' %}
@@ -241,7 +239,7 @@ title: "Posters"
 
 <div>
     
-    <h2 id="DCB"> Doctoral Consortium - Hall B</h2>
+    <h2 id="DCB"> Doctoral Consortium - Expo Hall B</h2>
     
     {% for poster in site.data.posters %}
     {% if poster.type == 'DC' %}
@@ -274,7 +272,40 @@ title: "Posters"
 
 <div>
     
-    <h2 id="PA"> Posters - Hall A</h2>
+    <h2 id="DCC"> Doctoral Consortium - Expo Hall C</h2>
+    
+    {% for poster in site.data.posters %}
+    {% if poster.type == 'DC' %}
+    {% if poster.location == 'Expo Hall C' %}
+    
+    <h3 id="{{ poster.id }}">{{ poster.title }}</h3>
+    <p><strong>Doctoral Consortium</strong></p>
+    
+<p> <small><strong style="color: black;"> Booth: {{ poster.booth }} </strong></small> <br> </p>
+    
+    <p><i>{{ poster.authors }}</i></p>
+    {% if poster.url %}
+        <p>Teaser Video: <a href="{{ poster.url }}" target="_blank">Watch Now</a></p>
+    {% endif %}
+    
+    {% if poster.abstract %}
+    <div id="abstract{{ poster.id }}" class="wrap-collabsible"> <input id="collapsibleabstract{{ poster.id }}" class="toggle" type="checkbox"> <label for="collapsibleabstract{{ poster.id }}" class="lbl-toggle">Abstract</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <p>{{ poster.abstract }}</p>
+            </div>
+        </div>
+    </div>   
+    {% endif %}
+    
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+</div>
+
+<div>
+    
+    <h2 id="PA"> Posters - Expo Hall A</h2>
     
     {% for poster in site.data.posters %}
     {% if poster.type == 'Poster' %}
@@ -285,9 +316,9 @@ title: "Posters"
     
 <p> <small><strong style="color: black;"> Booth: {{ poster.booth }} 
     
-    {% if poster.id == 'C2223' %}
+<!--    {% if poster.id == 'C2223' %}
     <strong> <br> Note: </strong> Previously on Booth E38 - Expo Hall B 
-    {% endif %}  
+    {% endif %} --> 
         
 </strong></small> <br> </p>
 
@@ -316,7 +347,7 @@ title: "Posters"
 
 <div>
     
-    <h2 id="PB"> Posters - Hall B</h2>
+    <h2 id="PB"> Posters - Expo Hall B</h2>
     
     {% for poster in site.data.posters %}
     {% if poster.type == 'Poster' %}
@@ -327,9 +358,9 @@ title: "Posters"
     
 <p> <small><strong style="color: black;"> Booth: {{ poster.booth }} </strong></small> <br> </p>
 
-{% if poster.id == 'C2223' %}
+<!--{% if poster.id == 'C2223' %}
 <p><small><strong> Note: </strong> <strong style="color: black;"> Previously on booth E38 - Expo Hall B </strong> </small><br></p>
-{% endif %}
+{% endif %}-->
     
     <p><i>{{ poster.authors }}</i></p>
     {% if poster.url %}
@@ -351,7 +382,42 @@ title: "Posters"
     {% endfor %}
 </div>
 
+<div>
+    
+    <h2 id="PC"> Posters - Expo Hall C</h2>
+    
+    {% for poster in site.data.posters %}
+    {% if poster.type == 'Poster' %}
+    {% if poster.location == 'Expo Hall C' %}
+    
+    <h3 id="{{ poster.id }}">{{ poster.title }}</h3>
+    <p><strong>{{ poster.type }}</strong></p>
+    
+<p> <small><strong style="color: black;"> Booth: {{ poster.booth }} </strong></small> <br> </p>
 
+<!--{% if poster.id == 'C2223' %}
+<p><small><strong> Note: </strong> <strong style="color: black;"> Previously on booth E38 - Expo Hall B </strong> </small><br></p>
+{% endif %}-->
+    
+    <p><i>{{ poster.authors }}</i></p>
+    {% if poster.url %}
+        <p>Teaser Video: <a href="{{ poster.url }}" target="_blank">Watch Now</a></p>
+    {% endif %}
+    
+    {% if poster.abstract %}
+    <div id="abstract{{ poster.id }}" class="wrap-collabsible"> <input id="collapsibleabstract{{ poster.id }}" class="toggle" type="checkbox"> <label for="collapsibleabstract{{ poster.id }}" class="lbl-toggle">Abstract</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <p>{{ poster.abstract }}</p>
+            </div>
+        </div>
+    </div>   
+    {% endif %}
+    
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+</div>
 
 
 
