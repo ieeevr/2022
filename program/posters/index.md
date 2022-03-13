@@ -137,7 +137,11 @@ title: "Posters"
 
 </style>
 
-
+<div>
+    <p>
+        Posters will be presented in Virbela, with fast forward sessions held in Zoom. For instructions on accessing Virbela click here: <a href="https://ieeevr.org/2022/attend/virbela-instructions/" target="_blank">https://ieeevr.org/2022/attend/virbela-instructions/</a>
+    </p>
+</div>
 
 <div>
     <table class="styled-table">
@@ -145,7 +149,6 @@ title: "Posters"
         <tr>
             <th>Posters</th>
             <th>Location</th>
-            <th>Poster Session</th>
         </tr>
         <tr>
             <td><a href="#DCA">Doctoral Consortium Posters (Session 1)</a></td>
