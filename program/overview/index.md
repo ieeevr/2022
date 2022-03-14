@@ -884,13 +884,6 @@ title_separator: "|"
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="{{ "/attend/virbela-instructions/#map" | relative_url }}">Auditorium B</a></span>
                     </div>
 
-                    <!--
-                    <div class="session session-7 track-exhibition" style="grid-column: track-5-start / track-6-end; grid-row: time-0930 / time-1100;">
-                        <h3 class="session-title">Recruitment Fair</h3>
-                        <span class="session-time">9:30 - 11:00</span>
-                    </div>
-                    -->
-
                     <p class="time-slot" style="grid-row: time-0930;"></p>
                     <p class="time-slot" style="grid-row: time-1000;">10:00</p>
                     <p class="time-slot" style="grid-row: time-1030;"></p>
