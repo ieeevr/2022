@@ -845,7 +845,7 @@ title_separator: "|"
                     <div class="session session-1 track-poster" style="grid-column: track-5-start / track-6-end; grid-row: time-0730 / time-0830;">
                         <h3 class="session-title"><a href="{{ "/program/posters/" | relative_url }}">Posters and Demos - Session 2 Fast Forward</a></h3>
                         <span class="session-time">7:30 - 8:30</span>
-                        <span class="session-title"><b style="color: white;">Location:</b> <a href="{{ "/attend/virbela-instructions/#map" | relative_url }}">Auditorium C</a></span>
+                        <span class="session-title"><b style="color: white;">Location:</b> <a href="{{ "/attend/virbela-instructions/#map" | relative_url }}">Auditorium B</a></span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-0730;"></p>
