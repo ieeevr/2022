@@ -1073,7 +1073,7 @@ title_separator: "|"
                     <div class="session session-5 track-3dui" style="grid-column: track-1-start / track-2-end; grid-row: time-0930 / time-1100;">
                         <h3 class="session-title"><a href="{{ "/program/3dui-contest/" | relative_url }}">3DUI Contest</a></h3>
                         <span class="session-time">9:30 - 11:00</span>
-                        <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
+                        <span class="session-title"><b style="color: white;">Location:</b> <a href="{{ "/attend/virbela-instructions/#map" | relative_url }}">Expo Hall A</a></span>
                     </div>
 
                     <div class="session session-6 track-event" style="grid-column: track-3-start / track-4-end; grid-row: time-0930 / time-1100;">
@@ -1163,7 +1163,7 @@ title_separator: "|"
                     <div class="session session-20 track-exhibition" style="grid-column: track-3-start / track-4-end; grid-row: time-1530 / time-1700;">
                         <h3 class="session-title"><!--<a href="{{ "/program/workshops/#SIVE" | relative_url }}">-->Industry Exhibition<!--</a>--></h3>
                         <span class="session-time">15:30 - 17:00</span>
-                        <!--<span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>-->
+                        <span class="session-title"><b style="color: white;">Location:</b> <a href="{{ "/attend/virbela-instructions/#map" | relative_url }}">Auditorium C</a></span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1630;"></p>
