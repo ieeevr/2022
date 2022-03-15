@@ -213,18 +213,18 @@ title_separator: "|"
     TAKE ME TO THE EVENT END-->
 </div>
 
-<!--
+
 <div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
     <strong>Best of IEEE VR 2021</strong>
     <p>
-        Please use this form to vote for the best poster, best demo, and best 3DUI contest submission.
+        Please use this form to vote for the best 3DUI contest submission.
     </p>
     <center>
         <p style="font-size: 20px;">
-            <a href="https://cutt.ly/Mx0n5Zu" class="btn btn--primary" style="color: white;" target="_blank">Vote!</a>
+            <a href="https://forms.gle/ASrY2RQgFKAA1FHb7" class="btn btn--primary" style="color: white;" target="_blank">Vote!</a>
         </p>
     </center>
-</div>-->
+</div>
 
 
 <div>
