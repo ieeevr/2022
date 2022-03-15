@@ -159,15 +159,26 @@ title_separator: "|"
 
 
 <h1>3DUI Contest</h1>
-<!--
+
+<div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
+    <strong>Best of IEEE VR 2021</strong>
+    <p>
+        Please use this form to vote for the best 3DUI contest submission.
+    </p>
+    <center>
+        <p style="font-size: 20px;">
+            <a href="https://forms.gle/ASrY2RQgFKAA1FHb7" class="btn btn--primary" style="color: white;" target="_blank">Vote!</a>
+        </p>
+    </center>
+</div>
+
 <div>
     <h2>Fast Forward</h2>
     
 <div class="video-container">
-    <iframe src="https://www.youtube.com/embed/5BB05YIG7uY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe src="https://youtu.be/q2cGOlFK-0c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-</div>
--->    
+   
 
 <div>
     <table class="styled-table">
@@ -214,17 +225,7 @@ title_separator: "|"
 </div>
 
 
-<div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
-    <strong>Best of IEEE VR 2021</strong>
-    <p>
-        Please use this form to vote for the best 3DUI contest submission.
-    </p>
-    <center>
-        <p style="font-size: 20px;">
-            <a href="https://forms.gle/ASrY2RQgFKAA1FHb7" class="btn btn--primary" style="color: white;" target="_blank">Vote!</a>
-        </p>
-    </center>
-</div>
+
 
 
 <div>
