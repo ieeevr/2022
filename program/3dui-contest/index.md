@@ -176,7 +176,7 @@ title_separator: "|"
     <h2>Fast Forward</h2>
     
 <div class="video-container">
-    <iframe src="https://youtu.be/q2cGOlFK-0c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/q2cGOlFK-0c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
    
 
