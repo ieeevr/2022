@@ -1163,7 +1163,7 @@ title_separator: "|"
                     <div class="session session-20 track-exhibition" style="grid-column: track-3-start / track-4-end; grid-row: time-1530 / time-1700;">
                         <h3 class="session-title"><!--<a href="{{ "/program/workshops/#SIVE" | relative_url }}">-->Industry Exhibition<!--</a>--></h3>
                         <span class="session-time">15:30 - 17:00</span>
-                        <span class="session-title"><b style="color: white;">Location:</b> <a href="{{ "/attend/virbela-instructions/#map" | relative_url }}">Expo Hall A</a></span>
+                        <span class="session-title"><b style="color: white;">Location:</b> <a href="{{ "/attend/virbela-instructions/#map" | relative_url }}">Expo Hall C</a></span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1630;"></p>
