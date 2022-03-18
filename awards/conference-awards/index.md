@@ -299,7 +299,7 @@ formal selection committees.
         <td><strong><a href="#3dui-best">Best 3DUI Contest Entry</a></strong></td>
     </tr>
     <tr>
-        <td><strong><a href="#3dui-nominees">3DUI Contest Entry Nominees</a></strong></td>
+        <td><strong><a href="#3dui-nominees">Best 3DUI Contest Entry Nominees</a></strong></td>
     </tr>
 </table>
 
