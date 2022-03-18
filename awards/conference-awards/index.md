@@ -233,7 +233,7 @@ formal selection committees.
 
 <table class="styled-table" style="font-size: 0.9em; ">
     <tr>
-        <th>VGTC Awards</th>
+        <th>Journal Papers</th>
     </tr>
     <tr>
         <td><strong><a href="#journal-best">TVCG - Best Journal Papers</a></strong></td>
@@ -248,7 +248,7 @@ formal selection committees.
 
 <table class="styled-table" style="font-size: 0.9em; ">
     <tr>
-        <th>Papers</th>
+        <th>Conference Papers</th>
     </tr>
     <tr>
         <td><strong><a href="#conference-best">Best Conference Papers</a></strong></td>
