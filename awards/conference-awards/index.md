@@ -2,34 +2,12 @@
 layout: ieeevr-default
 title: "Conference Award Winners"
 ---
-<!-- Commented out because of compiler errors
+
 <style>
-    <style>* {
-        box-sizing: border-box;
-    }
-
-    .exhibitors-center {
-        margin: auto;
-        width: 90%;
-    }
-
-    .exhibitors-row {
-        display: flex;
-        background-color: #00aeef;
-        border-radius: 10px;
-        padding: 10px;
-    }
-
-    .exhibitors-column {
-        flex: 50%;
-        padding: 20px;
-        position: relative;
-    }
-
     .styled-table {
         border-collapse: collapse;
         margin: 25px 0;
-        font-size: 0.8em;
+        font-size: 0.9em;
         font-family: sans-serif;
         /*min-width: 400px;*/
         box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
@@ -37,7 +15,7 @@ title: "Conference Award Winners"
     }
 
     .styled-table thead tr {
-        background-color: #00aeef;
+        background-color: #fec10d;
         color: #ffffff;
         text-align: left;
     }
@@ -45,7 +23,6 @@ title: "Conference Award Winners"
     .styled-table th,
     .styled-table td {
         padding: 12px 15px;
-        width: 50%;
     }
 
     .styled-table tbody tr {
@@ -53,16 +30,16 @@ title: "Conference Award Winners"
     }
 
     .styled-table tbody tr:nth-of-type(even) {
-        background-color: #f3f3f3;
+        background-color: #fffbed;
     }
 
     .styled-table tbody tr:last-of-type {
-        border-bottom: 2px solid #00aeef;
+        border-bottom: 2px solid #fec10d;
     }
 
     .styled-table tbody tr.active-row {
         font-weight: bold;
-        color: #00aeef;
+        color: #fec10d;
     }
 
     /* Collapsible */
@@ -71,17 +48,17 @@ title: "Conference Award Winners"
     }
 
     .wrap-collabsible {
-        margin: 1.2rem 0;
+        margin: 1rem 0;
     }
 
     .lbl-toggle {
         display: block;
         font-weight: bold;
         /* font-family: monospace; */
-        font-size: 1rem;
+        font-size: 0.8rem;
         text-align: left;
-        padding: 0.1rem;
-        color: #00aeef;
+        padding: 0rem;
+        color: #fec10d;
         background: #ffffff;
         cursor: pointer;
         border-radius: 7px;
@@ -126,7 +103,7 @@ title: "Conference Award Winners"
     .collapsible-content .content-inner {
         background: white;
         /* rgba(0, 105, 255, .2);*/
-        border-bottom: 1px solid rgba(0, 105, 255, .45);
+        border-bottom: 1px solid white;
         border-bottom-left-radius: 7px;
         border-bottom-right-radius: 7px;
         padding: .5rem 1rem;
@@ -193,7 +170,7 @@ title: "Conference Award Winners"
     }
 
     .styled-table2 thead tr {
-        background-color: #00aeef;
+        background-color: #fec10d;
         color: #ffffff;
         text-align: left;
     }
@@ -213,12 +190,12 @@ title: "Conference Award Winners"
     }
 
     .styled-table2 tbody tr:last-of-type {
-        border-bottom: 2px solid #00aeef;
+        border-bottom: 2px solid #fec10d;
     }
 
     .styled-table2 tbody tr.active-row {
         font-weight: bold;
-        color: #00aeef;
+        color: #fec10d;
     }
 
     img {
@@ -237,21 +214,22 @@ title: "Conference Award Winners"
 </style>
 
 
-<h1>IEEE VR 2021 Conference Awards</h1>
+<h1>IEEE VR 2022 Conference Awards</h1>
 
+<!--
 <p> Awards presented at the annual IEEE VR 2021 are in two categories:</p>
 <ul>
     <li>Awards sponsored by the Visualization and Graphics Technical Committee of the IEEE Computer
 Society, and</li>
     <li>Awards sponsored by the conference itself.</li>
 </ul>
-    
+-->
+<!--
 <p>
     Award winners are selected by various means including people’s choice voting, invited judges, and
-formal selection committees. That information is included in the award presentation materials that
-follow.
+formal selection committees.
 </p>
-    
+-->    
 
 <table class="styled-table" style="font-size: 0.9em; ">
     <tr>
@@ -289,10 +267,13 @@ follow.
         <th>Posters</th>
     </tr>
     <tr>
-        <td><strong><a href="#best-poster">Best Poster</a></strong></td>
+        <td><strong><a href="#best-poster">Best Posters</a></strong></td>
     </tr>
     <tr>
-        <td><strong><a href="#poster-honorable">Honorable Mention</a></strong></td>
+        <td><strong><a href="#poster-honorable">Honorable Mentions</a></strong></td>
+    </tr>
+    <tr>
+        <td><strong><a href="#poster-nominees">Nominees</a></strong></td>
     </tr>
     
 </table>
@@ -305,10 +286,7 @@ follow.
         <td><strong><a href="#demo-best">Best Demo</a></strong></td>
     </tr>
     <tr>
-        <td><strong><a href="#demo-honorable">Honorable Mention</a></strong></td>
-    </tr>
-    <tr>
-        <td><strong><a href="#demo-people">People's Choice</a></strong></td>
+        <td><strong><a href="#demo-honorable">Honorable Mentions</a></strong></td>
     </tr>
     
 </table>
@@ -318,7 +296,10 @@ follow.
         <th>3DUI Contest</th>
     </tr>
     <tr>
-        <td><strong><a href="#3dui-best">Best 3DUI</a></strong></td>
+        <td><strong><a href="#3dui-best">Best 3DUI Contest Entry</a></strong></td>
+    </tr>
+    <tr>
+        <td><strong><a href="#3dui-nominees">3DUI Contest Entry Nominees</a></strong></td>
     </tr>
 </table>
 
@@ -327,10 +308,10 @@ follow.
         <th>Doctoral Consortium</th>
     </tr>
     <tr>
-        <td><strong><a href="#DC-best">Best Presentation</a></strong></td>
+        <td><strong><a href="#DC-best">Best Doctoral Consortium Student Award</a></strong></td>
     </tr>
 </table>
-
+<!--
 <table class="styled-table" style="font-size: 0.9em; ">
     <tr>
         <th>Best Dissertation</th>
@@ -342,18 +323,19 @@ follow.
         <td><strong><a href="#honorable-dissertation">Honorable Mention</a></strong></td>
     </tr>
 </table>
-
+-->
 <table class="styled-table" style="font-size: 0.9em; ">
     <tr>
-        <th>Ready Player 21</th>
+        <th>Ready Player 22</th>
     </tr>
      <tr>
-        <td><strong><a href="#ready-player-21">Winner</a></strong></td>
+        <td><strong><a href="#ready-player-22">Winner</a></strong></td>
     </tr>
 </table>
 
 
-<h2 id='journal-best' style="text-align: center; color: #00aeef;">TVCG - Best Journal Papers</h2>
+<!-- JOURNAL PAPERS -->
+<h2 id='journal-best' style="text-align: center; color: #fec10d;">TVCG - Best Journal Papers</h2>
 <div>
 {% for item in site.data.awards %}
     
@@ -380,7 +362,7 @@ follow.
 {% endfor %}
 </div>
 
-<h2 id='journal-honorable' style="text-align: center; color: #00aeef;">TVCG - Honorable Mentions</h2>
+<h2 id='journal-honorable' style="text-align: center; color: #fec10d;">TVCG - Honorable Mentions</h2>
 <div>
 {% for item in site.data.awards %}
     
@@ -407,7 +389,7 @@ follow.
 {% endfor %}
 </div>
 
-<h2 id='journal-nominees' style="text-align: center; color: #00aeef;">TVCG - Best Journal - Nominees</h2>
+<h2 id='journal-nominees' style="text-align: center; color: #fec10d;">TVCG - Best Journal Paper Nominees</h2>
 <div>
 {% for item in site.data.awards %}
     
@@ -434,7 +416,9 @@ follow.
 {% endfor %}
 </div>
 
-<h2 id='conference-best' style="text-align: center; color: #00aeef;">Best Conference Papers</h2>
+
+<!-- CONFERENCE -->
+<h2 id='conference-best' style="text-align: center; color: #fec10d;">Best Conference Papers</h2>
 <div>
 {% for item in site.data.awards %}
     
@@ -461,7 +445,7 @@ follow.
 {% endfor %}
 </div>
 
-<h2 id='conference-honorable' style="text-align: center; color: #00aeef;">Conference Papers - Honorable Mentions</h2>
+<h2 id='conference-honorable' style="text-align: center; color: #fec10d;">Conference Papers - Honorable Mentions</h2>
 <div>
 {% for item in site.data.awards %}
     
@@ -488,7 +472,7 @@ follow.
 {% endfor %}
 </div>
 
-<h2 id='conference-nominees' style="text-align: center; color: #00aeef;">Conference Papers - Nominees</h2>
+<h2 id='conference-nominees' style="text-align: center; color: #fec10d;">Conference Papers - Nominees</h2>
 <div>
 {% for item in site.data.awards %}
     
@@ -515,7 +499,8 @@ follow.
 {% endfor %}
 </div>
 
-<h2 id='best-poster' style="text-align: center; color: #00aeef;">Best Poster</h2>
+<!-- POSTER -->
+<h2 id='best-poster' style="text-align: center; color: #fec10d;">Best Poster</h2>
 <div>
 {% for item in site.data.awards %}
     
@@ -542,7 +527,7 @@ follow.
 {% endfor %}
 </div>
 
-<h2 id='poster-honorable' style="text-align: center; color: #00aeef;">Posters - Honorable Mention</h2>
+<h2 id='poster-honorable' style="text-align: center; color: #fec10d;">Posters - Honorable Mentions</h2>
 <div>
 {% for item in site.data.awards %}
     
@@ -569,7 +554,35 @@ follow.
 {% endfor %}
 </div>
 
-<h2 id='demo-best' style="text-align: center; color: #00aeef;">Best Demo</h2>
+<h2 id='poster-nominees' style="text-align: center; color: #fec10d;">Best Poster - Nominees</h2>
+<div>
+{% for item in site.data.awards %}
+    
+    {% if item.type == 'Poster' %}
+        {% if item.award == 'Nominee' %}
+        
+            {% for j in site.data.posters %}
+                {% if j.id == item.id %}
+                <h4 id="{{ j.id }}">{{ j.title }}</h4>
+                <p><i>{{ j.authors }}</i></p>
+                <div id="{{ j.id }}" class="wrap-collabsible"> <input id="collapsibleC{{ j.id }}" class="toggle" type="checkbox"> <label for="collapsibleC{{ j.id }}" class="lbl-toggle">Abstract</label>
+                    <div class="collapsible-content">
+                        <div class="content-inner">
+                            <p>{{ j.abstract }}</p>
+                        </div>
+                    </div>
+                </div>
+                {% endif %}
+            {% endfor %}
+    
+        {% endif %}
+    {% endif %}
+    
+{% endfor %}
+</div>
+
+<!-- DEMO -->
+<h2 id='demo-best' style="text-align: center; color: #fec10d;">Best Demo</h2>
 <div>
 {% for item in site.data.awards %}
     
@@ -596,7 +609,7 @@ follow.
 {% endfor %}
 </div>
 
-<h2 id='demo-honorable' style="text-align: center; color: #00aeef;">Demos - Honorable Mention</h2>
+<h2 id='demo-honorable' style="text-align: center; color: #fec10d;">Demos - Honorable Mentions</h2>
 <div>
 {% for item in site.data.awards %}
     
@@ -623,34 +636,8 @@ follow.
 {% endfor %}
 </div>
 
-<h2 id='demo-people' style="text-align: center; color: #00aeef;">Demos - People's Choice</h2>
-<div>
-{% for item in site.data.awards %}
-    
-    {% if item.type == 'Demo' %}
-        {% if item.award == 'Peoples Choice Demo' %}
-        
-            {% for j in site.data.demos %}
-                {% if j.id == item.id %}
-                <h4 id="{{ j.id }}">{{ j.title }}</h4>
-                <p><i>{{ j.authors }}</i></p>
-                <div id="{{ j.id }}" class="wrap-collabsible"> <input id="collapsible{{ j.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ j.id }}" class="lbl-toggle">Abstract</label>
-                    <div class="collapsible-content">
-                        <div class="content-inner">
-                            <p>{{ j.abstract }}</p>
-                        </div>
-                    </div>
-                </div>
-                {% endif %}
-            {% endfor %}
-    
-        {% endif %}
-    {% endif %}
-    
-{% endfor %}
-</div>
-
-<h2 id='3dui-best' style="text-align: center; color: #00aeef;">3DUI Contest - Best 3DUI</h2>
+<!-- 3DUI -->
+<h2 id='3dui-best' style="text-align: center; color: #fec10d;">3DUI Contest - Best 3DUI Contest Entry</h2>
 <div>
 {% for item in site.data.awards %}
     
@@ -660,8 +647,7 @@ follow.
             {% for j in site.data.3duicontest %}
                 {% if j.id == item.id %}
                 <h4 id="{{ j.id }}">{{ j.title }}</h4>
-                <p><i>{{ j.authors }}</i></p>-->
-                <!--
+                <p><i>{{ j.authors }}</i></p>
                 <div id="{{ j.id }}" class="wrap-collabsible"> <input id="collapsible3dui{{ j.id }}" class="toggle" type="checkbox"> <label for="collapsible3dui{{ j.id }}" class="lbl-toggle">Abstract</label>
                     <div class="collapsible-content">
                         <div class="content-inner">
@@ -669,7 +655,6 @@ follow.
                         </div>
                     </div>
                 </div>
-                --><!--
                 {% endif %}
             {% endfor %}
     
@@ -679,16 +664,43 @@ follow.
 {% endfor %}
 </div>
 
-<h2 id='DC-best' style="text-align: center; color: #00aeef;">Doctoral Consortium - Best Presentation</h2>
+<h2 id='3dui-nominees' style="text-align: center; color: #fec10d;">3DUI Contest - Nominees</h2>
 <div>
-    <h4>“SHOW YOUR DEDICATION:” VR Games and Outmersion</h4>
-    <p>
-        <strong>P.S. Berge</strong><br/>
-        <i>Dept. of Texts & Technology, University of Central Florida, Orlando, Florida, United States</i><br/>
-    </p>
+{% for item in site.data.awards %}
+    
+    {% if item.type == '3DUI Contest' %}
+        {% if item.award == 'Nominee' %}
+        
+            {% for j in site.data.3duicontest %}
+                {% if j.id == item.id %}
+                <h4 id="{{ j.id }}">{{ j.title }}</h4>
+                <p><i>{{ j.authors }}</i></p>
+                <div id="{{ j.id }}" class="wrap-collabsible"> <input id="collapsible3dui{{ j.id }}" class="toggle" type="checkbox"> <label for="collapsible3dui{{ j.id }}" class="lbl-toggle">Abstract</label>
+                    <div class="collapsible-content">
+                        <div class="content-inner">
+                            <p>{{ j.abstract }}</p>
+                        </div>
+                    </div>
+                </div>
+                {% endif %}
+            {% endfor %}
+    
+        {% endif %}
+    {% endif %}
+    
+{% endfor %}
 </div>
 
-<h2 id='best-dissertation' style="text-align: center; color: #00aeef;">Best Dissertation</h2>
+<h2 id='DC-best' style="text-align: center; color: #fec10d;">Doctoral Consortium - Best Presentation</h2>
+<div>
+    <h4>Designing Immersive Tools for Supporting Cognition in Remote Scientific Collaboration</h4>
+    <p>
+        <strong>Monsurat Olaosebikan</strong><br/>
+        <i>Tufts University</i><br/>
+    </p>
+</div>
+<!--
+<h2 id='best-dissertation' style="text-align: center; color: #fec10d;">Best Dissertation</h2>
 <div>
     <h4>A Framework for Enhancing the Sense of Presence in Virtual and Mixed Reality</h4>
     <p>
@@ -697,8 +709,9 @@ follow.
         Advisor: <i>Pattie Maes</i>
     </p>
 </div>
-
-<h2 id='honorable-dissertation' style="text-align: center; color: #00aeef;">Best Dissertation - Honorable Mention</h2>
+-->
+<!--
+<h2 id='honorable-dissertation' style="text-align: center; color: #fec10d;">Best Dissertation - Honorable Mention</h2>
 <div>
     <h4>Optimal Spatial Registration of SLAM for Augmented Reality</h4>
     <p>
@@ -707,14 +720,10 @@ follow.
         Advisor: <i>Arjan Kuijper</i>
     </p>
 </div>
+-->
 
-<h2 id='ready-player-21' style="text-align: center; color: #00aeef;">Ready Player 21 - Winner</h2>
+<h2 id='ready-player-22' style="text-align: center; color: #fec10d;">Ready Player 22 - Winner</h2>
 <div>
-    <h4 style="color: #00aeef;">Xiaodan Hu</h4>
+    <h4>Xiaodan Hu</h4>
     <i>Nara Institute of Science and Technology, Ikoma, Japan</i>
 </div>
-
-
-
-
--->
