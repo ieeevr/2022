@@ -180,6 +180,12 @@ INVITED MISSING
             {% endif %}
             {% if workshop.discordurl %}
                 <p><small><b style="color: black;">Discord URL:</b> <a href="{{ workshop.discordurl }}" target="_blank">{{ workshop.discordurl }}</a></small>
+                {% if workshop.slideurl %}
+                    <br>
+                {% endif %}
+            {% endif %}
+            {% if workshop.slideurl %}
+                <p><small><b style="color: black;">Slides:</b> <a href="{{ workshop.discordurl }}" target="_blank">{{ workshop.slideurl }}</a></small>
             {% endif %}
             </p>
 
