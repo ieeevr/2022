@@ -211,7 +211,7 @@ INVITED MISSING
             {% endif %}
             </p>
             
-            {% if workshop.organiser %}
+            {% if workshop.videourl %}
                 <div class="video-container">
                     <iframe src="{{workshop.videourl}}" title="YouTube video player" frameborder="0" 
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
