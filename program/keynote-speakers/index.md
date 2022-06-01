@@ -44,6 +44,27 @@ title_separator: "|"
         color: #00aeef;
     }
 
+    .video-container {
+        overflow: hidden;
+        position: relative;
+        width: 100%;
+    }
+
+    .video-container::after {
+        padding-top: 56.25%;
+        /* 75% if 4:3*/
+        display: block;
+        content: '';
+    }
+
+    .video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+
 </style>
 
 <h1>Keynote Speakers</h1>
@@ -118,7 +139,11 @@ title_separator: "|"
     {% endfor %}-->
     <!-- TAKE ME TO THE EVENT END-->
     
-    
+    <div class="video-container">
+        <iframe src="{{keynote.videourl}}" title="YouTube video player" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+
     <p>
         <strong>Abstract</strong><br />
         {{ keynote.abstract }}

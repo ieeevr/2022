@@ -171,6 +171,12 @@ title_separator: "|"
             {% else %}
                 <p><strong>{{ tutorial.day }}, {{ tutorial.time }}, {{ tutorial.timezone }}</strong></p>
             {%endif %}
+
+            <div class="video-container">
+                <iframe src="{{tutorial.videourl}}" title="YouTube video player" frameborder="0" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+
             {% if tutorial.organiser %}
                 <p><small><b style="color: black;">Organisers:</b> {{ tutorial.organiser }}</small></p>
             {% endif %}

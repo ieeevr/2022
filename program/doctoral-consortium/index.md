@@ -41,9 +41,36 @@ title: "Doctoral Consortium"
         font-weight: bold;
         color: #fec10d;
     }
+
+    .video-container {
+        overflow: hidden;
+        position: relative;
+        width: 100%;
+    }
+
+    .video-container::after {
+        padding-top: 56.25%;
+        /* 75% if 4:3*/
+        display: block;
+        content: '';
+    }
+
+    .video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
 </style>
 
 <h1>Doctoral Consortium</h1>
+
+<div class="video-container">
+    <iframe src="https://youtu.be/7dXxNP8w-gc?list=PLmkIPPvcHLZgWaBGqwiAe52PLDNnMtIA5" title="YouTube video player" frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 <div>
     <p>
         Here is the proposed schedule with mentor assignments. All times below are NZ Daylight Savings Time, UTC+13. All presenters and mentors are encouraged to attend as much of the doctoral consortium as possible, however we understand that our different time zones may make attendance difficult at particular times. All talks will be recorded and available for later viewing. If a student and/or mentor are not available to meet during the scheduled mentoring sessions, they should set up a time to meet later that is convenient for them both. 
