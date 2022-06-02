@@ -208,6 +208,10 @@ SORRY FOR THE NESTING, I HAD TO DO SOME DEBUGGING
     
             <p><strong>{{ session.day }}, {{ session.starttime }}, {{ session.timezone }}</strong></p>
 
+            {% if session.sessionchair %}
+                <p><small><b style="color: black;">Session Chair:</b> {{ session.sessionchair }}</small></p>
+            {% endif %}
+
             {% if session.videourl %}
                 <div class="video-container">
                     <iframe src="{{session.videourl}}" title="YouTube video player" frameborder="0" 
@@ -215,9 +219,6 @@ SORRY FOR THE NESTING, I HAD TO DO SOME DEBUGGING
                 </div>
             {% endif %}
 
-            {% if session.sessionchair %}
-                <p><small><b style="color: black;">Session Chair:</b> {{ session.sessionchair }}</small></p>
-            {% endif %}
             {% if session.discordurl %}
                 <p><small><b style="color: black;">Discord URL:</b> <a href="{{ session.discordurl }}" target="_blank">{{ session.discordurl }}</a></small></p>
             {% endif %}

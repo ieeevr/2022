@@ -193,30 +193,24 @@ INVITED MISSING
                 <p><small><b style="color: black;">Principal Organiser:</b> {{ workshop.organiser }}</small></p>
             {% endif %}
 
-            <p>
-            {% if workshop.url %}
-                <small><b style="color: black;">Website:</b> <a href="{{ workshop.url }}" target="_blank">{{ workshop.url }}</a></small>
-                {% if workshop.discordurl %}
-                    <br>
-                {% endif %}
-            {% endif %}
-            {% if workshop.discordurl %}
-                <p><small><b style="color: black;">Discord URL:</b> <a href="{{ workshop.discordurl }}" target="_blank">{{ workshop.discordurl }}</a></small>
-                {% if workshop.slideurl %}
-                    <br>
-                {% endif %}
-            {% endif %}
-            {% if workshop.slideurl %}
-                <p><small><b style="color: black;">Slides:</b> <a href="{{ workshop.discordurl }}" target="_blank">{{ workshop.slideurl }}</a></small>
-            {% endif %}
-            </p>
-            
             {% if workshop.videourl %}
                 <div class="video-container">
                     <iframe src="{{workshop.videourl}}" title="YouTube video player" frameborder="0" 
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
             {% endif %}
+
+            <p>
+            {% if workshop.url %}
+                <small><b style="color: black;">Website:</b> <a href="{{ workshop.url }}" target="_blank">{{ workshop.url }}</a></small>
+            {% endif %}
+            {% if workshop.discordurl %}
+                <p><small><b style="color: black;">Discord URL:</b> <a href="{{ workshop.discordurl }}" target="_blank">{{ workshop.discordurl }}</a></small>
+            {% endif %}
+            {% if workshop.slideurl %}
+                <p><small><b style="color: black;">Slides:</b> <a href="{{ workshop.discordurl }}" target="_blank">{{ workshop.slideurl }}</a></small>
+            {% endif %}
+            </p>
 
             {% if workshop.abstract %}
                 <div id="{{ workshop.id }}" class="wrap-collabsible"> <input id="collapsible{{ workshop.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ workshop.id }}" class="lbl-toggle">Workshop Description</label>

@@ -115,6 +115,27 @@ title_separator: "|"
         margin-bottom: 0;
     }
 
+    .video-container {
+        overflow: hidden;
+        position: relative;
+        width: 100%;
+    }
+
+    .video-container::after {
+        padding-top: 56.25%;
+        /* 75% if 4:3*/
+        display: block;
+        content: '';
+    }
+
+    .video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+
 </style>
 
 <h1>Tutorials</h1>
@@ -172,6 +193,10 @@ title_separator: "|"
                 <p><strong>{{ tutorial.day }}, {{ tutorial.time }}, {{ tutorial.timezone }}</strong></p>
             {%endif %}
 
+            {% if tutorial.organiser %}
+                <p><small><b style="color: black;">Organisers:</b> {{ tutorial.organiser }}</small></p>
+            {% endif %}
+
             {% if tutorial.videourl %}
                 <div class="video-container">
                     <iframe src="{{tutorial.videourl}}" title="YouTube video player" frameborder="0" 
@@ -179,9 +204,6 @@ title_separator: "|"
                 </div>
             {% endif %}
 
-            {% if tutorial.organiser %}
-                <p><small><b style="color: black;">Organisers:</b> {{ tutorial.organiser }}</small></p>
-            {% endif %}
             {% if tutorial.discordurl %}
                 <p><small><b style="color: black;">Discord URL:</b> <a href="{{ tutorial.discordurl }}" target="_blank">{{ tutorial.discordurl }}</a></small></p>
             {% endif %}
