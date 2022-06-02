@@ -67,9 +67,10 @@ title: "Doctoral Consortium"
 <h1>Doctoral Consortium</h1>
 
 <div class="video-container">
-    <iframe src="https://youtu.be/7dXxNP8w-gc?list=PLmkIPPvcHLZgWaBGqwiAe52PLDNnMtIA5" title="YouTube video player" frameborder="0" 
+    <iframe src="https://www.youtube.com/embed/7dXxNP8w-gc?list=PLmkIPPvcHLZgWaBGqwiAe52PLDNnMtIA5" title="YouTube video player" frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+<br>
 
 <div>
     <p>

@@ -159,10 +159,12 @@ title_separator: "|"
         
         <p><strong>{{ panel.day }}, {{ panel.starttime }} - {{ panel.endtime }}, {{ panel.timezone }}</strong></p>
 
-        <div class="video-container">
-            <iframe src="{{panel.videourl}}" title="YouTube video player" frameborder="0" 
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div>
+        {% if panel.videourl %}
+            <div class="video-container">
+                <iframe src="{{panel.videourl}}" title="YouTube video player" frameborder="0" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        {% endif %}
         
         {% if panel.moderator %}
             <p><small><b style="color: black;">Moderators:</b> <br>{{ panel.moderator }}</small></p>
