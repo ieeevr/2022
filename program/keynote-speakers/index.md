@@ -139,10 +139,12 @@ title_separator: "|"
     {% endfor %}-->
     <!-- TAKE ME TO THE EVENT END-->
     
+    <br>
     <div class="video-container">
         <iframe src="{{keynote.videourl}}" title="YouTube video player" frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
+    <br>
 
     <p>
         <strong>Abstract</strong><br />
